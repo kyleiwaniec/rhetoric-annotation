@@ -10,13 +10,13 @@ It takes as input constituency parse trees, and outputs a JSON tree with annotat
 
 ## Database
 
-MySQL 5.6.40 
+* MySQL 5.6.40 
 
 ## API
 
-Python 3/Flask
-ChatGPT API key
+* Python 3/Flask
+* ChatGPT API key
 
 ## UI
 
-Javascript/ES6
+* Javascript/ES6

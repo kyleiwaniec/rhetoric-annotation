@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, make_response
+from flask import Flask, request, jsonify, make_response, render_template, redirect, url_for, session
 import utils
 from collections import defaultdict
 import operator
@@ -11,21 +11,195 @@ import os
 import openai
 from tqdm import tqdm
 import ast
+import re
+import uuid, hashlib, datetime, math, urllib
 
-from flask import Flask,render_template, request
+
 from flask_mysqldb import MySQL
 from flask_cors import CORS
 
 app = Flask(__name__)
-cors = CORS(app, resources={r"/api/*": {"origins": "http://127.0.0.1:8887"}})
+cors = CORS(app, resources={r"/api/*": {"origins": ["http://127.0.0.1:8887","http://localhost:5000"]}})
 
 # connect to DB
 app.config['MYSQL_HOST'] = 'localhost'
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = 'root'
 app.config['MYSQL_DB'] = 'annotations'
+app.static_folder = 'ui'
+
+app.secret_key = 'yoursecretkey'
  
 mysql = MySQL(app)
+
+
+
+
+# http://localhost:5000/ - the following will be our login page, which will use both GET and POST requests
+@app.route('/', methods=['GET', 'POST'])
+def login():
+
+    # Check if user is loggedin
+    if 'loggedin' in session:
+        # User is loggedin show them the home page
+        return render_template('home.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+
+
+
+    # Output message if something goes wrong...
+    msg = ''
+    username = ''
+    password = ''
+
+    # Check if "username" and "password" POST requests exist (user submitted form)
+    if request.method == 'POST' and 'email' in request.form and 'password' in request.form:
+        # Create variables for easy access
+        
+        password = request.form['password']
+        email = request.form['email']
+        username = email
+
+        
+        # Retrieve the hashed password
+        hash = password + app.secret_key
+        hash = hashlib.sha1(hash.encode())
+        password = hash.hexdigest();
+        
+
+        # Check if account exists using MySQL
+        cursor = mysql.connection.cursor()
+        cursor.execute('SELECT * FROM annotators WHERE username = %s AND password = %s', (username, password,))
+        # Fetch one record and return result
+        account = cursor.fetchone()
+
+        
+        # account (4, None, None, 'test@test.com', 'test', 'test') --> (id, firstname, lastname, email, username, password)
+
+        # If account exists in accounts table in our database
+        if account:
+            # Create session data, we can access this data in other routes
+            session['loggedin'] = True
+            session['id'] = account[0]
+            session['username'] = account[4]
+            session['firstname'] = account[1]
+            # Redirect to home 
+            return redirect(url_for('home'))
+        else:
+            # Account doesnt exist or username/password incorrect
+            msg = 'Incorrect username/password!'
+
+
+    # Show the login form with message (if any)
+    return render_template('index.html', msg=msg)
+
+
+# http://localhost:5000/logout - this will be the logout page
+@app.route('/logout')
+def logout():
+    # Remove session data, this will log the user out
+   session.pop('loggedin', None)
+   session.pop('id', None)
+   session.pop('username', None)
+   session.pop('firstname', None)
+   # Redirect to login page
+   return redirect(url_for('login'))
+
+
+# http://localhost:5000/register - this will be the registration page, we need to use both GET and POST requests
+@app.route('/register', methods=['GET', 'POST'])
+def register():
+    # Output message if something goes wrong...
+    msg = ''
+
+    # Check if "password" and "email" POST requests exist (user submitted form)
+    if (request.method == 'POST' 
+        and 'password' in request.form 
+        and 'email' in request.form 
+        and 'firstname' in request.form 
+        and 'lastname' in request.form):
+        # Create variables for easy access
+
+
+        
+        firstname = request.form['firstname']
+        lastname = request.form['lastname']
+        password = request.form['password']
+        email = request.form['email']
+        username = email
+
+
+        
+        # Hash the password
+        hash = password + app.secret_key
+        hash = hashlib.sha1(hash.encode())
+        hashed_password = hash.hexdigest();
+        
+
+        # Check if account exists using MySQL
+        cursor = mysql.connection.cursor()
+        cursor.execute('SELECT * FROM annotators WHERE username = %s', (username,))
+        account = cursor.fetchone()
+
+        # If account exists show error and validation checks
+        if account:
+            msg = 'Account already exists!'
+        elif not re.match(r'[^@]+@[^@]+\.[^@]+', email):
+            msg = 'Invalid email address!'
+        elif not username or not hashed_password or not email:
+            msg = 'Please fill out the form!'
+        else:
+            # Account doesnt exists and the form data is valid, now insert new account into accounts table
+            cursor.execute('INSERT INTO annotators VALUES (NULL, %s, %s, %s, %s, %s)', (firstname, lastname, email, username, hashed_password, ))
+            mysql.connection.commit()
+            msg = 'You have successfully registered! Please log in to proceed.'
+
+
+
+
+    elif request.method == 'POST':
+        # Form is empty... (no POST data)
+        msg = 'Please fill out the form!'
+
+    # Show registration form with message (if any)
+    return render_template('register.html', msg=msg)
+
+
+
+# http://localhost:5000/home - this will be the home page, only accessible for loggedin users
+@app.route('/home')
+def home():
+    # Check if user is loggedin
+    if 'loggedin' in session:
+        # User is loggedin show them the home page
+        return render_template('home.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+
+    # User is not loggedin redirect to login page
+    return redirect(url_for('login'))
+
+
+
+# http://localhost:5000/profile - this will be the profile page, only accessible for loggedin users
+@app.route('/profile')
+def profile():
+    # Check if user is loggedin
+    if 'loggedin' in session:
+        # We need all the account info for the user so we can display it on the profile page
+        cursor = mysql.connection.cursor()
+        cursor.execute('SELECT * FROM annotators WHERE id = %s', (session['id'],))
+        account = cursor.fetchone()
+        # Show the profile page with account info
+        return render_template('profile.html', account=account)
+    # User is not loggedin redirect to login page
+    return redirect(url_for('login'))
+
+
+
+
+# doing it this way so we can use template {{}} inside javascript
+@app.route("/main_js")
+def main_js():
+    return render_template("/js/main.js")
+
 
 def tech_to_list(s):
     return [int(i) for i in s[1:-1].split(" ") if len(i)>0]

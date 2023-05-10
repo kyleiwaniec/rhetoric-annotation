@@ -20,5 +20,4 @@ Start server on localhost:5000
 FLASK_ENV=development flask run          
 ```
 
-The `/api/v1/recommend-skills` API is available, which you can use to POST your skills array to.
 

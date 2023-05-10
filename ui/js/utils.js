@@ -39,6 +39,21 @@ function removeParents(obj) {
   }
 }
 
+// extracts the annotations to display as list
+function extractAnnotations(node,textData){
+  if (node.properties.length > 0){
+    let fragment = getYield(node,"") //": "+fragment+ 
+    textData = textData.concat(node.name +": "+JSON.stringify(node.properties) +"\n");
+  }
+  if (node.children != null){
+    for(var i=0; i < node.children.length; i++){
+         textData = extractAnnotations(node.children[i],textData);
+    }
+  }
+  return textData;
+}
+
+
 function searchTree(element){
     if(element.isCurrNode){
           return true;
@@ -65,12 +80,11 @@ function getYield(node, string){
   return string.trim();
 }
 
-var names = []
-function getObjectLocation(obj){
-  
+
+function getObjectLocation(obj,names){
   if (obj.parent){
     names.push(obj.parent.name)
-    getObjectLocation(obj.parent)
+    getObjectLocation(obj.parent,names)
   }
   return names;
 }

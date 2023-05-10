@@ -1,4 +1,5 @@
 var jsonData;
+
 var sentence_id;
 var curr_feature = null;
 const annotator_id = 1;
@@ -27,10 +28,10 @@ function initTree(DBdata) {
 	// Escape backslashes and Parse the string into JSON (defined in parser.js)
 	parse_string = parse_string.replace(/\\/g, "\\\\");
  
-	let article_id = DBdata[0].article_id
-	let techniques = DBdata[0].technique
-	let text 			 = DBdata[0].text
-	let annotation = DBdata[0].annotation
+	let article_id    = DBdata[0].article_id
+	let techniques    = DBdata[0].technique
+	let text 	      = DBdata[0].text
+	let annotation    = DBdata[0].annotation
 	let annotation_id = DBdata[0].annotation_id
 
 
@@ -42,31 +43,31 @@ function initTree(DBdata) {
 	else {
 		jsonData = parse(parse_string, article_id, sentence_id, annotation_id, annotator_id, techniques);
 	}
-	document.getElementById("sentence_container").innerHTML = "<p>"+text+"</p>";
+	$("#sentence_container").html("<p>"+text+"</p>");
 	
 	d3Tree(jsonData);
 
 	// parents are removed to get rid of circular dependencies
 	removeParents(jsonData);
 
+	console.log(extractAnnotations(jsonData,""))
+
 	// render the JSON
 	displayJson = removeProperties(JSON.stringify(jsonData, null, 2))
 
-	document.getElementById("jsonContainer").value = displayJson;
+	$("#jsonContainer").text(displayJson);
 	
 	// reload the GPT response
-	if (curr_feature){
-			$(curr_feature).click();
-		}
+	if (curr_feature){$(curr_feature).click();}
 
 	return false;
 }
 
 
 function pushProperty(parent,newData) {
-		if (!parent){parent = jsonData}
-	  // newData ['property_name', [values]]
-		// recursively find the current node in jsonData
+	if (!parent){parent = jsonData}
+	// newData ['property_name', [values]]
+	// recursively find the current node in jsonData
 	
     if (parent.isCurrNode) {
 
@@ -107,7 +108,10 @@ function pushProperty(parent,newData) {
 
 }
 
-
+function renderTEXT(){
+	displayText = extractAnnotations(jsonData,"")
+	document.getElementById("jsonContainer").innerHTML = displayText
+}
 
 function renderJSON(){
 
@@ -117,11 +121,11 @@ function renderJSON(){
 	// push the new JSON data to the screen
 	
 	displayJson = removeProperties(JSON.stringify(jsonData, null, 2))
-	document.getElementById("jsonContainer").value = displayJson
+	document.getElementById("jsonContainer").innerHTML = displayJson
 
 	// Scroll to position of the current node in the textarea
 	example = document.getElementById("jsonContainer")
-	example.selectionStart = example.selectionEnd = example.value.indexOf('isCurrNode": 1')
+	example.selectionStart = example.selectionEnd = example.innerHTML.indexOf('isCurrNode": 1')
 	example.blur()
 	example.focus()
 }

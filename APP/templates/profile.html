@@ -1,0 +1,77 @@
+{% extends 'layout.html' %}
+
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-auto">
+            <p>{{account[1]}} {{account[2]}}</p>
+            <!-- {{account}} -->
+            <ul>
+                <li>
+                    Username: {{ account[4] }}
+                </li>
+                <li>
+                    Email: {{ account[3] }}
+                </li>
+               
+            </ul>
+        </div>
+    </div>
+    <!--  tabs -->
+    <div class="row">
+        <div class="col">
+            <nav>
+              <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                
+                <button class="nav-link active" id="nav-progress-tab" data-bs-toggle="tab" data-bs-target="#nav-progress" type="button" role="tab" aria-controls="nav-progress" aria-selected="false">In-progress ({{meta_data["in_progress"]}})</button>
+
+                <button class="nav-link" id="nav-completed-tab" data-bs-toggle="tab" data-bs-target="#nav-completed" type="button" role="tab" aria-controls="nav-completed" aria-selected="true">Completed ({{meta_data["completed"]}})</button>
+
+              </div>
+            </nav>
+        
+            <div class="tab-content p-3" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="nav-progress" role="tabpanel" aria-labelledby="nav-progress-tab" tabindex="0">
+                    {% for sentence in sentences %}
+                        {% if sentence.completed == None %}
+                            <div class="row mb-3">
+                                <div class="col">{{sentence.text}}</div>
+                                <div class="col-auto">
+                                    {% if sentence.review_flag == 1 %}
+                                        <i class="bi bi-bookmark-fill text-primary-emphasis me-3"></i>
+                                    {% else %}
+                                        <i class="bi bi-bookmark me-3"></i>
+                                    {% endif %}
+                                    <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}"><i class="bi bi-pencil-fill"></i></a>
+                                </div>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="tab-pane fade" id="nav-completed" role="tabpanel" aria-labelledby="nav-completed-tab" tabindex="0">
+                    {% for sentence in sentences %}
+                        {% if sentence.completed == 1 %}
+                            <div class="row mb-3">
+                                <div class="col">{{sentence.text}}</div>
+                                <div class="col-auto">
+                                    {% if sentence.review_flag == 1 %}
+                                        <i class="bi bi-bookmark-fill text-primary-emphasis me-3"></i>
+                                    {% else %}
+                                        <i class="bi bi-bookmark me-3"></i>
+                                    {% endif %}
+                                    <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}"><i class="bi bi-pencil-fill"></i></a>
+                                </div>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+</div>
+{% endblock %}

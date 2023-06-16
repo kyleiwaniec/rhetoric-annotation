@@ -44,30 +44,48 @@ window.onload = function() {
 <div class="container mt-3">
     <div class="row">
         <div class="col-md-auto">
-            <p>{{account[1]}} {{account[2]}}</p>
-            <!-- {{account}} -->
-            <ul>
-                <li>
-                    Username: {{ account[4] }}
-                </li>
-                <li>
-                    Email: {{ account[3] }}
-                </li>
-               
-            </ul>
+            <p>TODO: instructions/introduction</p>
+           
         </div>
     </div>
     <!--  tabs -->
     <div class="row">
         <div class="col">
-            <nav>
-              <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <nav class="">
+              <div class="nav nav-tabs d-flex" id="nav-tab" role="tablist">
                 
-                <button class="nav-link" id="nav-progress-tab" data-bs-toggle="tab" data-bs-target="#nav-progress" type="button" role="tab" aria-controls="nav-progress" aria-selected="false">In-progress ({{meta_data["in_progress"]}})</button>
+                    <button class="nav-link" id="nav-progress-tab" data-bs-toggle="tab" data-bs-target="#nav-progress" type="button" role="tab" aria-controls="nav-progress" aria-selected="false">In-progress ({{meta_data["in_progress"]}})</button>
 
-                <button class="nav-link" id="nav-completed-tab" data-bs-toggle="tab" data-bs-target="#nav-completed" type="button" role="tab" aria-controls="nav-completed" aria-selected="true">Completed ({{meta_data["completed"]}})</button>
+                    <button class="nav-link" id="nav-completed-tab" data-bs-toggle="tab" data-bs-target="#nav-completed" type="button" role="tab" aria-controls="nav-completed" aria-selected="true">Completed ({{meta_data["completed"]}})</button>
+               
+                    <div class="ms-auto">
 
+                        <div class="dropdown mt-2 me-3">
+                          <a class="dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                            Filter
+                          </a>
+
+                          <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=1) }}"><i class="bi bi-bookmark-fill"></i> Flagged</a></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=0) }}"><i class="bi bi-bookmark"></i> Not Flagged</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0) }}">Clear filter</a></li>
+                          </ul>
+                        </div>
+
+
+
+
+
+                        <!-- <a class="nav-link" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=flag) }}">
+                             <i class="bi bi-funnel me-3  ms-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="toggle flagged"></i></a> -->
+                    </div>
               </div>
+              
             </nav>
         
             <div class="tab-content p-3" id="nav-tabContent">
@@ -76,23 +94,26 @@ window.onload = function() {
                     <div class="row mb-3">
                         <div class="col">{{sentence.text}}</div>
                         <div class="col-auto">
-                            {% if sentence.review_flag == 1 %}
-                                <i class="bi bi-bookmark-fill text-primary-emphasis me-3" 
+                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
+                                <i class="bi bi-pencil-fill me-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="edit annotation"></i></a>
+                            {% if sentence.review_flag == 1 %}
+                                <i class="bi bi-bookmark-fill text-primary-emphasis me-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
                                 data-bs-title="unflag"></i>
                             {% else %}
-                                <i class="bi bi-bookmark me-3" 
+                                <i class="bi bi-bookmark me-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
                                 data-bs-title="flag for review"></i>
                             {% endif %}
-                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
-                                <i class="bi bi-pencil-fill"
-                                data-bs-toggle="tooltip" 
-                                data-bs-placement="top" 
-                                data-bs-title="edit annotation"></i>
-                            </a>
+                            
                         </div>
                     </div>
                     {% endfor %}
@@ -102,7 +123,7 @@ window.onload = function() {
                             <li class="page-item {% if inprogress.has_prev == False %}disabled{% endif %}">
                               <a class="page-link" 
                                     href="{% if inprogress.has_prev %}
-                                            {{ url_for('review', prog_num=inprogress.prev_num, comp_num=completed.page, active=0) }}
+                                            {{ url_for('review', prog_num=inprogress.prev_num, comp_num=completed.page, active=0, filter=flag) }}
                                           {% endif %}"
                                     aria-label="Prev">
                                 <span aria-hidden="true">&laquo;</span>
@@ -117,7 +138,7 @@ window.onload = function() {
                                     </li>
                                     {% else %}
                                     <li class="page-item">
-                                        <a class="page-link" href="{{ url_for('review', prog_num=page, comp_num=completed.page, active=0) }}">{{ page }}</a>
+                                        <a class="page-link" href="{{ url_for('review', prog_num=page, comp_num=completed.page, active=0, filter=flag) }}">{{ page }}</a>
                                     </li>
                                     {% endif %}
                                 {% else %}
@@ -126,7 +147,7 @@ window.onload = function() {
                             {% endfor %}
 
                             <li class="page-item {% if inprogress.has_next == False %}disabled{% endif %}">
-                              <a class="page-link" href="{% if inprogress.has_next %}{{ url_for('review', prog_num=inprogress.next_num, comp_num=completed.page, active=0) }}{% endif %}" aria-label="Next">
+                              <a class="page-link" href="{% if inprogress.has_next %}{{ url_for('review', prog_num=inprogress.next_num, comp_num=completed.page, active=0, filter=flag) }}{% endif %}" aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                               </a>
                             </li>
@@ -139,23 +160,31 @@ window.onload = function() {
                     <div class="row mb-3">
                         <div class="col">{{sentence.text}}</div>
                         <div class="col-auto">
+                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
+                                <i class="bi bi-pencil-fill me-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="edit annotation"></i></a>
                             {% if sentence.review_flag == 1 %}
                                 <i class="bi bi-bookmark-fill text-primary-emphasis me-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
                                 data-bs-title="unflag"></i>
                             {% else %}
                                 <i class="bi bi-bookmark me-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
                                 data-bs-title="flag for review"></i>
                             {% endif %}
-                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
-                                <i class="bi bi-pencil-fill"
+                            
+                            <a href="#"><i class="bi bi-person-check-fill"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
-                                data-bs-title="edit annotation"></i>
-                            </a>
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="check annotator agreement"></i></a>
                         </div>
                     </div>
                     {% endfor %}
@@ -163,7 +192,7 @@ window.onload = function() {
                             <nav aria-label="Completed navigation">
                               <ul class="pagination">
                                 <li class="page-item {% if completed.has_prev == False %}disabled{% endif %}">
-                                  <a class="page-link" href="{% if completed.has_prev %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.prev_num, active=1) }}{% endif %}" aria-label="Prev">
+                                  <a class="page-link" href="{% if completed.has_prev %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.prev_num, active=1, filter=flag) }}{% endif %}" aria-label="Prev">
                                     <span aria-hidden="true">&laquo;</span>
                                   </a>
                                 </li>
@@ -176,7 +205,7 @@ window.onload = function() {
                                         </li>
                                         {% else %}
                                         <li class="page-item">
-                                            <a class="page-link" href="{{ url_for('review', prog_num=inprogress.page, comp_num=page, active=1) }}">{{ page }}</a>
+                                            <a class="page-link" href="{{ url_for('review', prog_num=inprogress.page, comp_num=page, active=1, filter=flag) }}">{{ page }}</a>
                                         </li>
                                         {% endif %}
                                     {% else %}
@@ -185,7 +214,7 @@ window.onload = function() {
                                 {% endfor %}
 
                                 <li class="page-item {% if completed.has_next == False %}disabled{% endif %}">
-                                  <a class="page-link" href="{% if completed.has_next %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.next_num, active=1) }}{% endif %}" aria-label="Next">
+                                  <a class="page-link" href="{% if completed.has_next %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.next_num, active=1, filter=flag) }}{% endif %}" aria-label="Next">
                                     <span aria-hidden="true">&raquo;</span>
                                   </a>
                                 </li>
@@ -195,6 +224,7 @@ window.onload = function() {
                 </div>
             </div>
         </div>
+
     </div>
 
 

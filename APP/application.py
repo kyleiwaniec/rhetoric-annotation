@@ -252,16 +252,18 @@ def review():
         annotator_id = session['id']
 
 
-        
-        cursor = mysql.connection.cursor()
-        cursor.execute('SELECT * FROM annotators WHERE id = %s', (annotator_id,))
-        account = cursor.fetchone()
-        # Show the review page with account info
-
-
         prog_num = int(request.args.get('prog_num'))
         comp_num = int(request.args.get('comp_num'))
+
+        if request.args.get('filter'): 
+            flag = int(request.args.get('filter')) # [ abs(int(request.args.get('filter')) - 1 ) ]
+        else: 
+            flag = -1 #[0,1]
     
+
+        filters = [Annotations.annotator_id == session['id']]
+        if flag >= 0:
+            filters.append(Annotations.review_flag == flag)
 
         inprogress = Annotations.query\
                                 .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
@@ -271,8 +273,8 @@ def review():
                                              Annotations.id, 
                                              Annotations.review_flag,
                                              Annotations.completed)\
-                                .filter(Annotations.annotator_id == session['id'])\
                                 .filter(Annotations.completed == None)\
+                                .filter(*filters)\
                                 .paginate(page=prog_num,per_page=2,error_out=False)
 
         completed = Annotations.query\
@@ -283,9 +285,11 @@ def review():
                                              Annotations.id, 
                                              Annotations.review_flag,
                                              Annotations.completed)\
-                                .filter(Annotations.annotator_id == session['id'])\
                                 .filter(Annotations.completed == 1)\
+                                .filter(*filters)\
                                 .paginate(page=comp_num,per_page=2,error_out=False)
+
+                                #.filter(Annotations.review_flag.in_(flag))\
 
 
         meta_data = {'in_progress':inprogress.total,
@@ -293,10 +297,11 @@ def review():
 
         
         return render_template('review.html', 
-                                account=account, 
+                                userid=session['id'], username=session['username'], firstname=session['firstname'],
                                 meta_data=meta_data, 
                                 inprogress=inprogress,
-                                completed=completed)
+                                completed=completed,
+                                flag=flag)
 
 
     # User is not loggedin redirect to login page
@@ -309,7 +314,7 @@ def help():
     # Check if user is loggedin
     if 'loggedin' in session:
         # User is loggedin show them the help page
-        return render_template('help.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+        return render_template('help.html', userid=session['id'], username=session['username'], firstname=session['firstname'])
 
     # User is not loggedin redirect to login page
     return redirect(url_for('login'))
@@ -320,7 +325,7 @@ def references():
     # Check if user is loggedin
     if 'loggedin' in session:
         # User is loggedin show them the references page
-        return render_template('references.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+        return render_template('references.html', userid=session['id'], username=session['username'], firstname=session['firstname'])
 
     # User is not loggedin redirect to login page
     return redirect(url_for('login'))

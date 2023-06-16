@@ -110,7 +110,8 @@ function renderTEXT(){
 	removeParents(jsonData);
 	// push the new list of annotations to the screen
 	displayText = extractAnnotations(jsonData,"");
-	document.getElementById("jsonContainer").innerHTML = displayText;
+	_j("#jsonContainer").html(displayText);
+	// document.getElementById("jsonContainer").innerHTML = displayText;
 }
 
 function renderJSON(){

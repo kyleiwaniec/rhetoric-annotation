@@ -1,26 +1,3 @@
-var jsonData;
-
-var sentence_id;
-var curr_feature = null;
-
-
-// Check if sentence id is in the url
-
-if (GetURLParameter('sentence_id')){
-	sentence_id = GetURLParameter('sentence_id')
-	// remove query string
-	window.history.replaceState(null, null, window.location.pathname);
-} else {
-	if (Cookies.get('sentence_id')){
-		sentence_id = Cookies.get('sentence_id')
-	}else{
-		sentence_id = 1
-		Cookies.set('sentence_id',sentence_id)
-	}
-}
-
-
-
 function initTree(DBdata) {
 
 	sentence_id = DBdata[0].sentence_id
@@ -110,7 +87,8 @@ function renderTEXT(){
 	removeParents(jsonData);
 	// push the new list of annotations to the screen
 	displayText = extractAnnotations(jsonData,"");
-	document.getElementById("jsonContainer").innerHTML = displayText;
+	_j("#jsonContainer").html(displayText);
+	// document.getElementById("jsonContainer").innerHTML = displayText;
 }
 
 function renderJSON(){
@@ -354,6 +332,7 @@ function get_gpt_response(element,feature){
 	sentence = _j("#sentence_container").text()
 	curr_feature = element
 
+
 	_j(".spinner-border").removeClass("visually-hidden")
 	_j(".GPT-response").addClass("visually-hidden")
 
@@ -381,18 +360,8 @@ function get_gpt_response(element,feature){
 	});
 }
 
-
-
 window.onload = function() {
-	const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-	const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-	
-	const toastElList = document.querySelectorAll('.toast')
-	const toastList = [...toastElList].map(toastEl => new bootstrap.Toast(toastEl))
-
-
 	getData(initTree,sentence_id)
-	// loadComponents()
 	get_stats()
 
 }

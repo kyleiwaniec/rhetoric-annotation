@@ -21,7 +21,12 @@ function renderValues(vals, desc){
 				  </li>`).join('')}
 			`;
 }
-
+_j(document).on("click", ".list-group-item-action i", function (e) {
+     var title = _j(this).attr('data-bs-title');
+     var body = _j(this).attr('data-bs-body');
+     _j(".modal .modal-title").text( title );
+     _j(".modal .modal-body").text( body );
+});
 
 _j.ajax({
 
@@ -37,7 +42,18 @@ _j.ajax({
 					<div class="row">
 					  <div class="col-4">
 					    <div class="list-group" id="list-tab" role="tablist">
-					    	${word_properties.map(property => `<a class="list-group-item list-group-item-action" onclick="get_gpt_response(this,'${property.key}'); updateTimer(); return false" id="list-${replaceSpaces(property.key)}-list" data-bs-toggle="list" href="#list-${replaceSpaces(property.key)}" role="tab" aria-controls="list-${replaceSpaces(property.key)}">${property.key}</a>`).join('')}
+					    	${word_properties.map(property => `<a class="list-group-item list-group-item-action" 
+					    										onclick="get_gpt_response(this,'${property.key}'); updateTimer(); return false" 
+					    										id="list-${replaceSpaces(property.key)}-list" 
+					    										data-bs-toggle="list" href="#list-${replaceSpaces(property.key)}" 
+					    										role="tab" aria-controls="list-${replaceSpaces(property.key)}">
+					    										<span>
+			    												<i class="bi bi-info-circle" 
+			    													data-bs-toggle="modal" 
+			    													data-bs-target="#wordModal"
+			    													data-bs-title="${property.key}"
+			    													data-bs-body="${property.definition}">
+			    												</i></span>&nbsp;&nbsp;${property.key}</a>`).join('')}
 						</div>
 					  </div>
 					  <div class="col-8">
@@ -66,6 +82,21 @@ _j.ajax({
 						    </div>`).join('')}
 						  </div>
 						</div>
+					</div>
+					<!-- Modal -->
+					<div class="modal fade" id="wordModal" tabindex="-1" aria-labelledby="wordModalLabel" aria-hidden="true" data-bs-theme="dark">
+					  <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <h1 class="modal-title fs-5" id="wordModalLabel">...</h1>
+					        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					      </div>
+					      <div class="modal-body">
+					        ...
+					      </div>
+					      
+					    </div>
+					  </div>
 					</div>
 					`
 

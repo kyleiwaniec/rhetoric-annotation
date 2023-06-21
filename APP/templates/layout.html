@@ -19,7 +19,7 @@
 
 
 <script type="text/javascript">
-	const annotator_id = {{userid or account[0]}}
+	const annotator_id = {{userid}}
 	var _j = jQuery.noConflict();
 </script>
 
@@ -27,7 +27,7 @@
 <script src="{{ url_for('static', filename='js/utils.js') }}"></script>
 <script src="{{ url_for('static', filename='js/parser.js') }}"></script>
 <script src="{{ url_for('static', filename='js/d3Tree.js') }}"></script>
-<script src="{{ url_for('main_js') }}"></script>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
 
 
 
@@ -45,11 +45,11 @@
 		    </button>
 		    <div class="collapse navbar-collapse row justify-content-between" id="navbarNavAltMarkup">
       		<div class="navbar-nav col-auto ms-md-auto text-center">
-			      <span class="nav-link">Hi {{ firstname or account[1] }}</span>
+			      <span class="nav-link">Hi {{ firstname }}</span>
 			    </div>
 			    <div class="navbar-nav col-auto ms-md-auto text-right">
-				    <a href="{{ url_for('home') }}" class="nav-link">Home</a>
-						<a href="{{ url_for('profile') }}" class="nav-link">Profile</a>
+				    <a href="{{ url_for('home') }}" class="nav-link">Annotate</a>
+						<a href="{{ url_for('review',prog_num=1, comp_num=1, active=0) }}" class="nav-link">Review</a>
 						<a href="{{ url_for('help') }}" class="nav-link"><i class="bi bi-info-circle"></i> Help</a>
 						<a href="{{ url_for('references') }}" class="nav-link">Credits</a>
 						<a href="{{ url_for('logout') }}" class="nav-link"><i class="bi bi-box-arrow-left"></i> Logout</a>

@@ -263,7 +263,7 @@ function d3Tree(treeData) {
             })
             .style("fill", function(d) {
                 // return d._children ? "blue" : "#fff";
-                return d.isCurrNode ? "#198754" : "#333";
+                return d.isCurrNode ? "#0d6efd" : "#333";
             });
 
         // Transition nodes to their new position.

@@ -21,6 +21,12 @@ function renderValues(vals, desc){
 			`;
 }
 
+_j(document).on("click", ".list-group-item-action i", function (e) {
+     var title = _j(this).attr('data-bs-title');
+     var body = _j(this).attr('data-bs-body');
+     _j(".modal .modal-title").text( title );
+     _j(".modal .modal-body").text( body );
+});
 
 _j.ajax({
 
@@ -31,17 +37,31 @@ _j.ajax({
     complete : function(response){
         
         const sentence_properties = JSON.parse(response.responseText)
+        //d-flex justify-content-between align-items-center
 
         const markup = `
 					<div class="row">
 					  <div class="col-4">
 					    <div class="list-group" id="list-tab" role="tablist">
-					    	${sentence_properties.map(property => `<a class="list-group-item list-group-item-action" onclick="get_gpt_response(this,'${property.key}'); updateTimer(); return false" id="list-${replaceSpaces(property.key)}-list" data-bs-toggle="list" href="#list-${replaceSpaces(property.key)}" role="tab" aria-controls="list-${replaceSpaces(property.key)}">${property.key}</a>`).join('')}
+					    	${sentence_properties.map(property => `<a class="list-group-item-action list-group-item" 
+					    												onclick="get_gpt_response(this,'${property.key}'); updateTimer(); return false" 
+					    												id="list-${replaceSpaces(property.key)}-list" data-bs-toggle="list" 
+					    												href="#list-${replaceSpaces(property.key)}" role="tab" 
+					    												aria-controls="list-${replaceSpaces(property.key)}">
+																		<span>
+					    												<i class="bi bi-info-circle" 
+					    													data-bs-toggle="modal" 
+					    													data-bs-target="#sentenceModal"
+					    													data-bs-title="${property.key}"
+					    													data-bs-body="${property.definition}">
+					    												</i></span>&nbsp;&nbsp;${property.key}</a>`).join('')}
 						</div>
 					  </div>
 					  <div class="col-8">
 					    <div class="tab-content" id="nav-tabContent">
-					    	${sentence_properties.map(property => `<div class="tab-pane fade" id="list-${replaceSpaces(property.key)}" role="tabpanel" aria-labelledby="list-${replaceSpaces(property.key)}-list">
+					    	${sentence_properties.map(property => `<div class="tab-pane fade" 
+					    												id="list-${replaceSpaces(property.key)}" role="tabpanel" 
+					    												aria-labelledby="list-${replaceSpaces(property.key)}-list">
 						      		<p>ChatGPT response:</p>
 
 						      		<div id="${replaceSpaces(property.key)}_GPT">
@@ -58,7 +78,8 @@ _j.ajax({
 						    			<div class="sticky-bottom p-3 bg-opacity-50 bg-dark">
 												<input type="submit" value="Add Property" type="button" class="btn btn-primary"/>
 												<input value="Next Property" type="button" class="btn btn-warning" onclick="return nextProperty(this)"/>
-												<input id="removePropertyButton" value="Remove Property" type="button" class="btn btn-danger float-end" onclick="pushProperty(false,['${replaceSpaces(property.key)}',[]]); saveAnnotation(confirmSaved); return false;"/>
+												<input id="removePropertyButton" value="Remove Property" type="button" class="btn btn-danger float-end" 
+													onclick="pushProperty(false,['${replaceSpaces(property.key)}',[]]); saveAnnotation(confirmSaved); return false;"/>
 										</div>
 									</form>
 
@@ -66,6 +87,23 @@ _j.ajax({
 						  </div>
 						</div>
 					</div>
+
+					<!-- Modal -->
+					<div class="modal fade" id="sentenceModal" tabindex="-1" aria-labelledby="sentenceModalLabel" aria-hidden="true" data-bs-theme="dark">
+					  <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+					    <div class="modal-content">
+					      <div class="modal-header">
+					        <h1 class="modal-title fs-5" id="sentenceModalLabel">...</h1>
+					        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+					      </div>
+					      <div class="modal-body">
+					        ...
+					      </div>
+					      
+					    </div>
+					  </div>
+					</div>
+
 					`
 
 

@@ -19,6 +19,14 @@ import uuid, hashlib, datetime, math, urllib
 from flask_mysqldb import MySQL
 # from flask_cors import CORS
 
+
+from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.sql import func
+from sqlalchemy.orm import sessionmaker
+
+
+
+
 application = app = Flask(__name__)
 # cors = CORS(application, resources={r"/api/*": {"origins": ["http://127.0.0.1:8887","http://localhost:5000"]}})
 
@@ -32,6 +40,54 @@ application.config['MYSQL_HOST'] = MYSQL_HOST
 application.config['MYSQL_USER'] = MYSQL_USER
 application.config['MYSQL_PASSWORD'] = MYSQL_PASSWORD
 application.config['MYSQL_DB'] = MYSQL_DB
+
+
+
+
+application.config['SQLALCHEMY_DATABASE_URI'] =\
+        'mysql://'+MYSQL_USER+':'+MYSQL_PASSWORD+'@'+MYSQL_HOST+'/'+MYSQL_DB
+application.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+from sqlalchemy import create_engine
+engine = create_engine(application.config['SQLALCHEMY_DATABASE_URI'], echo = True)
+
+Session = sessionmaker(bind = engine)
+sa_session = Session()
+
+db = SQLAlchemy(application)
+
+
+
+class Annotations(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    json_string     = db.Column(db.Text())
+    annotator_id    = db.Column(db.Integer)
+    sentence_id     = db.Column(db.Integer)
+    review_flag     = db.Column(db.Integer)
+    completed       = db.Column(db.Integer)
+    date_updated    = db.Column(db.DateTime(timezone=True),
+                           server_default=func.now())
+
+    def __repr__(self):
+        return f'<annotation_id {self.id}>'
+
+class AllSentences(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    article_id      = db.Column(db.String(120))
+    technique       = db.Column(db.String(120))
+    offsets         = db.Column(db.String(120))
+    label           = db.Column(db.Integer)
+    text            = db.Column(db.Text())
+    parseTree       = db.Column(db.Text())
+    date_updated    = db.Column(db.DateTime(timezone=True),
+                           server_default=func.now())
+    completed       = db.Column(db.Integer)
+
+
+    def __repr__(self):
+        return f'<sentence_id {self.id}>'
+
+
 
 
 application.static_folder = 'ui'
@@ -186,64 +242,67 @@ def home():
 
 
 
-# http://localhost:5000/profile - this will be the profile page, only accessible for loggedin users
-@application.route('/profile')
-def profile():
+# http://localhost:5000/review - this will be the review page, only accessible for loggedin users (/<int:prog_num>)
+@application.route('/review')
+def review():
     # Check if user is loggedin
     if 'loggedin' in session:
-        # We need all the account info for the user so we can display it on the profile page
+        # We need all the account info for the user so we can display it on the review page
 
         annotator_id = session['id']
 
-        cursor = mysql.connection.cursor()
-        cursor.execute('SELECT * FROM annotators WHERE id = %s', (annotator_id,))
-        account = cursor.fetchone()
-        # Show the profile page with account info
+
+        prog_num = int(request.args.get('prog_num'))
+        comp_num = int(request.args.get('comp_num'))
+
+        if request.args.get('filter'): 
+            flag = int(request.args.get('filter')) # [ abs(int(request.args.get('filter')) - 1 ) ]
+        else: 
+            flag = -1 #[0,1]
+    
+
+        filters = [Annotations.annotator_id == session['id']]
+        if flag >= 0:
+            filters.append(Annotations.review_flag == flag)
+
+        inprogress = Annotations.query\
+                                .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
+                                .add_columns(AllSentences.text, 
+                                             AllSentences.technique,
+                                             Annotations.sentence_id,
+                                             Annotations.id, 
+                                             Annotations.review_flag,
+                                             Annotations.completed)\
+                                .filter(Annotations.completed == None)\
+                                .filter(*filters)\
+                                .paginate(page=prog_num,per_page=10,error_out=False)
+
+        completed = Annotations.query\
+                                .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
+                                .add_columns(AllSentences.text, 
+                                             AllSentences.technique,
+                                             Annotations.sentence_id,
+                                             Annotations.id, 
+                                             Annotations.review_flag,
+                                             Annotations.completed)\
+                                .filter(Annotations.completed == 1)\
+                                .filter(*filters)\
+                                .paginate(page=comp_num,per_page=10,error_out=False)
+
+                                #.filter(Annotations.review_flag.in_(flag))\
 
 
-        # get user's history
-        query = '''
-                SELECT * FROM all_sentences as s
-                JOIN (SELECT * FROM annotations WHERE annotator_id=%s) as a 
-                ON s.id = a.sentence_id;
-                '''
+        meta_data = {'in_progress':inprogress.total,
+                     'completed':completed.total}
 
-        cursor.execute(query, (annotator_id,))
-        rows = cursor.fetchall()
+        
+        return render_template('review.html', 
+                                userid=session['id'], username=session['username'], firstname=session['firstname'],
+                                meta_data=meta_data, 
+                                inprogress=inprogress,
+                                completed=completed,
+                                flag=flag)
 
-        sentences_json = []
-
-        in_progress, completed = 0,0
-        num_sentences = len(rows)
-
-        for row in rows:
-
-            if row[14] == 1: completed += 1
-            else: in_progress += 1
-
-            sentences_json.append({
-                "sentence_id" : row[0],
-                "article_id" : row[1],
-                "technique" : tech_to_list(row[2]),
-                "offsets" : row[3],
-                "label" : row[4],
-                "text" : row[5],
-                "parse_string" : row[6],
-                "annotation" : row[10],
-                "annotator_id" : annotator_id,
-                "annotation_id" : row[9],
-                "review_flag" : row[13],
-                "completed" : row[14]
-                })
-            
-        # sentences =  json.dumps(sentences_json)
-
-        meta_data = {'in_progress':in_progress,
-                     'completed':completed,
-                     'num_sentences':num_sentences}
-
-
-        return render_template('profile.html', account=account, sentences=sentences_json, meta_data=meta_data)
 
     # User is not loggedin redirect to login page
     return redirect(url_for('login'))
@@ -255,7 +314,7 @@ def help():
     # Check if user is loggedin
     if 'loggedin' in session:
         # User is loggedin show them the help page
-        return render_template('help.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+        return render_template('help.html', userid=session['id'], username=session['username'], firstname=session['firstname'])
 
     # User is not loggedin redirect to login page
     return redirect(url_for('login'))
@@ -266,7 +325,7 @@ def references():
     # Check if user is loggedin
     if 'loggedin' in session:
         # User is loggedin show them the references page
-        return render_template('references.html', userid=session['id'],username=session['username'], firstname=session['firstname'])
+        return render_template('references.html', userid=session['id'], username=session['username'], firstname=session['firstname'])
 
     # User is not loggedin redirect to login page
     return redirect(url_for('login'))
@@ -552,7 +611,7 @@ def get_gpt_response():
         properties = "\n".join(featuresDict[feature])
 
         prompt = f"""
-        You are a linguist specializing in political text and pragmatism. 
+        You are a rhetoretician and linguist specializing in news text. 
 
         Your task is to identify which, if any, of the following properties of {feature} are used in the example text. 
         You may select multiple properties.
@@ -563,8 +622,9 @@ def get_gpt_response():
         
         Format your response as a JSON object with "Property" and "Explanation" as the keys. 
         If the property isn't present, use "unknown" as the value of "Property". 
-        Explain your choise in the "Explanation". The example text is delimited with triple backticks. 
-        Make your response as short as possible.
+        Explain your choise in the "Explanation". Make your response as short as possible.
+        The example text is delimited with triple backticks. 
+        
           
         Example text: ```{sentence}```
         """
@@ -573,6 +633,7 @@ def get_gpt_response():
         openai.api_key = os.getenv("OPENAI_API_KEY")
 
         model = "gpt-3.5-turbo-0301"
+        model = "gpt-3.5-turbo-0613"
 
                     
         messages=[{"role": "user", "content": prompt}]
@@ -591,4 +652,4 @@ if __name__ == "__main__":
     # Setting debug to True enables debug output. This line should be
     # removed before deploying a production application.
     application.debug = True
-    application.run()
+    application.run(port=5002)

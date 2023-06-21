@@ -67,8 +67,8 @@ _j.ajax({
 						      		<div id="${replaceSpaces(property.key)}_GPT">
 						      			<div class="GPT-response"></div>
 						      			<div class="spinner-border visually-hidden" role="status">
-													  <span class="visually-hidden">Loading...</span>
-												</div>
+											  <span class="visually-hidden">Loading...</span>
+										</div>
 						      		</div>
 						      		
 						      		<form name="${replaceSpaces(property.key)}" onsubmit="formSubmit(this); return false;">

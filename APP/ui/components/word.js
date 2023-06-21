@@ -64,8 +64,8 @@ _j.ajax({
 						      		<div id="${replaceSpaces(property.key)}_GPT">
 						      			<div class="GPT-response"></div>
 						      			<div class="spinner-border visually-hidden" role="status">
-													  <span class="visually-hidden">Loading...</span>
-												</div>
+											  <span class="visually-hidden">Loading...</span>
+										</div>
 						      		</div>
 						      		
 						      		<form name="${replaceSpaces(property.key)}" onsubmit="formSubmit(this); return false;">
@@ -75,10 +75,10 @@ _j.ajax({
 						    			<div class="sticky-bottom p-3 bg-opacity-50 bg-dark">
 											<input type="submit" value="Add Property" type="button" class="btn btn-primary"/>
 											<input value="Next Property" type="button" class="btn btn-warning" onclick="return nextProperty(this)"/>
-											<input id="removePropertyButton" value="Remove Property" type="button" class="btn btn-danger float-end" onclick="pushProperty(false,['${replaceSpaces(property.key)}',[]]); saveAnnotation(confirmSaved); return false;"/>
+											<input id="removePropertyButton" value="Remove Property" type="button" class="btn btn-danger float-end" 
+												onclick="pushProperty(false,['${replaceSpaces(property.key)}',[]]); saveAnnotation(confirmSaved); return false;"/>
 										</div>
 									</form>
-
 						    </div>`).join('')}
 						  </div>
 						</div>

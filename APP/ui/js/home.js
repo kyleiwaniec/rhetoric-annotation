@@ -332,6 +332,7 @@ function get_gpt_response(element,feature){
 	sentence = _j("#sentence_container").text()
 	curr_feature = element
 
+
 	_j(".spinner-border").removeClass("visually-hidden")
 	_j(".GPT-response").addClass("visually-hidden")
 
@@ -360,15 +361,7 @@ function get_gpt_response(element,feature){
 }
 
 window.onload = function() {
-	const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
-	const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
-	
-	const toastElList = document.querySelectorAll('.toast')
-	const toastList = [...toastElList].map(toastEl => new bootstrap.Toast(toastEl))
-
-
 	getData(initTree,sentence_id)
-	// loadComponents()
 	get_stats()
 
 }

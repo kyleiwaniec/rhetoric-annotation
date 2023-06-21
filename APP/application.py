@@ -275,7 +275,7 @@ def review():
                                              Annotations.completed)\
                                 .filter(Annotations.completed == None)\
                                 .filter(*filters)\
-                                .paginate(page=prog_num,per_page=2,error_out=False)
+                                .paginate(page=prog_num,per_page=10,error_out=False)
 
         completed = Annotations.query\
                                 .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
@@ -287,7 +287,7 @@ def review():
                                              Annotations.completed)\
                                 .filter(Annotations.completed == 1)\
                                 .filter(*filters)\
-                                .paginate(page=comp_num,per_page=2,error_out=False)
+                                .paginate(page=comp_num,per_page=10,error_out=False)
 
                                 #.filter(Annotations.review_flag.in_(flag))\
 
@@ -611,7 +611,7 @@ def get_gpt_response():
         properties = "\n".join(featuresDict[feature])
 
         prompt = f"""
-        You are a linguist specializing in political text and pragmatism. 
+        You are a rhetoretician and linguist specializing in news text. 
 
         Your task is to identify which, if any, of the following properties of {feature} are used in the example text. 
         You may select multiple properties.
@@ -622,8 +622,9 @@ def get_gpt_response():
         
         Format your response as a JSON object with "Property" and "Explanation" as the keys. 
         If the property isn't present, use "unknown" as the value of "Property". 
-        Explain your choise in the "Explanation". The example text is delimited with triple backticks. 
-        Make your response as short as possible.
+        Explain your choise in the "Explanation". Make your response as short as possible.
+        The example text is delimited with triple backticks. 
+        
           
         Example text: ```{sentence}```
         """
@@ -651,4 +652,4 @@ if __name__ == "__main__":
     # Setting debug to True enables debug output. This line should be
     # removed before deploying a production application.
     application.debug = True
-    application.run()
+    application.run(port=5002)

@@ -22,11 +22,28 @@ function renderValues(vals, desc){
 }
 
 _j(document).on("click", ".list-group-item-action i", function (e) {
-     var title = _j(this).attr('data-bs-title');
-     var body = _j(this).attr('data-bs-body');
-     _j(".modal .modal-title").text( title );
-     _j(".modal .modal-body").text( body );
+     
+     var feature = _j(this).attr('data-bs-title');
+
+     _j.ajax({
+	    url : '/api/v1/get_prompt',
+	    type : 'POST',
+	    dataType:'json',
+	    data:JSON.stringify({"feature":feature}),
+	    contentType:'application/json',
+	    complete : function(response){
+	    	_j(".modal .modal-title").text( feature );
+	     	_j(".modal .modal-body").text( response.responseText );
+	    }
+	})
 });
+
+
+function getPrompt(feature){
+	
+}
+
+
 
 _j.ajax({
 
@@ -52,8 +69,7 @@ _j.ajax({
 					    												<i class="bi bi-info-circle" 
 					    													data-bs-toggle="modal" 
 					    													data-bs-target="#sentenceModal"
-					    													data-bs-title="${property.key}"
-					    													data-bs-body="${property.definition}">
+					    													data-bs-title="${property.key}">
 					    												</i></span>&nbsp;&nbsp;${property.key}</a>`).join('')}
 						</div>
 					  </div>
@@ -97,7 +113,7 @@ _j.ajax({
 					        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					      </div>
 					      <div class="modal-body">
-					        ...
+					        Coming soon...
 					      </div>
 					      
 					    </div>

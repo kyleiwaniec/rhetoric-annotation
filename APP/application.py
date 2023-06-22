@@ -69,7 +69,7 @@ class Annotations(db.Model):
                            server_default=func.now())
 
     def __repr__(self):
-        return f'<annotation_id {self.id}>'
+        return f'<annotation_id: {self.id}>'
 
 class AllSentences(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -83,11 +83,19 @@ class AllSentences(db.Model):
                            server_default=func.now())
     completed       = db.Column(db.Integer)
 
+    def __repr__(self):
+        return f'<sentence_id: {self.id}>'
+
+
+class Prompts(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    feature         = db.Column(db.String(120))
+    prompt          = db.Column(db.Text())
+    date_updated    = db.Column(db.DateTime(timezone=True),
+                           server_default=func.now())
 
     def __repr__(self):
-        return f'<sentence_id {self.id}>'
-
-
+        return f'<feature: {self.feature}>'
 
 
 application.static_folder = 'ui'
@@ -594,6 +602,27 @@ def get_sentence_properties():
 
 featuresDict = sentenceFeaturesDict | wordFeaturesDict
 
+@application.route("/api/v1/get_prompt", methods=["OPTIONS","GET","POST"])
+def get_prompt():
+    response = {"error":"no data"}
+    request_data = request.get_json()
+
+    if request_data:
+        feature = request_data['feature']
+
+        prompt = Prompts.query\
+                        .add_columns(Prompts.prompt,Prompts.feature)\
+                        .filter(Prompts.feature == feature)\
+                        .all()
+
+    if len(prompt):
+        result = prompt[0].prompt
+    else:
+        result = "no definition available"
+
+    return result
+
+
 
 @application.route("/api/v1/get_gpt_response", methods=["OPTIONS","POST"])
 def get_gpt_response():
@@ -606,23 +635,30 @@ def get_gpt_response():
     if json_data:
         sentence = json_data['sentence']
         feature = json_data['feature']
+
         # prompt = json_data['prompt']
+        prompt = Prompts.query\
+                        .add_columns(Prompts.prompt,Prompts.feature)\
+                        .filter(Prompts.feature == feature)\
+                        .all()
 
         properties = "\n".join(featuresDict[feature])
 
         prompt = f"""
         You are a rhetoretician and linguist specializing in news text. 
 
-        Your task is to identify which, if any, of the following properties of {feature} are used in the example text. 
-        You may select multiple properties.
+        Read the description of {feature} delimited with backticks:
+        
+        {prompt}
+
         Each line contains a property followed by a colon, followed by a brief definition and example(s):
         
         {properties}
 
         
         Format your response as a JSON object with "Property" and "Explanation" as the keys. 
-        If the property isn't present, use "unknown" as the value of "Property". 
-        Explain your choise in the "Explanation". Make your response as short as possible.
+        The value of "Property" should be a list of one or more properties. If the property isn't present, return an empty list. 
+        Explain your choice in the "Explanation". Double check your answers, and make your response as short as possible.
         The example text is delimited with triple backticks. 
         
           

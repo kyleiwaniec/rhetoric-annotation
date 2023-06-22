@@ -25,7 +25,7 @@ _j(document).on("click", ".list-group-item-action i", function (e) {
      var title = _j(this).attr('data-bs-title');
      var body = _j(this).attr('data-bs-body');
      _j(".modal .modal-title").text( title );
-     _j(".modal .modal-body").text( body );
+     // _j(".modal .modal-body").text( body );
 });
 
 _j.ajax({
@@ -92,7 +92,7 @@ _j.ajax({
 					        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 					      </div>
 					      <div class="modal-body">
-					        ...
+					        Coming soon...
 					      </div>
 					      
 					    </div>

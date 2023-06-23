@@ -87,7 +87,21 @@ class AllSentences(db.Model):
     def __repr__(self):
         return f'<sentence_id {self.id}>'
 
+class SampleSentences(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    article_id      = db.Column(db.String(120))
+    technique       = db.Column(db.String(120))
+    offsets         = db.Column(db.String(120))
+    label           = db.Column(db.Integer)
+    text            = db.Column(db.Text())
+    parseTree       = db.Column(db.Text())
+    date_updated    = db.Column(db.DateTime(timezone=True),
+                           server_default=func.now())
+    completed       = db.Column(db.Integer)
 
+
+    def __repr__(self):
+        return f'<sentence_id {self.id}>'
 
 
 application.static_folder = 'ui'
@@ -439,7 +453,7 @@ def get_sentences_from_table():
                 })
             print('annotation_id',row[9])
         next_sentence =  json.dumps(sentences_json) #jsonify(sentences_json)
-
+        print("next_sentence",next_sentence)
     return next_sentence
 
 

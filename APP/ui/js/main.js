@@ -27,12 +27,6 @@ _j(function() {
 	const toastElList = document.querySelectorAll('.toast')
 	const toastList = [...toastElList].map(toastEl => new bootstrap.Toast(toastEl))
 
-	// const myModal = document.getElementById('myModal')
-	// const myInput = document.getElementById('myInput')
-
-	// myModal.addEventListener('shown.bs.modal', () => {
-	//   myInput.focus()
-	// })
 })
 
 

@@ -23,9 +23,8 @@ function renderValues(vals, desc){
 
 _j(document).on("click", ".list-group-item-action i", function (e) {
      var title = _j(this).attr('data-bs-title');
-     var body = _j(this).attr('data-bs-body');
      _j(".modal .modal-title").text( title );
-     _j(".modal .modal-body").text( body );
+     _j(".modal .modal-body").text( "Coming soon. Additional guidelines will be dispalyed here." );
 });
 
 _j.ajax({
@@ -52,8 +51,7 @@ _j.ajax({
 					    												<i class="bi bi-info-circle" 
 					    													data-bs-toggle="modal" 
 					    													data-bs-target="#sentenceModal"
-					    													data-bs-title="${property.key}"
-					    													data-bs-body="${property.definition}">
+					    													data-bs-title="${property.key}">
 					    												</i></span>&nbsp;&nbsp;${property.key}</a>`).join('')}
 						</div>
 					  </div>

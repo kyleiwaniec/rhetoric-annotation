@@ -168,8 +168,14 @@ function getData(callBack,sentence_id,direction){
 	    					  "annotator_id": annotator_id
 	    					}), // annotator_id is a global constant
 	    success : function(res) {      
-	    	console.log("getData",res)        
-	        callBack(res)
+	    	console.log("getData",res)   
+	    	if (res.length){
+	    		_j("#prev_sentence, #next_sentence").removeClass("disabled")
+	    		callBack(res)
+	    	}else{
+	    		_j("#"+direction+"_sentence").addClass("disabled")
+	    	}
+	        
 	    },
 	    error : function(request,error){
 	        //console.log("Request: "+JSON.stringify(request));

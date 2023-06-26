@@ -280,9 +280,9 @@ def review():
             filters.append(Annotations.review_flag == flag)
 
         inprogress = Annotations.query\
-                                .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
-                                .add_columns(AllSentences.text, 
-                                             AllSentences.technique,
+                                .join(SampleSentences, Annotations.sentence_id == SampleSentences.id)\
+                                .add_columns(SampleSentences.text, 
+                                             SampleSentences.technique,
                                              Annotations.sentence_id,
                                              Annotations.id, 
                                              Annotations.review_flag,
@@ -292,9 +292,9 @@ def review():
                                 .paginate(page=prog_num,per_page=10,error_out=False)
 
         completed = Annotations.query\
-                                .join(AllSentences, Annotations.sentence_id == AllSentences.id)\
-                                .add_columns(AllSentences.text, 
-                                             AllSentences.technique,
+                                .join(SampleSentences, Annotations.sentence_id == SampleSentences.id)\
+                                .add_columns(SampleSentences.text, 
+                                             SampleSentences.technique,
                                              Annotations.sentence_id,
                                              Annotations.id, 
                                              Annotations.review_flag,
@@ -404,7 +404,7 @@ def get_sentences_from_table():
 
         if "direction" in json_data and json_data["direction"] == "next":
             query = '''
-                    SELECT * FROM all_sentences as s
+                    SELECT * FROM sample_sentences as s
                     LEFT JOIN (SELECT * FROM annotations WHERE annotator_id=%s) as a 
                     ON s.id = a.sentence_id
                     WHERE s.id > %s AND a.completed is NULL ORDER BY s.id ASC LIMIT 1;
@@ -412,14 +412,14 @@ def get_sentences_from_table():
 
         elif "direction" in json_data and json_data["direction"] == "prev":
             query = '''
-                    SELECT * FROM all_sentences as s
+                    SELECT * FROM sample_sentences as s
                     LEFT JOIN (SELECT * FROM annotations WHERE annotator_id=%s) as a 
                     ON s.id = a.sentence_id
                     WHERE s.id < %s AND a.completed is NULL ORDER BY s.id DESC LIMIT 1;
                     '''
         else:            
             query = '''
-                    SELECT * FROM all_sentences as s
+                    SELECT * FROM sample_sentences as s
                     LEFT JOIN (SELECT * FROM annotations WHERE annotator_id=%s) as a 
                     ON s.id = a.sentence_id
                     WHERE s.id = %s;

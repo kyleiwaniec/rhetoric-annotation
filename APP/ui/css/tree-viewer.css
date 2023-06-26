@@ -89,3 +89,7 @@ pre {
 .small-tooltip{
 	font-size: .8em;
 }
+.highligthing:hover{
+	background-color: #333;
+	color:#fff;
+}

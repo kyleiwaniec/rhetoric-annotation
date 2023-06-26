@@ -91,7 +91,7 @@ window.onload = function() {
             <div class="tab-content p-3" id="nav-tabContent">
                 <div class="tab-pane fade" id="nav-progress" role="tabpanel" aria-labelledby="nav-progress-tab" tabindex="0">
                     {% for sentence in inprogress.items %}
-                    <div class="row mb-3">
+                    <div class="row pt-2 pb-2 highligthing">
                         <div class="col">{{sentence.text}}</div>
                         <div class="col-auto">
                             <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
@@ -117,7 +117,7 @@ window.onload = function() {
                         </div>
                     </div>
                     {% endfor %}
-                    <div class="row">
+                    <div class="row mt-3">
                         <nav aria-label="In-progress navigation">
                           <ul class="pagination">
                             <li class="page-item {% if inprogress.has_prev == False %}disabled{% endif %}">
@@ -157,7 +157,7 @@ window.onload = function() {
                 </div>
                 <div class="tab-pane fade" id="nav-completed" role="tabpanel" aria-labelledby="nav-completed-tab" tabindex="0">
                     {% for sentence in completed.items %}
-                    <div class="row mb-3">
+                    <div class="row pb-2 pt-2 highligthing">
                         <div class="col">{{sentence.text}}</div>
                         <div class="col-auto">
                             <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
@@ -188,7 +188,7 @@ window.onload = function() {
                         </div>
                     </div>
                     {% endfor %}
-                    <div class="row">
+                    <div class="row mt-3">
                             <nav aria-label="Completed navigation">
                               <ul class="pagination">
                                 <li class="page-item {% if completed.has_prev == False %}disabled{% endif %}">

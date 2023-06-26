@@ -305,33 +305,7 @@ function markCompleted(){
 	});
 }
 
-function flagForReview(){
-	_j.ajax({
-		url : 'api/v1/flag_for_review',
-		type : 'POST',
-		dataType:'json',
-		contentType:'application/json',
-		data: JSON.stringify({"annotation_id": jsonData["annotation_id"]}), 
-		complete : function(response)
-		{
-			review_flag = response.responseJSON.review_flag
 
-			// Add the review flag class
-			if (review_flag==1){_j("#flag_for_review i").removeClass("bi-bookmark").addClass("bi-bookmark-fill")}
-			else {_j("#flag_for_review i").removeClass("bi-bookmark-fill").addClass("bi-bookmark")}
-
-			confirmSaved(response)
-			
-		},
-		success : function(request) {     
-			//console.log('Succes!!!');       
-		},
-		error : function(request,error)
-		{
-			console.log("error: "+JSON.stringify(request));
-		}
-	});
-}
 
 
 function get_gpt_response(element,feature){

@@ -275,6 +275,13 @@ def review():
             flag = -1 #[0,1]
     
 
+        if request.args.get('active'): 
+            active = int(request.args.get('active'))
+        else:
+            active = None
+
+        print('active',active)
+
         filters = [Annotations.annotator_id == session['id']]
         if flag >= 0:
             filters.append(Annotations.review_flag == flag)
@@ -315,7 +322,8 @@ def review():
                                 meta_data=meta_data, 
                                 inprogress=inprogress,
                                 completed=completed,
-                                flag=flag)
+                                flag=flag,
+                                active=active)
 
 
     # User is not loggedin redirect to login page
@@ -547,6 +555,7 @@ def mark_completed():
 def flag_for_review():
     response = {"error":"no data"}
     request_data = request.get_json()
+    flag=None
 
     if request_data:
         annotation_id = request_data['annotation_id']

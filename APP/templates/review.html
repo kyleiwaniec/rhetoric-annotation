@@ -44,8 +44,8 @@ window.onload = function() {
 <div class="container mt-3">
     <div class="row">
         <div class="col-md-auto">
-            <p>TODO: instructions/introduction</p>
-           
+            <h2>Review</h2>
+           <p>&nbsp;</p>
         </div>
     </div>
     <!--  tabs -->
@@ -66,10 +66,10 @@ window.onload = function() {
                           </a>
 
                           <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=1) }}"><i class="bi bi-bookmark-fill"></i> Flagged</a></li>
-                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=0) }}"><i class="bi bi-bookmark"></i> Not Flagged</a></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active, filter=1) }}"><i class="bi bi-bookmark-fill"></i> Flagged</a></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active, filter=0) }}"><i class="bi bi-bookmark"></i> Not Flagged</a></li>
                             <li><hr class="dropdown-divider"></li>
-                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0) }}">Clear filter</a></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active) }}">Clear filter</a></li>
                           </ul>
                         </div>
 
@@ -100,6 +100,8 @@ window.onload = function() {
                                 data-bs-placement="top" 
                                 data-bs-custom-class="small-tooltip"
                                 data-bs-title="edit annotation"></i></a>
+                            
+                            <a href="#" class="flag_for_review" onclick="flagForReview(this,{{sentence.id}}); return false;">
                             {% if sentence.review_flag == 1 %}
                                 <i class="bi bi-bookmark-fill text-primary-emphasis me-3"
                                 data-bs-toggle="tooltip" 
@@ -113,7 +115,7 @@ window.onload = function() {
                                 data-bs-custom-class="small-tooltip"
                                 data-bs-title="flag for review"></i>
                             {% endif %}
-                            
+                            </a>
                         </div>
                     </div>
                     {% endfor %}
@@ -161,30 +163,31 @@ window.onload = function() {
                         <div class="col">{{sentence.text}}</div>
                         <div class="col-auto">
                             <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
-                                <i class="bi bi-pencil-fill me-3"
+                                <i class="bi bi-pencil-fill"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
                                 data-bs-custom-class="small-tooltip"
                                 data-bs-title="edit annotation"></i></a>
+                            <a href="#" class="flag_for_review" onclick="flagForReview(this,{{sentence.id}}); return false;">
                             {% if sentence.review_flag == 1 %}
-                                <i class="bi bi-bookmark-fill text-primary-emphasis me-3"
+                                <i class="bi bi-bookmark-fill text-primary-emphasis ms-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
                                 data-bs-custom-class="small-tooltip"
                                 data-bs-title="unflag"></i>
                             {% else %}
-                                <i class="bi bi-bookmark me-3"
+                                <i class="bi bi-bookmark ms-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
                                 data-bs-custom-class="small-tooltip"
                                 data-bs-title="flag for review"></i>
                             {% endif %}
-                            
-                            <a href="#"><i class="bi bi-person-check-fill"
+                            </a>
+                            <!-- <a href="#"><i class="bi bi-person-check-fill ms-3"
                                 data-bs-toggle="tooltip" 
                                 data-bs-placement="top" 
                                 data-bs-custom-class="small-tooltip"
-                                data-bs-title="check annotator agreement"></i></a>
+                                data-bs-title="check annotator agreement"></i></a> -->
                         </div>
                     </div>
                     {% endfor %}

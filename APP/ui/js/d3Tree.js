@@ -1,7 +1,12 @@
 // Inspired by "D3.js Drag and Drop Zoomable Tree" by Rob Schmuecker <robert.schmuecker@gmail.com>
 // https://gist.github.com/robschmuecker/7880033
 
-function d3Tree(treeData) {
+function d3Tree(treeData,zoomAmount) {
+
+    var zoomFactor = zoomAmount ? zoomAmount : 1
+
+    console.log('zoomFactor',zoomFactor)
+
     // panning variables
     var panSpeed = 200;
     // Misc. variables
@@ -16,7 +21,8 @@ function d3Tree(treeData) {
     var viewerHeight = 500;
 
     var tree = d3.layout.tree()
-        .size([viewerWidth-20, viewerHeight]);
+        .size([(viewerWidth*zoomFactor)-20, (viewerHeight*zoomFactor)]);
+
 
     // define a d3 diagonal projection for use by the node paths later on.
     var diagonal = d3.svg.diagonal()
@@ -85,10 +91,10 @@ function d3Tree(treeData) {
 	
     // define the baseSvg, attaching a class for styling and the zoomListener
     var baseSvg = d3.select("#tree-container").append("svg")
-        .attr("width", viewerWidth)
-        .attr("height", viewerHeight)
-        .attr("class", "overlay");
-        // .call(zoomListener)
+        .attr("width", viewerWidth*zoomFactor)
+        .attr("height", viewerHeight*zoomFactor)
+        .attr("class", "overlay")
+        .call(zoomListener);
 		// .on("dblclick.zoom", null);
 
 	// The arrowmarker to be appended at the end of each path
@@ -198,7 +204,7 @@ function d3Tree(treeData) {
 
         // Set heights between levels based on maxLevel.
         nodes.forEach(function(d) {
-            d.y = (d.depth * (viewerHeight/(maxLevel)));
+            d.y = (d.depth * ((viewerHeight*zoomFactor)/(maxLevel)));
         });
 
         // Update the nodes…
@@ -341,7 +347,7 @@ function d3Tree(treeData) {
 
     // Define the root
     root = treeData;
-    root.x0 = viewerWidth / 2;
+    root.x0 = (viewerWidth*zoomFactor) / 2;
     root.y0 = 0;
 
     // Layout the tree initially and center on the root node.

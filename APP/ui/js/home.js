@@ -1,3 +1,7 @@
+var zoomfactor = 1;
+const pageWidth = _j(document).width();
+
+
 function initTree(DBdata) {
 
 	sentence_id = DBdata[0].sentence_id
@@ -42,7 +46,18 @@ function initTree(DBdata) {
 
 	return false;
 }
-
+function zoomTree(direction){
+	if (direction == 'out'){
+		zoomfactor *= 0.8
+	}else if (direction == 'in'){
+		zoomfactor *= 1.2
+	}else{
+		new_pageWidth = _j(document).width();
+		zoomfactor = pageWidth/new_pageWidth
+	}
+	d3Tree(jsonData,zoomfactor);
+	
+}
 
 function pushProperty(parent,newData) {
 	if (!parent){parent = jsonData}

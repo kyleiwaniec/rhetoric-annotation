@@ -13,8 +13,20 @@
 </div>
 
 
-<div class="container-fluid min-vh-100 d-flex flex-column">
+<div class="container-fluid min-vh-100 d-flex flex-column position-relative">
+<div class="zoom position-absolute top-0 end-0 p-2">
 
+
+
+		<div class="btn-group" role="group" aria-label="First group">
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('in')"><i class="bi bi-zoom-in"></i></button>
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('out')"><i class="bi bi-zoom-out"></i></button>
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('reset')"><i class="bi bi-arrow-clockwise"></i></button>
+	  </div>
+
+
+
+</div>
 <div class="row">
 	<div class="col">
 		<div id="tree-container"></div>

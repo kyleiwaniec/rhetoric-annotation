@@ -1,4 +1,4 @@
-var zoomfactor = 1;
+var zoomfactor = [1,1];
 const pageWidth = _j(document).width();
 
 
@@ -48,13 +48,17 @@ function initTree(DBdata) {
 }
 function zoomTree(direction){
 	if (direction == 'out'){
-		zoomfactor *= 0.8
+		zoomfactor[0] *= 0.8
+		zoomfactor[1] *= 0.8
 	}else if (direction == 'in'){
-		zoomfactor *= 1.2
+		zoomfactor[0] *= 1.2
+		zoomfactor[1] *= 1.2
 	}else{
 		new_pageWidth = _j(document).width();
-		zoomfactor = pageWidth/new_pageWidth
+		zoomfactor[0] = pageWidth/new_pageWidth
+		zoomfactor[1] = 1
 	}
+	console.log(zoomfactor)
 	d3Tree(jsonData,zoomfactor);
 	
 }

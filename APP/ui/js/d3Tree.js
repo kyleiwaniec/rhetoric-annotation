@@ -3,9 +3,7 @@
 
 function d3Tree(treeData,zoomAmount) {
 
-    var zoomFactor = zoomAmount ? zoomAmount : 1
-
-    console.log('zoomFactor',zoomFactor)
+    var zoomFactor = zoomAmount ? zoomAmount : [1,1]
 
     // panning variables
     var panSpeed = 200;
@@ -17,11 +15,11 @@ function d3Tree(treeData,zoomAmount) {
     // size of the diagram
 	var pageWidth = _j(document).width();
     //var viewerWidth = pageWidth - (0.2 * pageWidth);
-    var viewerWidth = pageWidth;
-    var viewerHeight = 500;
+    var viewerWidth = pageWidth*zoomFactor[0];
+    var viewerHeight = 500*zoomFactor[1];
 
     var tree = d3.layout.tree()
-        .size([(viewerWidth*zoomFactor)-20, (viewerHeight*zoomFactor)]);
+        .size([viewerWidth-20, viewerHeight]);
 
 
     // define a d3 diagonal projection for use by the node paths later on.
@@ -91,8 +89,8 @@ function d3Tree(treeData,zoomAmount) {
 	
     // define the baseSvg, attaching a class for styling and the zoomListener
     var baseSvg = d3.select("#tree-container").append("svg")
-        .attr("width", viewerWidth*zoomFactor)
-        .attr("height", viewerHeight*zoomFactor)
+        .attr("width", viewerWidth)
+        .attr("height", viewerHeight)
         .attr("class", "overlay")
         .call(zoomListener);
 		// .on("dblclick.zoom", null);
@@ -181,6 +179,7 @@ function d3Tree(treeData,zoomAmount) {
     }
 
     function update(source) {
+        
         // Compute the new height, function counts total children of root node and sets tree height accordingly.
         // This prevents the layout looking squashed when new nodes are made visible or looking sparse when nodes are removed
         // This makes the layout more consistent.
@@ -204,12 +203,13 @@ function d3Tree(treeData,zoomAmount) {
 
         // Set heights between levels based on maxLevel.
         nodes.forEach(function(d) {
-            d.y = (d.depth * ((viewerHeight*zoomFactor)/(maxLevel)));
+            d.y = (d.depth * (viewerHeight/maxLevel));
         });
 
         // Update the nodes…
         node = svgGroup.selectAll("g.node")
             .data(nodes, function(d) {
+                
                 return d.id || (d.id = ++i);
             });
 
@@ -221,9 +221,16 @@ function d3Tree(treeData,zoomAmount) {
             .attr("transform", function(d) {
                 return "translate(" + source.x0 + "," + source.y0 + ")";
             })
+            .attr("data-bs-toggle",function(d){
+                return "tooltip";
+            })
+            .attr("data-bs-placement",function(d){
+                return "top";
+            })
+            .attr("data-bs-title",function(d){
+                return d.name;
+            })
             .on('click', click);
-
-
         
 
 		nodeEnter.append("rect")
@@ -347,13 +354,29 @@ function d3Tree(treeData,zoomAmount) {
 
     // Define the root
     root = treeData;
-    root.x0 = (viewerWidth*zoomFactor) / 2;
+    root.x0 = viewerWidth / 2;
     root.y0 = 0;
 
     // Layout the tree initially and center on the root node.
+
     update(root);
     d3.select('g').attr("transform", "translate(0,20)");
 
 
+    // tooltips for node labels
+    var showTips = true;
+
+    _j('svg .node').tooltip({
+        'container': 'body',
+        'placement': 'top',
+        'title': function(elem){
+           var d = d3.select(elem).datum(); 
+           if (showTips) {
+                return tag_set[d.name];
+            }else{
+                return false; 
+            } 
+       }
+    });
 
 }

@@ -1,0 +1,586 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_gpt3.5_0.0_V3_2,property_gpt3.5_0.0_V3_2
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'inserting' introduces the concept of negation as it implies the action of putting negative search suggestions, which involves contradiction or denial of something.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of the phrase 'inserting negative search suggestions' involves the denial or contradiction of positive search suggestions, indicating the presence of negation in the verb choices.""
+}",['negation'],"{
+  ""Properties"": [
+    ""negation""
+  ],
+  ""Explanation"": ""The use of 'negative' search suggestions is a form of negation, as it involves the contradiction or denial of positive search suggestions.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'negative search suggestions' involves the contradiction or denial of positive information, making it an example of negation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text contains the property of negation, as it discusses the insertion of negative search suggestions to shift opinions of undecided voters.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'negative search suggestions' and the mention of 'shift the opinions' indicate the presence of negation in the text.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence describes the action of inserting negative search suggestions to influence undecided voters, but it does not directly express contradiction or denial of something. Instead, it presents a statement about the potential impact of manipulating search engine results.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not use verbs like might, likely, or perhaps to express possibility or likelihood. Instead, it presents a statement of fact based on research findings and reported information, without indicating possibility or uncertainty.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, it contains standard verb usage without converting any verbs into nouns.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence provided does not contain verbs that endow physical objects or abstractions with human-like agency. Instead, it discusses the actions of search engines and the reporting of research findings, which do not involve personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence does not involve multiplying the subjects or verbs in a single predication. Instead, it presents a complex statement about the impact of negative search suggestions on undecided voters, without multiplying subjects or verbs within the predication.', 'Property': 'multiplication'}]",[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement contains negation in the form of denial and contradiction of the speaker's well-being.""
+}",['negation'],"{
+  ""Properties"": [
+    ""negation""
+  ],
+  ""Explanation"": ""The use of 'should be killed' and 'should die' in the reported speech indicates negation, as these phrases express denial or contradiction of the speaker's well-being.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The quote includes the negation of the speaker's safety and well-being through the use of 'should be killed' and 'should die'.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'was' in parentheses indicates a potential negation, as it contradicts the direct quote from the speaker.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'should' in the context of being killed and dying implies negation, as it contradicts the normal expectation of safety and survival.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'should be killed' and 'should die' involves the negation of the speaker's well-being.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb was is used to indicate the past continuous tense, and it does not directly express contradiction or denial. Instead, it describes an ongoing action in the past. The negation in the sentence is conveyed through the verbs should be killed and should die, which express the denial of a desired action or state.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The verb was is a past tense form of the verb to be, used to indicate a state of being or existence. Modality typically involves auxiliary verbs like might, could, should, would, etc., which express possibility, likelihood, or necessity. In the given sentence, the verb was is used to describe an action in the past, rather than to convey possibility or likelihood.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided contains the verb screaming, which is not nominalized. The verb screaming is a present participle used to describe the action of the woman at that moment, not a noun form of a verb.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human characteristics to non-human entities. In the provided sentence, the verb screaming is not personification; it is describing the action of a person, not attributing human-like agency to a non-human entity.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating or multiplying the verbs or subjects within a single predication. In the provided sentence, the verb was is not being multiplied or repeated within the predication. Therefore, it does not fit the definition of multiplication in the context of verb choices.', 'Property': 'multiplication'}]",[]
+243,[2 6],Women everywhere should be furious.,Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The example does not exhibit any of the properties besides negation. The use of 'should' implies an expectation or obligation rather than a possibility, ruling out modality. The verb 'should be' is not nominalized, personified, or multiplied in this case.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement expresses a strong sentiment of anger or frustration, indicating negation as it denies the current state of affairs for women.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text does not contain any other properties listed.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement expresses a strong emotion of anger, which can be seen as a form of negation or contradiction to the current state of affairs.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement expresses a denial or contradiction of the current situation, as it suggests that women are not currently furious but should be."" 
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement expresses a strong emotion of anger, which can be seen as a form of negation or contradiction to the current state of affairs.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb should be expresses an expectation or a suggestion, but it does not directly contradict or deny something. Therefore, it does not fall under the category of negation in the context of verb choices.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence uses the modal verb should, which expresses obligation or expectation, rather than possibility. Modality typically involves verbs like might, likely, or perhaps that express possibility or likelihood, which is not the case in the given sentence.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the sentence Women everywhere should be furious does not involve nominalization. Nominalization involves turning a verb into a noun, but in this sentence, furious is an adjective modifying the noun Women. It is not a nominalized form of a verb.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the sentence Women everywhere should be furious is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In this sentence, the verb should be is not personifying anything; it is expressing a state of being or a suggestion, but it does not attribute human-like agency to non-human entities.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the sentence Women everywhere should be furious is not multiplication. Multiplication involves repeating the same verb for multiple subjects or objects within a single predication. In the given sentence, should be furious is a single verb phrase applied to the subject Women everywhere. It does not involve the repetition of the same verb for multiple subjects or objects within the same predication.', 'Property': 'multiplication'}]",[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The sentence negates the possibility of burning crosses on the Jewish community's lawn, and personifies the Jewish community by suggesting they won't allow such an action.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'won't' indicates negation by denying the possibility of the Jewish community allowing the burning of crosses on their lawn.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'won't let them' involves negation, and the phrase 'the Jewish community won't let them burn crosses on their lawn' personifies the Jewish community by attributing agency to it.""
+}","['negation', 'personification']",False,"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'won't' in 'the Jewish community won't let them' indicates negation, and the phrase 'the Jewish community won't let them burn crosses on their lawn' personifies the Jewish community by endowing it with the agency to prevent an action.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'won't' in 'the Jewish community won't let them' indicates negation, and the phrase 'the Jewish community won't let them burn crosses on their lawn' personifies the Jewish community by attributing the action of not allowing to it.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'won't' in 'the Jewish community won't let them' indicates negation, and the phrase 'the Jewish community won't let them burn crosses on their lawn' personifies the Jewish community by endowing it with the agency to prevent the action.""
+}","['negation', 'personification']",1,"['negation', 'personification']",1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb wont to express a future refusal or denial, but this does not directly relate to the concept of negation. Instead, it conveys a strong refusal or prohibition, which is not the same as negation in the context of verb choices.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. The sentence provided does not contain such verbs. Instead, it contains verbs expressing capability and permission (can go, let them), which do not fall under the category of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. The sentence contains verbs go, whine, burn, and let, which are not used as nouns. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the use of whine and burn crosses does not attribute human-like agency to non-human entities. Instead, these verbs are used in a figurative sense to convey the actions of people, not objects or abstractions.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs occurs when multiple verbs are used to describe a single subject or action. In the provided sentence, go and whine are separate actions attributed to the subjects they. These verbs are not multiplying the subjects or verbs in a single predication, so it does not fit the definition of multiplication in the context of verb choices.', 'Property': 'multiplication'}]",[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text uses the negation property to deny the possibility of consecrating a brothel or blessing a concentration camp or unauthorized weapons.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not' in the sentence explicitly denies consecrating a brothel, blessing a concentration camp, or using weapons for purposes other than hunting or legitimate self-defense, demonstrating negation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text uses the concept of negation to deny the possibility of consecrating a brothel, blessing a concentration camp, or blessing weapons not explicitly ordained for certain purposes.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text contains the negation of consecrating a brothel and blessing a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text contains the use of negation, specifically the contradiction or denial of consecrating a brothel, blessing a concentration camp, or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text contains negation in the form of denying the consecration or blessing of certain entities.""
+}",['negation'],1,['negation'],0.0,0.0,,"['modality','negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses verbs like consecrate, bless, and ordained, which are not directly contradicting or denying something. Instead, they are used to express the idea of approval or sanctification. The sentence is discussing what can and cannot be approved or blessed, rather than directly denying or contradicting something.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of could and would in the sentence indicates possibility and potential, which aligns with the concept of modality as the language of possibilities with modifiers like might, likely, and perhaps.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this process. Instead, the sentence uses verbs such as consecrate, bless, and ordained, which are not nominalized forms. These verbs are used in their original verb form and are not transformed into nouns as in nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verbs consecrate, bless, and ordained are not personifying non-human entities; rather, they are used in a metaphorical or symbolic sense to convey a deeper meaning about the actions being described.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a verb to emphasize a series of actions or to create a rhythmic effect. In the provided sentence, the verbs consecrate, bless, and ordained are not being multiplied within a single predication. Instead, each verb is used to convey a distinct action or concept, making it a different type of verb usage.', 'Property': 'multiplication'}]",['modality']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'is not' indicates negation, and the phrase 'it is hard to see what a promising GOP agenda might look like' uses modality to express possibility.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The verb 'is' in 'is not' expresses negation, and the use of 'might' in 'might look like' expresses modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'if Trumpism is not the future' indicates negation, and the phrase 'it is hard to see' expresses modality by presenting a possibility.""
+}","['negation', 'modality']",True,"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'if Trumpism is not the future' indicates negation, and the use of 'might' in 'what a promising GOP agenda might look like' indicates modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'if Trumpism is not the future' indicates negation, and the use of 'might' in 'what a promising GOP agenda might look like' indicates modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'if Trumpism is not the future' indicates negation, and the use of 'might' in 'what a promising GOP agenda might look like' indicates modality.""
+}","['negation', 'modality']",1,"['negation', 'modality']",0.0,1.0,,"['negation', 'modality']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb is not is a form of negation, but in this context, it is used to express the absence of a particular condition rather than a direct contradiction or denial of something. The sentence is discussing a hypothetical situation rather than directly negating a specific claim or statement.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of might in the sentence indicates a sense of possibility or uncertainty, which aligns with the concept of modality as the language of possibilities with modifiers like might.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun. In the given sentence, Trumpism and future are nouns, and is is a verb. The sentence does not involve the transformation of a verb into a noun, so it does not exemplify nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verb is is not endowing any physical object or abstraction with human-like agency. It is simply stating a condition or possibility without attributing human characteristics to non-human entities.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs occurs when multiple verbs are used to express a series of actions or qualities related to the subject. In the provided sentence, is is the only verb used to convey the state of Trumpism and the future of the GOP. It does not involve the multiplication of verbs within a single predication.', 'Property': 'multiplication'}]",['modality']
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",Verb_choices,['modality'],"['modality', 'personification']",['modality'],False,[],"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The verb 'said' is used to attribute speech to the Magisterium, endowing it with human-like agency.""
+}",['personification'],"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The use of 'he said' personifies the Magisterium, endowing it with human-like agency as if it can speak and make statements.""
+}",['personification'],"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The verb 'said' is used to attribute the act of speaking to the abstract concept of the Magisterium, endowing it with human-like agency.""
+}",['personification'],True,"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The use of 'he said' personifies the Magisterium, endowing it with human-like agency.""
+}",['personification'],"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The use of 'he said' personifies the Magisterium, endowing it with human-like agency by attributing speech to it.""
+}",['personification'],"{
+  ""Properties"": [""personification""],
+  ""Explanation"": ""The use of 'he said' personifies the Magisterium, endowing it with the ability to speak and express an opinion.""
+}",['personification'],1,['personification'],0.0,1.0,,['personification'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb said is used to convey a statement or assertion, not a contradiction or denial. The speaker is expressing a belief or position, rather than negating or contradicting something.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. The sentence provided does not contain such verbs. Instead, it presents a statement of fact and reported speech, indicating what someone said, rather than expressing possibility or likelihood.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun. In the given sentence, the verbs decide and can are not being turned into nouns. Therefore, the sentence does not demonstrate nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities to non-human entities. In the given sentence, the verb said is not personifying any non-human entity; it is simply used to convey the act of speaking by a human, in this case, the Magisterium. Therefore, the sentence does not exhibit personification in its verb choice.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs occurs when multiple verbs are used to describe a single subject or action. In the provided sentence, he said is a reporting verb, and can only decide is a modal verb phrase. These verbs are not multiplying the subjects or verbs in a single predication, so the sentence does not exemplify the concept of multiplication in verb choices.', 'Property': 'multiplication'}]",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Verb_choices,[],[],[],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'either/or' creates a sense of negation by presenting opposing options.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'Either...or' presents a negation of one option in favor of the other.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The use of 'either... or' creates a sense of negation, and the multiplication of subjects 'stand with BDS, Hamas, blood libels and those who want to destroy Israel' emphasizes the contrast between the choices.""
+}","['negation', 'multiplication']",False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'either...or' creates a sense of negation by presenting two opposing options.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'either/or' creates a sense of negation by presenting two opposing options.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'either...or' creates a sense of negation by presenting two opposing options.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence presents a choice between two options and does not directly contradict or deny something. It uses the conjunction or to present two contrasting possibilities, rather than negating a specific statement.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence presents a conditional statement with the verbs stand and want, which express a choice or condition, rather than indicating possibility or likelihood, as is characteristic of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses the verb stand in its original form, and it does not convert a verb into a noun as nominalization would require.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities to non-human entities. In the provided sentence, there are no verbs that endow physical objects or abstractions with human-like agency. The sentence is a statement of choice and does not involve personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence presents a choice between two options, stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews. It does not involve the multiplication of subjects or verbs within a single predication, as seen in the example provided for multiplication in the context of verb choices.', 'Property': 'multiplication'}]",[]
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The statement includes negation by denying the possibility of blessing a union between homosexual individuals, and modality by expressing the possibility with the use of 'may not'.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The statement includes the negation 'may not' and expresses a sense of possibility with the use of 'one may'.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'may not' negates the action of blessing a union of two homosexual men or of lesbian women.""
+}",['negation'],False,"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'may not' indicates negation, while the use of 'one may' indicates modality, expressing a possibility.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'may not' indicates negation, while the use of 'one may' indicates modality, expressing a possibility.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The text contains negation by denying the possibility of blessing a union of two homosexual men or of lesbian women. It also includes modality by using the language of possibilities with the modifier 'may' to express the idea of permission or ability.""
+}","['negation', 'modality']",1,"['negation', 'modality']",1.0,1.0,,"['negation', 'modality']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses modal verbs may not, which express prohibition or possibility rather than contradiction or denial. The sentence is expressing a prohibition rather than negation.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of may in one may not bless indicates a possibility or permission, which aligns with the concept of modality as the language of possibilities with modifiers like might, likely, perhaps.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses the verbs considers, weighs, knows, and may bless without converting them into nouns. Therefore, the sentence does not exemplify nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence provided does not endow physical objects or abstractions with human-like agency, but rather presents a statement of consideration and opinion.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence uses the verb considers to introduce a conditional clause, and weighs to present another action. These verbs are not multiplying the subjects or verbs in a single predication, but rather presenting separate actions or considerations. Therefore, the type of verb choice in the sentence does not align with the concept of multiplication as defined in the context of Verb choices.', 'Property': 'multiplication'}]",['modality']
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Verb_choices,[],[],[],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'consider' is used to express the denial or contradiction of the idea that the action is moral by many Catholics.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'despite' introduces a contradiction, denying any expected positive outcome of the situation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The sentence contains the negation of the belief that the institution was considered moral, by expressing that growing numbers of Catholics actually consider it immoral.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'despite' introduces a contradiction or denial of the expected outcome, indicating the presence of negation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'despite' introduces a contradiction, indicating negation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'despite' introduces a contradiction or denial of the expected outcome, indicating the presence of negation.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb consider expresses the action of regarding or deeming something in a certain way, rather than contradicting or denying something. Therefore, it does not fall under the category of negation in this context.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it presents a statement of fact about the beliefs of growing numbers of Catholics regarding a particular issue, without indicating possibility or likelihood.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun. In the given sentence, growing is a present participle used as an adjective to modify numbers, and consider is a verb. There is no transformation of a verb into a noun as seen in nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verb consider does not attribute human-like agency to a non-human entity, so it does not exemplify personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence contains a single subject (growing numbers of Catholics) and a single verb (consider). There is no multiplication of subjects or verbs within a single predication. Therefore, the answer is no.', 'Property': 'multiplication'}]",[]
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Verb_choices,[],[],[],True,[],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'believe' indicates the language of possibilities, suggesting that the Democrats have a chance to retake the Senate and the House.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'they believe' indicates a language of possibilities, suggesting the Democrats' perspective on their chance to retake the Senate and the House.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'believe' indicates a language of possibility, suggesting the Democrats' belief in the potential outcome of retaking the Senate and the House after the midterms.""
+}",['modality'],True,"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'believe' indicates a language of possibility, suggesting that the Democrats see a chance to retake the Senate and the House after the midterms.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'believe' indicates a language of possibility, suggesting that the Democrats see a chance to retake the Senate and the House after the midterms.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'believe' indicates a language of possibilities, suggesting that the Democrats see the potential for retaking the Senate and the House after the midterms.""
+}",['modality'],1,['modality'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb want expresses the desire or intention of Democrats to delay the vote, rather than contradicting or denying something. Therefore, it does not fall under the category of negation.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence uses want and believe, which are not modifiers indicating possibility, uncertainty, or likelihood. Instead, these verbs express desire and conviction, making them different from the language of possibilities typically associated with modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun. In the provided sentence, want and believe are verbs, and they have not been transformed into nouns. Therefore, the sentence does not demonstrate nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The sentence does not exhibit personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verb want does not attribute human-like agency to any non-human entity, so it does not qualify as personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs or subjects in a single predication involves repeating a verb or subject to emphasize a point or create a rhetorical effect. In the provided sentence, there is no repetition of verbs or subjects within a single predication. Instead, the sentence contains a compound predicate (want to delay and believe) but does not exhibit the specific pattern of multiplication as described in the context.', 'Property': 'multiplication'}]",[]
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Verb_choices,['multiplication'],['multiplication'],[],False,[],"{
+  ""Properties"": [
+    ""negation"",
+    ""personification""
+  ],
+  ""Explanation"": ""The text includes negation through the contradiction of the Pope's power to dismiss bishops and cardinals. Additionally, there is personification as the Church is described as creating a 'gay culture.'""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The text contains negation as it denies the Pope's ability to dismiss Modernist bishops, and it also personifies the Church by attributing the creation of an 'obscene gay culture' to bishops.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The text includes negation by denying the Pope's power to dismiss Modernist bishops, and multiplication by multiplying the verbs 'sacks,' 'removed,' and 'dismiss' in a single predication.""
+}","['negation', 'multiplication']",False,"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'somehow powerless' negates the idea that the Pope has the power to dismiss Modernist bishops. Additionally, the phrase 'has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media' personifies the disciplinary act as being under fire from the media.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'somehow powerless' negates the idea that the Pope is actually powerless, and the phrase 'sacks conservative bishops and cardinals according to his pleasure' personifies the Pope by attributing agency and will to his actions.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'somehow powerless' negates the idea that the Pope has the power to dismiss Modernist bishops.""
+}",['negation'],0,"['negation', 'personification']",0.0,0.0,GPT wrongly assings negation,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence primarily uses verbs to describe actions and events, rather than contradicting or denying something. It expresses a series of actions and events related to the Popes decisions and actions, rather than negating or denying a specific statement or concept.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves the use of auxiliary verbs or modal verbs like might, likely, perhaps to express possibility, likelihood, or necessity. The sentence provided does not contain such modifiers, but rather expresses a strong opinion or assertion about the actions of the Pope, making it a statement of fact rather than possibility.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided contains a series of active verbs and does not convert any verbs into nouns. Instead, it uses a series of clauses and active verbs to convey the actions and events described.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence provided does not assign human-like agency to physical objects or abstractions, but rather describes the actions and decisions of a Pope in a critical manner.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to apply to multiple subjects in a list. In the provided sentence, the verbs sacks, has just removed, is, powerless to dismiss, have created, and replace are not repeated to apply to multiple subjects. Instead, each verb is used to describe different actions or states related to different subjects, making it a complex sentence with multiple independent clauses.', 'Property': 'multiplication'}]",[]
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Verb_choices,['negation'],['negation'],['negation'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'did not' in 'we did not have confidence' indicates negation, as it expresses the denial of confidence in Strzok's decision.""
+}",['negation'],"{
+  ""Properties"": [
+    ""negation""
+  ],
+  ""Explanation"": ""The use of 'did not have confidence' in the sentence constitutes negation as it expresses the denial of confidence in Strzok's decision.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'did not have confidence' expresses negation, indicating the denial of confidence in Strzok's decision.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'did not' in 'we did not have confidence' indicates negation, as it contradicts the presence of confidence.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'did not have confidence' in the sentence indicates negation, as it expresses the denial of confidence in Strzok's decision.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'did not have confidence' in the sentence indicates negation, as it expresses the denial of confidence in Strzok's decision.""
+}",['negation'],1,['negation'],1.0,1.0,,['negation'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb did not have confidence, which expresses a lack of confidence rather than a contradiction or denial of something. Therefore, the verb choice does not represent negation in this context.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves the use of auxiliary verbs like might, could, would, should, etc., or adverbs like likely, perhaps, possibly to express possibility, likelihood, or certainty. The sentence provided does not contain such modifiers, but rather expresses a lack of confidence, which is not a typical feature of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence contains complex verb phrases and does not convert any verbs into nouns as in the example provided. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verb choice is focused on describing actions and decisions made by individuals, rather than attributing human-like agency to non-human entities.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication in the context of verb choices involves repeating a single verb to apply to multiple subjects, as in the example provided. In the given sentence, the verb said is not being multiplied to apply to multiple subjects or verbs within a single predication. Instead, it is a complex sentence with a subordinate clause (the report said) modifying the main clause (we did not have confidence...bias).', 'Property': 'multiplication'}]",[]
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Verb_choices,[],[],[],True,[],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'hope' implies modality, as it expresses a desire or wish. Additionally, the phrase 'turns out true' includes negation, as it implies doubt or skepticism about the truth of the story.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'hope' in the context of the negative statement 'the story turns out true' indicates negation as Greenwald is expressing a desire for the story not to be true.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'hope' expresses a sense of possibility or desire, indicating modality. The phrase 'turns out true' also suggests a level of doubt or uncertainty, which could be considered a form of negation.""
+}","['negation', 'modality']",False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'hope' in the context of the tweet implies a contradiction or denial of the story turning out true, indicating the presence of negation.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'hope' in the context of the tweet indicates a sense of possibility or uncertainty (modality), and the phrase 'turns out true' implies a potential contradiction or denial of the story (negation).""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'hope' in the context of the tweet implies a contradiction or denial of the story maligning Assange turning out to be true.""
+}",['negation'],0,['negation'],0.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb opined in the sentence indicates expressing an opinion rather than contradiction or denial. The sentence does not involve negation in the context of verb choices.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The verb opined is not a modal verb like might, likely, or perhaps that indicates possibility or likelihood. Instead, opined is a verb that indicates expressing an opinion or belief. Modality typically involves auxiliary verbs like might, could, would, etc., which were not used in the sentence.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but in the provided sentence, the verb opined is not transformed into a noun. Instead, it remains a verb in the sentence.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities to non-human entities. In the provided sentence, the verbs used (opined, turns out, is) do not attribute human-like qualities to physical objects or abstractions. Instead, they are used to convey actions and states of being in a straightforward manner.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to apply to multiple subjects or objects within a single predication. In the provided sentence, the verbs opined and is are used to convey different actions and are not repeated to apply to multiple subjects or objects within a single predication.', 'Property': 'multiplication'}]",[]
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'Fake News' in the title represents negation by denying the truthfulness of the story.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'fake news' and 'can't be trusted' in the headline involves negation by contradicting the trustworthiness of the media.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'fake news' is a form of negation, denying the truthfulness of the story. The personification is seen in 'The Media Can't Be Trusted', attributing human-like agency (trustworthiness) to the concept of media.""
+}","['negation', 'personification']",False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'fake news' and 'can't be trusted' in the headline indicates negation, as it contradicts the reliability of the media.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'can't be trusted' in the headline is a clear example of negation, as it contradicts the idea of the media being trustworthy.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'Fake News' in the headline negates the trustworthiness of the media.""
+}",['negation'],1,['negation'],0.0,1.0,,['negation'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb proves in the sentence does not directly contradict or deny something. Instead, it suggests that the fake news story serves as evidence that the media cannot be trusted. Therefore, the verb choice in this sentence does not express negation.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it presents a declarative statement about a news story, indicating a lack of trust in the media. The verb proves in this context is not expressing modality but rather making a definitive claim.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not contain a verb that has been transformed into a noun. Instead, it is a statement with a verb Proves that has not been converted into a noun form.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities to non-human entities. The sentence provided does not endow physical objects or abstractions with human-like agency, so it does not exemplify personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence contains a declarative statement and does not involve the multiplication of subjects or verbs within a single predication. Instead, it presents a straightforward assertion about a news story and the medias trustworthiness.', 'Property': 'multiplication'}]",[]
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Verb_choices,[],[],[],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text contains the negation of the body being that of Stephen Paddock, casting doubt on its identity.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The text includes negation in the form of questioning whether the body was that of Stephen Paddock and mentioning apparent contradictions in the police report.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""nominalization""],
+  ""Explanation"": ""The use of 'questions' and 'at odds' indicates negation by casting doubt, and 'autopsy' and 'documentation' are nominalizations of the verbs 'autopsied' and 'documented' respectively.""
+}","['negation', 'nominalization']",False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'questions as to whether' and 'apparently at odds with' both indicate a sense of contradiction or denial, suggesting the presence of negation.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'questions as to whether' and 'apparently at odds with' indicates a sense of contradiction or denial, suggesting the presence of negation in the text.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'questions as to whether' and 'apparently at odds with' indicate a sense of contradiction or denial, suggesting the presence of negation in the text.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence primarily involves expressing doubt and contradiction rather than directly denying or contradicting something. The verbs used in the sentence convey uncertainty and discrepancy rather than straightforward negation.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. The sentence provided does not contain such verbs. Instead, it seems to express uncertainty and doubt, but not through the use of modal verbs. Therefore, the verb choice in the sentence does not fall under the category of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence contains complex phrasing and uses verbs in their original form without converting them into nouns.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not exhibit personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence in question does not assign human-like agency to physical objects or abstractions, but rather discusses discrepancies in information related to a person, Stephen Paddock. Therefore, it does not exemplify personification in verb choice.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to apply to multiple subjects in a list. In the provided sentence, there is no repetition of a single verb to apply to multiple subjects. Instead, the sentence contains a complex structure with multiple clauses and does not fit the pattern of verb multiplication.', 'Property': 'multiplication'}]",[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb choice 'knew' in 'you knew about it' is an example of negation, as it contradicts a potential belief or claim of ignorance.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'knew' is used in the context of denying or contradicting a claim.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'not' in the phrase 'can see through this sham' negates the possibility of the American people being able to be deceived.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'can see through' implies the negation or denial of the sham being presented.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'can see through' implies the negation or denial of the sham, suggesting that the speaker hopes the American people will not be deceived.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'hope' expresses the denial or contradiction of the current situation, indicating a sense of disbelief or skepticism.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb hope expresses a feeling of expectation or desire, rather than contradiction or denial. The speaker is expressing a wish or desire for the American people to see through a situation, rather than denying or contradicting something.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. In the provided sentence, the verb hope expresses the speakers desire or wish, rather than a possibility or likelihood, making it a different type of verb choice.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence contains standard verb usage without converting any verbs into nouns.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verb see through is not an example of personification; rather, it is an idiomatic expression meaning to perceive the true nature of something or to understand the reality behind a situation.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to emphasize the repetition or multiplicity of an action. In the provided sentence, the verbs hope, can see, knew, and held are not repeated to multiply the action. Instead, each verb serves a distinct purpose in the sentence, expressing different actions and ideas. Therefore, it does not fit the definition of multiplication in the context of verb choices.', 'Property': 'multiplication'}]",[]
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Verb_choices,['modality'],"['modality', 'personification']",['modality'],False,[],"{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The text includes negation through the mention of 'regardless of whether the story turned out to be true or false', and multiplication through the repetition of actions ('excitedly spread the story', 'hyperventilate over it', 'reap the rewards').""
+}","['negation', 'multiplication']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The example includes the negation of whether the story turned out to be true or false.""
+}",['negation'],"{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The verb choices in the text involve negation through the phrase 'regardless of whether the story turned out to be true or false.' Additionally, there is multiplication in the form of the repetition of 'and' to list the anticipated reactions: 'excitedly spread the story,' 'hyperventilate over it,' and 'reap the rewards.'""
+}","['negation', 'multiplication']",False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'regardless of whether the story turned out to be true or false' involves negation, as it presents the contradiction or denial of a specific outcome.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'regardless of whether the story turned out to be true or false' involves negation by denying the impact of the truth or falsehood of the story on the rewards reaped.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'regardless of whether the story turned out to be true or false' involves negation by denying the impact of the story's veracity on the rewards reaped.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence describes an expectation or anticipation of certain actions and outcomes, rather than contradicting or denying something. The verbs knew, would cause, spread, would hyperventilate, and reap express foresight and expectation, rather than negation.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not represent modality. Modality typically involves verbs that express possibility, likelihood, or certainty, such as might, likely, or perhaps. The verbs in the provided sentence (knew, would cause, spread, would hyperventilate, reap) do not convey possibility or likelihood, but rather certainty and prediction. Therefore, the verb choices in the sentence do not align with the concept of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this practice. Instead, the sentence uses verbs such as spread, hyperventilate, and reap, which are not transformed into nouns. Therefore, the type of verb choice in the sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities to non-human entities. In the provided sentence, the verbs spread, hyperventilate, and reap are not personifying non-human entities, but rather describing actions in a figurative manner. These verbs do not endow physical objects or abstractions with human-like agency, so they do not fit the definition of personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication in the context of verb choices involves multiplying the subjects or verbs in a single predication, as seen in the example provided. In the given sentence, the verbs spread, hyperventilate, and reap are not multiplying the subjects or verbs in a single predication. Instead, they are describing separate actions or consequences, and therefore do not fit the definition of multiplication in this context.', 'Property': 'multiplication'}]",[]
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of the word 'never' in the phrase 'I never thought' indicates negation, denying the expectation of encountering a particular situation.""
+}",['negation'],"{
+  ""Properties"": [
+    ""negation""
+  ],
+  ""Explanation"": ""The usage of 'never' and 'when' in 'I never thought I’d see the day' indicates negation, denying the possibility of a certain event happening in the past or future.""
+}",['negation'],"{
+  ""Properties"": [
+    ""negation""
+  ],
+  ""Explanation"": ""The use of 'never' in 'I never thought' indicates a form of negation by denying the possibility of a certain belief or expectation.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'never' in 'I never thought' indicates negation, contradicting the expectation of seeing a particular event.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'never' in 'I never thought' indicates negation, contradicting the expectation of seeing a certain event.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'never' in 'I never thought' indicates negation, as it contradicts the expectation of seeing a certain event.""
+}",['negation'],1,['negation'],1.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb never thought to express a past disbelief or surprise, but it does not directly contradict or deny something. Instead, it conveys a strong sense of surprise or disbelief about the speakers past expectations.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. The sentence provided does not contain such verbs. Instead, it includes verbs expressing past thoughts and actions (thought, see, would unload). Therefore, the verb choices in the sentence do not align with the characteristics of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence contains complex verb phrases and does not convert any verbs into nouns as nominalization would require.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence provided does not endow physical objects or abstractions with human-like agency, but rather describes the actions and behaviors of specific individuals.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to apply to multiple subjects in a single predication. In the provided sentence, there is no such repetition of a single verb to apply to multiple subjects. Instead, the sentence contains a complex structure with multiple verbs and clauses, but not multiplication of a single verb.', 'Property': 'multiplication'}]",[]
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",Verb_choices,"['modality', 'negation']","['modality', 'negation']",['modality'],False,[],"{
+  ""Properties"": [""nominalization"", ""modality""],
+  ""Explanation"": ""The use of nominalization is evident in the transformation of the verb 'reasoning' into the noun 'reasoning.' The modality is present in the use of 'would be' to indicate possibility or likelihood.""
+}","['nominalization', 'modality']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'if it were not' introduces a form of negation by denying the possibility of finding something amusing.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'if it were not' presents a form of negation, contradicting the idea of the circular reasoning being amusing.""
+}",['negation'],False,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'if it were not' presents a form of negation by denying the possibility of the situation being amusing.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'if it were not' presents a form of negation, contradicting the idea that the circular 'reasoning' is amusing.""
+}",['negation'],"{
+  ""Properties"": [""nominalization""],
+  ""Explanation"": ""The use of 'reasoning' as a noun instead of a verb is an example of nominalization.""
+}",['nominalization'],0,['negation'],1.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb were in the subjunctive mood to express a hypothetical or unreal situation. It does not directly contradict or deny something, which is the essence of negation. Instead, it presents a hypothetical scenario for emphasis.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it presents a hypothetical situation using the subjunctive mood (were) to convey an unreal or hypothetical condition, which is not a feature of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses the gerund reasoning and the past participle called to convey the actions, which are not nominalized nouns.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verb called is not personifying any non-human entity; rather, it is simply indicating an action performed by a human, which does not align with the definition of personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence does not involve multiplying the subjects or verbs in a single predication. Instead, it contains a descriptive phrase (Kavanaugh Derangement Syndrome) modifying the noun reasoning.', 'Property': 'multiplication'}]",[]
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' in the statement 'It could but I don’t believe it would be' indicates a language of possibility or modality.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' and 'would' in the sentence indicates modality, expressing possibilities.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' expresses a sense of possibility, indicating that the statement is not a certainty, but a potential outcome.""
+}",['modality'],True,"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' and 'would' indicates modality, as it expresses a possibility and belief about the future.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' and 'would' indicates modality, as it expresses possibilities and beliefs.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'could' and 'would' indicates modality, expressing possibilities and beliefs.""
+}",['modality'],1,['modality'],1.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb believe to express doubt or disbelief, but it does not directly contradict or deny something. Instead, it conveys a lack of certainty about a particular outcome, which does not align with the definition of negation as the contradiction or denial of something.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of could and would indicates possibilities and likelihood, which are characteristic of modality in language. These modifiers express the speakers uncertainty and the potential for a certain outcome, aligning with the concept of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses the verb respects in its standard verb form, without converting it into a noun. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the sentence power respects power, the verb respects is not personifying power; rather, it is describing a characteristic or behavior often associated with power dynamics.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. The sentence power respects power does not involve multiplying the subjects or verbs in a single predication. Instead, it simply states a characteristic or action of power.', 'Property': 'multiplication'}]",['modality']
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The statement acknowledges the inevitability of injustices (negation) while also expressing the possibility or necessity of remedying them (modality).""
+}","['negation', 'modality']","{
+  ""Properties"": [""modality"", ""negation""],
+  ""Explanation"": ""The use of 'are bound to' implies modality by expressing a possibility, and 'everyone agrees that they should be ruthlessly remedied' contains negation by denying the absence of remedying the injustices.""
+}","['modality', 'negation']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The sentence contains negation in the phrase 'such injustices are bound to occur', indicating the denial of a perfectly just judicial system. It also includes modality with the phrase 'everyone agrees that they should be ruthlessly remedied', expressing a sense of possibility and agreement.""
+}","['negation', 'modality']",False,"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'such injustices are bound to occur' implies a sense of inevitability, which is a form of modality. The phrase 'everyone agrees that they should be ruthlessly remedied' contains the negation of the current state of affairs.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'such injustices are bound to occur' implies a sense of inevitability, which is a form of modality. The phrase 'everyone agrees that they should be ruthlessly remedied' contains the negation of the current state of affairs by suggesting that they 'should be ruthlessly remedied.'""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'fallen human condition' implies a sense of negation, while the use of 'bound to occur' and 'should be ruthlessly remedied' indicates modality by expressing possibilities and necessity.""
+}","['negation', 'modality']",1,"['negation', 'modality']",1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence does not directly contradict or deny something. Instead, it presents a statement about the inevitability of injustices in any judicial system and the agreement that they should be remedied.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or should. In the given sentence, the verbs are bound and agrees do not express possibility or likelihood, but rather state a condition and express agreement, making them not representative of modality.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence does not demonstrate this transformation. Instead, it uses adverbs and adjectives to modify the verbs occur and remedied, which does not align with the process of nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities to non-human entities. In the given sentence, the verbs occur and remedied do not attribute human-like agency to physical objects or abstractions, but rather describe actions in a more general sense.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating the same verb for multiple subjects or objects within a single predication. In the provided sentence, there is no repetition of a single verb for multiple subjects or objects. Instead, the sentence uses a variety of verbs (are bound, occur, agrees, should be ruthlessly remedied) to convey different actions and states, but none of these verbs are repeated for multiple subjects or objects within the same predication.', 'Property': 'multiplication'}]",[]
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'marking ballots themselves' and 'finding boxes of them everywhere' suggests a personification of the election officials, endowing them with the human-like agency. The implication of election officials 'finding' boxes of ballots everywhere also hints at negation, as it contradicts the expected process of ballot collection and counting.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of the verb 'finding' implies an action that is done intentionally, which contradicts the implication of 'finding' something by chance. This is an example of negation. Additionally, the phrase 'finding boxes of them everywhere' personifies the ballots, endowing them with the human-like agency of being 'found'."" 
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The use of 'marking' and 'finding' implies a contradiction or denial (negation) of legitimate ballot handling, and the multiplication of actions ('marking ballots themselves' and 'finding boxes of them everywhere') amplifies the accusation of election fraud.""
+}","['negation', 'multiplication']",False,"{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'marking ballots themselves' and 'finding boxes of them everywhere' implies a sense of agency and action by the election officials, which is an example of personification. The phrase 'when confronted about that, Gillum says, 'Every vote must be counted'' contains a form of negation, as it contradicts the actions of the election officials.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'marking ballots themselves' and 'finding' boxes of them everywhere implies a sense of contradiction or denial, indicating the presence of negation. Additionally, the personification of 'ballots' and 'boxes' as actively participating in the election process demonstrates the use of personification.""
+}","['negation', 'personification']","{
+  ""Properties"": [""negation"", ""personification""],
+  ""Explanation"": ""The use of 'marking ballots themselves' and 'finding boxes of them everywhere' implies a sense of human agency to the election officials, which is an example of personification. Additionally, the phrase 'when confronted about that' implies a contradiction or denial of the actions, which is an example of negation.""
+}","['negation', 'personification']",1,"['negation', 'personification']",0.0,0.0,GPT wrongly assings negation,[],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence describes actions and statements made by Democrat election officials and Gillum, but it does not directly involve the contradiction or denial of something, which is the essence of negation in verb choices.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it describes actions and events in a direct manner, without indicating possibility or likelihood. Therefore, it does not fall under the category of modality in verb choices.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, it contains present participle verbs (marking, finding, confronted) and an infinitive verb (to be counted). Therefore, the sentence does not exemplify nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities to non-human entities. In the provided sentence, the verbs marking, finding, and counted are not personifying non-human entities, but rather describing actions performed by human individuals. Therefore, the sentence does not demonstrate personification in its verb choices.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication in the context of verb choices involves multiplying the subjects or verbs in a single predication. In the provided sentence, there is no multiplication of subjects or verbs within a single predication. Instead, the sentence describes actions carried out by Democrat election officials and Gillum, but it does not involve the multiplication of subjects or verbs within a single predication.', 'Property': 'multiplication'}]",[]
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'is' negates the accusation made against Shapira by stating that he himself is guilty.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The sentence contains the negation of Shapira following his own advice.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'is' is used to negate the initial assertion made about Shapira, emphasizing the contradiction in his behavior.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'guilty' negates the innocence of Shapira, contradicting the accusation he makes against others.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'guilty' negates the innocence of Shapira, contradicting the accusation he makes against others.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'accuses' is negated by 'guilty of what he accuses others of.'""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses verbs like is and accuses, which do not directly express contradiction or denial. Instead, the sentence presents a contrast or contradiction in the actions or behaviors of the subject, Shapira, without using negating verbs.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. In the given sentence, the verb is is not expressing possibility or likelihood, but rather it is used to indicate a state of being. Therefore, it does not fall under the category of modality in the context of Verb choices.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun. In the given sentence, the verbs is and accuses are not nominalized; they are used as linking verbs and action verbs, respectively. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verb is guilty does not attribute human-like agency to a non-human entity; rather, it describes a state of being for a person, which does not align with the concept of personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb with multiple subjects in a single predication. In the provided sentence, there is no repetition of a single verb with multiple subjects. Instead, the sentence uses a single subject (Shapira) and a single verb (is guilty) to convey the action, which does not align with the concept of verb multiplication.', 'Property': 'multiplication'}]",[]
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'not inherently military' indicates negation, while the use of 'would', 'does', and 'might' indicate modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'does state' negates the extreme statement, indicating a contradiction or denial. Additionally, the use of 'I don't know' and 'would' reflects modality by expressing possibilities and uncertainty.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'not inherently military' indicates negation, and the use of 'that I would go quite that far' expresses modality.""
+}","['negation', 'modality']",True,"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'are not inherently military' indicates negation, and the use of 'would' in 'I would go quite that far' indicates modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'not' in 'not inherently military' indicates negation, and the use of 'would' and 'does' suggests modality.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'does state' and 'not inherently' indicate negation, while the use of 'I would go quite that far' and 'does state' indicate modality.""
+}","['negation', 'modality']",1,"['negation', 'modality']",1.0,1.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The phrase dont know is a negation, but the overall sentence does not express contradiction or denial. Instead, it conveys uncertainty or hesitation about going as far as something mentioned in the settlement.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it presents a statement of uncertainty and doubt using the phrase I dont know that I would go quite that far. This does not directly convey possibility or likelihood, which are characteristic of modality in verb choices.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence contains a mix of verb phrases and adverbial phrases, but it does not involve the conversion of verbs into nouns as seen in nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. The sentence provided does not endow physical objects or abstractions with human-like agency, but rather states a fact about a settlement and the governments acknowledgment regarding firearms.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs occurs when a single subject is associated with multiple verbs in a single predication. In the provided sentence, there is no multiplication of verbs. The sentence contains a complex structure with multiple clauses, but each clause has its own subject and verb, and there is no multiplication of verbs within a single predication.', 'Property': 'multiplication'}]",[]
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'resolved' is followed by the negation 'not', contradicting the possibility of resolving the problem simply by the resignation of some bishops and bureaucratic directives.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'resolved' is negated by the use of the word 'simply' in the sentence, indicating a denial that the problem of clergy abuse can be easily addressed.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'cannot' indicates a negation in the statement, denying the possibility of resolving the problem in the specified ways.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'cannot' in the sentence indicates negation, as it denies the possibility of resolving the problem of clergy abuse simply by the resignation of some bishops or bureaucratic directives.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'cannot' in the sentence indicates negation, as it expresses the denial of the possibility of resolving the problem simply by the resignation of some bishops or bureaucratic directives.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'cannot' in the statement indicates negation, as it denies the possibility of resolving the problem of clergy abuse simply by the resignation of some bishops or bureaucratic directives.""
+}",['negation'],1,['negation'],0.0,1.0,,['negation'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses verbs like resolved and be to convey the idea that the problem of clergy abuse cannot be solved simply by the resignation of some bishops or bureaucratic directives. These verbs express the concept of possibility and potential rather than contradiction or denial, which are characteristic of negation.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not represent modality. Modality typically involves verbs that express possibility, likelihood, or necessity, such as might, likely, or perhaps. The sentence provided does not contain such verbs, but rather expresses a statement of fact and opinion.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, it features standard verb usage such as wrote, be resolved, and resignation. Nominalization would involve using nouns derived from verbs, which is not the case in the given sentence.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verbs used (resolved, resignation, directives) do not attribute human-like agency to non-human entities, and therefore do not exemplify personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs occurs when multiple verbs are used to describe a single subject or action, as in the example provided. In the given sentence, there is no multiplication of verbs; instead, it presents a complex idea using a compound sentence structure with multiple clauses.', 'Property': 'multiplication'}]",[]
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",Verb_choices,['modality'],['modality'],['modality'],True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The verb 'lapsed' implies a contradiction or denial of the continued functioning of the Pontifical Commission for the Protection of Minors.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'lapsed' denies the ongoing existence of the Pontifical Commission for the Protection of Minors, indicating that it was no longer in operation after the members' terms expired.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The statement presents a contradiction or denial, as the Commission lapsed and could be disbanded, implying a potential negation of its existence.""
+}",['negation'],True,"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'lapsed' in the context of the Pontifical Commission for the Protection of Minors indicates a contradiction or denial of its previous active state, suggesting that it ceased to function as intended.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'lapsed' in the context of the Pontifical Commission for the Protection of Minors implies a negation, as it suggests a failure or expiration of the commission rather than its continued existence.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'lapsed' in the context of the Pontifical Commission for the Protection of Minors implies a contradiction or denial of its previous active state, indicating that it is no longer functioning as it should.""
+}",['negation'],1,['negation'],1.0,0.0,GPT wrongly assings negation,['modality'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verb lapsed in this context refers to the expiration of the Pontifical Commissions members terms, indicating a specific event rather than a contradiction or denial of something.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of could in could be disbanded indicates a possibility or potential outcome, which aligns with the concept of modality as the language of possibilities with modifiers like might, likely, and perhaps.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses the verb lapsed to describe an action that occurred, rather than turning a verb into a noun. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verb lapsed is not personifying the Pontifical Commission, but rather indicating that it expired or became invalid. Therefore, it does not fit the definition of personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication of verbs refers to the repetition of a verb to emphasize a series of actions or qualities. In the provided sentence, there is no repetition of a verb to emphasize a series of actions or qualities. Instead, the sentence describes a specific event and its consequences, using a single verb lapsed to convey the action that occurred in the past.', 'Property': 'multiplication'}]",['modality']
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Verb_choices,['multiplication'],['multiplication'],['multiplication'],True,[],"{
+  ""Properties"": [""multiplication""],
+  ""Explanation"": ""The verb 'have been forced' is multiplied to include 'to prioritize patients, ration services, and forgo elective surgeries.' This creates a multiplication of verbs in a single predication.""
+}",['multiplication'],"{
+  ""Properties"": [""multiplication""],
+  ""Explanation"": ""The sentence contains multiplication as it multiplies the verbs 'prioritize', 'ration', and 'forgo' to emphasize the range of actions hospitals have been forced to take.""
+}",['multiplication'],"{
+  ""Properties"": [""multiplication""],
+  ""Explanation"": ""The sentence contains multiplication as it multiplies the verbs 'prioritize', 'ration', and 'forgo' to emphasize the various actions hospitals have been forced to take.""
+}",['multiplication'],True,"{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The use of 'forced to prioritize', 'ration', and 'forgo' implies a sense of contradiction or denial, indicating the presence of negation. Additionally, the multiplication of verbs 'prioritize', 'ration', and 'forgo' in a single predication emphasizes the extent of the actions taken by hospitals.""
+}","['negation', 'multiplication']","{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The use of 'forced to prioritize', 'ration', and 'forgo' implies a sense of compulsion and denial, indicating negation. Additionally, the multiplication of verbs 'prioritize', 'ration', and 'forgo' emphasizes the multiple actions taken by hospitals in response to the situation.""
+}","['negation', 'multiplication']","{
+  ""Properties"": [""negation"", ""multiplication""],
+  ""Explanation"": ""The use of 'forced to prioritize', 'ration', and 'forgo' implies a sense of contradiction or denial, indicating the presence of negation. Additionally, the multiplication of verbs 'prioritize', 'ration', and 'forgo' in a single predication demonstrates the property of multiplication.""
+}","['negation', 'multiplication']",1,"['negation', 'multiplication']",1.0,0.0,GPT wrongly assings negation,['multiplication'],"[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The verbs prioritize, ration, and forgo do not directly express contradiction or denial. Instead, they indicate actions taken due to limited resources or other constraints.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not represent modality. The verbs forced, prioritize, ration, and forgo indicate actions that are being carried out rather than possibilities or likelihood. Modality typically involves verbs like might, likely, and perhaps that express the speakers attitude toward the likelihood or possibility of an action.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided contains a series of verbs (prioritize, ration, forgo) without converting them into nouns. Therefore, the sentence does not exemplify nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not demonstrate personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the verbs prioritize, ration, and forgo are used to describe actions taken by hospitals, but they do not attribute human-like agency to the hospitals themselves. Instead, these verbs describe actions performed by the hospitals as institutions, without implying human characteristics to them.', 'Property': 'personification'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the verb choices prioritize, ration, and forgo are multiplying the actions performed by the subject Hospitals. Each verb represents a distinct action that the hospitals have been forced to take, thus demonstrating the concept of multiplication in verb choices within a single predication.', 'Property': 'multiplication'}]",['multiplication']
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'should probably' indicates a sense of possibility or likelihood, qualifying the statement about Speaker Boehner re-checking the old party's pulse.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'should probably' suggests a level of possibility or uncertainty, indicating the presence of modality in the verb choice.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'should probably' indicates a sense of possibility or likelihood, fitting the definition of modality.""
+}",['modality'],True,"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'should probably' indicates a sense of possibility or likelihood, suggesting modality in the verb choice.""
+}",['modality'],"{
+  ""Properties"": [""modality""],
+  ""Explanation"": ""The use of 'should probably' indicates a sense of possibility or likelihood, which is a characteristic of modality.""
+}",['modality'],"{
+  ""Properties"": [
+    ""modality""
+  ],
+  ""Explanation"": ""The use of 'should probably' indicates a language of possibility, suggesting that Ex-Speaker Boehner may want to consider re-checking the old party's pulse.""
+}",['modality'],1,['modality'],1.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence uses the verb may not just be napping, which does not directly contradict or deny something. Instead, it suggests a possibility or uncertainty about the state of the Bush-Boehner GOP, indicating that it might be more active or engaged than just napping. This type of verb choice expresses doubt or speculation rather than negation.', 'Property': 'negation'}, {'Answer': 'yes', 'Explanation': 'The type of verb choice in the given sentence is modality. The use of should probably and may not just be indicates a sense of possibility and likelihood, which aligns with the concept of modality as the language of possibilities with modifiers like might, likely, and perhaps.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning a verb into a noun, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses verbs (re-check, may, be napping) without converting them into nouns. Therefore, the type of verb choice in the given sentence is not nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence does not exemplify personification. Personification involves attributing human-like qualities or actions to non-human entities. In the provided sentence, the use of re-check and napping does not attribute human-like agency to non-human entities, and therefore does not qualify as personification.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication involves repeating a single verb to emphasize the action being performed by the subject. In the provided sentence, the verbs re-check and may be napping are not multiplying the subjects or verbs in a single predication. Instead, they are separate actions attributed to different subjects, so it does not fit the definition of multiplication in the context of verb choices.', 'Property': 'multiplication'}]",['modality']
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Verb_choices,"['modality', 'negation']","['modality', 'negation']","['modality', 'negation']",True,[],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not only' implies negation as it introduces the possibility of something happening by denying the possibility of something else happening.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not only' introduces a negation by denying the possibility that the charges are limited to depriving him of a seat on the Supreme Court.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not only' in the sentence indicates negation by denying a potential outcome.""
+}",['negation'],True,"{
+  ""Properties"": [""negation"", ""modality""],
+  ""Explanation"": ""The use of 'could not only' indicates a sense of possibility and negation, as it suggests that something negative may happen as a result of the charges.""
+}","['negation', 'modality']","{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not only' introduces a negation by denying that something will happen solely, but also implies that something else will happen in addition.""
+}",['negation'],"{
+  ""Properties"": [""negation""],
+  ""Explanation"": ""The use of 'could not only' introduces negation by denying the possibility of only one outcome, implying the possibility of additional negative consequences.""
+}",['negation'],0,['negation'],1.0,0.0,,"['modality', 'negation']","[{'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not negation. The sentence describes a situation where Judge Kavanaugh is facing charges, and it emphasizes the potential consequences of these charges. The verb could not only deprive does not directly express negation; instead, it conveys the potential loss of a position due to the charges.', 'Property': 'negation'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not modality. The sentence does not express possibility or likelihood using modifiers like might, likely, or perhaps. Instead, it presents a statement of fact and opinion about Judge Kavanaugh being subjected to charges of a criminal nature and the potential consequences of those charges.', 'Property': 'modality'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not nominalization. Nominalization involves turning verbs into nouns, but the sentence provided does not demonstrate this transformation. Instead, the sentence uses passive voice and complex verb forms, but it does not convert a verb into a noun as in nominalization.', 'Property': 'nominalization'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not personification. Personification involves attributing human-like qualities or actions to non-human entities. In the given sentence, the verbs used (is being subjected, could deprive) do not attribute human-like agency to physical objects or abstractions. Instead, they describe actions and potential outcomes related to Judge Kavanaugh.', 'Property': 'personification'}, {'Answer': 'no', 'Explanation': 'The type of verb choice in the given sentence is not multiplication. Multiplication in the context of verb choices involves repeating a single verb to apply to multiple subjects within a single predication. In the provided sentence, is being subjected is a single verb phrase applied to the single subject Judge Kavanaugh. There is no multiplication of the verb to apply to multiple subjects within the same predication.', 'Property': 'multiplication'}]",[]

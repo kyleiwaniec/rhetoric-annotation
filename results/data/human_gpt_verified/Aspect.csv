@@ -1,0 +1,689 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth
+320,[ 3 16],There will be no turning back.,Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+    ""Properties"": [""future""],
+    ""Explanation"": ""The use of 'will' indicates a future action, so the aspect property 'future' is present.""
+}",[''],"{
+  ""Properties"": [""future""]
+  ,""Explanation"": ""The use of 'will' indicates a future action, indicating the usage of the future aspect.""
+}",[''],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The phrase 'will be' indicates a future action, suggesting a prediction or a promise. This usage does not fall into any of the specified aspect properties.""
+}",[''],1,"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, suggesting that the turning back has not yet occurred.""
+}",[''],"{
+  ""Properties"": [""future""]
+}",[''],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, suggesting that the action of 'turning back' has not yet occurred.""
+}",[''],1,[''],1,0,gpt inserted its own property,['simple']
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about growing numbers of Catholics considering something immoral.""
+}",['simple'],"{
+  ""Properties"": [""simple""]
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,gtp mistook adjective for verb (growing),['simple']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence includes the use of 'were engaged' (progressive) and 'was to elect' (simple) indicating ongoing and completed actions.""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence 'Murillo claiming she and others at Google were engaged' uses the simple aspect to express a simple fact. The phrase 'had been engaged' uses the perfect aspect to express a completed action.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the past events recounted in the email.""
+}",['simple'],0,"{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence contains a simple fact ('Murillo claiming'), a completed action ('admitting'), and an ongoing action ('were engaged').""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence contains simple aspect to express a simple fact ('Murillo claiming...') and perfect aspect to express a completed action ('was engaged'). It also contains progressive aspect to express an ongoing action ('using Google products').""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence 'Murillo claiming she and others at Google were engaged' uses the simple aspect to express a simple fact. The phrase 'using Google products with official company resources was to elect Clinton over Trump' uses the progressive aspect to express an ongoing action.""
+}","['simple', 'progressive']",0,"['simple', 'perfect', 'progressive']",0,0,the correct answer is simple  (email begins with) and progressinve (admitting),"['simple', 'progressive']"
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Aspect,['perfect'],['perfect'],['perfect'],TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains both simple aspect, expressing a simple fact ('a West Virginia school has come under fire'), and progressive aspect, expressing an ongoing or incomplete action ('instructing junior high students to write the Islamic profession of faith').""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the action of the school instructing junior high students to write the Islamic profession of faith.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating the completion, ongoing nature, or duration of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the school coming under fire for instructing students to write the Islamic profession of faith.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the school coming under fire for instructing students to write the Islamic profession of faith.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect']
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",TRUE,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a basic fact about President Trump's actions against Russia.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The text uses the simple aspect to describe specific actions or facts, such as 'President Trump has approved the sale of offensive weapons.' It also uses the perfect aspect to express completed actions, as in 'President Obama refused to provide serious weapons.'""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The example uses the simple aspect to express a simple fact about specific steps President Trump has taken against Russia.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact about President Trump's actions against Russia.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about President Trump's actions against Russia, without indicating completion, ongoingness, or progressiveness.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about President Trump's actions against Russia, without indicating completion, ongoingness, or habitualness.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']"
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",TRUE,['perfect'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence expresses a simple fact and also refers to a completed action ('I've never understood').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact ('I’ve never understood') and the perfect aspect to express a completed action ('have viewed').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, emphasizing the speaker's current state of not understanding.""
+}",['perfect'],0,"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action of not understanding up to the present moment.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, suggesting the perfect aspect.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, suggesting the speaker's ongoing lack of understanding up to the present moment.""
+}",['perfect'],1,['perfect'],1,1,,"['simple', 'perfect']"
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",TRUE,['simple'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The sentence uses the perfect progressive aspect to express an ongoing action (the translation of 'America First' to 'Americans First').""
+}",['perfect_progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating the completion, ongoing nature, or habitual aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the present situation in the labor market.""
+}",['simple'],0,"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has not translated' indicates a continuous or ongoing action that has not yet been completed, suggesting the use of perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has not translated' indicates an ongoing action that has not yet been completed, suggesting the use of perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'has not translated' indicates a completed action in the past.""
+}",['perfect'],0,['perfect_progressive'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']"
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Aspect,"['progressive', 'simple']","['progressive', 'simple']","['progressive', 'simple']",TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact about the ongoing investigation ('authorities are still hunting') and the progressive aspect to denote an ongoing or incomplete action ('describes').""
+}","['simple', 'progressive']","{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are still hunting' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text contains a simple statement about ongoing or incomplete actions.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the killer's family being known for its anti-Semitism.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing investigation and the description of the killer's family.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.' expresses a simple fact without indicating completion, ongoingness, or a habitual action.""
+}",['simple'],1,['simple'],1,0,gpt missed the part of  sentence,"['progressive', 'simple']"
+2629,[ 8 13],ADVANTAGE AMERICANS,Aspect,,,,TRUE,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses simple aspect, expressing a simple fact or statement.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact, without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""There are no explicit aspects used in the text. The text simply presents a phrase without indicating any specific aspect of the action.""
+}",[],1,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any verb forms or actions, so there are no aspects of aspect used in this text.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any verb forms or constructions that indicate aspect."" 
+}",[],1,[],1,1,,[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Aspect,['simple'],['simple'],['simple'],TRUE,"['progressive', 'simple']","{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing change in the state of being solidly mainstream, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates a current ongoing state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'is now' and 'main stream' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates a current ongoing state, suggesting a progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+3249,[9],When Cain complains that being a “vagabond .,Aspect,['simple'],['simple'],['simple'],TRUE,[],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or incomplete action, making it a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Cain complains' expresses a simple fact without indicating if the action is completed, ongoing, or habitual.""
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or continuous action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Cain complains' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],0,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Aspect,['perfect'],['perfect'],['perfect'],TRUE,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing actions of those pushing for BDS against Israel.""
+}",['simple'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'have not dispensed' indicates a completed action of not ceasing the campaign of hate.""
+}",['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of those pushing for BDS against Israel, without emphasizing completion or progression of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion or ongoing action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion, ongoingness, or progressiveness of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion, ongoing action, or a combination of both.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect']
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about Francis's defense of Barros without emphasizing whether the action is completed, ongoing, or habitual.""
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, making it a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+3895,[13],Impossible.,Aspect,,,,TRUE,,"{
+  ""Properties"": [""none""],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a complete sentence or statement."" 
+}",[''],"{
+  ""Properties"": [
+    ""none""
+  ],
+  ""Explanation"": ""The provided text does not contain any aspect properties as defined. Instead, it is an exclamation expressing disbelief or denial. Aspect properties are concerned with the grammatical form of a verb to indicate the nature of an action, which is not applicable in this case.""
+}",[''],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without specifying the completion or progress of an action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Impossible.' expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Impossible.' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Aspect,['simple'],['simple'],['simple'],TRUE,['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before the verb 'repeated' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger' indicates an ongoing or incomplete action, suggesting that the concern in Rome is currently existing and continuing.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates an ongoing or incomplete action, suggesting that the emphasis is currently being repeated.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger' indicates the ongoing or incomplete nature of the concern in Rome about the post-conciliar monastic life.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates an ongoing or incomplete action, suggesting that the concern in Rome is currently ongoing or in progress.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger of fizzling out' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Aspect,,,,TRUE,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title expresses a simple fact without any indication of a completed, ongoing, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about the character assassination of Judge Kavanaugh without indicating completeness, ongoingness, or habitualness.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about the character assassination of Judge Kavanaugh.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or progressiveness.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+4405,[16],So interesting!,Aspect,,,,TRUE,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of aspect as it is not a complete sentence or action.""
+}",[],"{
+  ""Properties"": []
+}
+
+ ",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about a specific action or event.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it does not convey any specific action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about an action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about an action or event.""
+}",[],0,[],1,1,,[]
+4431,[16],“I had no way to see into his mind.,Aspect,['simple'],['simple'],['simple'],TRUE,['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The sentence 'I had no way to see into his mind' uses the perfect aspect to express a completed action in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there is no longer a way to see into his mind.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates that the action of not having a way to see into his mind is completed before a certain point in the past.""
+}",['perfect'],1,"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],1,['perfect'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Aspect,['progressive'],['progressive'],['progressive'],TRUE,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without any indication of ongoing, completed, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the media blaming the messenger.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['progressive']
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",Aspect,['perfect'],['perfect'],['perfect'],TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact and refers to a completed action in the past ('had convened').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about a past event without indicating any ongoing, habitual, or completed action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about a past event, without emphasizing the completion or ongoing nature of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an event that occurred in the past.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an action that occurred in the past without emphasizing completion, ongoingness, or duration.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an event that occurred in the past.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect']
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Aspect,['simple'],['simple'],['simple'],TRUE,"['progressive', 'simple']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains the simple aspect as it expresses a simple fact, and the progressive aspect as it describes an ongoing or habitual action.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the subject, without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains the simple aspect in 'He generated her in His Blood' to express a simple fact, and the progressive aspect in 'continually revives her with His Spirit' to show an ongoing or habitual action.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoing action, or a combination of the two.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence expresses a simple fact (generation and revival) and also indicates a continuous or ongoing action (continually revives).""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence expresses a simple fact about the continuous action of generating and reviving, indicating a progressive aspect.""
+}","['simple', 'progressive']",0,"['simple', 'progressive']",1,0,Seems to be relying on the definition provided in a looser way,['simple']
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Aspect,,,,TRUE,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without expressing completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet is a simple declarative statement without any indication of completion, ongoing, or habitual action.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completed, ongoing, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",TRUE,['perfect progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates a continuous, ongoing action that has recently ended, which aligns with the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates the completion of an ongoing action, making it a perfect progressive aspect.""
+}",['perfect_progressive'],1,"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates the completion of an ongoing action, suggesting that Julian's vindication has been ongoing up to the present moment.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates the completion of an ongoing action, suggesting that Julian's vindication has been ongoing up to the present moment.""
+}",['perfect_progressive'],1,['perfect_progressive'],1,0,explanation is just wrong,"['simple', 'perfect']"
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",TRUE,['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of clarification, without indicating completion, ongoing action, or an ongoing action with a completed element.""
+}",['simple'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'has now been provided' indicates a completed action, suggesting the perfect aspect.""
+}",['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification on a debated issue.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence expresses a simple fact about a completed action, the provision of clarification.""
+}","['simple', 'perfect']",0,['simple'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']"
+9396,[],Also on communion between the communities.,Aspect,,,,TRUE,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any aspect properties as it is a general statement without specifying any action or time frame.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+9866,[],But he is now a full-fledged member of the nuclear club.,Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state of being, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current status, qualifying for the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates the ongoing nature of the action, suggesting that he has recently become a full-fledged member of the nuclear club.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Aspect,['simple'],['simple'],['simple'],TRUE,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is asking for an opinion."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is not a statement about an action or event."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of aspect as it is a straightforward question without any reference to actions or events.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""Aspect properties are not applicable in this context as the question is about a subjective opinion and not about an action or event."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is a question about opinion and not a statement about an action.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is a question seeking an opinion and does not describe any actions or events.""
+}",[],0,[],1,0,do questions not hve an aspect?,['simple']
+10448,[],Anybody?,Aspect,,,,TRUE,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual aspect.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text 'Anybody?' expresses a simple fact without indicating completion, progress, or ongoing action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text only contains simple and progressive aspects. There is no expression of completed or perfect ongoing actions.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The example text 'Rover eats bones.' uses the simple aspect to express a simple fact, while 'Rover is eating a bone.' uses the progressive aspect to express an ongoing action.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Anybody?' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text 'Anybody?' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],0,['simple'],1,0,this should be an empty list,[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or habitual action, which is an example of the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or habitual action, suggesting the use of the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],timeout,[],1,['progressive'],0,1,,['progressive']
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Aspect,,,,TRUE,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text is a title and artist attribution and does not contain any grammatical aspect to identify."" 
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text provides a simple statement of a fact - the title, artist, and year of the painting. There are no indications of completed, ongoing, habitual, or incomplete actions.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text is a simple fact providing the title, artist, and year of a painting.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text simply provides information about the painting without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The provided text is a simple statement providing a fact about the painting.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The provided text is a simple statement of fact, providing information about the title, artist, and year of a painting.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+11936,[],America's Immigration Voice.,Aspect,,,,TRUE,,"{
+    ""Properties"": [""simple""],
+    ""Explanation"": ""The text 'America's Immigration Voice' presents a simple fact or statement without expressing any specific action or tense.""
+}",['simple'],"{
+    ""Properties"": [""simple""],
+    ""Explanation"": ""The text expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text expresses a simple fact about a group or organization. It also conveys a sense of ongoing or habitual action in advocating for immigration issues.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about America's immigration voice without indicating any specific aspect of time or completion.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[]
+13573,[],I am not a fan of Donald Trump.,Aspect,['simple'],['simple'],['simple'],TRUE,[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact or statement of opinion without conveying any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any aspect properties as it is a simple statement of opinion and does not describe any action or event.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any ongoing or completed action.""
+}",['simple'],1,"{
+  ""Properties"": [],
+  ""Explanation"": ""The sentence does not contain any aspect properties as it simply expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the speaker's opinion of Donald Trump.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The sentence does not contain any aspect properties as it simply expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",[],1,[],1,0,Seems to be relying on the definition provided in a looser way,['simple']
+14038,[],And in Russia.,Aspect,,,,TRUE,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text fragment 'And in Russia.' does not include any aspectual properties as it does not relate to a specific action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it is a disconnected fragment without a specific action or tense.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any explicit aspect properties as it does not convey any action or event.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it does not express an action or state in a specific tense or aspect."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it does not express any action or state."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it is not a complete sentence and does not express any specific action or state."" 
+}",[],0,[],1,1,,[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Aspect,"['progressive', 'simple']","['progressive', 'simple']","['progressive', 'simple']",TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence 'are going through' indicates a progressive action, while 'are' indicates a simple fact.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing review process without specifying any completed, ongoing, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing review process without indicating completion, habituality, or ongoing action.""
+}",['simple'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,,"['progressive', 'simple']"
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence contains simple aspect as it expresses a simple fact about Haig's employment at Boeing. It also contains perfect aspect as it indicates a completed action of working for Boeing from 2010 to 2013.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work experience at Boeing in the past.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about Haig's work history at Boeing without indicating any ongoing or completed actions.""
+}",['simple'],0,"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, and it refers to a completed action within a specific time frame.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, without emphasizing the ongoing or completed nature of the action.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, which is presented as a completed action in the past.""
+}","['simple', 'perfect']",1,"['simple', 'perfect']",1,0,Seems to be relying on the definition provided in a looser way,['simple']
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Aspect,['simple'],['simple'],['simple'],TRUE,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, so the progressive aspect is present in the sentence.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The sentence 'was hailed' indicates a past ongoing or incomplete action, fitting the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates an ongoing or incomplete action, suggesting the initial perception of Campos as a hero was not a simple fact but rather a process that occurred over a period of time.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple']

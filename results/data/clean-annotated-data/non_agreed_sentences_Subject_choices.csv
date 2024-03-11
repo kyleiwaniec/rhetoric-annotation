@@ -1,0 +1,704 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,res1,gpt_props1,res2,gpt_props2,res3,gpt_props3,props_a_majority,props_gpt_majority,ann_gpt_agreemnt,props_gpt4_majority
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Subject_choices,"['concepts', 'humans']",['humans'],['humans'],"``` 
+
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The example text contains references to specific individuals and groups of people, such as 'Muhammad', 'the Muslim doctors', and 'Temur'. Therefore, the property of humans is present in the subject choices.""
+}
+```",['humans'],"```
+
+
+        ""Properties"": [""humans""],
+        ""Explanation"": ""The text references named individuals and groups of people such as 'Muhammad' and 'the Muslim doctors'"" 
+```",['humans'],"{
+    ""Properties"": [""humans""],
+    ""Explanation"": ""The example text includes proper names such as 'Muhammad' and 'Temur'. This indicates the use of humans as subjects.""
+}",['humans'],['humans'],['humans'],1,[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",Subject_choices,"['slot_fillers', 'rhetorical_participants', 'concepts', 'humans']",['rhetorical_participants'],"['slot_fillers', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The text uses 'we' as a rhetorical participant, and 'it' as a slot filler. It also refers to abstract concepts such as 'the pope’s word', 'astoundingly brazen lie', and 'no evidence for Ricca’s homosexual activity'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","```json
+{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'we' implicates the reader as part of the discussion, making them a rhetorical participant.""
+}
+```",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text includes the rhetorical participant 'We', indicating the writer is involving the reader in the argument.""
+}",['rhetorical_participants'],"['slot_fillers', 'rhetorical_participants', 'concepts', 'humans']",['rhetorical_participants'],0,[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Subject_choices,"['concepts', 'humans']",['humans'],['humans'],"``` 
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Ben Shapiro' is a human individual.""
+}
+```",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text include the proper name 'Ben Shapiro', a conservative commentator.""
+}",['humans'],timeout,[],['humans'],['humans'],1,[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Subject_choices,"['things', 'concepts', 'humans', 'abstractions']",['humans'],['humans'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text includes proper names (Sellner) and an abstraction (detention centre) as subjects within the sentence.""
+}","['humans', 'abstractions']",timeout,[],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Sellner' and also to abstractions like 'detention centre' and 'violence'.""
+}","['humans', 'abstractions']",['humans'],"['humans', 'abstractions']",0,[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Subject_choices,"['concepts', 'humans', 'abstractions']",['humans'],"['slot_fillers', 'humans']","{
+    ""Properties"": [""humans"", ""abstractions""],
+    ""Explanation"": ""The example text uses the human subject 'Kendra Arnold' and the abstraction 'Senate Ethics rules' as the subjects in the sentence.""
+}","['humans', 'abstractions']","```{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices include 'Kendra Arnold' (human) and 'Senate Ethics rules' and 'elected officials' (abstractions).""
+}```","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text references the human 'Kendra Arnold' and also mentions an abstraction 'Senate Ethics rules'.""
+}","['humans', 'abstractions']","['concepts', 'humans', 'abstractions']","['humans', 'abstractions']",0,[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Subject_choices,['humans'],['things'],['things'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Cardinal Raymond Burke' as the subject suggests that the writer is referring to a specific person involved in the topic being discussed.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text include 'Cardinal Raymond Burke' and 'Archbishop Carlo Maria Viganò', both of which are humans.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text include 'Cardinal Raymond Burke' and 'Archbishop Carlo Maria Viganò' as proper names of individuals.""
+}",['humans'],['things'],['humans'],-1,[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Subject_choices,"['things', 'rhetorical_participants', 'abstractions']",['rhetorical_participants'],['rhetorical_participants'],"```As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.```
+
+{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' and 'you' in the text indicates the presence of rhetorical participants as the subject choices.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [
+    ""rhetorical participants"",
+    ""abstractions""
+  ],
+  ""Explanation"": ""The use of 'I' as the subject indicates the writer's personal experience, making it a rhetorical participant. Additionally, 'former trial lawyer' is an abstraction referring to the writer's previous occupation.""
+}","['rhetorical_participants', 'abstractions']","``` 
+Properties:
+- humans
+- rhetorical participants
+Explanation: 
+The text includes the use of 'I' as a rhetorical participant and 'trial lawyer' as a human subject choice. 
+```",[],['rhetorical_participants'],['rhetorical_participants'],1,[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Subject_choices,"['rhetorical_participants', 'humans']",['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'John Hancock' is a single individual and proper name.""
+}",['humans'],"```json
+        {
+            ""Properties"": [""humans""],
+            ""Explanation"": ""The subject 'John Hancock' is a single individual.""
+        }
+```",['humans'],"{
+  ""Properties"": [
+    ""humans""
+  ],
+  ""Explanation"": ""The subject 'John Hancock' is a specific individual, which falls under the 'humans' category.""
+}",['humans'],['humans'],['humans'],1,[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Subject_choices,['humans'],['rhetorical_participants'],['rhetorical_participants'],"{
+  ""Properties"": [
+    ""humans"",
+    ""rhetorical participants""
+  ],
+  ""Explanation"": ""The subject choices in the example text include 'Ms. Ford' (human) and 'she' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the example text include humans (Ms. Ford) and rhetorical participants ('she', 'I', 'you').""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include both humans (Ms. Ford, you) and the rhetorical participant (I, her).""
+}","['humans', 'rhetorical_participants']",['rhetorical_participants'],"['humans', 'rhetorical_participants']",0,[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The subject 'I' indicates the writer as a rhetorical participant, and 'Cardinal's exposition' and 'help of the sacraments' are examples of things as subjects.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'I' as the subject shows that the writer is including themselves in the statement. The mention of 'the help of the sacraments in certain cases' is an example of an abstraction, as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' as the subject indicates that the writer is including themselves in the statement, making it a rhetorical participant.""
+}",['rhetorical_participants'],['rhetorical_participants'],"['rhetorical_participants', 'things']",0,[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Subject_choices,['things'],['things'],"['things', 'concepts', 'humans', 'abstractions']",timeout,[],"{
+  ""Properties"": [
+    ""humans"",
+    ""rhetorical participants""
+  ],
+  ""Explanation"": ""The example text includes references to individuals (Allum Bokhari, the American Institute for Behavioral Research and Technology) as well as the rhetorical participant 'you' (undecided voters).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""abstractions"", ""slot fillers"", ""humans""],
+  ""Explanation"": ""The text includes proper names and a group of people ('Allum Bokhari' and 'a team at the American Institute for Behavioral Research and Technology'), along with abstractions such as 'negative search suggestions' and 'undecided voters'. The slot filler 'it' is also used in the phrase 'it was raining'.""
+}","['abstractions', 'slot_fillers', 'humans']",['things'],"['humans', 'rhetorical_participants']",-1,[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Subject_choices,"['slot_fillers', 'concepts', 'abstractions']",['concepts'],['slot_fillers'],"{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The text contains abstractions like 'papal history' and 'unprecedented moment', as well as slot fillers like 'this' and 'it'.""
+}","['abstractions', 'slot_fillers']","``` 
+
+{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the example text include 'papal history' (abstractions) and 'Benedict XVI' (humans).""
+}
+```","['humans', 'abstractions']","{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The text includes abstract terms such as 'papal history', 'the Chair of St. Peter', and 'this crisis'.""
+}",['abstractions'],"['slot_fillers', 'concepts', 'abstractions']","['abstractions', 'slot_fillers']",0,[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Subject_choices,['things'],['abstractions'],"['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject 'persecution' refers to a collective action against individuals, fitting the 'humans' property. Additionally, the use of 'winter' and 'irreversible' are abstractions that cannot be easily pointed to.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject choices in the example text include 'persecution', which is an abstraction that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject choices in the example text include 'persecution', 'faithful', and 'shepherds', all of which are abstractions as they refer to concepts or qualities rather than specific individual people or things.""
+}",['abstractions'],['things'],['abstractions'],-1,[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text include 'Chris Bryant', 'May', 'Donald Trump', and 'a senior Labour MP', all of which fall under the category of humans.""
+}",['humans'],timeout,[],timeout,[],"['rhetorical_participants', 'humans']",['humans'],0,[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Subject_choices,"['things', 'rhetorical_participants']","['things', 'rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants', 'concepts', 'abstractions']","``` 
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals, such as 'me' and 'the UK Home Office'.""
+}
+```",['humans'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text includes mentions of 'I' (the writer) and 'me' (the reader). It also refers to the UK Home Office, a group of people.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [
+    ""rhetorical participants"",
+    ""abstractions""
+  ],
+  ""Explanation"": ""The use of 'me' and 'I' as the subject indicates the presence of rhetorical participants. The mention of 'religion', 'belief system', and 'warfare' indicates the use of abstractions.""
+}","['rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants']",['humans'],-1,[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Subject_choices,"['rhetorical_participants', 'concepts', 'humans']","['rhetorical_participants', 'abstractions']",[],timeout,[],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The example text contains reference to 'Catholics' which falls under the property of humans.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The example text includes the human participants 'Catholics' and 'Paul VI'.""
+}",['humans'],"['rhetorical_participants', 'concepts', 'humans']",['humans'],0,[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],timeout,[],"{
+  ""Properties"": [""rhetorical participants"", ""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The text includes the rhetorical participants 'gun owners' and 'Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al.' (referring to specific individuals), as well as the abstractions 'gun control extremists' and 'gun confiscation'. The slot filler 'such as' is also used in the sentence."" 
+}","['rhetorical_participants', 'humans', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Chuck Schumer', 'Nancy Pelosi', and 'Dianne Feinstein'.""
+}",['humans'],"['humans', 'abstractions']","['rhetorical_participants', 'humans', 'abstractions', 'slot_fillers']",0,[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Subject_choices,['slot_fillers'],['abstractions'],['abstractions'],"{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The subject 'threat' is an abstraction, and the dummy subject 'one' is used as a slot filler to make the sentence complete.""
+}","['abstractions', 'slot_fillers']","{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'threat' is an abstraction as it refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],timeout,[],['abstractions'],"['abstractions', 'slot_fillers']",0,[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Subject_choices,"['rhetorical_participants', 'humans']",['abstractions'],['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'They' refers to an unspecified group of people, and 'US and South Korea' are abstractions representing countries.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text refer to groups or collections of people ('the US and South Korea', 'the north').""
+}",['humans'],timeout,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'abstractions']",0,[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Subject_choices,['humans'],['humans'],['humans'],"{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The subject choices include 'man' (a human) and 'Pharaoh' (also a human). The concept of 'obey or else' is also referenced.""
+}","['humans', 'concepts']","``` 
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text include 'man' as a human entity.""
+}
+```",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'think of this' directly addresses the reader, making them a rhetorical participant.""
+}",['rhetorical_participants'],['humans'],"['humans', 'concepts']",0,[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Subject_choices,"['slot_fillers', 'humans']",['rhetorical_participants'],['humans'],"{
+  ""Properties"": [""humans"", ""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the example text include 'Kavanaugh' (human), 'me' (rhetorical participant), and 'right against unreasonable searches and seizures' (abstraction).""
+}","['humans', 'rhetorical_participants', 'abstractions']",timeout,[],"{
+  ""Properties"": [""humans"", ""abstractions"", ""rhetorical participants""],
+  ""Explanation"": ""The example text contains references to humans ('Kavanaugh', 'others'), abstractions ('Supreme Court', '4th Amendment right'), and rhetorical participants ('me').""
+}","['humans', 'abstractions', 'rhetorical_participants']","['slot_fillers', 'humans']","['humans', 'rhetorical_participants', 'abstractions']",0,[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Subject_choices,"['things', 'slot_fillers']","['slot_fillers', 'abstractions']",['things'],"```json
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text include 'gird failure' and 'the United States,' both referring to groups or collections of people.""
+}
+```",['humans'],"{
+  ""Properties"": [""abstractions"", ""things""],
+  ""Explanation"": ""The subjects 'gird failure' and 'United States' are abstractions, while 'state of panic' and 'just in case' are also abstractions. The subject 'it' is a slot filler.""
+}","['abstractions', 'things']","```json
+{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The subject choices in the text include 'gird failure' (abstraction), 'United States' (humans), and 'it' (slot filler).""
+}
+```","['humans', 'abstractions', 'slot_fillers']","['things', 'slot_fillers']",['humans'],-1,[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Subject_choices,"['slot_fillers', 'rhetorical_participants']","['slot_fillers', 'rhetorical_participants']",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'you' and 'we' indicates the presence of rhetorical participants. The mention of 'superdogma', 'religion of peace', 'U.S. Conference of Catholic Bishops' are all abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'superdogma', 'Islam', 'Religion of Peace', 'U.S. Conference of Catholic Bishops', and 'hierarchy', all of which are abstractions.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions"", ""rhetorical participants"", ""concept""],
+  ""Explanation"": ""The text contains abstractions like 'superdogma', 'Religion of Peace', and 'hierarchy elsewhere'. It also includes a rhetorical participant 'you' and the concept of 'belief'.""
+}","['abstractions', 'rhetorical_participants', 'concepts']","['slot_fillers', 'rhetorical_participants']","['rhetorical_participants', 'abstractions']",0,[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [
+    ""humans"",
+    ""things""
+  ],
+  ""Explanation"": ""The subject choices in the example text include 'woman' (human) and 'he' (human) as well as 'door' (thing).""
+}","['humans', 'things']","{
+  ""Properties"": [
+    ""humans""
+  ],
+  ""Explanation"": ""The subject 'woman' refers to a single individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals ('woman', 'he') and a group ('reporters').""
+}",['humans'],"['rhetorical_participants', 'humans']",['humans'],0,[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['things'],,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Subject_choices,['humans'],"['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text include proper names such as 'Farrakhan', 'Jake Tapper', and 'elected officials', as well as the group of people referred to as 'alt-reich' leaders.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The text includes proper names such as 'Farrakhan', 'Jake Tapper', and 'alt-reich' leaders, as well as the group 'elected officials'""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains references to individuals (Farrakhan, Jake Tapper) as well as abstractions (dangerous, alt-reich leaders)""
+}","['humans', 'abstractions']",['humans'],['humans'],1,[]
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Women' refers to a group of people.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'women' refers to a group of people.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'women' is used to address the reader, making them a rhetorical participant in the text.""
+}",['rhetorical_participants'],['humans'],['humans'],1,[]
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",Subject_choices,['humans'],"['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [""abstractions"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices 'Church' and 'one' represent abstractions, as they refer to concepts that cannot be pointed to easily. Additionally, the use of 'one' as a rhetorical participant places the emphasis on the reader or a general person rather than a specific individual or group.""
+}","['abstractions', 'rhetorical_participants']","``` 
+{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'one' indicates a rhetorical participant as the subject.""
+}
+```",['rhetorical_participants'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'one' and 'the Church', which are examples of humans, and 'everything on the earth', which is an example of an abstraction.""
+}","['humans', 'abstractions']",['humans'],"['abstractions', 'rhetorical_participants']",-1,[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",Subject_choices,['rhetorical_participants'],"['slot_fillers', 'rhetorical_participants']",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant.""
+}",['rhetorical_participants'],"``` 
+        ""Properties"": [""rhetorical participants""],
+        ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+```",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' and 'whom I do not know' indicates that the subject choices in the text are rhetorical participants, referring to the writer and the reader.""
+}",['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],1,[]
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'rhetorical_participants', 'humans']","['slot_fillers', 'humans']","{
+  ""Properties"": [""abstractions"", ""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The text contains references to the behavior of the head of the Catholic Church as an abstraction, uses the rhetorical participant 'you', and the slot filler 'it'.""
+}","['abstractions', 'rhetorical_participants', 'slot_fillers']","```json
+{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The text uses 'you' as a rhetorical participant and 'it' as a slot filler to make complete senteces.""
+}
+```","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""abstractions"", ""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The subject choices in the text include abstractions like 'dangerous behavior', rhetorical participants such as 'the head of the Catholic Church' and 'the Pope', and slot fillers like 'it'.""
+}","['abstractions', 'rhetorical_participants', 'slot_fillers']","['slot_fillers', 'humans']","['abstractions', 'rhetorical_participants', 'slot_fillers']",0,[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'rhetorical_participants', 'humans', 'abstractions']","['humans', 'abstractions']","```{
+    ""Properties"": [""abstractions"", ""slot fillers""],
+    ""Explanation"": ""The text contains abstractions such as 'claims', 'shock', and 'horrors', as well as the slot filler 'it'.""
+}```","['abstractions', 'slot_fillers']","``` {
+        ""Properties"": [""abstractions"", ""slot fillers""],
+        ""Explanation"": ""The subject choices in the example text include abstractions such as 'claims' and 'it', as well as slot fillers such as 'it'.""
+    } 
+```","['abstractions', 'slot_fillers']","{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The text contains abstract concepts such as 'claims' and 'shock', and uses 'it' as a slot filler in 'it is important to remember'.""
+}","['abstractions', 'slot_fillers']","['slot_fillers', 'humans']","['abstractions', 'slot_fillers']",0,[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Subject_choices,['humans'],"['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The text uses 'they' and 'the Jewish community' as rhetorical participants and 'crosses' as a thing.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'they' in 'they can go whine' represents the reader or a general group of people.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The use of 'they', 'them' and 'their' indicates the presence of rhetorical participants. The mention of 'Jewish community' and 'burn crosses on their lawn' are examples of abstractions. The use of 'they' as a dummy subject in 'they can go whine' is an example of a slot filler.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']",['humans'],"['rhetorical_participants', 'things']",-1,[]
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",Subject_choices,['humans'],"['slot_fillers', 'rhetorical_participants', 'humans']",['humans'],timeout,[],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The text contains references to 'The American Medical Association (AMA)' and 'their names', which are examples of humans as subjects.""
+}",['humans'],"``` 
+{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the example text include 'The American Medical Association', 'they', and 'universal gun registration', all of which refer to humans or groups of people.""
+}
+```",['humans'],['humans'],['humans'],1,[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Subject_choices,['humans'],['humans'],['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The example text contains references to specific individuals, Obama and Trump, and groups of people, drug dealers and ranchers.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Obama', 'drug dealers', 'ranchers', and 'Trump', which are all examples of humans. The text also includes abstractions such as 'pardoned' and 'locked up'.""
+}","['humans', 'abstractions']","``` 
+
+{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Obama', 'drug dealers', 'ranchers', and 'Trump', which are all examples of humans. Additionally, the text also includes 'pardoned' and 'locked up', which are abstractions that cannot be pointed to easily.""
+}
+```","['humans', 'abstractions']",['humans'],"['humans', 'abstractions']",0,[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Subject_choices,"['humans', 'abstractions']","['rhetorical_participants', 'humans']",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The text mentions 'No Catholic' and 'he', which are references to individuals or groups of people.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The text includes references to Catholic individuals and the pronoun 'he', which are examples of human subjects.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subjects 'Catholic' and 'he' refer to humans, while 'invalidity' is an abstract concept.""
+}","['humans', 'abstractions']","['humans', 'abstractions']",['humans'],0,[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Subject_choices,['humans'],['slot_fillers'],['humans'],,[],,[],,[],['humans'],"['things', 'abstractions']",-1,"['things', 'abstractions']"
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'abstractions']",['slot_fillers'],,[],,[],,[],"['humans', 'abstractions']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",Subject_choices,['humans'],"['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Subject_choices,"['slot_fillers', 'rhetorical_participants', 'concepts', 'humans']","['slot_fillers', 'rhetorical_participants', 'concepts', 'humans']",['rhetorical_participants'],,[],,[],,[],"['slot_fillers', 'rhetorical_participants', 'concepts', 'humans']","['rhetorical_participants', 'concepts', 'humans', 'abstractions']",0,"['rhetorical_participants', 'concepts', 'humans', 'abstractions']"
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Subject_choices,['rhetorical_participants'],"['rhetorical_participants', 'humans']",['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'concepts', 'humans']",0,"['rhetorical_participants', 'concepts', 'humans']"
+311,[3],"The Vatican presents a choice: the world, or Christ.",Subject_choices,['humans'],['humans'],"['humans', 'abstractions']",,[],,[],,[],['humans'],"['things', 'concepts', 'humans']",0,"['things', 'concepts', 'humans']"
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Subject_choices,['abstractions'],"['rhetorical_participants', 'abstractions']",['abstractions'],,[],,[],,[],['abstractions'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+319,[3],It’s not coming back.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+320,[ 3 16],There will be no turning back.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+325,[3],A caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a “set-up”.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'humans']",['humans'],0,['humans']
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",Subject_choices,"['things', 'humans']","['humans', 'abstractions']",['things'],,[],,[],,[],"['things', 'humans']",['humans'],0,['humans']
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'abstractions']","['slot_fillers', 'concepts']",,[],,[],,[],"['slot_fillers', 'humans']","['concepts', 'abstractions']",-1,"['concepts', 'abstractions']"
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Subject_choices,"['rhetorical_participants', 'humans']","['slot_fillers', 'rhetorical_participants', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Subject_choices,['abstractions'],"['slot_fillers', 'abstractions']",['abstractions'],,[],,[],,[],['abstractions'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",Subject_choices,['rhetorical_participants'],['humans'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'abstractions']",0,"['rhetorical_participants', 'abstractions']"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Subject_choices,"['slot_fillers', 'things', 'humans']","['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'things', 'humans']","['things', 'slot_fillers', 'humans', 'abstractions']",0,"['things', 'slot_fillers', 'humans', 'abstractions']"
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Subject_choices,['concepts'],"['humans', 'abstractions']","['concepts', 'humans']",,[],,[],,[],['concepts'],"['rhetorical_participants', 'humans']",-1,"['rhetorical_participants', 'humans']"
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Subject_choices,['humans'],['humans'],"['rhetorical_participants', 'humans']",,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['concepts', 'humans']",0,"['concepts', 'humans']"
+407,[4 8],Faggioli has no answer because what he is really arguing—the final beachhead of the neo-Catholic defense of their disintegrating regime—is that homosexuals in the hierarchy must remain in authority as an indispensable seawall against a “neo-traditionalist” storm surge.,Subject_choices,['humans'],['humans'],"['rhetorical_participants', 'humans']",,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,Subject_choices,['humans'],['humans'],['rhetorical_participants'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,Subject_choices,['abstractions'],['abstractions'],['concepts'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+476,[4],The former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.,Subject_choices,['abstractions'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['rhetorical_participants'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",Subject_choices,"['rhetorical_participants', 'abstractions']","['slot_fillers', 'rhetorical_participants', 'abstractions']",['concepts'],,[],,[],,[],"['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Subject_choices,['humans'],"['things', 'humans', 'abstractions']",['things'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Subject_choices,"['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants']",,[],,[],,[],"['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Subject_choices,"['concepts', 'humans']","['rhetorical_participants', 'humans', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],"['concepts', 'humans']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",Subject_choices,['concepts'],['concepts'],['things'],,[],,[],,[],['concepts'],"['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+751,[5 9],"The Guardian has painted social media chiefly as a platform overrun by Russian trolls, arguing that this should justify ever-tighter restrictions that have so far curbed critical voices of the dissident left more than the right.",Subject_choices,['abstractions'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+804,[5],"Las Vegas police said Friday that the gunman who opened fire on a country music festival far below his hotel suite did not shoot a security guard six minutes before that rampage, contradicting a timeline they had offered earlier this week….",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['rhetorical_participants'],,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Subject_choices,"['things', 'rhetorical_participants']","['things', 'rhetorical_participants']",['rhetorical_participants'],,[],,[],,[],"['things', 'rhetorical_participants']","['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+863,[5],Capitol Police didn’t make arrests despite numerous red flags and then ‘inadvertently’ gave evidence to defense attorneys that was supposed to go to prosecutors,Subject_choices,['humans'],"['things', 'humans']",['humans'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Subject_choices,['abstractions'],['humans'],['things'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Subject_choices,[],"['humans', 'abstractions']",['humans'],,[],,[],,[],[],"['things', 'humans']",-1,"['things', 'humans']"
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'things', 'humans']","['slot_fillers', 'things']",,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",1,"['slot_fillers', 'humans', 'abstractions']"
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Subject_choices,['abstractions'],['concepts'],['abstractions'],,[],,[],,[],['abstractions'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Subject_choices,['abstractions'],['humans'],['abstractions'],,[],,[],,[],['abstractions'],"['rhetorical_participants', 'humans']",-1,"['rhetorical_participants', 'humans']"
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Subject_choices,"['rhetorical_participants', 'humans', 'abstractions']","['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans', 'abstractions']","['rhetorical_participants', 'concepts', 'humans', 'abstractions']",0,"['rhetorical_participants', 'concepts', 'humans', 'abstractions']"
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['things'],,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'abstractions']",['abstractions'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,Subject_choices,['humans'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Subject_choices,['things'],"['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['things', 'slot_fillers', 'abstractions']",0,"['things', 'slot_fillers', 'abstractions']"
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']",['slot_fillers'],"['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Subject_choices,[],[],['concepts'],"{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The subject 'them' refers to an abstract group of people, and the phrase 'to call them nativists' utilizes the slot filler 'them' as the subject.""
+}","['abstractions', 'slot_fillers']","{
+  ""Properties"": [""abstractions"", ""rhetorical participants""],
+  ""Explanation"": ""The subject 'them' refers to a group of people and the usage of 'them' makes the writer a rhetorical participant.""
+}","['abstractions', 'rhetorical_participants']","```json
+        {
+            ""Properties"": [""rhetorical participants"", ""concepts""],
+            ""Explanation"": ""The use of 'them' suggests a rhetorical participant, and the use of 'nativists' and 'moral superiority' are examples of concepts.""
+        }
+```","['rhetorical_participants', 'concepts']",[],"['abstractions', 'slot_fillers']",-1,[]
+1259,[7],Does Berg and the AMA support our military?,Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Subject_choices,"['rhetorical_participants', 'concepts', 'humans']","['rhetorical_participants', 'humans']",['humans'],,[],,[],,[],"['rhetorical_participants', 'concepts', 'humans']","['rhetorical_participants', 'concepts', 'humans']",1,"['rhetorical_participants', 'concepts', 'humans']"
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Subject_choices,['abstractions'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['humans', 'abstractions']",-1,"['humans', 'abstractions']"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Subject_choices,['abstractions'],['abstractions'],['concepts'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Subject_choices,['slot_fillers'],"['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],['slot_fillers'],"['rhetorical_participants', 'slot_fillers', 'humans']",0,"['rhetorical_participants', 'slot_fillers', 'humans']"
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Subject_choices,['abstractions'],"['concepts', 'abstractions']",['abstractions'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Subject_choices,['abstractions'],['concepts'],['concepts'],,[],,[],,[],['concepts'],"['humans', 'abstractions']",-1,"['humans', 'abstractions']"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['things', 'rhetorical_participants', 'abstractions']",0,"['things', 'rhetorical_participants', 'abstractions']"
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",Subject_choices,['abstractions'],"['humans', 'abstractions']",['concepts'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",Subject_choices,['abstractions'],['abstractions'],['concepts'],,[],,[],,[],['abstractions'],"['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Subject_choices,"['humans', 'abstractions']","['things', 'slot_fillers', 'humans', 'abstractions']","['things', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['concepts', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Subject_choices,['abstractions'],"['things', 'abstractions']",['things'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+2198,[16  6  8],"That’s all,” when he stated in his sworn account that Nuncio Pietro Sambi conveyed to McCarrick at the Nunciature in Washington the sanctions that had been imposed on him by Pope Benedict—sanctions Bergoglio ignored for five years until forced to act by a worldwide storm of outrage.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']","['concepts', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Subject_choices,"['slot_fillers', 'abstractions']","['things', 'slot_fillers', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'abstractions']","['things', 'humans']",-1,"['things', 'humans']"
+2472,[8],"Ricki Seidman, a Democratic operative and former Clinton White House official who is now an advisor to Mrs. Ford, said in July (at roughly the same time as the letter was submitted) that she predicted a ""strategy"" forming to destroy Brett Kavanaugh.",Subject_choices,"['slot_fillers', 'things', 'humans']","['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['slot_fillers', 'things', 'humans']",['humans'],0,['humans']
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans']",1,"['slot_fillers', 'humans']"
+2584,[0 8],"In remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: “If a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.”",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'concepts', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['things', 'slot_fillers', 'humans', 'abstractions']",0,"['things', 'slot_fillers', 'humans', 'abstractions']"
+2629,[ 8 13],ADVANTAGE AMERICANS,Subject_choices,['humans'],['abstractions'],['things'],,[],,[],,[],['humans'],['humans'],1,['humans']
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['things', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'abstractions']",0,"['slot_fillers', 'abstractions']"
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['humans'],,[],,[],,[],"['rhetorical_participants', 'humans']",['humans'],0,['humans']
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Subject_choices,"['slot_fillers', 'concepts', 'humans']","['slot_fillers', 'concepts', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'concepts', 'humans']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+3090,[9 9 8],This provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.,Subject_choices,['abstractions'],['abstractions'],['concepts'],,[],,[],,[],['abstractions'],"['things', 'humans']",-1,"['things', 'humans']"
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['things', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3407,[9],"Among the earliest indications Catholics had that the new pope had no intention of getting to the bottom of the priest-abuser problem was his appointment of the notorious homosexual, Monsignor Battista Ricca, as head of the Vatican Bank and the man in charge of his own residence, the Casa Santa Martha.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Subject_choices,"['things', 'humans']","['things', 'humans']","['things', 'humans']",,[],,[],,[],"['things', 'humans']",['humans'],0,['humans']
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['concepts', 'humans']",0,"['concepts', 'humans']"
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['concepts', 'humans']",0,"['concepts', 'humans']"
+3784,[10],Allahu Akbar usually means motive unknown.,Subject_choices,['abstractions'],['concepts'],['concepts'],,[],,[],,[],['concepts'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Subject_choices,['things'],"['humans', 'abstractions']",['things'],,[],,[],,[],['things'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Subject_choices,"['concepts', 'humans']","['concepts', 'humans']","['humans', 'abstractions']",,[],,[],,[],"['concepts', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Subject_choices,"['humans', 'abstractions']","['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+3790,[10],Over-excitement is a serious problem in the Muslim world.,Subject_choices,['abstractions'],['concepts'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+3791,[10],"“This is contrary to Divine Revelation,” Schneider further told LifeSite, adding that the “beautiful explanations” that are being presented to clergy and faithful as “discernment” and “pastoral accompaniment,” or a “change of paradigm” and “discovery of the subjective part of the truth,” when translated into “common sense language,” are tantamount to an allowance to sin.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'abstractions']",,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['things'],,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['rhetorical_participants'],,[],,[],,[],"['rhetorical_participants', 'humans']",['rhetorical_participants'],0,['rhetorical_participants']
+3794,[11],"Awan told people Wasserman Schultz chose the name for his daughter, Leza — a Jewish name — and that the Florida congresswoman’s daughter regularly rode a horse that Awan kept at a boarding facility, sources with knowledge of the relationship told TheDCNF.",Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['humans'],,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+3798,[ 6  4 11],"In other words, unlike Lee Harvey Oswald, who had absolutely no motive to kill President Kennedy, the national security establishment did have motive, a powerful motive, the same motive that motivated the CIA and Pentagon to target other political leaders for regime change or assassination around that time, such as Mohamad Mossadegh, Jacobo Arbenz, Patrice Lumumba (who Kennedy admired), Fidel Castro, and Salvador Allende.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",Subject_choices,['humans'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Subject_choices,['slot_fillers'],['slot_fillers'],[],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'humans']",0,"['slot_fillers', 'humans']"
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Subject_choices,"['slot_fillers', 'abstractions']","['slot_fillers', 'abstractions']","['slot_fillers', 'concepts']",,[],,[],,[],"['slot_fillers', 'abstractions']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",Subject_choices,['humans'],"['humans', 'abstractions']","['slot_fillers', 'humans']",,[],,[],,[],['humans'],"['concepts', 'humans']",0,"['concepts', 'humans']"
+3805,[11 13],"And Shapira, who “enjoys writing about people who have served in the military and intelligence communities” had an ethical duty to point out Helms’ proclivity for lying in his article.",Subject_choices,['humans'],"['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3806,[11  8],"The Guardian, reputedly once a great liberal newspaper, conducted a vendetta against Julian Assange.",Subject_choices,['humans'],['abstractions'],['things'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",Subject_choices,['humans'],"['slot_fillers', 'abstractions']",['things'],,[],,[],,[],['humans'],"['things', 'concepts']",-1,"['things', 'concepts']"
+3809,[12],The demonic forces we know are the driving force behind this supreme moment of heresy and destruction aren’t really looking at the undermining of marriage as their primary goal; they want to get at the Eucharist.,Subject_choices,"['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'concepts']",['humans'],,[],,[],,[],"['rhetorical_participants', 'abstractions']","['rhetorical_participants', 'concepts', 'humans', 'abstractions']",0,"['rhetorical_participants', 'concepts', 'humans', 'abstractions']"
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'slot_fillers', 'humans', 'abstractions']",0,"['things', 'slot_fillers', 'humans', 'abstractions']"
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",Subject_choices,"['things', 'humans']","['slot_fillers', 'things', 'humans', 'abstractions']",['things'],,[],,[],,[],"['things', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3817,[12],"Soros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",Subject_choices,['humans'],"['humans', 'abstractions']",['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['concepts'],,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Subject_choices,['things'],"['things', 'abstractions']",['things'],,[],,[],,[],['things'],"['humans', 'abstractions']",-1,"['humans', 'abstractions']"
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",Subject_choices,"['things', 'rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants', 'humans', 'abstractions']",['concepts'],,[],,[],,[],"['things', 'rhetorical_participants', 'abstractions']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+3827,[12],"An enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",Subject_choices,['things'],"['things', 'abstractions']",['things'],,[],,[],,[],['things'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+3828,[12],There could be only one answer: communists.,Subject_choices,['abstractions'],['slot_fillers'],['things'],,[],,[],,[],['abstractions'],['concepts'],-1,['concepts']
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,Subject_choices,['rhetorical_participants'],"['slot_fillers', 'rhetorical_participants']",['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",Subject_choices,"['humans', 'abstractions']","['things', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Subject_choices,['abstractions'],"['slot_fillers', 'abstractions']",['abstractions'],,[],,[],,[],['abstractions'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",Subject_choices,"['slot_fillers', 'abstractions']","['slot_fillers', 'things']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'abstractions']","['slot_fillers', 'concepts', 'abstractions']",0,"['slot_fillers', 'concepts', 'abstractions']"
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'humans']",['slot_fillers'],0,['slot_fillers']
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",Subject_choices,['abstractions'],['abstractions'],"['things', 'slot_fillers']",,[],,[],,[],['abstractions'],"['rhetorical_participants', 'abstractions']",0,"['rhetorical_participants', 'abstractions']"
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans']",1,"['slot_fillers', 'humans']"
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Subject_choices,['humans'],"['rhetorical_participants', 'humans']","['slot_fillers', 'abstractions']",,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3895,[13],Impossible.,Subject_choices,[],[],['abstractions'],,[],,[],,[],[],[],1,[]
+3937,[ 9  9 13],"Of course this would be of little interest to secular journalists, who have paid no mind to his habit of rewriting Catholicism, but the sex abuse crisis is something secular journalists are very interested in, a fact Bergoglio seems not to have understood.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'abstractions']",,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['things', 'slot_fillers', 'humans']",0,"['things', 'slot_fillers', 'humans']"
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['things', 'slot_fillers', 'humans']",0,"['things', 'slot_fillers', 'humans']"
+3988,[ 8 13],They make sure that the Islamic instruction in these textbooks presents a picture of Islam that is so pristine and whitewashed that it sometimes crosses the boundary from mere pro-Muslim bias into outright Islamic proselytizing.,Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']","['things', 'humans']",,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']",['humans'],0,['humans']
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Subject_choices,['humans'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",Subject_choices,"['things', 'humans']","['things', 'humans']",['concepts'],,[],,[],,[],"['things', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'abstractions']",['concepts'],,[],,[],,[],"['humans', 'abstractions']",['abstractions'],0,['abstractions']
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",Subject_choices,['humans'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+4263,[ 9 14  9],"With the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours’ Day 2018 Address in which he told an approving audience that ""powerful Jews are my enemy,"" and ""white folks are going down,"" according to The Washington Examiner.",Subject_choices,['humans'],"['humans', 'abstractions']",['humans'],,[],,[],,[],['humans'],"['things', 'concepts', 'humans']",0,"['things', 'concepts', 'humans']"
+4267,[14],“If someone can get me this young man’s information I’ll get him a new #maga hat… SIGNED by #potus!!,Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",['humans'],,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+4270,[14],Long live the Fifth Estate!”,Subject_choices,[],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],['concepts'],-1,['concepts']
+4278,[14],"In the months leading up to the vote, there had been other anti-Semitic incidents, including a tweet by Igor Sadikov, an elected representative of students in McGill’s faculty of arts, saying: “punch a zionist.”",Subject_choices,['things'],"['slot_fillers', 'abstractions']",['abstractions'],,[],,[],,[],['things'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",Subject_choices,"['rhetorical_participants', 'humans']","['slot_fillers', 'rhetorical_participants', 'humans']",['humans'],,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans', 'abstractions']",0,"['rhetorical_participants', 'humans', 'abstractions']"
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+4302,[13 14],A Texas mother’s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.,Subject_choices,['humans'],['humans'],[],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Subject_choices,"['things', 'humans', 'abstractions']","['things', 'humans']",['things'],,[],,[],,[],"['things', 'humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Subject_choices,['things'],['things'],['things'],,[],,[],,[],['things'],"['things', 'humans']",0,"['things', 'humans']"
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']",['humans'],0,['humans']
+4318,[14],Kill the Messenger,Subject_choices,[],[],[],"{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'Messenger' represents a vague, general concept rather than specific humans, things, or abstractions.""
+}",['concepts'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'the Messenger' is an abstraction, as it refers to a concept or idea rather than a specific individual or group of people.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The text 'Kill the Messenger' uses the abstract concept of 'messenger' as the subject, representing an idea rather than a specific individual or thing.""
+}",['abstractions'],[],['abstractions'],-1,[]
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",Subject_choices,['things'],['things'],['humans'],,[],,[],,[],['things'],"['things', 'humans']",0,"['things', 'humans']"
+4329,[14],"Representatives work for us, we do not work for them.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",Subject_choices,"['slot_fillers', 'concepts', 'humans']","['slot_fillers', 'humans', 'abstractions']",['things'],,[],,[],,[],"['slot_fillers', 'concepts', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Subject_choices,"['concepts', 'abstractions']",['abstractions'],['concepts'],,[],,[],,[],"['concepts', 'abstractions']","['concepts', 'humans']",0,"['concepts', 'humans']"
+4353,[ 7 14],"""For us, Hungary is first.",Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['rhetorical_participants', 'humans']",-1,"['rhetorical_participants', 'humans']"
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Subject_choices,"['rhetorical_participants', 'slot_fillers', 'concepts', 'humans', 'abstractions']","['slot_fillers', 'rhetorical_participants', 'abstractions']",['rhetorical_participants'],,[],,[],,[],"['rhetorical_participants', 'slot_fillers', 'concepts', 'humans', 'abstractions']",['rhetorical_participants'],0,['rhetorical_participants']
+4367,[15],They want to preserve the FBI’s reputation.,Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4370,[15],The media is very interested in racism.,Subject_choices,['abstractions'],[],['humans'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4371,[15],The media is happy to talk about anti-Semitism.,Subject_choices,['abstractions'],['abstractions'],['humans'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4372,[15],Here’s my translation:,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],['rhetorical_participants'],-1,['rhetorical_participants']
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Subject_choices,"['things', 'humans']","['things', 'humans']","['things', 'humans']",,[],,[],,[],"['things', 'humans']",['things'],0,['things']
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+4384,[16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",Subject_choices,[],[],['things'],,[],,[],,[],[],"['concepts', 'abstractions']",-1,"['concepts', 'abstractions']"
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4400,[ 6 16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['things', 'concepts', 'humans']",-1,"['things', 'concepts', 'humans']"
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",Subject_choices,"['concepts', 'humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['concepts', 'humans', 'abstractions']",0,"['concepts', 'humans', 'abstractions']"
+4405,[16],So interesting!,Subject_choices,[],[],[],"{
+  ""Properties"": [
+    ""rhetorical participants""
+  ],
+  ""Explanation"": ""The subject 'I' (the reader) is implied in the exclamation 'So interesting!'""
+}",['rhetorical_participants'],timeout,[],"```json
+{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'So interesting!' directly addresses the reader, making them a rhetorical participant in the text.""
+}
+```",['rhetorical_participants'],[],['rhetorical_participants'],-1,[]
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'abstractions']",0,"['slot_fillers', 'abstractions']"
+4417,[16],The time for “prudence” is long past.,Subject_choices,['abstractions'],['concepts'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+4427,[16],It is over.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+4430,[16],You really don't need to know anything.,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['humans'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+4431,[16],“I had no way to see into his mind.,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+4434,[ 8 16],No more games.,Subject_choices,[],[],['concepts'],,[],,[],,[],[],[],1,[]
+4436,[16],“So what if this code is a gun?”,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,Subject_choices,"['concepts', 'humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Subject_choices,['abstractions'],['abstractions'],['humans'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4448,[17],"@Theresa_May, don’t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",Subject_choices,"['slot_fillers', 'concepts']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['slot_fillers', 'concepts']","['rhetorical_participants', 'humans']",-1,"['rhetorical_participants', 'humans']"
+4452,[17],"Juanita Broaddrick, who accused Bill Clinton of rape — and who’s never ever recanted her story, in all the years she’s made the accusation — had a blunt message for Sen. Dianna Feinstein about the supposed “due process” that needs to be given to Brett Kavanaugh’s accuser, and it’s one that goes like this: Where was mine?",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']",['humans'],0,['humans']
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Subject_choices,['abstractions'],"['slot_fillers', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],['abstractions'],"['rhetorical_participants', 'humans']",-1,"['rhetorical_participants', 'humans']"
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",Subject_choices,['abstractions'],['humans'],"['slot_fillers', 'humans']",,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+4477,[17],"Seemingly heedless of these hard facts, President Trump – who himself avoided national military service in the 1960’s – keeps beating the war drums over North Korea and needling its thin-skinned regime with naval exercises, over-flights, and intensifying bombast.",Subject_choices,"['slot_fillers', 'humans']",['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Subject_choices,"['rhetorical_participants', 'concepts', 'humans', 'abstractions']","['rhetorical_participants', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['rhetorical_participants', 'concepts', 'humans', 'abstractions']",['humans'],0,['humans']
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",Subject_choices,"['things', 'concepts', 'humans']","['things', 'humans', 'abstractions']",['abstractions'],,[],,[],,[],"['things', 'concepts', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",Subject_choices,"['slot_fillers', 'humans']","['things', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'humans']","['things', 'concepts', 'humans', 'abstractions']",0,"['things', 'concepts', 'humans', 'abstractions']"
+4767,[],- No new deaths -,Subject_choices,[],[],[],"{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The subject 'new deaths' refers to physical entities, and 'No' is a slot filler used to make a complete sentence.""
+}","['things', 'slot_fillers']",timeout,[],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'No new deaths' refers to something with a physical existence.""
+}",['things'],[],"['things', 'slot_fillers']",-1,[]
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+4932,[],Here’s a link for ya to do just that.,Subject_choices,['abstractions'],['slot_fillers'],['rhetorical_participants'],,[],,[],,[],['abstractions'],['rhetorical_participants'],-1,['rhetorical_participants']
+5024,[],The two cities are home to a combined 12 million people.,Subject_choices,['things'],['things'],['things'],,[],,[],,[],['things'],"['things', 'humans']",0,"['things', 'humans']"
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Subject_choices,['abstractions'],['slot_fillers'],['concepts'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']"
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Subject_choices,[],[],['humans'],,[],,[],,[],[],['humans'],-1,['humans']
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,Subject_choices,['humans'],"['slot_fillers', 'humans']",['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+5438,[],I wanted them to know that I listened.”,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['concepts', 'humans']",,[],,[],,[],"['humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Subject_choices,[],['abstractions'],['humans'],,[],,[],,[],[],['humans'],-1,['humans']
+6331,[],It is impossible to do all this without God’s assistance.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'abstractions']",0,"['slot_fillers', 'abstractions']"
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",Subject_choices,"['humans', 'abstractions']","['concepts', 'humans']",['humans'],,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Subject_choices,"['things', 'concepts', 'abstractions']","['slot_fillers', 'things']","['things', 'abstractions']",,[],,[],,[],"['things', 'concepts', 'abstractions']","['slot_fillers', 'abstractions']",0,"['slot_fillers', 'abstractions']"
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+6745,[],"O’Malley was not only a member of the pope’s “G9” group of close advisors; he was also the man who sought to clean up the abuse scandal in Boston after the departure of his predecessor, Cardinal Bernard Law, whose shifting of predator priests to new posts was exposed by the Boston Globe and chronicled in the movie “Spotlight.”",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']",['humans'],0,['humans']
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['things', 'slot_fillers', 'humans']","['things', 'humans']",,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Subject_choices,"['things', 'humans']","['slot_fillers', 'humans', 'abstractions']",['humans'],,[],,[],,[],"['things', 'humans']",['humans'],0,['humans']
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",Subject_choices,"['things', 'humans']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['things', 'humans']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+7408,[],"Looking carefully at the infamous “Who am I to judge” comment, this was clear early on.",Subject_choices,['slot_fillers'],"['slot_fillers', 'rhetorical_participants']",['abstractions'],,[],,[],,[],['slot_fillers'],['abstractions'],-1,['abstractions']
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['humans'],,[],,[],,[],"['slot_fillers', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+7758,[],Article posted with permission from Robert Spencer,Subject_choices,['things'],['things'],['things'],,[],,[],,[],['things'],['humans'],-1,['humans']
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['humans'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+7818,[],But really it comes down to the British government.,Subject_choices,"['slot_fillers', 'humans']",['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['humans'],-1,['humans']
+7975,[],Laws are for conservatives.,Subject_choices,['abstractions'],['abstractions'],['concepts'],,[],,[],,[],['abstractions'],"['concepts', 'abstractions']",0,"['concepts', 'abstractions']"
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",Subject_choices,"['rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants', 'abstractions']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'abstractions']","['things', 'rhetorical_participants', 'humans', 'abstractions']",0,"['things', 'rhetorical_participants', 'humans', 'abstractions']"
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Subject_choices,"['things', 'humans']",['humans'],"['humans', 'abstractions']",,[],,[],,[],"['things', 'humans']","['humans', 'abstractions']",0,"['humans', 'abstractions']"
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",Subject_choices,"['things', 'humans', 'abstractions']","['things', 'humans']",['humans'],,[],,[],,[],"['things', 'humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+9329,[],Solemnly professed:,Subject_choices,[],[],[],"{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The text contains the abstraction 'solemnly professed' and the slot filler 'it' used in 'it was raining'""
+}","['abstractions', 'slot_fillers']",timeout,[],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'Solemnly professed' is an abstraction, as it refers to a solemn declaration or commitment rather than a concrete individual or thing.""
+}",['abstractions'],[],"['abstractions', 'slot_fillers']",-1,[]
+9396,[],Also on communion between the communities.,Subject_choices,['concepts'],[],['things'],,[],,[],,[],['concepts'],['things'],-1,['things']
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+9657,[],I don't remember how I got there.,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['concepts', 'humans']",0,"['concepts', 'humans']"
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Subject_choices,"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'humans', 'abstractions']","['slot_fillers', 'humans']",0,"['slot_fillers', 'humans']"
+9712,[],His life before joining the caliphate was unremarkable.,Subject_choices,['concepts'],['abstractions'],['concepts'],,[],,[],,[],['concepts'],['humans'],-1,['humans']
+9827,[],It will be addressed quickly and justly.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'concepts']",0,"['slot_fillers', 'concepts']"
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",Subject_choices,"['things', 'concepts', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['things', 'concepts', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Subject_choices,['things'],['abstractions'],['things'],,[],,[],,[],['things'],['things'],1,['things']
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Subject_choices,"['things', 'abstractions']","['things', 'humans', 'abstractions']",['things'],,[],,[],,[],"['things', 'abstractions']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",Subject_choices,"['humans', 'abstractions']","['slot_fillers', 'humans']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+10448,[],Anybody?,Subject_choices,[],['humans'],['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Subject_choices,['humans'],"['things', 'humans']",['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+10658,[],Assange’s crime is to have broken a silence.,Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],['humans'],1,['humans']
+11361,[],Email This field is for validation purposes and should be left unchanged.,Subject_choices,['abstractions'],['things'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+11544,[],As to matters of purely ecclesiastical law such as this one the Church has always allowed for departures from traditional practice in cases of emergency or grave necessity.,Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['things', 'abstractions']",0,"['things', 'abstractions']"
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],['rhetorical_participants'],1,['rhetorical_participants']
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],,[],,[],,[],['abstractions'],['abstractions'],1,['abstractions']
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Subject_choices,[],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",Subject_choices,[],['abstractions'],['things'],,[],,[],,[],[],"['things', 'humans']",-1,"['things', 'humans']"
+11936,[],America's Immigration Voice.,Subject_choices,[],['abstractions'],['humans'],,[],,[],,[],[],['humans'],-1,['humans']
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",Subject_choices,['abstractions'],['abstractions'],['things'],,[],,[],,[],['abstractions'],"['things', 'humans']",-1,"['things', 'humans']"
+12371,[],The ever growing global list of Bishops and Cardinals that have preyed on /and or covered up the sexual abuse of minors and seminarians over the last 60 years continues to enrage the laity.,Subject_choices,['abstractions'],"['humans', 'abstractions']",['things'],,[],,[],,[],['abstractions'],"['humans', 'abstractions']",0,"['humans', 'abstractions']"
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Subject_choices,['concepts'],"['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Subject_choices,"['slot_fillers', 'abstractions']",['slot_fillers'],['slot_fillers'],,[],,[],,[],['slot_fillers'],"['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+12626,[],It did what it is designed to do.,Subject_choices,['slot_fillers'],['things'],['slot_fillers'],,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Subject_choices,"['things', 'humans']","['things', 'humans']",['humans'],,[],,[],,[],"['things', 'humans']","['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['things', 'concepts', 'humans']",0,"['things', 'concepts', 'humans']"
+12935,[],"An organization that hands out the Emma Lazarus Award, named after a passionate Zionist, at its posh dinners is hosting attacks on the existence of Israel.",Subject_choices,['things'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+12977,[],And yet it’s inescapable.,Subject_choices,['slot_fillers'],['slot_fillers'],"['slot_fillers', 'humans']",,[],,[],,[],['slot_fillers'],['slot_fillers'],1,['slot_fillers']
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",Subject_choices,"['things', 'rhetorical_participants']","['things', 'rhetorical_participants']","['things', 'humans']",,[],,[],,[],"['things', 'rhetorical_participants']","['things', 'rhetorical_participants', 'abstractions']",0,"['things', 'rhetorical_participants', 'abstractions']"
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",Subject_choices,['things'],"['things', 'humans', 'abstractions']",['things'],,[],,[],,[],['things'],"['concepts', 'abstractions']",-1,"['concepts', 'abstractions']"
+13225,[],"It is the Federation that now has the power to monitor for compliance with the rules, to report non-compliance to the Holy See, to make new foundations and, apparently, to “encourage” individual monasteries to “communicate” their goods.",Subject_choices,"['slot_fillers', 'abstractions']",['humans'],"['slot_fillers', 'humans']",,[],,[],,[],"['slot_fillers', 'abstractions']","['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Subject_choices,['humans'],['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans']",0,"['things', 'humans']"
+13573,[],I am not a fan of Donald Trump.,Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],,[],,[],,[],['rhetorical_participants'],"['rhetorical_participants', 'humans']",0,"['rhetorical_participants', 'humans']"
+13660,[],"It is to wonder what this man would make of a comment by the great Dom Paul Delatte, the second abbot of Solesmes and successor to the refounder, Dom Gueranger, who wrote in his commentary on the Rule of St. Benedict:",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']",['slot_fillers'],,[],,[],,[],"['slot_fillers', 'humans']","['slot_fillers', 'humans', 'abstractions']",0,"['slot_fillers', 'humans', 'abstractions']"
+14038,[],And in Russia.,Subject_choices,[],[],[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'in Russia' as the subject indicates the writer is referring to themselves and possibly the reader as well.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans"", ""things""],
+  ""Explanation"": ""The subject 'in Russia' refers to a geographic location, which is a thing, and also indirectly to the people or government of Russia, representing humans.""
+}","['humans', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Russia' refers to a collection of people within a country.""
+}",['humans'],[],['rhetorical_participants'],-1,[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Subject_choices,"['humans', 'abstractions']",['humans'],['humans'],,[],,[],,[],['humans'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Subject_choices,"['humans', 'abstractions']","['things', 'humans']",['humans'],,[],,[],,[],"['humans', 'abstractions']","['things', 'humans']",0,"['things', 'humans']"
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",,[],,[],,[],"['rhetorical_participants', 'humans']",['humans'],0,['humans']
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Subject_choices,['abstractions'],"['things', 'humans']",['humans'],,[],,[],,[],['abstractions'],"['things', 'humans', 'abstractions']",0,"['things', 'humans', 'abstractions']"
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Subject_choices,"['humans', 'abstractions']","['humans', 'abstractions']","['humans', 'abstractions']",,[],,[],,[],"['humans', 'abstractions']","['humans', 'abstractions']",1,"['humans', 'abstractions']"

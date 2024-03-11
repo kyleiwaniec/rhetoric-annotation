@@ -1,0 +1,134 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+<div aria-live="polite" aria-atomic="true" class="bg-body-secondary position-relative bd-example-toasts rounded-3">
+  <div class="toast-container p-3 top-0 start-50 translate-middle-x" >
+    <div class="toast text-bg-success">
+      <div class="toast-body">
+        Your annotation was saved successfully.
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="container-fluid min-vh-100 d-flex flex-column position-relative">
+<div class="zoom position-absolute top-0 end-0 p-2">
+
+
+
+		<div class="btn-group" role="group" aria-label="First group">
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('in')"><i class="bi bi-zoom-in"></i></button>
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('out')"><i class="bi bi-zoom-out"></i></button>
+	    <button type="button" class="btn btn-outline-info" onclick="zoomTree('reset')"><i class="bi bi-arrow-clockwise"></i></button>
+	  </div>
+
+
+
+</div>
+<div class="row">
+	<div class="col">
+		<div id="tree-container"></div>
+	</div>
+</div>
+<div class="row">
+	<div class="col">
+		<div id="sentence_container">Loading sentence...</div>
+	</div>
+</div>
+
+<div class="row flex-grow-1">
+	<div class="col-8">
+		
+		<div class="row">
+			<div class="col">
+				<nav>
+				  <div class="nav nav-tabs" id="nav-tab" role="tablist">
+				    
+				    <button class="nav-link active" id="nav-word-tab" data-bs-toggle="tab" data-bs-target="#nav-word" type="button" role="tab" aria-controls="nav-word" aria-selected="false">Word</button>
+
+				    <button class="nav-link" id="nav-sentence-tab" data-bs-toggle="tab" data-bs-target="#nav-sentence" type="button" role="tab" aria-controls="nav-sentence" aria-selected="true">Sentence</button>
+
+				    <button class="nav-link" id="nav-rhetoric-tab" data-bs-toggle="tab" data-bs-target="#nav-rhetoric" type="button" role="tab" aria-controls="nav-rhetoric" aria-selected="false">Rhetoric</button>
+
+				    <button class="nav-link" id="nav-semcat-tab" data-bs-toggle="tab" data-bs-target="#nav-semcat" type="button" role="tab" aria-controls="nav-semcat" aria-selected="false">Semantic Categories</button>
+
+				  </div>
+				</nav>
+			</div>
+			<div class="col-md-auto">
+				<button type="button" class="btn btn-secondary" id="timer">00:00</button>
+
+				<button type="button" class="btn btn-warning" id="prev_sentence" onclick="getPrevSentence(); return false;"><i class="bi bi-chevron-double-left"></i> Prev Sentence</button>
+
+				<div class="btn-group m-1" role="group" aria-label="switch view">
+					<button type="button" class="btn btn-outline-info" id="flag_for_review" 
+						data-bs-toggle="tooltip" 
+						data-bs-placement="top" 
+						data-bs-title="Flag for review" 
+						onclick="flagForReview(this); return false;">
+	              <i class="bi bi-bookmark"></i>
+					</button>
+					<button type="button" class="btn btn-outline-info" id="mark_completed" 
+						data-bs-toggle="tooltip" 
+						data-bs-placement="top" 
+						data-bs-title="Mark as completed" 
+						onclick="markCompleted(); return false;"><i class="bi bi-lock"></i>
+					</button>
+				</div>
+				
+				<button type="button" class="btn btn-warning" id="next_sentence" onclick="getNextSentence(); return false;">Next Sentence <i class="bi bi-chevron-double-right"></i></button>
+
+				
+				<!-- <button type="button" 
+					class="btn btn-outline-warning" 
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-title="in-progress" 
+					id="inprogress" 
+					onclick="get_stats(); return false;">0
+				</button>
+
+				<button type="button" 
+					class="btn btn-outline-success" 
+					data-bs-toggle="tooltip" 
+					data-bs-placement="top" 
+					data-bs-title="completed" 
+					id="completed" 
+					onclick="get_stats(); return false;">0
+				</button> -->
+
+			</div>
+		</div>
+		
+		<div class="tab-content p-3" id="nav-tabContent">
+			<div class="tab-pane fade show active" id="nav-word" role="tabpanel" aria-labelledby="nav-word-tab" tabindex="0">
+				<script src="{{ url_for('static', filename='components/word.js') }}"></script>
+			</div>
+			<div class="tab-pane fade" id="nav-sentence" role="tabpanel" aria-labelledby="nav-sentence-tab" tabindex="0">
+				<script src="{{ url_for('static', filename='components/sentence.js') }}"></script>
+			</div>
+			<div class="tab-pane fade" id="nav-rhetoric" role="tabpanel" aria-labelledby="nav-rhetoric-tab" tabindex="0"></div>
+			<div class="tab-pane fade" id="nav-semcat" role="tabpanel" aria-labelledby="nav-semcat-tab" tabindex="0"></div>
+		</div>
+
+	</div>
+	<div class="col-4">
+		<div class=" position-relative">
+		<div class="position-absolute top-0 end-0">
+			<div class="btn-group m-1" role="group" aria-label="switch view">
+				<button type="button" class="btn btn-outline-secondary" onclick="renderJSON();return false;"> <i class="bi bi-braces"></i></button>
+				<button type="button" class="btn btn-outline-secondary" onclick="renderTEXT();return false;"> <i class="bi bi-list-ul"></i></button>
+			</div>
+		</div>
+		<pre id="jsonContainer" class="p-3 vh-100">Loading JSON...</pre>
+		</div>
+	</div>
+</div>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/home.js') }}"></script>
+
+{% endblock %}

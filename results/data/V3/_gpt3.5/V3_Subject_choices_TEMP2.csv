@@ -1,0 +1,1348 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,Unnamed: 28,property,res_0.0_V3_2
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,humans,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence 'I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases' is 'I', which refers to the speaker. 'Cardinal's exposition' is the object of the verb 'have read'. Therefore, none of the subjects in the sentence are humans.""
+}"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,rhetorical participants,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the given sentence, the subject 'I' is a rhetorical participant, as it refers to the writer or speaker themselves. Therefore, the sentence contains a rhetorical participant as a subject.""
+}"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'I', which is a pronoun referring to a person. It does not refer to a physical object. Therefore, the subject is not a 'thing' in the context of 'Subject choices'.""
+}"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'I' and 'Cardinal's exposition'. Neither of these subjects are abstractions. 'I' refers to a specific person, and 'Cardinal's exposition' refers to a specific written or spoken explanation by a cardinal. Therefore, none of the subjects are abstractions.""
+}"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'I' and 'Cardinal's exposition'. Neither of these subjects are concepts like 'fairness', 'justice', or 'oppression'. Therefore, the answer is 'no'.""
+}"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],FALSE,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1,0,GPT did not adhere to definitions,['rhetorical_participants'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'I' is the subject, not a slot filler. 'I' is a personal pronoun functioning as the subject of the sentence, not a dummy subject used to make a complete sentence. Therefore, the answer is 'no'.""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,humans,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The subject of the sentence 'Women everywhere should be furious' is 'Women', which refers to a group of human individuals. Therefore, the subject of the sentence falls under the category of 'humans' as defined in the context of 'Subject choices'.""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the sentence 'Women everywhere should be furious,' the subject is 'Women everywhere.' This is not a rhetorical participant because it does not refer to the writer or reader themselves. It refers to a group of people, not the writer or reader directly. Therefore, there are no rhetorical participants as subjects in this sentence.""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the sentence 'Women everywhere should be furious,' the subject is 'Women.' 'Women' refers to human beings and is not a 'thing' in the context of subject choices. Therefore, the answer is 'no.'""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence 'Women everywhere should be furious' is 'Women'. 'Women' is not an abstraction; it refers to a specific group of people and can be easily pointed to. Therefore, none of the subjects of the sentence are abstractions.""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the sentence 'Women everywhere should be furious,' the subject is 'Women everywhere.' This is not a concept but rather a specific group of individuals. Therefore, none of the subjects in the sentence are concepts as defined in the context of 'Subject choices.'""
+}"
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],TRUE,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1,0,GPT did not adhere to definitions,['humans'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the sentence 'Women everywhere should be furious,' 'Women' is the subject of the sentence, not a slot filler. It is a specific and meaningful subject, not a dummy subject used to make a complete sentence. Therefore, the answer is 'no.'""
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,humans,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'growing numbers of Catholics', which refers to a collective group of people. While 'Catholics' are humans, the specific subject of the sentence is a group or collection of individuals rather than a single individual or proper name. Therefore, the answer is 'no' as the subject is not a single individual, proper name, or a smaller group of people.""
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'growing numbers of Catholics'. None of these subjects ('growing numbers of Catholics') are rhetorical participants such as 'I', 'you', or 'we'. Therefore, the answer is 'no'.""
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'growing numbers of Catholics', which refers to people, not physical objects. Therefore, the subjects of the sentence are not 'things' in the context of 'Subject choices'.""
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'growing numbers of Catholics'. These are not abstractions, as they refer to specific groups of people. The term 'abstractions' refers to concepts or ideas that cannot be physically pointed to, such as 'international trade' or 'voting trends'. 'Growing numbers of Catholics' refers to a specific and tangible group, so it does not fall under the category of abstractions.""
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'growing numbers of Catholics' and 'it'. Neither of these subjects are concepts. 'Growing numbers of Catholics' refers to a group of people, and 'it' refers to an unspecified object or idea. Therefore, none of the subjects are concepts as defined in the context of 'Subject choices'."" 
+}"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1,0,,"['slot_fillers', 'humans']",,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'it' is not a slot filler. The subject of the sentence is 'growing numbers of Catholics.' 'It' in this sentence is not a dummy subject used to make a complete sentence; rather, it refers to something specific, likely an antecedent mentioned earlier in the discourse. Therefore, 'it' in this context is not a slot filler."" 
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,humans,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the given sentence are 'Pope' and 'bishops'. While 'Pope' refers to a specific individual, 'bishops' refers to a group of individuals. However, the sentence does not include subjects that are single individuals, proper names, or groups and collections of people that would fall under the category of 'humans' as defined in the context of 'Subject choices'. Therefore, the answer is 'no'.""
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'Pope' and 'bishops'. None of these subjects are rhetorical participants such as 'I', 'you', or 'we'. Therefore, the answer is 'no'.""
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'the same Pope' and 'Faggioli'. Neither of these subjects are 'things' in the context of subject choices. 'The same Pope' refers to a person, and 'Faggioli' is also a person's name. Therefore, the subjects are not 'things' as defined in the context of subject choices.""
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Pope' and 'Faggioli'. These are not abstractions, as they are specific name referents that can be easily pointed to. Therefore, the answer is 'no'.""
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Pope' and 'Faggioli'. These are specific individuals and not vague, general, all-encompassing terms like 'fairness', 'justice', or 'oppression', which are characteristic of concepts. Therefore, none of the subjects of the sentence are concepts.""
+}"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1,0,GPT is mangling the definitions,['humans'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'the same Pope' and 'Modernist bishops' are not slot fillers. They are actual subjects of the sentence, not dummy subjects used to make complete sentences. Therefore, the answer is 'no'.""
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,humans,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The subject of the sentence is 'an honest man', which falls under the category of humans as it refers to a single individual. Therefore, the answer is 'yes'.""
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'testimony' and 'man'. Neither of these subjects falls under the category of rhetorical participants, which includes 'I', 'you', and 'we'. Therefore, the answer is 'no'.""
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'testimony' and 'man'. Neither of these subjects are 'things' in the context of 'Subject choices' as they are not objects with physical existence. 'Testimony' refers to a concept or an abstract idea, and 'man' refers to a person, which is not a physical object. Therefore, the answer is 'no'.""
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'testimony' and 'man'. Neither of these subjects are abstractions. 'Testimony' refers to a specific act or instance of giving a formal statement, and 'man' refers to a specific individual. Therefore, the subjects are not abstractions.""
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'testimony' and 'man'. Neither of these subjects are concepts like 'fairness', 'justice', or 'oppression'. Instead, they refer to specific entities or ideas, making them concrete and specific, rather than vague and all-encompassing terms."" 
+}"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1,0,,"['slot_fillers', 'humans']",,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'This' is the subject, and it is not a slot filler. 'This' is functioning as a demonstrative pronoun, serving as the subject of the sentence. It is not a dummy subject used to make the sentence complete; rather, it is the actual subject of the sentence, introducing and referring to the testimony being discussed.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,humans,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The subjects of the sentence are 'American people', which falls under the category of humans as it refers to a group of individuals. Therefore, the answer is 'yes'.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,rhetorical participants,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the given sentence, 'I' and 'you' are used as rhetorical participants, representing the writer and the reader respectively. These pronouns directly involve the writer and the reader in the discourse, making them rhetorical participants in the subject choices.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'I' and 'you'. Neither 'I' nor 'you' are things in the context of 'Subject choices' as they are not objects with physical existence. Therefore, the answer is 'no'.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'I' and 'you'. None of these subjects are abstractions. 'I' and 'you' are personal pronouns referring to specific individuals, and they are not abstract concepts like 'international trade' or 'voting trends'. Therefore, the answer is 'no'.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'I' and 'you'. Neither 'I' nor 'you' are concepts. They are personal pronouns referring to individuals. Therefore, none of the subjects of the sentence are concepts.""
+}"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",FALSE,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1,1,,"['rhetorical_participants', 'humans']",,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'I' and 'you' are the subjects, not slot fillers. Slot fillers are typically pronouns like 'it' or 'there' used as dummy subjects to fulfill the syntactic requirement of a sentence. In the provided sentence, 'I' and 'you' are genuine subjects, not placeholders or slot fillers."" 
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,humans,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The subject 'Americans' in the sentence refers to a group of people, which falls under the category of humans as defined in the context of 'Subject choices'. Therefore, the answer is 'yes'.""
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subject is 'Americans'. It refers to a group of people and is not a rhetorical participant. The sentence does not contain any rhetorical participants such as 'I', 'you', or 'we', which are typically used to directly address the reader or writer themselves.""
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'Trump' and 'Americans'. Neither 'Trump' nor 'Americans' are things in the context of 'Subject choices' as defined. 'Trump' refers to a person, and 'Americans' refers to a group of people, both of which are not objects with physical existence. Therefore, the answer is 'no'.""
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Americans' and 'Trump'. Neither of these subjects are abstractions. 'Americans' refers to the people of the United States, and 'Trump' refers to the former president. Therefore, the sentence does not contain abstractions as subjects.""
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Americans' and 'Trump'. Neither of these subjects are concepts like 'fairness', 'justice', or 'oppression'. Therefore, the answer is 'no'.""
+}"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'Americans' and 'you' are the subjects, not slot fillers. 'Americans' is the subject of the main clause, and 'you' is the subject of the subordinate clause. Neither of these can be considered slot fillers as they are not dummy subjects used to make complete sentences. Instead, they are meaningful subjects that carry the main semantic content of the sentence.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,humans,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'Russians', which refers to a nationality or group of people from Russia. While 'Russians' refers to humans, it is not a single individual, proper name, or a group or collection of people in the context of 'Subject choices' as defined. Therefore, the answer is 'no'.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,rhetorical participants,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the given sentence, the subject 'I' and 'our' are rhetorical participants. 'I' refers to the writer, and 'our' refers to the reader and the writer collectively. These pronouns directly involve the writer and reader as the subjects of the sentence.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'I' and 'Russians'. 'I' refers to a person, and 'Russians' refers to a group of people, both of which are not 'things' in the context of subject choices. Therefore, the answer is 'no'.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'I' and 'Russians'. Neither of these subjects are abstractions. 'I' refers to the speaker, and 'Russians' refers to a specific group of people. Therefore, none of the subjects of the sentence are abstractions.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'Russians', which refers to a specific group of people. It does not fall under the category of vague, general, all-encompassing terms such as 'fairness', 'justice', or 'oppression', which are typical of concepts. Therefore, the subjects of the sentence are not concepts.""
+}"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",TRUE,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",FALSE,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1,0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']",,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'I' is the subject, not a slot filler. 'I' is a personal pronoun functioning as the subject of the sentence, not a dummy subject. It is the one performing the action of noting the intelligence findings. Therefore, 'I' is not a slot filler in this context.""
+}"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,humans,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence 'We imported goods ""                                                                                                    "
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,rhetorical participants,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the given sentence, 'We' is a rhetorical participant as it refers to the writer or the speaker themselves. Therefore, 'We' falls under the category of rhetorical participants as it represents the writer or speaker in the sentence.""
+}"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'We' and 'our future' are the subjects. Neither 'We' nor 'our future' are things in the context of 'Subject choices' as defined, as they do not have a physical existence. Therefore, the answer is 'no'.""
+}"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence 'We imported goods ""                                                                                                    "
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence 'We imported goods ""                                                                                                    "
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],TRUE,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],FALSE,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1,0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'We' is the subject, and it is not a slot filler. 'We' is a pronoun functioning as the subject of the sentence, representing the speaker or a group including the speaker. It is not a dummy subject used to make a complete sentence. Therefore, the answer is 'no'.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,humans,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The subject 'Barack Obama' is a human, as he is a single individual and a proper name. Therefore, the sentence contains a human subject.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,rhetorical participants,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, the subjects are 'Barack Obama' and 'he'. These are not rhetorical participants as they do not refer to the writer or reader themselves. Instead, they refer to a specific person, Barack Obama, and are not used in a manner that includes the writer or reader as part of the subject choices.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,things,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subject of the sentence is 'Barack Obama', which is a person and not a thing. Therefore, the subject is not a 'thing' as defined in the context of 'Subject choices'.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,abstractions,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Barack Obama' and 'the American people'. Neither of these subjects are abstractions. 'Barack Obama' is a specific person, and 'the American people' refers to a concrete group of individuals. Therefore, none of the subjects in the sentence are abstractions.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,concepts,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The subjects of the sentence are 'Barack Obama' and 'the American people'. Neither of these subjects are concepts. 'Barack Obama' is a proper noun referring to a specific person, and 'the American people' refers to a specific group of individuals. Therefore, none of the subjects are concepts.""
+}"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],TRUE,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],FALSE,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1,0,GPT is mangling the definitions,['humans'],,slot fillers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""In the given sentence, 'Barack Obama' is the subject, and it is not a slot filler. It is a proper noun referring to a specific person and is not a dummy subject used to make a complete sentence. Therefore, the answer is 'no'.""
+}"

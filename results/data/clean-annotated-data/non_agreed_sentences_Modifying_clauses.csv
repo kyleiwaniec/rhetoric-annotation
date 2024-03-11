@@ -1,0 +1,1683 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,res1,gpt_props1,res2,gpt_props2,res3,gpt_props3,props_a_majority,props_gpt_majority,ann_gpt_agreemnt,props_gpt4_majority
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],"``` 
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'wherefore' and an indirect speech clause using 'according to the tradition'.""
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example contains a relative clause 'wherefore the great Temur always strove to exterminate the infidels' (adjective clause) and a clause for indirect speech 'Muhammad advises the same thing, according to the tradition of the Muslim doctors' (noun clause).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The use of 'wherefore' suggests a causal connection, making it a subordinate clause. Additionally, the relative clause 'according to the tradition of the Muslim doctors' qualifies 'Muhammad', making it an adjective clause.""
+}","['adjective', 'subordinate']",['subordinate'],"['adjective', 'noun']",-1,[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",Modifying_clauses,['noun'],['adjective'],['adjective'],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' to incorporate detail ('...his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity...') and an indirect speech clause ('...we can take the assurance for what it seems to be worth.').""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'that' to give more information about the previous noun 'lie'.""
+}",['adjective'],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with a causal connection (given that) and an adjective clause (that there was no evidence for Ricca's homosexual activity).""
+}","['subordinate', 'adjective']",['adjective'],"['adjective', 'noun']",0,[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Modifying_clauses,[],['noun'],[],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'Conservative Ben Shapiro told Fox news' is an adjective relative clause describing who made the statement, and the clause 'the verdict was 'horrifying'' is a noun clause incorporating the detail of the statement.""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The example text contains a modifying clause 'Conservative Ben Shapiro told Fox news that the verdict was 'horrifying', which is used for indirect speech or incorporating detail.""
+}",['noun'],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun clause 'Conservative Ben Shapiro told Fox news', which incorporates detail. There is also a subordinate clause 'the verdict was 'horrifying', which suggests a causal connection.""
+}","['subordinate', 'adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Modifying_clauses,['noun'],['adjective'],['adjective'],"```json
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'who described the detention centre as looking akin to a typical American prison' is a relative adjective clause, and the clause 'that his speaking at Hyde Park could cause violence and disrupt community cohesion' is a subordinate clause.""
+}
+```","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'who described the detention centre as looking akin to a typical American prison' is a relative adjective clause providing detail. The clause 'he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion' is a subordinate clause suggesting a causal connection.""
+}","['adjective', 'subordinate']","```{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' ('who described the detention centre as looking akin to a typical American prison') and a subordinate clause with a subordinating conjunction 'that' ('that his speaking at Hyde Park could cause violence and disrupt community cohesion').""
+}```","['adjective', 'subordinate']",['adjective'],"['adjective', 'subordinate']",0,[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Modifying_clauses,['adjective'],['adjective'],['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example contains an adjective modifying clause 'which safeguard against the appearance or actuality of elected officials' and a noun modifying clause 'executive director of FACT.'""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a modifying clause using 'which' (adjective) to provide additional detail about the Senate Ethics rules, and a modifying clause using 'that' (noun) to incorporate the statement made by Kendra Arnold.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause ('which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes'), a subordinate modifying clause ('which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes'), and a noun modifying clause ('executive director of FACT')."" 
+}","['adjective', 'subordinate', 'noun']",['adjective'],"['adjective', 'noun']",0,[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Modifying_clauses,['noun'],[],['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a clause used for indirect speech or paraphrasing (noun).""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective property) and a noun clause for indirect speech (noun property).""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text includes a relative clause with the pronoun 'who' (Archbishop Carlo Maria Viganò), indicating an adjective modifying clause.""
+}",['adjective'],['noun'],"['adjective', 'noun']",0,[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],"{
+  ""Properties"": [""subordinate"", ""comparitive"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains subordinate clauses with 'while' and 'that', a comparative clause with 'as', an adjective clause with 'that', and a noun clause with 'that'.""
+}","['subordinate', 'comparitive', 'adjective', 'noun']","{
+  ""Properties"": [""subordinate"", ""comparitive"", ""adjective""],
+  ""Explanation"": ""The text contains a subordinate clause with 'while', a comparative clause with 'than', and an adjective clause with 'that'.""
+}","['subordinate', 'comparitive', 'adjective']","``` 
+Properties: [""subordinate"", ""comparitive""]
+Explanation: The example text contains a subordinate clause with the word ""while"" and a comparative clause with the phrase ""between contemporaneous notes and later verbal testimony"".
+```","['subordinate', 'comparitive']",['subordinate'],"['subordinate', 'comparitive', 'adjective', 'noun']",0,[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Modifying_clauses,['adjective'],['adjective'],['adjective'],"``` 
+""Properties"": [""adjective"", ""noun""],
+""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a clause used for indirect speech or incorporating detail (noun).""
+```","['adjective', 'noun']","{
+  ""Properties"": [""conditional"", ""adjective"", ""noun""],
+  ""Explanation"": ""The text contains a conditional clause ('if') and adjective clauses ('who', 'that') as well as a noun clause for indirect speech ('he emphasized later').""
+}","['conditional', 'adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause 'who commands a following' (adjective clause) and the subordinating conjunction 'as' is used to suggest a causal connection.""
+}","['adjective', 'subordinate']",['adjective'],"['adjective', 'noun']",0,[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Modifying_clauses,['noun'],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'the first signer of the Declaration of Independence' is a relative clause using the adjective 'the first' and the relative pronoun 'who'. The clause 'John Hancock said' is a noun clause incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'the first signer of the Declaration of Independence' (adjective) and a noun clause 'John Hancock said' for indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The phrase 'the first signer of the Declaration of Independence' is a relative clause using 'the first' as an adjective to describe 'signer', and the clause 'John Hancock said' is a noun clause used for indirect speech.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Modifying_clauses,[],[],['noun'],"{
+    ""Properties"": [""noun""],
+    ""Explanation"": ""The example text contains a noun clause used for indirect speech, incorporating the details of what 'She' said about Ms. Ford.""
+}",['noun'],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The presence of 'regarding' indicates a subordinate clause, 'believing her' is a relative clause acting as an adjective, and 'I believe her' is a noun clause used for indirect speech.""
+}","['subordinate', 'adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun clause 'regarding Ms. Ford' used for indirect speech, and a adjective clause 'who is telling the truth' to provide detail about Ms. Ford.""
+}
+```","['adjective', 'noun']",[],['noun'],-1,[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'both...and' and a noun clause for indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'both...and' and a noun clause ('mention of the help of the sacraments').""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'in both Italian and English' is an adjective modifying 'exposition'; the clause 'and I only find mention of the help of the sacraments in certain cases' is a subordinate clause indicating causation.""
+}","['adjective', 'subordinate']",[],"['adjective', 'noun']",-1,[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Modifying_clauses,['comparitive'],[],['noun'],timeout,[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'according to a Breitbart report by Allum Bokhari' is an adjective clause modifying the noun 'report'. The clause 'By inserting negative search suggestions under the name of a candidate' is a subordinate clause indicating cause and effect.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'by Allum Bokhari' and a clause used for indirect speech with 'according to a Breitbart report'.""
+}","['adjective', 'noun']",['comparitive'],"['adjective', 'subordinate']",-1,[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Modifying_clauses,"['subordinate', 'comparitive']",[],"['subordinate', 'comparitive']","{
+  ""Properties"": [""comparitive"", ""subordinate""],
+  ""Explanation"": ""The text contains a comparitive clause using the conjunction 'than' (sooner rather than later) and a subordinate clause with the subordinating conjunction 'before' (before this crisis gets any more out-of-control than it already is).""
+}","['comparitive', 'subordinate']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'than' ('sooner rather than later').""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'than' in the phrase 'sooner rather than later'. This suggests a comparison between two time frames.""
+}",['comparitive'],"['subordinate', 'comparitive']",['comparitive'],0,[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'irreversible' and a noun clause 'A dark, impenetrable and irreversible winter of persecution.'""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'their own' to provide detail (adjective) and a clause used for indirect speech ('by their own shepherds') (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'their own' and 'by their own shepherds', indicating modification of the noun 'persecution.' Additionally, the clause 'of persecution of the faithful' is used for incorporating detail.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Modifying_clauses,[],[],['adjective'],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The text contains a subordinate clause with the use of the conjunction 'and so', an adjective clause with 'a senior Labour backbencher', and a noun clause with 'a senior Labour MP has said'.""
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains both adjective clauses (e.g., 'who is condoning fascism') and noun clauses (e.g., 'a senior Labour MP has said').""
+}","['adjective', 'noun']",timeout,[],[],"['subordinate', 'adjective', 'noun']",-1,[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Modifying_clauses,[],[],['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' to incorporate detail and a noun clause for indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""noun"", ""subordinate""],
+  ""Explanation"": ""The text contains a noun clause ('the letter to me from the UK Home Office said') used for indirect speech, and a subordinate clause with the subordinating conjunction 'that' ('that I was banned for saying...').""
+}","['noun', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun clause for indirect speech ('the letter to me from the UK Home Office said') and a relative clause for incorporating detail ('that mandates warfare against unbelievers').""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Modifying_clauses,['conditional'],['conditional'],[],timeout,[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'if Paul VI is canonised' is a conditional clause, indicating a hypothetical situation. The clause 'that if Paul VI is canonised' is a relative adjective clause, providing additional detail about the Catholics mentioned.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The example text contains a conditional clause starting with 'if'.""
+}",['conditional'],['conditional'],"['adjective', 'subordinate']",-1,[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Modifying_clauses,[],[],['comparitive'],"``` 
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al.,' is a relative clause using 'such as', and the phrase 'has always been' suggests a causal connection.""
+}
+```","['adjective', 'subordinate']","``` 
+{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'such as' (similar to 'including') and an adjective relative clause using 'such as' to add detail about the gun control extremists mentioned.""
+}
+```","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'such as' to incorporate detail ('extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al.') and a noun clause for indirect speech ('that the ultimate goal of gun control extremists... has always been gun confiscation').""
+}","['adjective', 'noun']",[],"['adjective', 'subordinate']",-1,[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Modifying_clauses,['noun'],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate modifying clause ('that is largely immune to attack from the air') and an adjective modifying clause ('a very real threat').""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' to provide additional detail about the threat.""
+}",['adjective'],timeout,[],[],"['subordinate', 'adjective']",-1,[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Modifying_clauses,['conditional'],[],['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The presence of 'should' at the beginning of the clause indicates a conditional statement.""
+}",['conditional'],"{
+  ""Properties"": [
+    ""conditional""
+  ],
+  ""Explanation"": ""The example text contains a conditional modifying clause beginning with 'should'."" 
+}",['conditional'],"{
+  ""Properties"": [""subordinate"", ""conditional""],
+  ""Explanation"": ""The example text contains a subordinate clause ('should the US and South Korea attack the north') and a conditional clause ('should the US and South Korea attack the north').""
+}","['subordinate', 'conditional']",['conditional'],['conditional'],1,[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Modifying_clauses,[],[],['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'the meekest man alive' (adjective) and a clause used for indirect speech 'to tell him to obey or else' (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains adjective clauses ('the meekest man alive') and a noun clause ('to tell him to obey or else').""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'the meekest man alive' (adjective) and a clause used for indirect speech 'to tell him to obey or else' (noun).""
+}
+```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'When', suggesting a causal connection.""
+}",['subordinate'],"```{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'when Kavanaugh is on the Supreme Court' suggests a causal relationship between his presence on the court and the erosion of the 4th Amendment right.""
+}```",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'When Kavanaugh is on the Supreme Court' suggests a causal connection and uses the subordinating conjunction 'when'.""
+}",['subordinate'],['subordinate'],['subordinate'],1,[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Modifying_clauses,[],[],['conditional'],"``` 
+{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The presence of the clause 'just in case' indicates a conditional situation.""
+}
+```",['conditional'],"{
+  ""Properties"": [""subordinate"", ""conditional"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'just in case' and a conditional clause with the conjunction 'if'. Additionally, there is an adjective clause with the relative pronoun 'that'.""
+}","['subordinate', 'conditional', 'adjective']","{
+  ""Properties"": [""subordinate"", ""conditional""],
+  ""Explanation"": ""The presence of 'just in case' suggests a conditional clause, and the use of 'if' in the sentence would support a conditional clause as well.""
+}","['subordinate', 'conditional']",[],['conditional'],-1,[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Modifying_clauses,['conditional'],['conditional'],"['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'if' at the beginning of the clause indicates that it is a subordinate modifying clause.""
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The sentence contains a subordinate clause starting with 'if', suggesting a conditional connection.""
+}",['subordinate'],"{
+  ""Properties"": [
+    ""conditional""
+  ],
+  ""Explanation"": ""The example text contains a conditional clause that begins with 'if': 'if you don’t believe that Islam is a Religion of Peace'.""
+}",['conditional'],['conditional'],['subordinate'],-1,[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Modifying_clauses,['subordinate'],['noun'],['noun'],timeout,[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative adjective clause 'that I should be killed and I should die' and a noun clause 'he told reporters at Friday's news conference.'""
+}","['adjective', 'noun']","```json
+{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause 'that I should be killed and I should die' (adjective) and a noun clause 'he told reporters at Friday's news conference' (noun).""
+}
+```","['adjective', 'noun']",['noun'],"['adjective', 'noun']",0,[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Modifying_clauses,"['noun', 'subordinate']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['noun', 'subordinate']","['noun', 'subordinate']",1,"['noun', 'subordinate']"
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Modifying_clauses,['comparitive'],"['subordinate', 'comparitive']",['subordinate'],"```json
+{
+  ""Properties"": [""subordinate"", ""comparitive""],
+  ""Explanation"": ""The text contains a subordinate clause starting with 'After' and a comparative clause using the conjunction 'more...than'.""
+}
+```","['subordinate', 'comparitive']","{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The text contains a comparative clause using the conjunction 'than' to compare Farrakhan to other 'alt-reich' leaders. It also includes an adjective relative clause using 'who' to provide additional detail about the elected officials meeting with Farrakhan.""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""subordinate"", ""comparitive"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause with 'after', a comparative clause with 'more...than', and a noun clause with the indirect speech 'that Farrakhan was more dangerous'.""
+}","['subordinate', 'comparitive', 'noun']",['comparitive'],"['subordinate', 'comparitive']",0,[]
+243,[2 6],Women everywhere should be furious.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying clauses with the specified properties.""
+}",[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The modifying clause 'everywhere' functions as an adjective, providing more detail about the women being referred to. The clause 'that should be furious' functions as a noun, incorporating detail about the anger of women.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'everywhere' as an adjective and a noun clause, 'Women should be furious', used for indirect speech.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The use of 'since' suggests a causal connection, making it a subordinate clause. Additionally, the relative clause 'since the Church is ready to bless nearly everything on the earth' modifies the noun 'one', making it an adjective clause.""
+}","['adjective', 'subordinate']","{
+    ""Properties"": [""subordinate""],
+    ""Explanation"": ""The example text uses a subordinating conjunction 'since' to suggest a causal connection.""
+}",['subordinate'],"{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The clause 'since the Church is ready to bless nearly everything on the earth' is a subordinate clause, indicating a causal connection. It also includes the relative pronoun 'since', making it an adjective clause.""
+}","['adjective', 'subordinate']",['subordinate'],"['adjective', 'subordinate']",0,[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",Modifying_clauses,['adjective'],['adjective'],['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'who think alike' is a relative clause using 'who' as a relative pronoun, and the entire clause 'who think alike' is functioning as an adjective modifying the noun 'others'. Additionally, the clause 'whom I do not know' suggests a causal connection with the subordinating conjunction 'whom'.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'whom'.""
+}",['adjective'],"{
+  ""Properties"": [
+    ""adjective"",
+    ""noun""
+  ],
+  ""Explanation"": ""The example contains a relative clause using 'whom' (adjective) and a clause used for indirect speech with 'that' (noun).""
+}","['adjective', 'noun']",['adjective'],"['adjective', 'subordinate']",0,[]
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Modifying_clauses,"['conditional', 'adjective']","['conditional', 'adjective']",['comparitive'],"{
+  ""Properties"": [
+    ""adjective"",
+    ""subordinate""
+  ],
+  ""Explanation"": ""The text contains an adjective clause ('who will say') and a subordinate clause ('if the Pope is not going to intervene and impose zero tolerance').""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' and a noun clause for indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""comparative"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains comparative clauses using 'as', relative clauses using 'who', and noun clauses to incorporate indirect speech.""
+}","['comparitive', 'adjective', 'noun']","['conditional', 'adjective']","['adjective', 'subordinate']",0,[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],"```{
+  ""Properties"": [
+    ""subordinate"",
+    ""comparitive"",
+    ""noun""
+  ],
+  ""Explanation"": ""The text contains a subordinating conjunction 'Although', a comparative conjunction 'as', and a noun clause 'that the culprit would be capable of carrying out such horrors'.""
+}```","['subordinate', 'comparitive', 'noun']","``` 
+
+{
+  ""Properties"": [""subordinate"", ""comparitive""],
+  ""Explanation"": ""The text contains a subordinate clause ('although the claims are intriguing') and a comparitive clause ('after virtually every terror attack').""
+}
+```","['subordinate', 'comparitive']",timeout,[],"['subordinate', 'adjective']","['subordinate', 'comparitive', 'noun']",0,[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' and indirect speech using 'that'.""
+}","['adjective', 'noun']",timeout,[],"``` 
+{
+  ""Properties"": [""conditional"", ""adjective""],
+  ""Explanation"": ""The example text contains a conditional clause with 'or' and an adjective relative clause with 'that'.""
+}
+```","['conditional', 'adjective']",['subordinate'],"['adjective', 'noun']",-1,[]
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],"``` 
+{
+  ""Properties"": [""comparitive"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a comparitive clause ('as anti-American as it comes'), an adjective clause ('which include guns and ammunition confiscation, as well as universal gun registration'), and a noun clause ('their new demands for gun confiscation measures').""
+}
+```","['comparitive', 'adjective', 'noun']","{
+  ""Properties"": [
+    ""comparitive"",
+    ""adjective"",
+    ""noun""
+  ],
+  ""Explanation"": ""The example text contains a comparative clause using 'as', an adjective clause using 'which', and a noun clause used for indirect speech.""
+}","['comparitive', 'adjective', 'noun']","{
+  ""Properties"": [""comparitive"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a comparative clause using 'as', an adjective clause using 'which', and a noun clause indicating indirect speech.""
+}","['comparitive', 'adjective', 'noun']","['subordinate', 'adjective']","['comparitive', 'adjective', 'noun']",0,[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Modifying_clauses,['subordinate'],[],['subordinate'],"``` 
+{
+  ""Properties"": [
+    ""comparitive""
+  ],
+  ""Explanation"": ""The example text contains a comparative clause using the conjunction 'while' to compare the actions of Obama and Trump.""
+}
+```",['comparitive'],"```{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The use of 'while' creates a comparative clause contrasting the actions of Obama and Trump.""
+}```",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparative clause ('while...and') that compares the actions of Obama and Trump.""
+}",['comparitive'],['subordinate'],['comparitive'],-1,[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],"['noun', 'conditional']",0,"['noun', 'conditional']"
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",Modifying_clauses,[],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Modifying_clauses,['subordinate'],"['subordinate', 'adjective']",['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective', 'comparitive']",0,"['subordinate', 'adjective', 'comparitive']"
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],[],-1,[]
+311,[3],"The Vatican presents a choice: the world, or Christ.",Modifying_clauses,[],[],[],"```json
+{
+    ""Properties"": [""subordinate"", ""comparitive""],
+    ""Explanation"": ""The example text contains a comparative clause ('or Christ') and a subordinate clause ('presents a choice: the world').""
+}
+```","['subordinate', 'comparitive']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'The Vatican' and a noun clause 'the world, or Christ' used for indirect speech or incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun modifying clause 'the world, or Christ' used for presenting the options, and an adjective modifying clause 'that' for indirect speech 'The president said that he would consider the matter.'""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Modifying_clauses,['comparitive'],['comparitive'],['subordinate'],,[],,[],,[],['comparitive'],"['subordinate', 'comparitive']",0,"['subordinate', 'comparitive']"
+319,[3],It’s not coming back.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' (adjective) and a clause used for indirect speech ('The president said that...') (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' (adjective) and a noun clause used for indirect speech ('that he would consider the matter').""
+}","['adjective', 'noun']","{
+    ""Properties"": [""noun""],
+    ""Explanation"": ""The example contains a modifying clause 'that he would consider the matter' used for indirect speech.""
+}",['noun'],[],"['adjective', 'noun']",-1,[]
+320,[ 3 16],There will be no turning back.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The example text contains a modifying clause that is used for indirect speech or paraphrasing - 'There will be no turning back.'""
+}",['noun'],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause 'as Richard Neustadt said' and an adjective clause 'that man who just came in is drunk.'""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinating conjunction 'no turning back', suggesting a causal connection. It also includes a relative clause 'that he would consider the matter' used for indirect speech.""
+}","['subordinate', 'adjective']",[],"['subordinate', 'adjective']",-1,[]
+325,[3],A caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a “set-up”.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",Modifying_clauses,"['subordinate', 'adjective']",['adjective'],['adjective'],,[],,[],,[],['adjective'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,Modifying_clauses,[],[],[],timeout,[],"{
+    ""Properties"": [""comparitive"", ""adjective""],
+    ""Explanation"": ""The example text contains a comparitive clause ('doesn't contradict...; it embodies it') and an adjective clause ('Murdering infidels').""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The use of 'than' in the clause 'it embodies it' makes it a comparative clause.""
+}",['comparitive'],[],"['comparitive', 'adjective']",-1,[]
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Modifying_clauses,[],['noun'],[],,[],,[],,[],[],['noun'],-1,['noun']
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Modifying_clauses,"['subordinate', 'adjective']",['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],"['noun', 'conditional']",0,"['noun', 'conditional']"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Modifying_clauses,['subordinate'],['adjective'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Modifying_clauses,['adjective'],['adjective'],"['subordinate', 'adjective']",,[],,[],,[],['adjective'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Modifying_clauses,[],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'subordinate', 'adjective']",0,"['noun', 'subordinate', 'adjective']"
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Modifying_clauses,['subordinate'],"['subordinate', 'comparitive']",['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'comparitive']",0,"['subordinate', 'comparitive']"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+407,[4 8],Faggioli has no answer because what he is really arguing—the final beachhead of the neo-Catholic defense of their disintegrating regime—is that homosexuals in the hierarchy must remain in authority as an indispensable seawall against a “neo-traditionalist” storm surge.,Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'comparitive']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,Modifying_clauses,[],[],['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example contains a relative clause using 'that' (adjective) and a subordinate clause with the subordinating conjunction 'why'.""
+}","['adjective', 'subordinate']","```json
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'that they had shots fired from the front and placed Oswald in the rear' functions as a relative clause (adjective) specifying which shots were fired, and it is also a subordinate clause suggesting a causal connection.""
+}
+```","['adjective', 'subordinate']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The use of 'why' suggests a causal connection, indicating a subordinate clause. The phrase 'they had shots fired from the front and placed Oswald in the rear' contains relative adjectives 'which' and 'that', making it a relative clause. The indirect speech 'That’s why' also indicates a noun clause.""
+}","['subordinate', 'adjective', 'noun']",[],"['adjective', 'subordinate']",-1,[]
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",Modifying_clauses,['subordinate'],[],[],,[],,[],,[],[],"['noun', 'subordinate']",-1,"['noun', 'subordinate']"
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,Modifying_clauses,['subordinate'],[],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+476,[4],The former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.,Modifying_clauses,['adjective'],['noun'],[],,[],,[],,[],['adjective'],[],-1,[]
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",Modifying_clauses,"['subordinate', 'adjective']","['noun', 'adjective']",['adjective'],,[],,[],,[],"['subordinate', 'adjective']","['noun', 'adjective']",0,"['noun', 'adjective']"
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'subordinate', 'adjective']",0,"['noun', 'subordinate', 'adjective']"
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Modifying_clauses,['adjective'],"['noun', 'adjective']","['subordinate', 'adjective']",,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Modifying_clauses,['noun'],[],['noun'],,[],,[],,[],['noun'],"['subordinate', 'adjective']",-1,"['subordinate', 'adjective']"
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,Modifying_clauses,[],['noun'],[],,[],,[],,[],[],['adjective'],-1,['adjective']
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Modifying_clauses,[],['subordinate'],['noun'],,[],,[],,[],[],"['noun', 'subordinate']",-1,"['noun', 'subordinate']"
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",Modifying_clauses,['comparitive'],['comparitive'],['subordinate'],,[],,[],,[],['comparitive'],"['subordinate', 'comparitive']",0,"['subordinate', 'comparitive']"
+751,[5 9],"The Guardian has painted social media chiefly as a platform overrun by Russian trolls, arguing that this should justify ever-tighter restrictions that have so far curbed critical voices of the dissident left more than the right.",Modifying_clauses,"['adjective', 'comparitive']","['subordinate', 'adjective']",[],,[],,[],,[],"['adjective', 'comparitive']","['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+804,[5],"Las Vegas police said Friday that the gunman who opened fire on a country music festival far below his hotel suite did not shoot a security guard six minutes before that rampage, contradicting a timeline they had offered earlier this week….",Modifying_clauses,['noun'],"['noun', 'adjective']",['noun'],,[],,[],,[],['noun'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,Modifying_clauses,['adjective'],['noun'],['adjective'],,[],,[],,[],['adjective'],[],-1,[]
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Modifying_clauses,['adjective'],"['subordinate', 'adjective']",['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective', 'comparitive']",0,"['noun', 'adjective', 'comparitive']"
+863,[5],Capitol Police didn’t make arrests despite numerous red flags and then ‘inadvertently’ gave evidence to defense attorneys that was supposed to go to prosecutors,Modifying_clauses,['subordinate'],['adjective'],[],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Modifying_clauses,[],[],[],"```JSON
+{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause ('for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy') and a noun clause ('The president said that he would consider the matter.').""
+}
+```","['subordinate', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause 'to write the Islamic profession of faith' which functions as an adjective, modifying 'students'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'to' to incorporate detail: 'to write the Islamic profession of faith ostensibly to practice calligraphy'.""
+}",['adjective'],[],['adjective'],-1,[]
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The clause 'against making the resistance to jihad a battle between us and the entire religion' is a relative clause using 'against' and 'is' suggesting a causal connection.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'against', which functions as an adjective modifying the noun 'warning'.""
+}",['adjective'],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective clause 'against making the resistance to jihad a \u201cbattle between us and the entire religion\u201d' and a noun clause 'His warning that making the resistance to jihad a \u201cbattle between us and the entire religion\u201d is odd.'""
+}
+```","['adjective', 'noun']",[],"['adjective', 'subordinate']",-1,[]
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Modifying_clauses,"['conditional', 'adjective']",['adjective'],['noun'],,[],,[],,[],"['conditional', 'adjective']",['adjective'],0,['adjective']
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The modifying clause 'of sanctimony and incompetence' is an adjective clause modifying the noun 'years'. It is used for incorporating detail about the four years."" 
+}","['adjective', 'noun']","```{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The text includes a relative clause ('of sanctimony and incompetence') and an indirect speech clause ('Nothing good can be said that').""
+}```","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The modifying clause 'of sanctimony and incompetence' is a relative clause using the relative pronoun 'of'.""
+}
+```",['adjective'],[],"['adjective', 'noun']",-1,[]
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",Modifying_clauses,['adjective'],"['noun', 'adjective']","['noun', 'adjective']",,[],,[],,[],"['noun', 'adjective']",['adjective'],0,['adjective']
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'in being put through the ringer without a shred of evidence' is a relative clause using 'without'. The clause 'without a shred of evidence' suggests a causal connection, making it a subordinate clause.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The modifying clause 'in being put through the ringer without a shred of evidence' is used for indirect speech and incorporating detail.""
+}",['noun'],"```{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'without'.""
+}```",['comparitive'],[],"['adjective', 'subordinate']",-1,[]
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Modifying_clauses,"['subordinate', 'adjective']",['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains both an adjective modifying clause using 'details' and a subordinate modifying clause using 'before'.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a modifying clause using the relative pronoun 'whom' (The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick) and suggests a causal connection with the subordinating conjunction 'before'.""
+}","['adjective', 'subordinate']",timeout,[],[],"['adjective', 'subordinate']",-1,[]
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,Modifying_clauses,[],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Modifying_clauses,[],[],[],"```json
+        {
+            ""Properties"": [""adjective"", ""noun""],
+            ""Explanation"": ""The example text contains relative clauses using 'it', which are adjective clauses, and a noun clause ('with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019').""
+        }
+```","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes a relative clause using 'that' (adjective) and a clause used for indirect speech ('with the mission team guiding it').""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' and 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.' is a noun clause providing additional detail about the course-correction manoeuvre.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause 'to call them nativists and parade their moral superiority' using the relative pronoun 'their'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'them' as the relative pronoun, which makes it an adjective clause. It also contains a clause used for indirect speech or paraphrasing, making it a noun clause.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'To call them nativists and parade their moral superiority' which is an adjective clause modifying 'them' and a noun clause used for indirect speech.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Modifying_clauses,[],[],['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'who just came in' is a relative adjective clause providing additional detail. The clause 'that he would consider the matter' is a noun clause incorporating indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (a hack job in the purest sense of the term) and a noun clause reporting indirect speech (Julian Assange called it that).""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains an adjective modifying clause 'in the purest sense of the term' and a noun modifying clause 'Julian Assange called it'.""
+}
+```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'to protest this egregious submission' acts as a relative clause (adjective) modifying 'Rich Penkoski' and 'hardly the first' suggests a subordinate relationship, indicating that others have also protested.""
+}
+```","['adjective', 'subordinate']","{
+    ""Properties"": [""adjective""],
+    ""Explanation"": ""The example text contains a relative clause using the adjective 'most vicious and brutal'.""
+}",['adjective'],"``` 
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'to protest this egregious submission' is an adjective clause modifying 'the first', and the clause 'to the most vicious and brutal ideology' is a subordinate clause suggesting a causal connection.""
+}
+```","['adjective', 'subordinate']",[],"['adjective', 'subordinate']",-1,[]
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Modifying_clauses,[],['comparitive'],[],,[],,[],,[],[],[],1,[]
+1234,[7],"He was treated very unfairly by our government!""",Modifying_clauses,[],[],[],"{
+  ""Properties"": [
+    ""noun""
+  ],
+  ""Explanation"": ""The example text contains a noun clause, 'our government', used for indirect speech.""
+}",['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The modifying clause 'by our government' functions as an adjective, providing detail about the noun 'He'. The modifying clause 'He was treated very unfairly' acts as a noun clause, incorporating direct speech from the speaker.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a noun clause used for direct speech (noun).""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+1259,[7],Does Berg and the AMA support our military?,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause 'the AMA support our military' and a noun clause 'Does Berg and the AMA'.""
+}","['adjective', 'noun']","```json
+{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying clauses.""
+}
+```",[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'and'.""
+}",['subordinate'],[],"['adjective', 'noun']",-1,[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Modifying_clauses,['adjective'],['noun'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Modifying_clauses,['adjective'],"['conditional', 'adjective']",['conditional'],,[],,[],,[],['adjective'],"['conditional', 'adjective']",0,"['conditional', 'adjective']"
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Modifying_clauses,['subordinate'],['adjective'],[],,[],,[],,[],['subordinate'],[],-1,[]
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a modifying clause using the relative pronoun 'of Obama' to provide additional detail and context.""
+}",['adjective'],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The text contains a comparative clause using 'in the dark years of Obama' and an adjective clause using 'from our nation's history'.""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes a relative clause using 'from our nation's history' (adjective) and a clause for indirect speech or paraphrasing ('in the dark years of Obama') (noun).""
+}","['adjective', 'noun']",[],['adjective'],-1,[]
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Modifying_clauses,[],[],[],"```{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a subordinate clause with the subordinating conjunction 'for' and a relative clause using the word 'who'.""
+}```","['subordinate', 'adjective']","{
+  ""Properties"": [
+    ""subordinate""
+  ],
+  ""Explanation"": ""The text includes a subordinate clause with the subordinating conjunction 'to' indicating a purpose or goal.""
+}",['subordinate'],"{
+  ""Properties"": [""comparitive"", ""noun""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'over' and a noun clause 'that America’s mayors put public safety over NRA priorities'.""
+}","['comparitive', 'noun']",[],"['subordinate', 'adjective']",-1,[]
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Modifying_clauses,['subordinate'],['subordinate'],[],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Modifying_clauses,['subordinate'],['noun'],['subordinate'],,[],,[],,[],['subordinate'],['noun'],-1,['noun']
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Modifying_clauses,[],[],[],timeout,[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example contains a relative adjective clause 'former CIA Director Brennan and former Director of National Intelligence Clapper' and a subordinate clause 'is an attempt to distract attention'.""
+}","['adjective', 'subordinate']","```json
+{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'former CIA Director Brennan' and 'former Director of National Intelligence Clapper'.""
+}
+```",['adjective'],[],"['adjective', 'subordinate']",-1,[]
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (Third World peoples) to provide additional detail about the noun (borders).""
+}",['adjective'],"{
+  ""Properties"": [
+    ""comparitive""
+  ],
+  ""Explanation"": ""The use of 'to rising resistance' compares the level of resistance to the influx of Third World peoples to something else.""
+}",['comparitive'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (Third World peoples) and suggests a causal connection using the subordinating conjunction 'to'."" 
+}","['adjective', 'subordinate']",[],['adjective'],-1,[]
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Modifying_clauses,['subordinate'],['subordinate'],[],,[],,[],,[],['subordinate'],['adjective'],-1,['adjective']
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",Modifying_clauses,[],[],['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' and a noun clause incorporating indirect speech.""
+}","['adjective', 'noun']","```json
+{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The example text contains a modifying clause that incorporates indirect speech from the president.""
+}
+```",['noun'],"```{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example contains an adjective clause 'who just came in' and a noun clause 'that he would consider the matter.'""
+}```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example includes a comparative clause 'not just in West Virginia – it’s a national problem'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparative"", ""noun""],
+  ""Explanation"": ""The example text contains a comparative clause ('not just in West Virginia – it’s a national problem') and a noun clause ('it’s a problem not just in West Virginia – it’s a national problem') used for incorporating detail.""
+}","['comparitive', 'noun']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'not just...but also'.""
+}",['comparitive'],[],['comparitive'],-1,[]
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains an adjective relative clause 'of the Church’s orthodox eucharistic doctrine' and a noun clause 'that Pope Paul’s gracious and beautiful exposition'.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains adjective clauses (e.g. 'orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition') and noun clauses (e.g. 'The president said that he would consider the matter.').""
+}","['adjective', 'noun']","{
+  ""Properties"": [
+    ""comparative"",
+    ""adjective""
+  ],
+  ""Explanation"": ""The example text contains a comparative clause ('in part on the sheer radical, mad unlikeliness of it') and an adjective clause ('based in part on Pope Paul’s gracious and beautiful exposition').""
+}","['comparitive', 'adjective']",[],"['adjective', 'noun']",-1,[]
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Modifying_clauses,"['subordinate', 'adjective']","['noun', 'adjective']",['adjective'],,[],,[],,[],"['subordinate', 'adjective']",['adjective'],0,['adjective']
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Modifying_clauses,['adjective'],"['adjective', 'comparitive']","['noun', 'subordinate']",,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Modifying_clauses,['adjective'],['noun'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The example text contains a relative clause using 'of' to incorporate detail ('of total moral, physical, emotional devastation') and a subordinate clause ('suffered by victims') with the subordinating conjunction 'by'.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause (adjective) using 'of total moral, physical, emotional devastation' and a noun clause with indirect speech 'suffered by victims of homosexual clerics.'""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'of total moral, physical, emotional devastation' which functions as an adjective modifying 'lives'. Additionally, the clause 'suffered by victims of homosexual clerics' serves as a noun clause incorporating detailed information.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+2198,[16  6  8],"That’s all,” when he stated in his sworn account that Nuncio Pietro Sambi conveyed to McCarrick at the Nunciature in Washington the sanctions that had been imposed on him by Pope Benedict—sanctions Bergoglio ignored for five years until forced to act by a worldwide storm of outrage.",Modifying_clauses,"['noun', 'subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['noun', 'subordinate', 'adjective']","['noun', 'subordinate']",0,"['noun', 'subordinate']"
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Modifying_clauses,['subordinate'],['subordinate'],['adjective'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+2472,[8],"Ricki Seidman, a Democratic operative and former Clinton White House official who is now an advisor to Mrs. Ford, said in July (at roughly the same time as the letter was submitted) that she predicted a ""strategy"" forming to destroy Brett Kavanaugh.",Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective', 'comparitive']","['subordinate', 'adjective']",,[],,[],,[],"['noun', 'adjective']","['noun', 'adjective']",1,"['noun', 'adjective']"
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""noun"", ""adjective""],
+  ""Explanation"": ""The text contains a noun modifying clause used for indirect speech ('Greg Rinckey, said'). It also contains an adjective modifying clause ('by a very young man').""
+}","['noun', 'adjective']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' and a noun clause used for indirect speech.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('Saucier’s lawyer, Greg Rinckey, said') and a noun clause ('that he would consider the matter').""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+2584,[0 8],"In remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: “If a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.”",Modifying_clauses,"['subordinate', 'adjective', 'conditional']","['noun', 'conditional']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective', 'conditional']","['subordinate', 'conditional']",0,"['subordinate', 'conditional']"
+2629,[ 8 13],ADVANTAGE AMERICANS,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with the phrase 'As Richard Neustadt said' and an adjective clause with the phrase 'The president said that he would consider the matter.'""
+}","['subordinate', 'adjective']","{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause using 'AMERICANS', which is an adjective, and clauses used for indirect speech or paraphrasing, incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes a relative clause ('AMERICANS') using the word 'advantage' as an adjective, as well as a noun clause ('AMERICANS') used for incorporating detail and paraphrasing.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Modifying_clauses,['subordinate'],['noun'],['subordinate'],,[],,[],,[],['subordinate'],"['noun', 'adjective']",-1,"['noun', 'adjective']"
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+2897,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Modifying_clauses,[],[],['subordinate'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'the most vicious and brutal ideology on the face of the Earth' (adjective) and a noun clause 'to protest this egregious submission' for incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains a relative clause using 'the most vicious and brutal ideology' which functions as an adjective, and a clause used for indirect speech, 'to protest this egregious submission', which functions as a noun.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'to protest this egregious submission' is an adjective clause modifying 'Rich Penkoski' and 'to the most vicious and brutal ideology on the face of the Earth' is a subordinate clause indicating the reason for the protest.""
+}","['adjective', 'subordinate']",[],"['adjective', 'noun']",-1,[]
+2900,[13  8 13],Another student told my daughter that she and the first student and her adult friends are going to kill me and carve a satanic star in my chest and rip out my organs.,Modifying_clauses,['noun'],['noun'],['subordinate'],,[],,[],,[],['noun'],['noun'],1,['noun']
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Modifying_clauses,[],['noun'],['noun'],,[],,[],,[],['noun'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Modifying_clauses,['subordinate'],['comparitive'],"['subordinate', 'adjective', 'comparitive']",,[],,[],,[],['subordinate'],"['subordinate', 'adjective', 'comparitive']",0,"['subordinate', 'adjective', 'comparitive']"
+3090,[9 9 8],This provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The adjective clause 'planned by the US' provides additional detail about the military exercises. The subordinate clause 'and its reluctant South Korean satrap' shows a causal connection between the US and the military exercises.""
+}","['adjective', 'subordinate']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains an adjective clause 'planned by the US and its reluctant South Korean satrap' and a noun clause 'of two major spring military exercises'.""
+}
+```","['adjective', 'noun']",timeout,[],[],"['adjective', 'subordinate']",-1,[]
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Modifying_clauses,['adjective'],['subordinate'],[],,[],,[],,[],['adjective'],[],-1,[]
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Modifying_clauses,['adjective'],['noun'],"['subordinate', 'adjective']",,[],,[],,[],['adjective'],['subordinate'],-1,['subordinate']
+3249,[9],When Cain complains that being a “vagabond .,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",Modifying_clauses,[],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Modifying_clauses,[],['subordinate'],[],,[],,[],,[],[],[],1,[]
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'of' and an adjective clause using the relative pronoun 'who'.""
+}
+```","['comparitive', 'adjective']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'supportive' and a subordinate clause using 'currently'.""
+}","['adjective', 'subordinate']",timeout,[],[],"['comparitive', 'adjective']",-1,[]
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Modifying_clauses,"['subordinate', 'adjective']",['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+3407,[9],"Among the earliest indications Catholics had that the new pope had no intention of getting to the bottom of the priest-abuser problem was his appointment of the notorious homosexual, Monsignor Battista Ricca, as head of the Vatican Bank and the man in charge of his own residence, the Casa Santa Martha.",Modifying_clauses,['adjective'],['adjective'],['subordinate'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Modifying_clauses,[],[],['noun'],,[],,[],,[],[],[],1,[]
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",Modifying_clauses,[],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (the God who) to provide additional information about the noun (God of Shadrach, Meshach, and Abednego).""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause ('who') and a noun modifying clause ('that').""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'the God of Shadrach, Meshach, and Abednego' is a relative clause using the word 'who'. The clause 'acknowledges the God of Shadrach, Meshach, and Abednego' suggests a causal connection with the main clause.""
+}","['adjective', 'subordinate']",[],['adjective'],-1,[]
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3784,[10],Allahu Akbar usually means motive unknown.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'usually means', which is an adjective modifying the noun 'motive'. The clause provides additional detail about the noun.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'means' and a subordinating conjunction 'usually' indicating a causal connection.""
+}","['adjective', 'subordinate']","```json        
+        {
+          ""Properties"": [""adjective"", ""noun""],
+          ""Explanation"": ""The example text contains a noun modifying clause 'motive unknown' and an adjective modifying clause 'Allahu Akbar usually means'.""
+        }
+```","['adjective', 'noun']",[],['adjective'],-1,[]
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Modifying_clauses,['subordinate'],['subordinate'],['conditional'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],[],-1,[]
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'Unlike previous administrations' suggests a causal connection with the main clause.""
+}",['subordinate'],"``` 
+{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The text uses a comparitive clause ('Unlike previous administrations') and an adjective clause ('to interfere in our elections') to incorporate detail.""
+}
+```","['comparitive', 'adjective']",timeout,[],[],['subordinate'],-1,[]
+3790,[10],Over-excitement is a serious problem in the Muslim world.,Modifying_clauses,[],[],[],timeout,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying clauses with the specified properties.""
+}",[],"```{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'is' and 'a serious problem' to provide more information about 'Over-excitement', making it an adjective clause. It also contains the noun clause 'in the Muslim world' used for incorporating detail.""
+}```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+3791,[10],"“This is contrary to Divine Revelation,” Schneider further told LifeSite, adding that the “beautiful explanations” that are being presented to clergy and faithful as “discernment” and “pastoral accompaniment,” or a “change of paradigm” and “discovery of the subjective part of the truth,” when translated into “common sense language,” are tantamount to an allowance to sin.",Modifying_clauses,"['noun', 'subordinate', 'adjective']","['noun', 'subordinate', 'adjective']","['subordinate', 'adjective']",,[],,[],,[],"['noun', 'subordinate', 'adjective']","['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Modifying_clauses,['adjective'],"['noun', 'adjective']",['noun'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",Modifying_clauses,['adjective'],['adjective'],"['noun', 'adjective']",,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3794,[11],"Awan told people Wasserman Schultz chose the name for his daughter, Leza — a Jewish name — and that the Florida congresswoman’s daughter regularly rode a horse that Awan kept at a boarding facility, sources with knowledge of the relationship told TheDCNF.",Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']",['noun'],,[],,[],,[],"['noun', 'adjective']",['adjective'],0,['adjective']
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Modifying_clauses,"['noun', 'subordinate']",['noun'],['noun'],,[],,[],,[],['noun'],['subordinate'],-1,['subordinate']
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause using the adjective 'unarmed' and a noun clause 'in a year's time' for incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the adjective 'defenseless'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains both relative clauses using 'defenseless' and an indirect speech clause with 'in a year’s time'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+3798,[ 6  4 11],"In other words, unlike Lee Harvey Oswald, who had absolutely no motive to kill President Kennedy, the national security establishment did have motive, a powerful motive, the same motive that motivated the CIA and Pentagon to target other political leaders for regime change or assassination around that time, such as Mohamad Mossadegh, Jacobo Arbenz, Patrice Lumumba (who Kennedy admired), Fidel Castro, and Salvador Allende.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",Modifying_clauses,"['noun', 'subordinate', 'adjective']","['noun', 'subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['noun', 'subordinate', 'adjective']","['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Modifying_clauses,['comparitive'],[],['comparitive'],,[],,[],,[],['comparitive'],['comparitive'],1,['comparitive']
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Modifying_clauses,"['noun', 'subordinate']",[],['subordinate'],,[],,[],,[],"['noun', 'subordinate']","['noun', 'subordinate', 'comparitive']",0,"['noun', 'subordinate', 'comparitive']"
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+3805,[11 13],"And Shapira, who “enjoys writing about people who have served in the military and intelligence communities” had an ethical duty to point out Helms’ proclivity for lying in his article.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3806,[11  8],"The Guardian, reputedly once a great liberal newspaper, conducted a vendetta against Julian Assange.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'reputedly' and 'once' to modify 'The Guardian' and a subordinate clause starting with 'conducted' and using 'once' to suggest a causal connection.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'reputedly once a great liberal newspaper' is an example of an adjective clause providing details about The Guardian. The phrase 'conducted a vendetta against Julian Assange' suggests a causal connection, making it a subordinate clause.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes a relative clause with 'once a great liberal newspaper' (adjective) and an indirect speech clause with 'conducted a vendetta against Julian Assange' (noun).""
+}","['adjective', 'noun']",[],"['adjective', 'subordinate']",-1,[]
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3809,[12],The demonic forces we know are the driving force behind this supreme moment of heresy and destruction aren’t really looking at the undermining of marriage as their primary goal; they want to get at the Eucharist.,Modifying_clauses,['adjective'],['adjective'],['subordinate'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3811,[ 9 12],"John Pilger — one of the few journalists to speak out on Julian Assange’s behalf, labels journalists who fail to stand in solidarity with Assange in exposing the behavior of the Establishment, “Vichy journalists — after the Vichy government that served ad enabled the German occupation of France.”",Modifying_clauses,"['subordinate', 'adjective']","['noun', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']",['adjective'],0,['adjective']
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",Modifying_clauses,"['conditional', 'adjective', 'subordinate']","['conditional', 'adjective']","['subordinate', 'adjective']",,[],,[],,[],"['conditional', 'adjective', 'subordinate']","['conditional', 'adjective', 'comparitive']",0,"['conditional', 'adjective', 'comparitive']"
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",Modifying_clauses,['adjective'],['adjective'],['subordinate'],,[],,[],,[],['adjective'],['noun'],-1,['noun']
+3817,[12],"Soros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",Modifying_clauses,"['noun', 'subordinate']","['subordinate', 'comparitive']",['subordinate'],,[],,[],,[],"['noun', 'subordinate']","['adjective', 'comparitive']",-1,"['adjective', 'comparitive']"
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Modifying_clauses,['adjective'],[],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Modifying_clauses,['adjective'],[],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Modifying_clauses,['adjective'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The text contains a subordinate clause starting with 'This' and an adjective clause using 'his' to provide additional detail.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'his' and 'their', indicating adjective properties. It also includes a clause used for indirect speech ('to try and deny another person their Natural, God-given liberty'), indicating noun properties.""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The clause 'his gun scares me' is a comparitive clause using the conjunction 'as'.""
+}
+```",['comparitive'],[],"['subordinate', 'adjective']",-1,[]
+3827,[12],"An enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains both an adjective clause 'progressive school' and a noun clause 'harking back to the days of Nazi Germany and the Nuremberg Laws.'""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' to provide additional detail about the school.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using the adjective 'enlightened' to describe the school, and a noun clause incorporating the indirect speech 'harking back to the days of Nazi Germany'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+3828,[12],There could be only one answer: communists.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a clause used for indirect speech (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The example text contains a comparative clause using the conjunction 'than': 'Baltimore is to Washington.'""
+}",['comparitive'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' to modify 'communists' and incorporates detail using the noun clause 'there could be only one answer'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,Modifying_clauses,['adjective'],['adjective'],['subordinate'],,[],,[],,[],['adjective'],['subordinate'],-1,['subordinate']
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",Modifying_clauses,"['noun', 'subordinate']","['noun', 'subordinate']",['subordinate'],,[],,[],,[],"['noun', 'subordinate']","['adjective', 'comparitive']",-1,"['adjective', 'comparitive']"
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Modifying_clauses,"['noun', 'adjective']","['subordinate', 'comparitive']","['subordinate', 'adjective']",,[],,[],,[],"['noun', 'adjective']","['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']",['subordinate'],,[],,[],,[],"['noun', 'adjective']","['noun', 'adjective']",1,"['noun', 'adjective']"
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Modifying_clauses,['adjective'],"['adjective', 'comparitive']",['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",Modifying_clauses,['adjective'],['noun'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,Modifying_clauses,['comparitive'],['comparitive'],['comparitive'],,[],,[],,[],['comparitive'],"['noun', 'comparitive']",0,"['noun', 'comparitive']"
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",Modifying_clauses,['subordinate'],"['subordinate', 'conditional']",['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'conditional']",0,"['subordinate', 'conditional']"
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",Modifying_clauses,['adjective'],['noun'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3895,[13],Impossible.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The example text contains a comparitive clause using the conjunction 'as' ('as close to Saigon as Balimore is to Washington') and an adjective clause using the relative pronoun 'who' ('who are poor').""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the adjective 'impossible'.""
+}",['adjective'],timeout,[],[],"['comparitive', 'adjective']",-1,[]
+3937,[ 9  9 13],"Of course this would be of little interest to secular journalists, who have paid no mind to his habit of rewriting Catholicism, but the sex abuse crisis is something secular journalists are very interested in, a fact Bergoglio seems not to have understood.",Modifying_clauses,"['subordinate', 'adjective']",['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Modifying_clauses,[],[],[],"```{
+  ""Properties"": [
+    ""comparitive"",
+    ""adjective""
+  ],
+  ""Explanation"": ""The use of the comparative adjective 'akin to' and the relative clause 'as a manifest miscarriage of justice' show that modifying clauses with comparative and adjective properties are used in the example text.""
+}```","['comparitive', 'adjective']",timeout,[],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The use of 'as' in 'as a manifest miscarriage' indicates a comparative clause. The relative clause 'that is viewed by many in the West' is using the adjective property.""
+}","['comparitive', 'adjective']",[],"['comparitive', 'adjective']",-1,[]
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with 'to open accounts or correspondent accounts at US banks' and an adjective clause with 'It did not allow Iranian parties to open'.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The use of 'to' in 'to open accounts' suggests a causal connection between the prohibition and the action of opening accounts.""
+}",['subordinate'],timeout,[],[],"['subordinate', 'adjective']",-1,[]
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""comparitive""],
+  ""Explanation"": ""The example text contains a subordinate clause with the conjunction 'or' and a comparative clause with the conjunction 'than'.""
+}","['subordinate', 'comparitive']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example contains a subordinate clause with 'to allow' and 'or', an adjective clause with 'that', and a noun clause with 'that' for indirect speech.""
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""conditional"", ""noun""],
+  ""Explanation"": ""The use of 'did not allow' creates a conditional clause, and the use of 'that' introduces a noun clause with indirect speech.""
+}","['conditional', 'noun']",[],"['subordinate', 'comparitive']",-1,[]
+3988,[ 8 13],They make sure that the Islamic instruction in these textbooks presents a picture of Islam that is so pristine and whitewashed that it sometimes crosses the boundary from mere pro-Muslim bias into outright Islamic proselytizing.,Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']",['noun'],,[],,[],,[],"['noun', 'adjective']",['noun'],0,['noun']
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+4019,[13],"Anti-jihadist activist Pamela Geller praised Orban for his honesty and wrote, ""At last, a politician who speaks the truth about the Muslim invasion of Europe.",Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],['noun'],-1,['noun']
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],"['conditional', 'adjective']",0,"['conditional', 'adjective']"
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",Modifying_clauses,['subordinate'],['noun'],['adjective'],,[],,[],,[],['subordinate'],['adjective'],-1,['adjective']
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",Modifying_clauses,['subordinate'],"['noun', 'subordinate']",['adjective'],,[],,[],,[],['subordinate'],['adjective'],-1,['adjective']
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Modifying_clauses,"['noun', 'adjective']",['noun'],[],,[],,[],,[],"['noun', 'adjective']",[],-1,[]
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['adjective'],-1,['adjective']
+4236,[13  1],They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The use of 'then' suggests a sequence, indicating a subordinate clause. The relative clause 'who' is used to provide additional detail about the 14-year-old."" 
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example includes a subordinate clause 'They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.' which suggests a causal connection. Additionally, the adjective clause 'who are poor' is used for incorporating detail, and the noun clause 'that he would consider the matter' is used for indirect speech.""
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'my 3-year-old and 1-year-old and kidnap my 14-year-old' is a relative clause using 'who', describing the individuals being threatened.""
+}",['adjective'],[],"['subordinate', 'adjective']",-1,[]
+4263,[ 9 14  9],"With the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours’ Day 2018 Address in which he told an approving audience that ""powerful Jews are my enemy,"" and ""white folks are going down,"" according to The Washington Examiner.",Modifying_clauses,['noun'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+4267,[14],“If someone can get me this young man’s information I’ll get him a new #maga hat… SIGNED by #potus!!,Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],['conditional'],1,['conditional']
+4270,[14],Long live the Fifth Estate!”,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'the Fifth Estate' as a noun, and 'Long live' as an adjective modifying the subject.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective clause 'the Fifth Estate' modifying 'Long', a subordinate clause 'as Richard Neustadt said' suggesting a causal connection, and a noun clause 'that he would consider the matter' incorporating detail.""
+}","['adjective', 'subordinate', 'noun']","``` 
+{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'Long live the Fifth Estate' contains a relative adjective clause using 'the Fifth Estate' as the subject of the sentence.""
+}
+```",['adjective'],[],"['adjective', 'noun']",-1,[]
+4278,[14],"In the months leading up to the vote, there had been other anti-Semitic incidents, including a tweet by Igor Sadikov, an elected representative of students in McGill’s faculty of arts, saying: “punch a zionist.”",Modifying_clauses,[],[],['subordinate'],,[],,[],,[],[],"['noun', 'subordinate']",-1,"['noun', 'subordinate']"
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Modifying_clauses,[],['subordinate'],[],,[],,[],,[],[],[],1,[]
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",Modifying_clauses,"['conditional', 'adjective']","['conditional', 'adjective']",['conditional'],,[],,[],,[],"['conditional', 'adjective']","['conditional', 'adjective']",1,"['conditional', 'adjective']"
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",Modifying_clauses,['noun'],['noun'],[],,[],,[],,[],['noun'],[],-1,[]
+4296,[14],"J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""",Modifying_clauses,[],[],[],"```J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""```
+
+{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The modifying clause 'May Un-Endorse Dem Rep Over ""Jewish Question""' is a noun clause that incorporates additional detail about the action of J Street 'Kapos'.""
+}",['noun'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a modifying clause 'May Un-Endorse Dem Rep Over 'Jewish Question', which is a relative clause using the adjective 'Jewish' and incorporating detail about the reason for the potential action being taken by J Street.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'Kapos' and 'Jewish Question' as adjectives and a noun clause indicating indirect speech.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+4302,[13 14],A Texas mother’s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'A Texas mother’s teenage son' is a noun clause used to provide detail about the subject of the sentence. The phrase 'wearing a MAGA (Make America Great Again) hat' acts as an adjective modifying the noun 'son'.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'A Texas mother’s teenage son' is a relative clause using 'whose', and the clause 'was allegedly attacked at a Whataburger' suggests a causal connection using 'for'.""
+}","['adjective', 'subordinate']",timeout,[],[],"['adjective', 'noun']",-1,[]
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Modifying_clauses,['noun'],"['noun', 'subordinate']",['subordinate'],,[],,[],,[],['noun'],"['subordinate', 'adjective']",-1,"['subordinate', 'adjective']"
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+4318,[14],Kill the Messenger,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+    ""Explanation"": ""The text contains a subordinate clause with the conjunction 'as', an adjective clause with the relative pronoun 'that', and a noun clause used for indirect speech.""
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause ('as Richard Neustadt said') and an adjective clause ('that he would consider the matter'). These modifying clauses provide additional information about the main clause."" 
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause ('that he would consider the matter'), and a noun modifying clause ('The president said that...').""
+}","['adjective', 'noun']",[],"['subordinate', 'adjective', 'noun']",-1,[]
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+4329,[14],"Representatives work for us, we do not work for them.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example contains a relative clause using 'who' ('work for us, we do not work for them').""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The relative clause 'who work for us' modifies 'Representatives'.""
+}",['adjective'],"{
+  ""Properties"": [""comparative"", ""noun""],
+  ""Explanation"": ""The use of 'as' in 'as close to Saigon as Baltimore is to Washington' indicates a comparative clause. Also, the clause 'the president said that he would consider the matter' functions as a noun clause by incorporating details of what the president said.""
+}","['comparitive', 'noun']",[],['adjective'],-1,[]
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",Modifying_clauses,['conditional'],"['conditional', 'adjective']",['noun'],,[],,[],,[],['conditional'],['noun'],-1,['noun']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('of Judge Kavanaugh') which serves as an adjective, modifying the noun 'Character Assassination'. Additionally, the phrase 'The Last-Minute' functions as a noun clause incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('of Judge Kavanaugh') which functions as an adjective describing the character assassination. It also contains a noun clause ('The Last-Minute Character Assassination') used for incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""subordinate"", ""comparative""],
+  ""Explanation"": ""The text contains a subordinate clause with the conjunction 'of' suggesting a causal connection, and a comparative clause using the conjunction 'of'.""
+}","['subordinate', 'comparitive']",[],"['adjective', 'noun']",-1,[]
+4353,[ 7 14],"""For us, Hungary is first.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'is'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The relative clause 'For us, Hungary is first' uses the relative pronoun 'is' to provide additional information about the noun 'Hungary'.""
+}",['adjective'],timeout,[],[],['adjective'],-1,[]
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Modifying_clauses,['subordinate'],"['noun', 'subordinate']","['noun', 'subordinate']",,[],,[],,[],"['noun', 'subordinate']",['subordinate'],0,['subordinate']
+4366,[15],The authorities allowed him to commit the crime.,Modifying_clauses,[],[],[],"```json
+{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The clause 'that he would consider the matter' suggests a causal connection and incorporates detail.""
+}
+```","['subordinate', 'noun']","{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a relative clause 'who are poor' and suggests a causal connection with the subordinating conjunction 'as'.""
+}","['subordinate', 'adjective']","```json
+{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'allowed him to', an adjective clause 'that he would commit the crime', and a noun clause 'The authorities said that he would commit the crime.'""
+}
+```","['subordinate', 'adjective', 'noun']",[],"['subordinate', 'noun']",-1,[]
+4367,[15],They want to preserve the FBI’s reputation.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause ('They want to preserve the FBI's reputation.') and an adjective clause ('The FBI's reputation').""
+}","['subordinate', 'adjective']","```They want to preserve the FBI’s reputation.```
+{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The clause 'the FBI's reputation' is used for incorporating detail.""
+}",['noun'],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The modifying clause 'the FBI's reputation' is used to incorporate detail in the sentence.""
+}",['noun'],[],['noun'],-1,[]
+4368,[15],They don’t care to see Trump vindicated.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'to see Trump vindicated' suggests a causal connection with the subordinating conjunction 'to'."" 
+}",['subordinate'],"``` 
+Properties: [""adjective""]
+Explanation: The example text contains a relative clause ""to see Trump vindicated"", using the relative pronoun ""to see."" 
+```",['adjective'],"{
+    ""Properties"": [""subordinate"", ""noun""],
+    ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'to see' and a noun clause starting with 'to see Trump vindicated.'""
+}","['subordinate', 'noun']",[],['subordinate'],-1,[]
+4370,[15],The media is very interested in racism.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'is very interested in racism' which uses the adjective 'in'. It also includes a noun clause 'The media is very interested in racism' which is used for incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'is', which qualifies as an adjective modifying clause. It also contains a clause used for indirect speech or paraphrasing, making it a noun modifying clause.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('The media is very interested in racism.') using the adjective 'interested' and the noun 'racism'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+4371,[15],The media is happy to talk about anti-Semitism.,Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'who are poor' (adjective) and indirect speech 'The president said that he would consider the matter' (noun).""
+}
+```","['adjective', 'noun']",timeout,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'anti-Semitism'.""
+}",['adjective'],[],"['adjective', 'noun']",-1,[]
+4372,[15],Here’s my translation:,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The modifying clause 'my translation' is a noun clause used for incorporating detail.""
+}",['noun'],"```{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text includes a relative clause ('my translation') using the adjective 'my', and a noun clause ('Here's my translation:') for indirect speech.""
+}```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause ('my translation') and a noun modifying clause ('Here’s my translation').""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Modifying_clauses,"['noun', 'subordinate']","['noun', 'subordinate']","['subordinate', 'adjective']",,[],,[],,[],"['noun', 'subordinate']","['noun', 'subordinate']",1,"['noun', 'subordinate']"
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",Modifying_clauses,"['conditional', 'comparitive']","['conditional', 'comparitive']",['subordinate'],,[],,[],,[],"['conditional', 'comparitive']","['subordinate', 'comparitive', 'conditional']",0,"['subordinate', 'comparitive', 'conditional']"
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'but scientists aren't worried' is a subordinate clause as it suggests a contrast to the main clause. The clause 'getting cooler and dimmer' is an adjective clause as it describes 'The Sun'.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The text contains a subordinate clause using the conjunction 'but' to suggest a contrast. Additionally, it contains a noun clause used to incorporate indirect speech.""
+}","['subordinate', 'noun']","{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The example text contains a modifying clause 'but scientists aren’t worried' that is used for indirect speech or incorporating detail.""
+}",['noun'],[],"['adjective', 'subordinate']",-1,[]
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",Modifying_clauses,"['noun', 'conditional']","['noun', 'comparitive']",['comparitive'],,[],,[],,[],"['noun', 'conditional']",['comparitive'],-1,['comparitive']
+4384,[16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Modifying_clauses,['comparitive'],[],[],,[],,[],,[],[],[],1,[]
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""comparitive""],
+    ""Explanation"": ""The clause 'too good to be true' uses a comparative conjunction 'too...to' to show the comparison between the burst of sweetness and light and the likelihood of it being true.""
+}",['comparitive'],"``` 
+{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The clause 'just sounds too good to be true' uses the comparative conjunction 'too... to' to compare the sweetness and light coming from Pyongyang to a certain standard of goodness."" 
+}",['comparitive'],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The example text contains a comparative clause using 'too...to be true' (comparative) and a relative clause using 'coming from Pyongyang' (adjective).""
+}","['comparitive', 'adjective']",[],['comparitive'],-1,[]
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",Modifying_clauses,[],['subordinate'],[],,[],,[],,[],[],['noun'],-1,['noun']
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Modifying_clauses,[],[],['noun'],,[],,[],,[],[],[],1,[]
+4400,[ 6 16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",Modifying_clauses,"['noun', 'conditional']",['noun'],['adjective'],,[],,[],,[],"['noun', 'conditional']",['subordinate'],-1,['subordinate']
+4405,[16],So interesting!,Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],[],1,[]
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Modifying_clauses,[],[],['subordinate'],,[],,[],,[],[],[],1,[]
+4417,[16],The time for “prudence” is long past.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('for 'prudence'') using the relative pronoun 'that' as well as a clause used for indirect speech ('The president said that...').""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'for 'prudence'' which functions as an adjective modifying 'time', and a noun clause 'that 'prudence' is long past' used for indirect speech.""
+}","['adjective', 'noun']",timeout,[],[],"['adjective', 'noun']",-1,[]
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",Modifying_clauses,['subordinate'],['subordinate'],"['noun', 'subordinate']",,[],,[],,[],['subordinate'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+4427,[16],It is over.,Modifying_clauses,[],[],[],"```json
+        {
+            ""Properties"": [""adjective"", ""noun""],
+            ""Explanation"": ""The example text contains an adjective clause 'who are poor' and a noun clause 'that he would consider the matter.'""
+        }
+```","['adjective', 'noun']","{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying clauses with the specified properties.""
+}",[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'It is over'.""
+}",['subordinate'],[],"['adjective', 'noun']",-1,[]
+4430,[16],You really don't need to know anything.,Modifying_clauses,[],[],[],"```{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' (adjective) and an indirect speech clause (noun) with 'said that'.""
+}```","['adjective', 'noun']","{
+  ""Properties"": [
+    ""conditional"",
+    ""adjective""
+  ],
+  ""Explanation"": ""The example text includes a conditional clause (if you don't) and a adjective clause (that you really don't need to know).""
+}","['conditional', 'adjective']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example contains an adjective modifying clause ('who are poor') and a subordinate modifying clause ('as Richard Neustadt said').""
+}","['adjective', 'subordinate']",[],"['adjective', 'noun']",-1,[]
+4431,[16],“I had no way to see into his mind.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example includes a relative clause using 'to see into his mind', which functions as an adjective to describe 'way'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'to see into his mind' using the relative pronoun 'to' and an indirect speech clause 'I had no way to see into his mind.'""
+}","['adjective', 'noun']","{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The clause 'that he would consider the matter' is a relative clause using the adjective 'that'. The clause 'As Richard Neustadt said' suggests a causal connection using the subordinating conjunction 'As'.""
+}","['adjective', 'subordinate']",[],['adjective'],-1,[]
+4434,[ 8 16],No more games.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause ('No more games') using the adjective 'No more' to modify the noun 'games'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun clause as it incorporates indirect speech by reporting the president's statement. It also contains an adjective clause that includes a relative pronoun (who) to give more information about the man who just came in.""
+}","['adjective', 'noun']","```json
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The sentence contains a relative clause using 'No more games' as an adjective modifying the noun 'society' in 'If a free society cannot save the many who are poor, it cannot save the few who are rich.'""
+}
+```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+4436,[16],“So what if this code is a gun?”,Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],['conditional'],1,['conditional']
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,Modifying_clauses,[],[],[],timeout,[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'who did the same thing' (adjective) and a clause used for indirect speech or paraphrasing 'that and weren’t treated as criminals' (noun).""
+}","['adjective', 'noun']","{
+    ""Properties"": [""comparative"", ""noun""],
+    ""Explanation"": ""The use of 'same thing' is a comparative clause, while 'that' in 'that they weren't treated as criminals' is a noun clause used for indirect speech.""
+}","['comparitive', 'noun']",[],"['adjective', 'noun']",-1,[]
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""comparitive"", ""subordinate""],
+  ""Explanation"": ""The clause 'instead of dealing with Islamic violence' is a comparative clause, comparing the action of blaming the messenger to the action of dealing with Islamic violence. It also contains a subordinate conjunction 'instead of' suggesting a causal connection.""
+}","['comparitive', 'subordinate']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause 'instead of dealing with Islamic violence' which modifies 'messenger'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause using 'instead of' (adjective) and a subordinate clause using 'instead of' (subordinate).""
+}","['adjective', 'subordinate']",[],"['comparitive', 'subordinate']",-1,[]
+4448,[17],"@Theresa_May, don’t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],[],-1,[]
+4452,[17],"Juanita Broaddrick, who accused Bill Clinton of rape — and who’s never ever recanted her story, in all the years she’s made the accusation — had a blunt message for Sen. Dianna Feinstein about the supposed “due process” that needs to be given to Brett Kavanaugh’s accuser, and it’s one that goes like this: Where was mine?",Modifying_clauses,['adjective'],['adjective'],"['noun', 'adjective']",,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The phrase 'The enemy to great power is not the likes of the Taliban' contains a relative adjective clause 'who are poor' and is also a subordinate clause as it suggests a causal connection with the use of 'is'.""
+}
+```","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause 'The enemy to great power', as well as a noun modifying clause 'The likes of the Taliban'.""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'it' as an adjective, modifying the noun 'the likes'.""
+}
+```",['adjective'],[],"['adjective', 'subordinate']",-1,[]
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Modifying_clauses,[],['subordinate'],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,Modifying_clauses,['subordinate'],"['subordinate', 'adjective']",['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",Modifying_clauses,"['adjective', 'comparitive']","['adjective', 'comparitive']",['subordinate'],,[],,[],,[],"['adjective', 'comparitive']",['adjective'],0,['adjective']
+4477,[17],"Seemingly heedless of these hard facts, President Trump – who himself avoided national military service in the 1960’s – keeps beating the war drums over North Korea and needling its thin-skinned regime with naval exercises, over-flights, and intensifying bombast.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Modifying_clauses,"['noun', 'conditional']","['noun', 'conditional']",['subordinate'],,[],,[],,[],"['noun', 'conditional']","['noun', 'conditional']",1,"['noun', 'conditional']"
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",Modifying_clauses,"['noun', 'adjective', 'comparitive']","['noun', 'comparitive']",['adjective'],,[],,[],,[],"['noun', 'adjective', 'comparitive']","['adjective', 'comparitive']",0,"['adjective', 'comparitive']"
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['adjective'],-1,['adjective']
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",Modifying_clauses,['subordinate'],"['subordinate', 'adjective']",['subordinate'],,[],,[],,[],['subordinate'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",Modifying_clauses,['subordinate'],['comparitive'],['subordinate'],,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'in His Blood' and 'with His Spirit', both of which are used to incorporate detail and provide additional information about the subject.""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('in His Blood') and a noun clause ('with His Spirit'), making use of the adjective and noun properties of modifying clauses.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'His' as an adjective to modify 'Blood' and a noun clause to paraphrase or incorporate detail about how 'He' revives 'her'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+4767,[],- No new deaths -,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The phrase 'No new deaths' contains an adjective clause 'new deaths', and there is a subordinate clause that follows: '-.'""
+}","['adjective', 'subordinate']","```json
+        {
+            ""Properties"": [""adjective"", ""noun""],
+            ""Explanation"": ""The example text contains an adjective clause 'new deaths' and a noun clause 'No new deaths'.""
+        }
+```","['adjective', 'noun']","{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The modifying clause 'No new deaths' is a noun clause used to incorporate detail.""
+}",['noun'],[],"['adjective', 'subordinate']",-1,[]
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",Modifying_clauses,[],['noun'],[],,[],,[],,[],[],[],1,[]
+4932,[],Here’s a link for ya to do just that.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example contains a subordinate clause ('that'), relative clause ('who'), and a noun clause ('that he would consider the matter').""
+}","['subordinate', 'adjective', 'noun']","{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause using 'that' (adjective) and a noun clause used for indirect speech ('that he would consider the matter').""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('for ya to do just that') using the relative pronoun 'that', as well as a noun clause ('a link for ya') used for indirect speech.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+5024,[],The two cities are home to a combined 12 million people.,Modifying_clauses,[],[],[],"``` 
+        ""Properties"": [""adjective""],
+        ""Explanation"": ""The modifying clause 'who are poor' is a relative clause using the conjunction 'who'.""
+```",['adjective'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('who are poor') and a noun clause ('The president said that he would consider the matter.')""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'The two cities are home to a combined 12 million people' contains a relative clause using the adjective 'combined' and the noun clause '12 million people.'""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective clause 'representing other clients', a subordinate clause 'At this time', and a noun clause 'that they have made no attempt to substantiate their claims.'""
+}","['adjective', 'subordinate', 'noun']","```json
+{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The text contains a subordinate clause with the conjunction 'and' and a noun clause with the indirect speech 'attorneys representing other clients'.""
+}
+```","['subordinate', 'noun']",timeout,[],[],"['adjective', 'subordinate', 'noun']",-1,[]
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Modifying_clauses,[],[],[],"{
+  ""Properties"" : [""adjective"", ""noun""],
+  ""Explanation"" : ""The example text contains relative clauses using 'there is a' and 'on the court', which are examples of adjective and noun clauses respectively.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'there is a 4-to-4 liberal to conservative ideological split on the court' and incorporates specific detail about the ideological split on the court.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example contains a relative clause using the adjective 'liberal' to provide detail about the 4-to-4 split on the court.""
+}",['adjective'],[],"['adjective', 'noun']",-1,[]
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Modifying_clauses,[],[],[],timeout,[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The text contains a subordinate clause with the conjunction 'as' and an adjective clause with the relative pronoun 'who'.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a noun clause for indirect speech ('@DonaldJTrumpJr) July 5, 2018').""
+}","['adjective', 'noun']",[],"['subordinate', 'adjective']",-1,[]
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+5438,[],I wanted them to know that I listened.”,Modifying_clauses,['noun'],['noun'],['subordinate'],,[],,[],,[],['noun'],['noun'],1,['noun']
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],"['subordinate', 'conditional']",0,"['subordinate', 'conditional']"
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a clause used for indirect speech or paraphrasing (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative adjective clause ('that') and a noun clause ('The president said that he would consider the matter.').""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective clause using 'who' (who are poor) and a noun clause incorporating indirect speech (he would consider the matter).""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+6125,[],They know that.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause 'that' suggests a causal connection, a relative clause 'that' is used as an adjective, and a noun clause 'that' is used for indirect speech.""
+}","['subordinate', 'adjective', 'noun']",timeout,[],"``` 
+{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause ('that political elites are constantly evaluating the president'), an adjective clause ('that just came in'), and a noun clause ('that he would consider the matter').""
+}
+```","['subordinate', 'adjective', 'noun']",[],"['subordinate', 'adjective', 'noun']",-1,[]
+6215,[],"The new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparative clause using the conjunction 'and'.""
+}",['comparitive'],timeout,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'that' to incorporate detail about the new nominees of bishops.""
+}",['adjective'],[],['comparitive'],-1,[]
+6331,[],It is impossible to do all this without God’s assistance.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'without' as a subordinating conjunction.""
+}",['adjective'],"{
+  ""Properties"": [""conditional"", ""adjective""],
+  ""Explanation"": ""The example text contains a conditional clause beginning with 'without' and a relative clause using 'without'.""
+}","['conditional', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'without'.""
+}",['adjective'],[],['adjective'],-1,[]
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",Modifying_clauses,[],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains both an adjective clause 'there is no way to spin this' and a noun clause 'the mask came off' used for indirect speech.""
+}","['adjective', 'noun']","{
+    ""Properties"": [""subordinate""],
+    ""Explanation"": ""The use of the subordinating conjunction 'there is no way to spin this' indicates a causal relationship between the clauses.""
+}",['subordinate'],timeout,[],[],"['adjective', 'noun']",-1,[]
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Modifying_clauses,['subordinate'],['conditional'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+6745,[],"O’Malley was not only a member of the pope’s “G9” group of close advisors; he was also the man who sought to clean up the abuse scandal in Boston after the departure of his predecessor, Cardinal Bernard Law, whose shifting of predator priests to new posts was exposed by the Boston Globe and chronicled in the movie “Spotlight.”",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['adjective'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",Modifying_clauses,"['subordinate', 'adjective']","['noun', 'subordinate', 'adjective']",['adjective'],,[],,[],,[],"['subordinate', 'adjective']",['adjective'],0,['adjective']
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",Modifying_clauses,[],[],['noun'],,[],,[],,[],[],['noun'],-1,['noun']
+7211,[],Then Benedict allowed him to remain a cardinal.,Modifying_clauses,[],[],[],"```json
+{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example contains a subordinate clause with the conjunction 'then', suggesting a causal connection.""
+}
+```",['subordinate'],"``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example contains a relative clause ('who') and an indirect speech clause ('that he would consider the matter').""
+}
+```","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The 'that' clause is a relative clause used to incorporate detail.""
+}
+```",['adjective'],[],['subordinate'],-1,[]
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],['adjective'],-1,['adjective']
+7408,[],"Looking carefully at the infamous “Who am I to judge” comment, this was clear early on.",Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['adjective'],-1,['adjective']
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],['noun'],1,['noun']
+7758,[],Article posted with permission from Robert Spencer,Modifying_clauses,[],[],[],"```json
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'posted with permission from Robert Spencer' is a relative adjective clause providing additional detail about the article.""
+}
+```","['adjective', 'noun']",timeout,[],timeout,[],[],"['adjective', 'noun']",-1,[]
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],['conditional'],1,['conditional']
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Modifying_clauses,['comparitive'],['comparitive'],['comparitive'],,[],,[],,[],['comparitive'],"['adjective', 'comparitive']",0,"['adjective', 'comparitive']"
+7818,[],But really it comes down to the British government.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The example text contains a modifying clause used for indirect speech or paraphrasing.""
+}",['noun'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'that comes down to the British government' is a relative clause using the word 'that'.""
+}",['adjective'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'it comes down to the British government' suggests a causal connection and is introduced by the subordinating conjunction 'But really'.""
+}",['subordinate'],[],['noun'],-1,[]
+7975,[],Laws are for conservatives.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'that he would consider the matter' is a relative clause using 'that'. The clause 'As Richard Neustadt said' is a subordinate clause using 'as'.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause 'are for conservatives' using the relative pronoun 'are'.""
+}",['adjective'],timeout,[],[],"['adjective', 'subordinate']",-1,[]
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause 'Completing this poll grants you access' and a noun modifying clause 'to Freedom Outpost updates free of charge.'""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('that grants you access') and a noun clause ('that you access...free of charge'), making use of both adjective and noun properties of modifying clauses.""
+}","['adjective', 'noun']","{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause 'that grants you access to Freedom Outpost updates free of charge' (adjective) and a noun clause 'that you are a rhetoretician and linguist specializing in news text' (noun).""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Modifying_clauses,[],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],['subordinate'],1,['subordinate']
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",Modifying_clauses,"['noun', 'subordinate']",['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Modifying_clauses,['conditional'],['conditional'],['conditional'],,[],,[],,[],['conditional'],"['noun', 'conditional']",0,"['noun', 'conditional']"
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,Modifying_clauses,['noun'],['noun'],['noun'],,[],,[],,[],['noun'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+9235,[],He said he spoke with Trump to make sure that the president wasn’t actually issuing an order.,Modifying_clauses,['noun'],['noun'],['subordinate'],,[],,[],,[],['noun'],['noun'],1,['noun']
+9329,[],Solemnly professed:,Modifying_clauses,[],[],[],"{
+  ""Properties"": [
+    ""adjective"",
+    ""noun""
+  ],
+  ""Explanation"": ""The example text contains a noun modifying clause ('The president said that he would consider the matter.') and an adjective modifying clause ('Solemnly professed').""
+}","['adjective', 'noun']","```JSON
+        {
+            ""Properties"": [""adjective"", ""noun""],
+            ""Explanation"": ""The example text contains a relative clause (adjective) 'Solemnly professed' and a noun clause 'The president said that he would consider the matter.'""
+        }
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'Solemnly' to provide additional detail about the action of being 'professed'.""
+}",['adjective'],[],"['adjective', 'noun']",-1,[]
+9396,[],Also on communion between the communities.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying clauses.""
+}",[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'between the communities' (adjective) and a clause used for incorporating detail ('communion between the communities').""
+}","['adjective', 'noun']","{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause ('between the communities') using the relative pronoun 'between,' indicating an adjective modifying the noun 'communion.' It also contains a clause used for indirect speech or paraphrasing ('on communion between the communities').""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Modifying_clauses,['noun'],['noun'],['adjective'],,[],,[],,[],['noun'],"['noun', 'adjective']",0,"['noun', 'adjective']"
+9657,[],I don't remember how I got there.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],,[],,[],,[],['subordinate'],[],-1,[]
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",Modifying_clauses,[],[],['noun'],,[],,[],,[],[],['noun'],-1,['noun']
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Modifying_clauses,['noun'],"['noun', 'subordinate']","['noun', 'conditional']",,[],,[],,[],['noun'],"['subordinate', 'adjective']",-1,"['subordinate', 'adjective']"
+9712,[],His life before joining the caliphate was unremarkable.,Modifying_clauses,[],[],[],timeout,[],"{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The clause 'before joining the caliphate' is a noun clause used for incorporating details, and 'His life' is a relative clause using 'before' as an adjective.""
+}","['adjective', 'noun']","```{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'before joining the caliphate' (adjective) and a noun clause 'His life before joining the caliphate was unremarkable' for incorporating detail.""
+}```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+9827,[],It will be addressed quickly and justly.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a modifying clause 'that he would consider the matter,' which is a noun clause used for paraphrasing."" 
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains a relative clause 'that he would consider the matter' (noun) and the adverb 'justly' which modifies 'addressed' (adjective)."" 
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The modifying clause 'quickly and justly' acts as an adjective modifying the verb 'addressed.' The clause 'It will be addressed' functions as a noun clause incorporating detail about the action of addressing."" 
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+9866,[],But he is now a full-fledged member of the nuclear club.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'he is now a full-fledged member of the nuclear club' uses an adjective ('full-fledged') and is subordinate to the main clause.""
+}","['adjective', 'subordinate']",timeout,[],"{
+    ""Properties"": [""adjective"", ""subordinate""],
+    ""Explanation"": ""The clause 'now a full-fledged member of the nuclear club' functions as an adjective to modify the noun 'he'. It also suggests a causal connection with the use of 'now'.""
+}","['adjective', 'subordinate']",[],"['adjective', 'subordinate']",-1,[]
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Modifying_clauses,[],[],['noun'],,[],,[],,[],[],['noun'],-1,['noun']
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",Modifying_clauses,['subordinate'],"['noun', 'subordinate']","['subordinate', 'adjective']",,[],,[],,[],['subordinate'],"['subordinate', 'adjective']",0,"['subordinate', 'adjective']"
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'who are poor' is a relative (adjective) clause, and the clause 'that he would consider the matter' is a noun clause used for indirect speech.""
+}","['adjective', 'noun']",timeout,[],timeout,[],[],"['adjective', 'noun']",-1,[]
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Modifying_clauses,['adjective'],"['subordinate', 'adjective']","['subordinate', 'adjective']",,[],,[],,[],"['subordinate', 'adjective']",['adjective'],0,['adjective']
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']","['noun', 'adjective']",,[],,[],,[],"['noun', 'adjective']","['noun', 'adjective']",1,"['noun', 'adjective']"
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Modifying_clauses,[],[],[],,[],,[],,[],[],['adjective'],-1,['adjective']
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",Modifying_clauses,[],[],[],"{
+  ""Properties"": [
+    ""conditional""
+  ],
+  ""Explanation"": ""The example text contains a conditional clause using 'if' in the question 'What if you wanted to make 50,000 loaves of bread an hour?'""
+}",['conditional'],"{
+  ""Properties"": [
+    ""conditional""
+  ],
+  ""Explanation"": ""The text contains a conditional clause beginning with 'What if'.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The text contains a conditional clause using 'What if'""
+}",['conditional'],[],['conditional'],-1,[]
+10448,[],Anybody?,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause using 'who' (adjective property) and a noun clause used for incorporating detail (noun property).""
+}","['adjective', 'noun']","{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains an adjective clause 'that he would consider the matter' and a noun clause 'The president said that'.""
+}","['adjective', 'noun']","{
+  ""Properties"": [
+    ""adjective"",
+    ""noun""
+  ],
+  ""Explanation"": ""The example text contains a relative clause using 'who' (adjective) and a clause used for indirect speech ('that he would consider the matter') (noun).""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Modifying_clauses,[],['subordinate'],[],,[],,[],,[],[],"['noun', 'subordinate']",-1,"['noun', 'subordinate']"
+10658,[],Assange’s crime is to have broken a silence.,Modifying_clauses,[],[],[],"``` 
+{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The clause 'to have broken a silence' is a relative clause (adjective) modifying the noun 'crime', and it suggests a causal connection with the verb 'is'.""
+}
+```","['adjective', 'subordinate']","```As Richard Neustadt said, political elites are constantly evaluating the president.```
+
+{
+  ""Properties"": [
+    ""subordinate"",
+    ""adjective""
+  ],
+  ""Explanation"": ""The clause 'As Richard Neustadt said' is a subordinate clause as it suggests a causal connection, and it is also an adjective clause as it provides additional detail about the subject.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'Assange’s crime is to have broken a silence' uses the relative clause 'to have broken a silence' to provide additional information about the crime committed by Assange.""
+}",['adjective'],[],"['adjective', 'subordinate']",-1,[]
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' - 'the old party's pulse, for the Bush-Boehner GOP'""
+}",['adjective'],"```{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'the old party's pulse' uses a possessive adjective 'old' and introduces detail about the old party.""
+}```","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'old party's' to provide additional detail about the party being referred to.""
+}",['adjective'],[],['adjective'],-1,[]
+11157,[],"Debra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",Modifying_clauses,[],[],[],"{
+    ""Properties"": [""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a relative clause 'representing the woman accusing Brett Kavanaugh of sexual assault' (adjective) and an indirect speech clause 'has donated thousands of dollars to Obama, Hillary and the DNC' (noun).""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The text contains a relative clause using 'the woman accusing Brett Kavanaugh of sexual assault' which acts as an adjective, and a noun clause 'that she has donated thousands of dollars to Obama, Hillary and the DNC' used for indirect speech.""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The clause 'representing the woman accusing Brett Kavanaugh of sexual assault' is a relative clause using 'the woman' as a noun, and 'accusing Brett Kavanaugh of sexual assault' as an adjective modifying 'woman'. The clause 'the lawyer representing the woman accusing Brett Kavanaugh of sexual assault' is used to incorporate detail and provide more information about Debra Katz.""
+}
+```","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+11361,[],Email This field is for validation purposes and should be left unchanged.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example text contains a subordinate clause with the subordinating conjunction 'since', indicating a causal connection.""
+}",['subordinate'],"{
+  ""Properties"": [""adjective"", ""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause with the conjunction 'if' (conditional) and a relative clause using 'that' (adjective). Additionally, the text includes a noun clause used for indirect speech ('he said that').""
+}","['adjective', 'subordinate', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause 'This field is for validation purposes', which is an adjective clause, and a noun clause 'that should be left unchanged.'""
+}","['adjective', 'noun']",[],['subordinate'],-1,[]
+11544,[],As to matters of purely ecclesiastical law such as this one the Church has always allowed for departures from traditional practice in cases of emergency or grave necessity.,Modifying_clauses,[],['comparitive'],['subordinate'],,[],,[],,[],[],"['subordinate', 'adjective']",-1,"['subordinate', 'adjective']"
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,Modifying_clauses,[],[],[],"{
+    ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+    ""Explanation"": ""The example text contains a noun clause 'this site's Privacy Policy', a subordinate clause 'You also agree to', and an adjective clause 'who are poor'.""
+}","['subordinate', 'adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' to describe the man who came in.""
+}",['adjective'],"{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The example text contains a subordinate clause ('that') and a noun clause ('that he would consider the matter').""
+}","['subordinate', 'noun']",[],"['subordinate', 'adjective', 'noun']",-1,[]
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Modifying_clauses,[],"['noun', 'comparitive']",['noun'],,[],,[],,[],[],"['noun', 'comparitive']",-1,"['noun', 'comparitive']"
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Modifying_clauses,[],[],[],"```javascript
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'in Ecstacy' and a clause used for paraphrasing or incorporating detail ('Caravaggio, 1595').""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes a relative clause ('in Ecstacy') using the conjunction 'in', which acts as an adjective modifying the noun 'St. Francis'. Additionally, the mention of the artist and year complicates the sentence structure, making it a noun clause incorporating details.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause 'in Ecstacy' and a noun modifying clause 'Caravaggio, 1595'.""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The example includes a subordinate clause starting with 'named' and a relative clause using 'who'. Additionally, there is a noun clause used for indirect speech.""
+}","['subordinate', 'adjective', 'noun']",timeout,[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The example text contains a relative clause 'named TSIS-1' and a subordinating conjunction 'Today' suggesting a temporal connection.""
+}","['adjective', 'subordinate']",[],"['subordinate', 'adjective', 'noun']",-1,[]
+11936,[],America's Immigration Voice.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The example text uses a subordinate clause with the subordinating conjunction 'as'.""
+}",['subordinate'],"{
+    ""Properties"": [""subordinate""],
+    ""Explanation"": ""The example text contains a modifying clause with a subordinating conjunction ('America's Immigration Voice')""
+}",['subordinate'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun modifying clause 'America's Immigration Voice' used to incorporate detail.""
+}","['adjective', 'noun']",[],['subordinate'],-1,[]
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",Modifying_clauses,[],[],['adjective'],,[],,[],,[],[],['noun'],-1,['noun']
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",Modifying_clauses,"['subordinate', 'adjective']","['adjective', 'comparitive']","['subordinate', 'adjective']",,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+12371,[],The ever growing global list of Bishops and Cardinals that have preyed on /and or covered up the sexual abuse of minors and seminarians over the last 60 years continues to enrage the laity.,Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('with Trump playing a lead role') acting as an adjective to provide additional information about the noun 'U.S. politics'. It also includes a noun clause ('U.S. politics have indeed been coarsened') used for paraphrasing or incorporating detail.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective modifying clause 'with Trump playing a lead role' and a noun modifying clause 'U.S. politics have indeed been coarsened'.""
+}","['adjective', 'noun']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using the word 'with' which incorporates detail about the coarsening of U.S. politics.""
+}",['adjective'],[],"['adjective', 'noun']",-1,[]
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Modifying_clauses,"['noun', 'conditional']","['noun', 'conditional']",['conditional'],,[],,[],,[],"['noun', 'conditional']","['conditional', 'adjective']",0,"['conditional', 'adjective']"
+12626,[],It did what it is designed to do.,Modifying_clauses,['noun'],['adjective'],['subordinate'],,[],,[],,[],['noun'],[],-1,[]
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Modifying_clauses,"['subordinate', 'adjective']","['subordinate', 'adjective']",['subordinate'],,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause using 'including' to incorporate detail ('including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder'). Additionally, it includes a noun clause used for indirect speech ('He was formally indicted by a grand jury on Wednesday on 34 counts').""
+}","['adjective', 'noun']","``` 
+{
+  ""Properties"": [""noun"", ""adjective""],
+  ""Explanation"": ""The text contains a noun modifying clause 'on Wednesday' used for incorporating detail, and an adjective modifying clause 'including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder' which provides additional information about the 34 counts.""
+}
+```","['noun', 'adjective']","``` 
+        {
+            ""Properties"": [""adjective"", ""subordinate""],
+            ""Explanation"": ""The adjective clause 'including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder' provides additional details about the 34 counts. The subordinate clause 'on Wednesday' suggests a timing relationship.""
+        }
+```","['adjective', 'subordinate']",[],"['adjective', 'noun']",-1,[]
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,Modifying_clauses,['comparitive'],[],['adjective'],,[],,[],,[],['comparitive'],"['subordinate', 'adjective']",-1,"['subordinate', 'adjective']"
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Modifying_clauses,[],['noun'],['noun'],,[],,[],,[],['noun'],['adjective'],-1,['adjective']
+12935,[],"An organization that hands out the Emma Lazarus Award, named after a passionate Zionist, at its posh dinners is hosting attacks on the existence of Israel.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+12977,[],And yet it’s inescapable.,Modifying_clauses,[],[],[],"```And yet it’s inescapable.```
+{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The presence of the comparative conjunction 'yet' indicates a comparative property in the clause.""
+}",['comparitive'],"```json
+{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The example text contains a comparative clause ('as') and a relative clause ('it's')."" 
+}
+```","['comparitive', 'adjective']",timeout,[],[],['comparitive'],-1,[]
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a noun modifying clause 'President Trump said' and an adjective modifying clause 'In a series of tweets on Thursday.'""
+}","['adjective', 'noun']","```json
+{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains an adjective clause 'who said the right things' and a noun clause 'President Trump said that he would consider the matter.'""
+}
+```","['adjective', 'noun']","{
+  ""Properties"": [""noun"", ""adjective""],
+  ""Explanation"": ""The example text contains both a noun clause ('President Trump said that...') and an adjective clause ('In a series of tweets on Thursday, President Trump said...').""
+}","['noun', 'adjective']",[],"['adjective', 'noun']",-1,[]
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",Modifying_clauses,['subordinate'],"['subordinate', 'adjective']","['subordinate', 'adjective']",,[],,[],,[],"['subordinate', 'adjective']","['subordinate', 'adjective']",1,"['subordinate', 'adjective']"
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']","['noun', 'adjective']",,[],,[],,[],"['noun', 'adjective']","['noun', 'adjective']",1,"['noun', 'adjective']"
+13225,[],"It is the Federation that now has the power to monitor for compliance with the rules, to report non-compliance to the Holy See, to make new foundations and, apparently, to “encourage” individual monasteries to “communicate” their goods.",Modifying_clauses,['adjective'],['adjective'],[],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Modifying_clauses,['noun'],['noun'],[],,[],,[],,[],['noun'],"['noun', 'subordinate']",0,"['noun', 'subordinate']"
+13573,[],I am not a fan of Donald Trump.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a modifying clause 'of Donald Trump' that functions as an adjective, specifying the type of fan. Additionally, the clause 'that Donald Trump is unfit for office' is a noun clause used for indirect speech.""
+}","['adjective', 'noun']",timeout,[],"```json
+{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example text contains a comparitive clause using 'of'.""
+}
+```",['comparitive'],[],"['adjective', 'noun']",-1,[]
+13660,[],"It is to wonder what this man would make of a comment by the great Dom Paul Delatte, the second abbot of Solesmes and successor to the refounder, Dom Gueranger, who wrote in his commentary on the Rule of St. Benedict:",Modifying_clauses,"['noun', 'adjective']",['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+14016,[],Other Hondurans are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States against president Trump’s wishes.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The example text contains a subordinate clause with the conjunction 'to join the caravan' and also an adjective clause with the relative pronoun 'who' in 'the caravan of illegal immigrants.'""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example text contains a relative clause using 'who' ('who are leaving the country') to incorporate detail about the Hondurans.""
+}",['adjective'],"{
+  ""Properties"": [""conditional"", ""adjective""],
+  ""Explanation"": ""The conditional clause 'against president Trump’s wishes' expresses a condition, and the adjective clause 'who are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States' provides additional detail about 'Other Hondurans'.""
+}","['conditional', 'adjective']",[],"['subordinate', 'adjective']",-1,[]
+14038,[],And in Russia.,Modifying_clauses,[],[],[],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text contains a relative clause ('in Russia' as part of 'And in Russia') and a noun clause ('that political elites are constantly evaluating the president').""
+}","['adjective', 'noun']","{
+  ""Properties"": [
+    ""comparitive""
+  ],
+  ""Explanation"": ""The example text contains a comparative clause using the conjunction 'in'.""
+}",['comparitive'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The example text includes an adjective clause 'in Russia' and a noun clause 'And in Russia.'""
+}","['adjective', 'noun']",[],"['adjective', 'noun']",-1,[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Modifying_clauses,['adjective'],['adjective'],['adjective'],,[],,[],,[],['adjective'],['adjective'],1,['adjective']
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Modifying_clauses,['subordinate'],"['noun', 'subordinate']","['noun', 'subordinate']",,[],,[],,[],"['noun', 'subordinate']","['noun', 'subordinate']",1,"['noun', 'subordinate']"
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Modifying_clauses,"['noun', 'adjective']","['noun', 'adjective']",['adjective'],,[],,[],,[],"['noun', 'adjective']",['adjective'],0,['adjective']
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Modifying_clauses,"['conditional', 'subordinate']","['conditional', 'subordinate']","['conditional', 'subordinate']",,[],,[],,[],"['conditional', 'subordinate']","['noun', 'conditional', 'adjective']",0,"['noun', 'conditional', 'adjective']"
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Modifying_clauses,[],[],['subordinate'],,[],,[],,[],[],['adjective'],-1,['adjective']

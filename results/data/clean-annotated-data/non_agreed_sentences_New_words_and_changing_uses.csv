@@ -1,0 +1,1352 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,res1,gpt_props1,res2,gpt_props2,res3,gpt_props3,props_a_majority,props_gpt_majority,ann_gpt_agreemnt,props_gpt4_majority
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",New_words_and_changing_uses,['foreign_borrowing'],[],"['compounds', 'prefixes/suffixes']","``` 
+
+{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Muhammad' as a common noun to refer to a Muslim advisor and 'Temur' as a common noun to refer to a historical figure indicates the use of proper nouns as common nouns. Additionally, 'infidels' is a foreign borrowing from the Arabic language.""
+}
+```","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Muhammad' as a general term for a Muslim advisor represents the transformation of a proper noun into a common noun, and it is a foreign borrowing from Arabic.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Muhammad' as a common noun for a general term and the borrowing of 'Temur' from another language both demonstrate the properties of foreign borrowing and proper nouns to common nouns.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']",['foreign_borrowing'],"['foreign_borrowing', 'proper_nouns_to_common_nouns']",0,[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",New_words_and_changing_uses,['prefixes/suffixes'],[],"['compounds', 'catachresis']","{
+  ""Properties"": [""compounds"", ""clipping"", ""analogy""],
+  ""Explanation"": ""The text contains compounds such as 'homosexual activity', clipping such as 'pope' from 'pope's', and analogy in the form of 'no evidence' and 'no' as a prefix""
+}","['compounds', 'clipping', 'analogy']","{
+  ""Properties"": [""conversion"", ""clipping""],
+  ""Explanation"": ""The word 'texted' is a conversion of the noun 'text' into a verb. The word 'pope' is a clipping of the proper noun 'Pope'.""
+}","['conversions', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains foreign borrowing with the word 'pope', which is borrowed from Latin. The text also includes compounds like 'homosexual activity' and 'brazen lie'. Finally, the term 'assurance' is a conversion from a noun to a verb.""
+}","['foreign_borrowing', 'compounds', 'conversions']",['prefixes/suffixes'],"['compounds', 'clipping', 'analogy']",-1,[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],['conversions'],"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The word 'verdict' is borrowed from Latin (veredictum) and then clipped to form the word 'verdict' in English.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of the proper noun 'Fox news' has been transformed into a common noun to refer to the news organization, and 'horrifying' is a loanword from the French 'horrifiant'.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'verdict' is borrowed from Latin (veredictum).""
+}",['foreign_borrowing'],['foreign_borrowing'],"['foreign_borrowing', 'clipping']",0,[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'foreign_borrowing']","['compounds', 'conversions']","```{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""conversions""],
+  ""Explanation"": ""The text includes the foreign borrowing of 'Breitbart' and 'Hyde Park'. It also uses the clipping of 'according' and 'described'. Additionally, it involves a conversion with 'speaking' originally being a verb used as a noun.""
+}```","['foreign_borrowing', 'clipping', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""conversions"", ""taboo deformation"", ""fabrication""],
+  ""Explanation"": ""The text contains a foreign borrowing 'akin', a conversion of the noun 'detention centre' into the adjective 'detention', a taboo deformation 'could cause', and potentially a fabrication 'disrupt community cohesion' which may be a made up term for this context.""
+}","['foreign_borrowing', 'conversions', 'taboo_deformation', 'fabrication']","{
+  ""Properties"": [""foreign borrowing"", ""conversion"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'akin' (foreign borrowing from Old English) and 'disrupt' (noun turned into verb) show the foreign borrowing and conversion properties. The use of 'could cause violence' instead of a more direct term represents taboo deformation.""
+}","['foreign_borrowing', 'conversions', 'taboo_deformation']",['foreign_borrowing'],"['foreign_borrowing', 'clipping', 'conversions']",0,[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",New_words_and_changing_uses,"['acronyms', 'foreign_borrowing', 'conversions']",['acronyms'],"['compounds', 'acronyms']","```json
+{
+  ""Properties"": [""conversions"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The word 'cashing' is converted from a verb to a noun, and 'kleenex' is used as a common noun to refer to tissue.""
+}
+```","['conversions', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'Senate Ethics', 'political purposes' and 'executive director'. It also uses conversions, such as 'cashing in' (a verb derived from the noun 'cash').""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text includes compounds like 'Senate Ethics rules' and 'elected officials', acronyms like 'FACT', and the use of 'kleenex' as a common noun for tissue.""
+}","['compounds', 'acronyms', 'proper_nouns_to_common_nouns']","['acronyms', 'foreign_borrowing', 'conversions']","['conversions', 'proper_nouns_to_common_nouns']",0,[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",[],['catachresis'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Viganò' as a general term for Archbishop Carlo Maria Viganò""
+}",['proper_nouns_to_common_nouns'],"``` 
+{
+  ""Properties"": [""foreign borrowing"", ""conversions"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses a foreign borrowing ('prelate'), a conversion of a proper noun to a common noun ('Viganò' to refer to Archbishop Carlo Maria Viganò), and a conversion of a noun to a verb ('taken to heart').""
+}
+```","['foreign_borrowing', 'conversions', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""conversion"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text features the conversion of 'declaration' from a noun to a verb, and the use of proper nouns like 'Archbishop Carlo Maria Viganò' as general terms.""
+}","['conversions', 'proper_nouns_to_common_nouns']","['foreign_borrowing', 'prefixes/suffixes']",['proper_nouns_to_common_nouns'],-1,[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",New_words_and_changing_uses,['foreign_borrowing'],[],"['compounds', 'catachresis']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compound words such as 'trial lawyer' and 'verbal testimony', as well as conversions of nouns into verbs ('notes' into 'notable').""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""conversion"", ""blends""],
+  ""Explanation"": ""The text contains the conversion of the noun 'notes' into the verb 'notes' and 'verbal testimony'. It also includes a blend with 'contemporaneous' and 'testimony'.""
+}","['conversions', 'blends']","{
+  ""Properties"": [""acronyms"", ""conversions""],
+  ""Explanation"": ""The text uses the acronym 'FAKE' for 'False Assertions Knowingly Empowered'. It also includes a conversion of the noun 'notes' into the verb 'noted'."" 
+}","['acronyms', 'conversions']",['foreign_borrowing'],"['compounds', 'conversions']",-1,[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",New_words_and_changing_uses,"['doubling', 'foreign_borrowing']",['foreign_borrowing'],['conversions'],,[],,[],,[],"['doubling', 'foreign_borrowing']",['doubling'],0,['doubling']
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",New_words_and_changing_uses,['proper_nouns_to_common_nouns'],[],[],"``` 
+{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'John Hancock' as a general term for signature is an example of proper nouns being used as common nouns. Additionally, the name 'John Hancock' is borrowed from a person's name to refer to a signature.""
+}
+```","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'John Hancock' is used as a common noun to refer to a signature.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'John Hancock' is used as a general term referring to a signature.""
+}",['proper_nouns_to_common_nouns'],[],['proper_nouns_to_common_nouns'],-1,[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",New_words_and_changing_uses,[],['foreign_borrowing'],[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text includes compounds like 'Thursday' and 'telling the truth', as well as a conversion with 'believe her'""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""conversions"", ""doubling""],
+  ""Explanation"": ""The text uses the foreign borrowing of 'Ms.' (from the honorific 'miss'), clipping of 'Thursday' from 'Thor's day', conversion of 'believe' from a verb to a noun, and doubling with 'you know it'.""
+}","['foreign_borrowing', 'clipping', 'conversions', 'doubling']","{
+  ""Properties"": [""conversion"", ""acronym"", ""foreign borrowing"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'Ms.' as a title is a conversion of a common noun to a proper noun, 'Ms.' is also an acronym, 'Thursday' is a foreign borrowing, and the use of 'darn it' is a taboo deformation.""
+}","['conversions', 'acronyms', 'foreign_borrowing', 'taboo_deformation']",[],"['compounds', 'conversions']",-1,[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],['prefixes/suffixes'],"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'exposition' is a foreign borrowing from Italian, and 'Cardinal' is used as a common noun instead of a proper noun.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'exposition' is borrowed from Italian (esposizione) and has become part of English vocabulary.""
+}",['foreign_borrowing'],"```{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""conversions"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text includes the foreign borrowing of 'exposition' from Italian, the conversion of 'exposition' from a noun to a verb, and the usage of 'Cardinal' as a common noun for a specific person.""
+}```","['foreign_borrowing', 'compounds', 'conversions', 'proper_nouns_to_common_nouns']",['foreign_borrowing'],"['foreign_borrowing', 'proper_nouns_to_common_nouns']",0,[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing']",[],"['compounds', 'prefixes/suffixes']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text includes the foreign borrowing of the word 'Breitbart', a news website.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text includes foreign borrowing with the use of the name 'Bokhari', acronyms like 'AI' for American Institute, and the transformation of the proper noun 'Google' into a common noun used generically.""
+}","['foreign_borrowing', 'acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [
+    ""foreign borrowing"",
+    ""acronyms"",
+    ""proper nouns to common nouns""
+  ],
+  ""Explanation"": ""The text includes foreign borrowing like 'Breitbart', acronyms like 'FBI', and using proper nouns as common nouns like 'Google'.""
+}","['foreign_borrowing', 'acronyms', 'proper_nouns_to_common_nouns']","['prefixes/suffixes', 'foreign_borrowing']","['foreign_borrowing', 'acronyms', 'proper_nouns_to_common_nouns']",0,[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['prefixes/suffixes', 'foreign_borrowing', 'conversions']","['compounds', 'prefixes/suffixes']","{
+  ""Properties"": [""compounds"", ""conversions"", ""foreign borrowing""],
+  ""Explanation"": ""The text uses compounds like 'out-of-control' and 'papal history', conversions like 'unprecedented', and foreign borrowing with 'papal'.""
+}","['compounds', 'conversions', 'foreign_borrowing']","``` 
+
+{
+  ""Properties"": [""analogy"", ""conversion""],
+  ""Explanation"": ""The creation of 'unprecedented' is by analogy from 'precedented', and the conversion of 'recall' from a noun to a verb""
+}
+```","['analogy', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""conversion""],
+  ""Explanation"": ""The text includes foreign borrowing with 'papal' from 'papa' in Italian, compounds with 'out-of-control', and conversion with 'unprecedented' used as an adjective from the original noun 'precedent'.""
+}","['foreign_borrowing', 'compounds', 'conversions']","['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['compounds', 'conversions', 'foreign_borrowing']",0,[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",[],['prefixes/suffixes'],"```json
+{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text uses compounds like 'impenetrable' and 'shepherds' and also converts the noun 'faithful' into the adjective 'faithful'.""
+}
+```","['compounds', 'conversions']","``` 
+{
+  ""Properties"": [""conversion"", ""analogy""],
+  ""Explanation"": ""The word 'irreversible' is a conversion of the adjective 'reversable' into an adverb, and it is formed by analogy to similar adverbs like 'irrevocably'.""
+}
+```","['conversions', 'analogy']","{
+    ""Properties"": [""compounds"", ""conversions"", ""onomatopoeia""],
+    ""Explanation"": ""The text contains compounds such as 'impenetrable' and 'faithful', conversion of 'persecution' from a noun to a verb, and onomatopoeia with 'irreversible'.""
+}","['compounds', 'conversions', 'onomatopoeia']","['foreign_borrowing', 'prefixes/suffixes']","['compounds', 'conversions']",-1,[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",New_words_and_changing_uses,[],['acronyms'],"['compounds', 'prefixes/suffixes', 'acronyms']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""analogy""],
+  ""Explanation"": ""The text uses foreign borrowing, clipping, and analogy to create new words and changing uses. 'Fascism' and 'condone' are borrowed from Italian and Latin, respectively. 'Backbencher' is a clipping of 'backbench member of parliament'. 'Conducive' and 'ban' are examples of analogy, being formed based on similar existing words."" 
+}","['foreign_borrowing', 'clipping', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""acronyms"", ""compounds""],
+  ""Explanation"": ""The text contains foreign borrowed words such as 'fascism', 'Labour', and 'ban', as well as acronyms like 'UK' and compound words like 'backbencher.'""
+}","['foreign_borrowing', 'acronyms', 'compounds']","{
+  ""Properties"": [""conversion"", ""compounds""],
+  ""Explanation"": ""The text uses the noun 'backbencher' as a verb ('urging her to go further'), which is an example of conversion. It also contains the compound 'backbencher' and 'Labour MP', formed by yoking existing words together.""
+}","['conversions', 'compounds']",[],"['foreign_borrowing', 'clipping', 'analogy']",-1,[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",New_words_and_changing_uses,['foreign_borrowing'],['acronyms'],"['prefixes/suffixes', 'acronyms']","```      
+        ""Properties"": [""foreign borrowing"", ""clipping""],
+        ""Explanation"": ""The term 'Islam' is a foreign borrowing from Arabic, and 'unbelievers' is a clipped form of 'unbelieving people'.""
+```","['foreign_borrowing', 'clipping']","``` 
+        {
+            ""Properties"": [""foreign borrowing"", ""conversions"", ""taboo deformation""],
+            ""Explanation"": ""The word 'Islam' is borrowed from another language (Arabic), the noun 'religion' is used as a verb in 'mandates warfare', and 'religion' as a taboo deformation is used euphemistically""
+        }
+```","['foreign_borrowing', 'conversions', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""catachresis"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'Islam' and 'Home Office' are instances of foreign borrowing. The phrase 'mandates warfare' is an example of catachresis (borrowing an available word to designate something that lacks a label), and the use of '[Islam]' in quotation marks demonstrates taboo deformation.""
+}","['foreign_borrowing', 'catachresis', 'taboo_deformation']",['foreign_borrowing'],"['foreign_borrowing', 'clipping']",0,[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],[],"```json
+{
+  ""Properties"": [""foreign borrowing"", ""conversion""],
+  ""Explanation"": ""The text contains the foreign borrowing 'canonised' and the conversion of 'institution' from a noun to an adjective.""
+}
+```","['foreign_borrowing', 'conversions']","``` 
+        {
+            ""Properties"": [""foreign borrowing"", ""compounds"", ""conversion""],
+            ""Explanation"": ""The text includes foreign borrowing with 'veritable', compounds with 'social media', and conversion of 'canonised' from a noun to a verb.""
+        }
+```","['foreign_borrowing', 'compounds', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""conversion"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text includes foreign borrowing ('canonised' from 'canonizzare'), conversion ('declare' used as a verb), and the use of a proper noun as a common noun ('Catholics' as a general term for people who practice Catholicism).""
+}","['foreign_borrowing', 'conversions', 'proper_nouns_to_common_nouns']",['foreign_borrowing'],"['foreign_borrowing', 'conversions']",0,[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",New_words_and_changing_uses,['proper_nouns_to_common_nouns'],['foreign_borrowing'],['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""compounds"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of compound words like 'gun control' and the transformation of proper nouns like 'Chuck Schumer' to a common noun indicate the presence of these properties in the example text.""
+}","['compounds', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""proper nouns to common nouns"", ""catachresis""],
+  ""Explanation"": ""The use of Chuck Schumer, Nancy Pelosi, and Dianne Feinstein as generic terms for gun control extremists demonstrates the transformation of proper nouns into common nouns. Additionally, the use of 'et al.' is a form of catachresis, borrowing the available Latin term to represent unspecified others.""
+}","['proper_nouns_to_common_nouns', 'catachresis']","{
+  ""Properties"": [""compounds"", ""conversions"", ""taboo deformation""],
+  ""Explanation"": ""The text includes compounds like 'gun owners' and 'gun control', conversions such as 'Sagacious' used as an adjective and 'confiscation' used as a noun, and taboo deformation in the phrase 'darn it'.""
+}","['compounds', 'conversions', 'taboo_deformation']",['proper_nouns_to_common_nouns'],"['compounds', 'proper_nouns_to_common_nouns']",0,[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'attack' is originally a noun but is used here as a verb, showing a conversion from one part of speech to another.""
+}",['conversions'],"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The word 'largely' is a clipping of the word 'largely' and 'immunue' is formed by analogy from 'immune'""
+}","['clipping', 'analogy']","```json
+{
+    ""Properties"": [""conversion"", ""prefixes/suffixes""],
+    ""Explanation"": ""The word 'largely' is formed from the suffix '-ly', and 'immune' is used as a verb, which is a conversion from its original adjective form.""
+}
+```","['conversions', 'prefixes/suffixes']",[],['conversions'],-1,[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,New_words_and_changing_uses,['acronyms'],['acronyms'],[],"``` 
+{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds such as 'South Korea' and 'immediate targets', as well as a conversion with 'attack' being used as a verb instead of a noun.""
+}
+```","['compounds', 'conversions']","``` {
+    ""Properties"": [""compounds"", ""clipping""],
+    ""Explanation"": ""The text contains compounds such as 'South Korea', a yoking of existing words, and 'immediate', a clipped version of the word 'immediately'.""
+} 
+```","['compounds', 'clipping']","{
+  ""Properties"": [""conversion"", ""foreign borrowing"", ""taboo deformation""],
+  ""Explanation"": ""The word 'attack' has been converted from a noun to a verb. 'Korea' is a foreign borrowing from the Korean language. The phrase 'darn it' is a euphemism or taboo deformation of a stronger phrase.""
+}","['conversions', 'foreign_borrowing', 'taboo_deformation']",['acronyms'],"['compounds', 'conversions']",-1,[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",New_words_and_changing_uses,[],['foreign_borrowing'],[],"{
+  ""Properties"": [""conversion"", ""clipping""],
+  ""Explanation"": ""The word 'obey' was converted from a verb to a command, and 'meekest' is a clipped form of 'most meek'.""
+}","['conversions', 'clipping']",timeout,[],timeout,[],[],"['conversions', 'clipping']",-1,[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",New_words_and_changing_uses,['prefixes/suffixes'],"['compounds', 'prefixes/suffixes']","['compounds', 'acronyms']","{
+  ""Properties"": [""foreign borrowing"", ""acronyms""],
+  ""Explanation"": ""The use of 'Kavanaugh' as a proper noun converted to a common noun ('When Kavanaugh is on the Supreme Court'), and the use of '#4thAmendment' as an acronym for 'Fourth Amendment' demonstrate the properties of proper nouns to common nouns and acronyms, respectively.""
+}","['foreign_borrowing', 'acronyms']","{
+  ""Properties"": [""acronyms"", ""fabrication""],
+  ""Explanation"": ""The text uses the hashtag #4thAmendment which is an acronym, and also contains the fabricated word 'Kavanaugh', which is the name of a person.""
+}","['acronyms', 'fabrication']","{
+  ""Properties"": [""acronyms"", ""taboo deformation""],
+  ""Explanation"": ""The use of #4thAmendment is an acronym, and the euphemistic deformation of 'darn' in the context of expressing frustration.""
+}","['acronyms', 'taboo_deformation']",['prefixes/suffixes'],"['foreign_borrowing', 'acronyms']",-1,[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",New_words_and_changing_uses,[],['compounds'],[],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The use of 'gird failure' is a compound word, formed by joining 'gird' and 'failure'. The conversion of 'prepared' from an adjective to a verb is also used in the text.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""clipping"", ""taboo deformation""],
+  ""Explanation"": ""The text uses compounds such as 'gird failure' and 'good to be prepared', clipping with 'gird' from 'disaster' and euphemism with 'just in case'""
+}","['compounds', 'clipping', 'taboo_deformation']","```json
+{
+  ""Properties"": [""compounds"", ""clipping""],
+  ""Explanation"": ""The text uses compounds like 'gird failure' and 'just in case', as well as a clipped word 'it's' from 'it is'""
+}
+```","['compounds', 'clipping']",[],"['compounds', 'conversions']",-1,[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['compounds', 'prefixes/suffixes', 'acronyms']","['acronyms', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""blends"", ""conversion""],
+  ""Explanation"": ""The text includes a foreign borrowing with 'superdogma' from Latin, blends with 'superdogma' combining 'super' and 'dogma', and conversion with 'harassed' from noun to verb.""
+}","['foreign_borrowing', 'blends', 'conversions']","``` 
+{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains foreign borrowing with the word 'superdogma' (borrowed from Latin), compounds with 'U.S.' and 'Conference of Catholic Bishops', and conversion with the use of 'harassed' as a verb.""
+}
+```","['foreign_borrowing', 'compounds', 'conversions']","```{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""fabrication""],
+  ""Explanation"": ""The text includes the foreign borrowing of 'super' from Latin, the compound 'superdogma', and potentially the fabrication of 'superdogma' as a new word.""
+}```","['foreign_borrowing', 'compounds', 'fabrication']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'blends', 'conversions']",0,[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",New_words_and_changing_uses,[],[],[],"```json
+{
+  ""Properties"": [""conversion"", ""taboo deformation""],
+  ""Explanation"": ""The word 'screaming' is a conversion from a verb to a gerund, and 'die' is a taboo deformation (euphemism) for the verb 'kill.'""
+}
+```","['conversions', 'taboo_deformation']","```json
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'screaming' is a conversion from a verb to a noun, changing the part of speech.""
+}
+```",['conversions'],"```json
+{
+  ""Properties"": [""conversion"", ""clipping""],
+  ""Explanation"": ""The use of 'screaming' as a verb instead of its original use as a noun (conversion). Also, the word 'conference' could be seen as a clipped version of 'news conference'.""
+}
+```","['conversions', 'clipping']",[],"['conversions', 'taboo_deformation']",-1,[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",New_words_and_changing_uses,"['conversions', 'compounds', 'acronyms']",['acronyms'],"['blends', 'acronyms']",,[],,[],,[],"['conversions', 'compounds', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",New_words_and_changing_uses,"['foreign_borrowing', 'acronyms']","['compounds', 'blends', 'conversions']","['foreign_borrowing', 'acronyms']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""acronyms"", ""taboo deformation""],
+  ""Explanation"": ""The text contains foreign borrowing in the use of 'alt-reich', clipping with 'Farrakhan', 'CNN', and 'tweeting', acronyms in 'CNN', and taboo deformation with 'darn'.""
+}","['foreign_borrowing', 'clipping', 'acronyms', 'taboo_deformation']","```{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""acronyms"", ""taboo deformation"", ""doubling""],
+  ""Explanation"": ""The text includes foreign borrowing ('reich' from German), clipping ('alt' from 'alternative'), acronyms ('CNN'), taboo deformation ('darn it'), and doubling ('much larger').""
+}```","['foreign_borrowing', 'clipping', 'acronyms', 'taboo_deformation', 'doubling']","{
+  ""Properties"": [""foreign borrowing"", ""acronyms"", ""conversion""],
+  ""Explanation"": ""The text contains foreign borrowed words like 'Farrakhan', an acronym 'CNN', and a conversion of the noun 'tweet' into a verb.""
+}","['foreign_borrowing', 'acronyms', 'conversions']","['foreign_borrowing', 'acronyms']","['foreign_borrowing', 'clipping', 'acronyms', 'taboo_deformation']",0,[]
+243,[2 6],Women everywhere should be furious.,New_words_and_changing_uses,[],[],[],"```{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'everywhere' is a clipped form of 'everywhere'.""
+}```",['clipping'],"{
+    ""Properties"": [""conversion""],
+    ""Explanation"": ""The term 'furious' is originally an adjective, but it is used here as a verb to describe the emotions of women.""
+}",['conversions'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'should be furious' is a mild form of expressing anger, which is a form of euphemism or taboo deformation.""
+}",['taboo_deformation'],[],['clipping'],-1,[]
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",New_words_and_changing_uses,[],[],[],"{
+    ""Properties"": [""compounds"", ""conversion""],
+    ""Explanation"": ""The text contains compounds like 'one could say', and a conversion from noun to verb with 'bless'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'bless' is a clipped version of the original word 'benedict'.""
+}",['clipping'],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The example text uses compounds like 'one could say', and conversion of the noun 'bless' into a verb.""
+}","['compounds', 'conversions']",[],"['compounds', 'conversions']",-1,[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",New_words_and_changing_uses,[],['doubling'],[],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The use of the word 'many many' demonstrates the doubling property, as the word 'many' is repeated for emphasis.""
+}",['doubling'],"{
+  ""Properties"": [""repetition""],
+  ""Explanation"": ""The repetition of 'many' in 'many many others' demonstrates the use of doubling as a linguistic feature in the text.""
+}",['fabrication'],"{
+  ""Properties"": [""clipping"", ""doubling""],
+  ""Explanation"": ""The word 'many' is clipped from 'many others' and the doubling of 'many many' falls under the doubling property.""
+}","['clipping', 'doubling']",[],['doubling'],-1,[]
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'appeal' has been converted from a noun to a verb, as in 'the last appeal'""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'intervene' is originally a verb, but in the example text, it is used as a verb form of intervention (noun), demonstrating a conversion from a noun to a verb.""
+}",['conversions'],"``` 
+{
+    ""Properties"": [""foreign borrowing"", ""conversions"", ""taboo deformation""],
+    ""Explanation"": ""The term 'zero tolerance' is a foreign borrowing from Italian (tolleranza zero), the word 'intervene' is a conversion from a noun to a verb, and the use of 'darn it' is a taboo deformation as a euphemism for a stronger expression.""
+}
+```","['foreign_borrowing', 'conversions', 'taboo_deformation']",[],['conversions'],-1,[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",New_words_and_changing_uses,[],[],['prefixes/suffixes'],"{
+  ""Properties"": [
+    ""conversion"",
+    ""compound"",
+    ""taboo deformation""
+  ],
+  ""Explanation"": ""The text uses conversion by using 'shock' as a verb, compound words like 'mass shooting' and 'outright', and taboo deformation by using 'darn' as a euphemism.""
+}","['conversions', 'compounds', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text includes compounds such as 'mass shooting' and 'outright denying', as well as a conversion of the noun 'shootings' to the verb 'shooting'.""
+}","['compounds', 'conversions']",timeout,[],[],"['conversions', 'compounds', 'taboo_deformation']",-1,[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,New_words_and_changing_uses,['proper_nouns_to_common_nouns'],['compounds'],[],"{
+  ""Properties"": [""taboo deformation"", ""conversion""],
+  ""Explanation"": ""The use of 'go whine' is a conversion of the noun 'whine' into a verb, and 'burn crosses' is a taboo deformation by using 'burn' as a euphemism for 'burning crosses'.""
+}","['taboo_deformation', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'whine' is a foreign borrowing from the Old English 'hwīnan', 'whine' is also an example of clipping, and 'burn crosses' is a taboo deformation of the more explicit term 'burning crosses'.""
+}","['foreign_borrowing', 'clipping', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""taboo deformation""],
+  ""Explanation"": ""The text includes compounds like 'New York' and 'burn crosses', as well as a taboo deformation with the phrase 'go whine'.""
+}","['compounds', 'taboo_deformation']",['proper_nouns_to_common_nouns'],"['taboo_deformation', 'conversions']",-1,[]
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['compounds', 'prefixes/suffixes', 'acronyms']","['prefixes/suffixes', 'acronyms']","{
+  ""Properties"": [""foreign borrowing"", ""acronyms"", ""catachresis""],
+  ""Explanation"": ""The use of 'confiscation' and 'registration' are examples of foreign borrowing. The acronym 'AMA' is used for the American Medical Association. The term 'gun confiscation measures' is a form of catachresis, using the word 'confiscation' to designate a specific type of measures.""
+}","['foreign_borrowing', 'acronyms', 'catachresis']","{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The example uses 'AMA' as a general term for the American Medical Association.""
+}",['proper_nouns_to_common_nouns'],"``` 
+        ""Properties"": [""foreign borrowing"", ""compounds"", ""acronyms"", ""conversions""],
+        ""Explanation"": ""The text includes foreign borrowed terms like 'cafe latte', compounds like 'open house' and 'political correctness', acronyms like 'AMA', and a conversion like 'texted'."" 
+```","['foreign_borrowing', 'compounds', 'acronyms', 'conversions']","['compounds', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'acronyms', 'catachresis']",0,[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",New_words_and_changing_uses,['compounds'],"['compounds', 'conversions']",['conversions'],"{
+  ""Properties"": [""analogy"", ""conversion""],
+  ""Explanation"": ""The word 'pardons' is used both as a noun and a verb, showing conversion. Additionally, the use of 'pardons' and 'locks up' in opposite contexts suggests analogy.""
+}","['analogy', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text uses compounds such as 'drug dealers' and 'ranchers' and conversions like 'pardoned' (originally a verb) used as an adjective.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""analogy"", ""conversions""],
+  ""Explanation"": ""The text contains compounds like 'drug dealers' and 'ranchers', which are created by combining existing words. It also demonstrates the use of analogy, forming 'pardons' based on the pattern of 'locked up'. Lastly, it utilizes conversions by using 'pardons' as a verb, which is originally a noun.""
+}","['compounds', 'analogy', 'conversions']",['compounds'],"['analogy', 'conversions']",-1,[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",New_words_and_changing_uses,['compounds'],"['prefixes/suffixes', 'conversions']",['prefixes/suffixes'],"{
+  ""Properties"": [""clipping"", ""conversions""],
+  ""Explanation"": ""The text uses the clipped word 'invalidity' (from 'invalid') and the converted word 'canonical' (originally an adjective used as a noun)."" 
+}","['clipping', 'conversions']","```{
+  ""Properties"": [""conversion"", ""taboo deformation""],
+  ""Explanation"": ""The term 'invalidity' is originally a noun, but it is used as an adjective in the phrase 'canonical proof of invalidity'. The euphemism 'darn it' is used in place of a stronger expletive.""
+}```","['conversions', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'invalidity' is borrowed from the Latin word 'invaliditas'.""
+}",['foreign_borrowing'],['compounds'],"['clipping', 'conversions']",-1,[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",New_words_and_changing_uses,['compounds'],"['compounds', 'prefixes/suffixes', 'conversions']","['compounds', 'prefixes/suffixes']",,[],,[],,[],['compounds'],[],-1,[]
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",New_words_and_changing_uses,[],['conversions'],[],,[],,[],,[],[],"['clipping', 'conversions']",-1,"['clipping', 'conversions']"
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",New_words_and_changing_uses,"['proper_nouns_to_common_nouns', 'acronyms']","['prefixes/suffixes', 'acronyms']","['proper_nouns_to_common_nouns', 'acronyms']",,[],,[],,[],"['proper_nouns_to_common_nouns', 'acronyms']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",0,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']"
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'conversions']",['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],[],-1,[]
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",New_words_and_changing_uses,[],['prefixes/suffixes'],[],,[],,[],,[],[],['catachresis'],-1,['catachresis']
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",New_words_and_changing_uses,"['compounds', 'acronyms']","['foreign_borrowing', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'acronyms']",[],-1,[]
+311,[3],"The Vatican presents a choice: the world, or Christ.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Vatican' is a foreign borrowing from Latin.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [
+    ""foreign borrowing"",
+    ""compounds""
+  ],
+  ""Explanation"": ""The word 'Vatican' is a foreign borrowing from Latin, and 'presents' and 'choice' are compounds made up of existing words.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Vatican' is borrowed from Latin.""
+}",['foreign_borrowing'],[],['foreign_borrowing'],-1,[]
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+319,[3],It’s not coming back.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It's' is a shortened version of 'It is'. This is an example of a clipping.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'it's' is a clipped version of 'it is'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It’s' is a clipped version of 'It is'.""
+}",['clipping'],[],['clipping'],-1,[]
+320,[ 3 16],There will be no turning back.,New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'turning' is a clipped form of 'turning'.""
+}
+```",['clipping'],"{
+  ""Properties"": [""compounds"", ""clipping""],
+  ""Explanation"": ""The word 'turning back' is a compound word, and 'turning' is a clipped version of the word 'returning'""
+}","['compounds', 'clipping']","{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'turning' is a noun converted into a verb in the sentence.""
+}",['conversions'],[],['clipping'],-1,[]
+325,[3],A caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a “set-up”.,New_words_and_changing_uses,"['proper_nouns_to_common_nouns', 'foreign_borrowing']","['compounds', 'blends', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],,[],,[],,[],"['proper_nouns_to_common_nouns', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],0,['proper_nouns_to_common_nouns']
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,New_words_and_changing_uses,['foreign_borrowing'],"['foreign_borrowing', 'conversions']",[],,[],,[],,[],['foreign_borrowing'],['conversions'],-1,['conversions']
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",New_words_and_changing_uses,['conversions'],"['compounds', 'conversions']",[],,[],,[],,[],['conversions'],['conversions'],1,['conversions']
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",New_words_and_changing_uses,[],['conversions'],[],,[],,[],,[],[],[],1,[]
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",[],,[],,[],,[],[],[],1,[]
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",New_words_and_changing_uses,"['foreign_borrowing', 'acronyms']",['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']","['prefixes/suffixes', 'acronyms']",,[],,[],,[],[],['conversions'],-1,['conversions']
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,New_words_and_changing_uses,[],"['blends', 'prefixes/suffixes']",['conversions'],,[],,[],,[],[],['conversions'],-1,['conversions']
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes', 'conversions']",0,"['compounds', 'prefixes/suffixes', 'conversions']"
+407,[4 8],Faggioli has no answer because what he is really arguing—the final beachhead of the neo-Catholic defense of their disintegrating regime—is that homosexuals in the hierarchy must remain in authority as an indispensable seawall against a “neo-traditionalist” storm surge.,New_words_and_changing_uses,['compounds'],"['clipping', 'blends', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],['compounds'],"['compounds', 'prefixes/suffixes']",0,"['compounds', 'prefixes/suffixes']"
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""taboo deformation"", ""fabrication""],
+  ""Explanation"": ""The text contains compounds like 'shots fired' and also uses fabrication for creating new terms like 'Oswald in the rear'. There is also taboo deformation in the use of 'darn it'.""
+}","['compounds', 'taboo_deformation', 'fabrication']","{
+  ""Properties"": [""compounds"", ""conversion"", ""foreign borrowing""],
+  ""Explanation"": ""The text contains compounds like 'shots fired', conversion of 'place' from a verb to a noun, and foreign borrowing of 'Oswald'."" 
+}","['compounds', 'conversions', 'foreign_borrowing']","{
+  ""Properties"": [""compounds"", ""conversion"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses compounds like 'shots fired', proper nouns as common nouns like 'Oswald', and conversion of the noun 'rear' into a preposition."" 
+}","['compounds', 'conversions', 'proper_nouns_to_common_nouns']",[],"['compounds', 'taboo_deformation', 'fabrication']",-1,[]
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,New_words_and_changing_uses,['proper_nouns_to_common_nouns'],"['proper_nouns_to_common_nouns', 'compounds']",['proper_nouns_to_common_nouns'],,[],,[],,[],['proper_nouns_to_common_nouns'],['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns']
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",New_words_and_changing_uses,['foreign_borrowing'],[],[],,[],,[],,[],[],['foreign_borrowing'],-1,['foreign_borrowing']
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'blends']",['compounds'],,[],,[],,[],['foreign_borrowing'],['conversions'],-1,['conversions']
+476,[4],The former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.,New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['compounds'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",[],-1,[]
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversion"", ""onomatopoeia""],
+  ""Explanation"": ""The text contains compounds such as 'preaching out', conversions of nouns to verbs (advocate) and onomatopoeia ('war against God')."" 
+}","['compounds', 'conversions', 'onomatopoeia']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'preaching out' appears to be based on the model of the existing word 'speaking out', indicating the use of analogy.""
+}",['analogy'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'preaching out' instead of 'preaching against' is a form of euphemism, which falls under taboo deformation.""
+}",['taboo_deformation'],[],"['compounds', 'conversions', 'onomatopoeia']",-1,[]
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""clipping"", ""conversions""],
+  ""Explanation"": ""The text uses clipping by shortening 'tolerance' to 'tolerant' and also uses conversion by using 'judge' as a noun, even though it is originally a verb.""
+}
+```","['clipping', 'conversions']","```{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The example text uses the verb 'judge' converted from the noun 'judgment' in the context of God judging America.""
+}```",['conversions'],"```{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of euphemisms like 'wrong' instead of 'evil' and 'destruction' instead of 'judgment' reflects the use of taboo deformation in the text.""
+}```",['taboo_deformation'],[],"['clipping', 'conversions']",-1,[]
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],[],-1,[]
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,New_words_and_changing_uses,['compounds'],['compounds'],['prefixes/suffixes'],,[],,[],,[],['compounds'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],"['proper_nouns_to_common_nouns', 'compounds', 'conversions']",-1,"['proper_nouns_to_common_nouns', 'compounds', 'conversions']"
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,New_words_and_changing_uses,['conversions'],['conversions'],['conversions'],,[],,[],,[],['conversions'],[],-1,[]
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",New_words_and_changing_uses,['prefixes/suffixes'],['compounds'],[],,[],,[],,[],['prefixes/suffixes'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",New_words_and_changing_uses,['foreign_borrowing'],['conversions'],[],,[],,[],,[],['foreign_borrowing'],['conversions'],-1,['conversions']
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['compounds'],-1,['compounds']
+751,[5 9],"The Guardian has painted social media chiefly as a platform overrun by Russian trolls, arguing that this should justify ever-tighter restrictions that have so far curbed critical voices of the dissident left more than the right.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['compounds'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['conversions'],-1,['conversions']
+804,[5],"Las Vegas police said Friday that the gunman who opened fire on a country music festival far below his hotel suite did not shoot a security guard six minutes before that rampage, contradicting a timeline they had offered earlier this week….",New_words_and_changing_uses,[],"['compounds', 'foreign_borrowing']",[],,[],,[],,[],[],['conversions'],-1,['conversions']
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'Fake News' and 'Guardian Fake News'. It also includes conversion with 'trusted' being used as a verb instead of an adjective.""
+}","['compounds', 'conversions']","``` 
+{
+  ""Properties"": [""compounds"", ""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text contains compounds such as 'fake news' and 'can't be trusted', the acronym 'BBC', and the use of 'Guardian' as a common noun to refer to a news outlet.""
+}
+```","['compounds', 'acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""compounds"", ""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text contains compounds such as 'Fake News', an acronym 'The Guardian', and a proper noun used as a common noun 'The Media'.""
+}","['compounds', 'acronyms', 'proper_nouns_to_common_nouns']",[],"['compounds', 'acronyms', 'proper_nouns_to_common_nouns']",-1,[]
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of the word 'witness' as a verb in 'having trouble with the question' is an example of conversion, where a noun is used as a verb.""
+}
+```",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'witness' is originally a noun, but in this context, it is used as a verb through conversion.""
+}",['conversions'],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'witness' and 'trouble' and a conversion of the noun 'witness' into a verb 'witness' as in 'having trouble'.""
+}","['compounds', 'conversions']",[],['conversions'],-1,[]
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['proper_nouns_to_common_nouns'],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+863,[5],Capitol Police didn’t make arrests despite numerous red flags and then ‘inadvertently’ gave evidence to defense attorneys that was supposed to go to prosecutors,New_words_and_changing_uses,['conversions'],"['compounds', 'prefixes/suffixes']",['compounds'],,[],,[],,[],['conversions'],"['prefixes/suffixes', 'conversions']",0,"['prefixes/suffixes', 'conversions']"
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],[],1,[]
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],[],-1,[]
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",New_words_and_changing_uses,['compounds'],"['compounds', 'prefixes/suffixes', 'conversions']",[],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",New_words_and_changing_uses,['compounds'],"['compounds', 'prefixes/suffixes', 'acronyms']",['acronyms'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",New_words_and_changing_uses,"['compounds', 'acronyms']","['acronyms', 'compounds', 'prefixes/suffixes', 'conversions']","['compounds', 'prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'acronyms']",[],-1,[]
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",New_words_and_changing_uses,[],['prefixes/suffixes'],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],[],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['conversions'],-1,['conversions']
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",[],[],,[],,[],,[],[],"['proper_nouns_to_common_nouns', 'compounds']",-1,"['proper_nouns_to_common_nouns', 'compounds']"
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'conversions']",[],[],,[],,[],,[],[],[],1,[]
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'acronyms']"
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['compounds', 'foreign_borrowing', 'acronyms']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']",,[],,[],,[],"['compounds', 'foreign_borrowing', 'acronyms']","['compounds', 'conversions']",0,"['compounds', 'conversions']"
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,New_words_and_changing_uses,['proper_nouns_to_common_nouns'],"['proper_nouns_to_common_nouns', 'compounds']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",,[],,[],,[],['proper_nouns_to_common_nouns'],['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns']
+1145,[9 8 6],To call them nativists and parade their moral superiority.,New_words_and_changing_uses,"['proper_nouns_to_common_nouns', 'conversions']",['conversions'],[],,[],,[],,[],"['proper_nouns_to_common_nouns', 'conversions']",['conversions'],0,['conversions']
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",New_words_and_changing_uses,['compounds'],['analogy'],[],,[],,[],,[],['compounds'],"['conversions', 'analogy']",-1,"['conversions', 'analogy']"
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,New_words_and_changing_uses,"['clipping', 'compounds']",[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+1234,[7],"He was treated very unfairly by our government!""",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],[],,[],,[],,[],['prefixes/suffixes'],['conversions'],-1,['conversions']
+1259,[7],Does Berg and the AMA support our military?,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],"['compounds', 'acronyms']",0,"['compounds', 'acronyms']"
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",New_words_and_changing_uses,[],[],[],timeout,[],"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The word 'knew' is a clipping of 'know' and the word 'held' is formed by analogy from 'hold'.""
+}","['clipping', 'analogy']","{
+  ""Properties"": [""blends"", ""conversions""],
+  ""Explanation"": ""The text contains a blend 'sham' (blend of 'shame' and 'scam') and a conversion 'held' (originally a verb used as a past participle)""
+}","['blends', 'conversions']",[],"['clipping', 'analogy']",-1,[]
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'conversions']",['compounds'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'conversions']",['conversions'],0,['conversions']
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",New_words_and_changing_uses,[],['proper_nouns_to_common_nouns'],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,New_words_and_changing_uses,['conversions'],[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",New_words_and_changing_uses,[],[],[],"```{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn' as a euphemism for 'damn' in the phrase 'darn it'.""
+}```",['taboo_deformation'],"```json
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'sleep' is originally a noun, but is used as a verb in this sentence.""
+}
+```",['conversions'],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text includes compounds such as 'sleep peacefully' and 'grandly proclaimed'. Additionally, the verb 'sleep' has been converted from a noun to describe the action of sleeping peacefully.""
+}","['compounds', 'conversions']",[],['taboo_deformation'],-1,[]
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,New_words_and_changing_uses,"['compounds', 'conversions']",['compounds'],[],,[],,[],,[],"['compounds', 'conversions']",['conversions'],0,['conversions']
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'acronyms']","['proper_nouns_to_common_nouns', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'acronyms']"
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],"['quotes', 'prefixes/suffixes']",-1,"['quotes', 'prefixes/suffixes']"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",New_words_and_changing_uses,[],[],[],,[],,[],,[],[],[],1,[]
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'acronyms']"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['foreign_borrowing'],-1,['foreign_borrowing']
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",New_words_and_changing_uses,"['proper_nouns_to_common_nouns', 'prefixes/suffixes', 'compounds']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['proper_nouns_to_common_nouns', 'prefixes/suffixes', 'compounds']","['proper_nouns_to_common_nouns', 'compounds']",0,"['proper_nouns_to_common_nouns', 'compounds']"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversion"", ""taboo deformation""],
+  ""Explanation"": ""The word 'bring' is used as a verb, although it is originally a noun. Additionally, the use of 'back' in 'back home' is a taboo deformation to avoid using harsher language."" 
+}","['conversions', 'taboo_deformation']","{
+  ""Properties"": [
+    ""conversions""
+  ],
+  ""Explanation"": ""The word 'back' is originally an adverb, but in this context, it is used as a part of the verb 'bring'. This is an example of conversion, changing a term from one part of speech into another.""
+}",['conversions'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun referring to a person, rather than the specific individual, falls under the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],[],"['conversions', 'taboo_deformation']",-1,[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,New_words_and_changing_uses,[],[],['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'West Virginia' is a compound word, formed by yoking together two exisitng words.""
+}",['compounds'],"``` 
+        ""Properties"": [""compound"", ""conversion""],
+        ""Explanation"": ""The word 'problem' is used as both a compound ('national problem') and a conversion ('it's a problem').""
+```","['compounds', 'conversions']","{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'national problem' is a compound word made up of two existing words yoked together.""
+}",['compounds'],[],['compounds'],-1,[]
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",['prefixes/suffixes'],"['prefixes/suffixes', 'conversions']",,[],,[],,[],"['foreign_borrowing', 'prefixes/suffixes']","['foreign_borrowing', 'compounds']",0,"['foreign_borrowing', 'compounds']"
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,New_words_and_changing_uses,['compounds'],['prefixes/suffixes'],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],"['compounds', 'prefixes/suffixes']",,[],,[],,[],['prefixes/suffixes'],['foreign_borrowing'],-1,['foreign_borrowing']
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes', 'analogy']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['analogy'],-1,['analogy']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],['compounds'],-1,['compounds']
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing']",[],[],,[],,[],,[],[],[],1,[]
+2198,[16  6  8],"That’s all,” when he stated in his sworn account that Nuncio Pietro Sambi conveyed to McCarrick at the Nunciature in Washington the sanctions that had been imposed on him by Pope Benedict—sanctions Bergoglio ignored for five years until forced to act by a worldwide storm of outrage.",New_words_and_changing_uses,['foreign_borrowing'],[],['compounds'],,[],,[],,[],['foreign_borrowing'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'foreign_borrowing']",['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],"['foreign_borrowing', 'prefixes/suffixes', 'conversions']",0,"['foreign_borrowing', 'prefixes/suffixes', 'conversions']"
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'acronyms']",['acronyms'],0,['acronyms']
+2472,[8],"Ricki Seidman, a Democratic operative and former Clinton White House official who is now an advisor to Mrs. Ford, said in July (at roughly the same time as the letter was submitted) that she predicted a ""strategy"" forming to destroy Brett Kavanaugh.",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The use of 'foolish mistake' is a compound word, formed by joining 'foolish' and 'mistake'. The conversion of 'foolish' from an adjective to a noun is also present in the text.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'young man' is a compound, and 'Saucier' is a proper noun that has become a common noun to refer to someone involved in a similar situation.""
+}","['compounds', 'proper_nouns_to_common_nouns']","```json
+{
+  ""Properties"": [""conversion"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The word 'Saucier' is a proper noun (a person's last name) used as a common noun to refer to a young man. The word 'mistake' has been converted from a noun to a verb, used as 'a foolish mistake'.""
+}
+```","['conversions', 'proper_nouns_to_common_nouns']",[],"['compounds', 'conversions']",-1,[]
+2584,[0 8],"In remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: “If a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.”",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],"['foreign_borrowing', 'conversions']",0,"['foreign_borrowing', 'conversions']"
+2629,[ 8 13],ADVANTAGE AMERICANS,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The text contains the acronym 'USA' which is formed from the first letters of 'United States of America'. Therefore, the property 'acronyms' is present in the example text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The example 'ADVANTAGE AMERICANS' is an acronym formed from the first letters of strings of words.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The text uses the first letters of each word to form the acronym 'AA'.""
+}",['acronyms'],[],['acronyms'],-1,[]
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes', 'conversions']",0,"['compounds', 'prefixes/suffixes', 'conversions']"
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",New_words_and_changing_uses,[],['compounds'],['compounds'],,[],,[],,[],['compounds'],['compounds'],1,['compounds']
+2897,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],"['foreign_borrowing', 'analogy']",-1,"['foreign_borrowing', 'analogy']"
+2900,[13  8 13],Another student told my daughter that she and the first student and her adult friends are going to kill me and carve a satanic star in my chest and rip out my organs.,New_words_and_changing_uses,[],['compounds'],['compounds'],,[],,[],,[],['compounds'],[],-1,[]
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversion"", ""onomatopoeia""],
+  ""Explanation"": ""The text uses compounds like 'righteous' and 'wicked' and 'draw near'. It also uses a conversion by using 'destroy' as a verb, and onomatopoeia with 'draw near'.""
+}","['compounds', 'conversions', 'onomatopoeia']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""conversion""],
+  ""Explanation"": ""The text includes foreign borrowing from the Bible ('Abraham'), compounds ('righteous', 'wicked'), and conversion of a noun to a verb ('destroy')."" 
+}","['foreign_borrowing', 'compounds', 'conversions']","``` 
+{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'righteous' and 'wicked', and also a conversion from the adjective 'righteous' to the verb 'destroy'.""
+}
+```","['compounds', 'conversions']",[],"['compounds', 'conversions', 'onomatopoeia']",-1,[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],[],1,[]
+3090,[9 9 8],This provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.,New_words_and_changing_uses,"['foreign_borrowing', 'acronyms']","['compounds', 'acronyms']","['foreign_borrowing', 'acronyms']",,[],,[],,[],"['foreign_borrowing', 'acronyms']",['foreign_borrowing'],0,['foreign_borrowing']
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['prefixes/suffixes', 'acronyms']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']",,[],,[],,[],"['prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",0,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']"
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",New_words_and_changing_uses,[],[],[],"``` 
+Properties: [""foreign borrowing"", ""compounds"", ""proper nouns to common nouns""]
+Explanation: The usage of ""Sankt Gallen Mafia"" is a foreign borrowing as it comes from German, ""Walter Kasper"" and ""Carlo Maria Martini"" are proper nouns being used as common nouns, and the phrase ""friendly terms"" is an example of a compound word.
+```","['foreign_borrowing', 'compounds', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Ratzinger' as a general term for referring to Pope Benedict XVI demonstrates the proper noun being used as a common noun.""
+}",['proper_nouns_to_common_nouns'],"``` 
+{
+    ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+    ""Explanation"": ""The text includes foreign borrowed words like 'Sankt' and 'Mafia'. It also uses a proper noun, 'Ratzinger', as a common noun to refer to a specific individual.""
+}
+```","['foreign_borrowing', 'proper_nouns_to_common_nouns']",[],"['foreign_borrowing', 'compounds', 'proper_nouns_to_common_nouns']",-1,[]
+3249,[9],When Cain complains that being a “vagabond .,New_words_and_changing_uses,[],[],['foreign_borrowing'],"```json
+{
+    ""Properties"": [""clipping"", ""conversion""],
+    ""Explanation"": ""The word 'vagabond' is a clip from the original word 'vagabondage', and 'complains' is a conversion of the noun 'complaint'.""
+}
+```","['clipping', 'conversions']","{
+  ""Properties"": [""clipping"", ""conversions""],
+  ""Explanation"": ""The word 'vagabond' is a clipping of the original term 'vagabondage' and 'being' has been converted from a verb to a gerund.""
+}","['clipping', 'conversions']","{
+    ""Properties"": [""compounds"", ""foreign borrowing""],
+    ""Explanation"": ""The term 'vagabond' is a compound word formed by yoking together the existing words 'vaga' and 'bond'. Additionally, 'vagabond' is a foreign borrowing from Old French.""
+}","['compounds', 'foreign_borrowing']",[],"['clipping', 'conversions']",-1,[]
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",New_words_and_changing_uses,['catachresis'],[],['prefixes/suffixes'],,[],,[],,[],['catachresis'],['conversions'],-1,['conversions']
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",New_words_and_changing_uses,['acronyms'],['acronyms'],"['foreign_borrowing', 'acronyms']",,[],,[],,[],['acronyms'],"['conversion', 'acronyms']",0,"['conversion', 'acronyms']"
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",New_words_and_changing_uses,"['prefixes/suffixes', 'blends']","['compounds', 'prefixes/suffixes']","['prefixes/suffixes', 'acronyms']",,[],,[],,[],"['prefixes/suffixes', 'blends']",[''],-1,['']
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing']",['prefixes/suffixes'],"['compounds', 'prefixes/suffixes', 'acronyms']",,[],,[],,[],"['prefixes/suffixes', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'prefixes/suffixes', 'conversions']","['compounds', 'prefixes/suffixes', 'onomatopoeia']","['compounds', 'prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'foreign_borrowing', 'prefixes/suffixes', 'conversions']","['compounds', 'conversions']",0,"['compounds', 'conversions']"
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'acronyms']",['conversions'],-1,['conversions']
+3407,[9],"Among the earliest indications Catholics had that the new pope had no intention of getting to the bottom of the priest-abuser problem was his appointment of the notorious homosexual, Monsignor Battista Ricca, as head of the Vatican Bank and the man in charge of his own residence, the Casa Santa Martha.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing']",['compounds'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'foreign_borrowing']","['foreign_borrowing', 'compounds', 'conversions']",0,"['foreign_borrowing', 'compounds', 'conversions']"
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,New_words_and_changing_uses,['catachresis'],['clipping'],['clipping'],,[],,[],,[],['clipping'],['prefixes/suffixes'],-1,['prefixes/suffixes']
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['compounds'],['compounds'],,[],,[],,[],['compounds'],"['foreign_borrowing', 'compounds']",0,"['foreign_borrowing', 'compounds']"
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],[],,[],,[],,[],['foreign_borrowing'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3784,[10],Allahu Akbar usually means motive unknown.,New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['compounds', 'foreign_borrowing']",['foreign_borrowing'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['foreign_borrowing', 'conversions']",0,"['foreign_borrowing', 'conversions']"
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,New_words_and_changing_uses,['compounds'],[],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The word 'defends' is a conversion from a noun to a verb, and 'mystifying' is a compound word made up of 'myst' and 'fying'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'defends' is originally a verb, but it is used here as a noun, showing conversion.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing"", ""doubling""],
+  ""Explanation"": ""The word 'mystifying' is a foreign borrowing from the adjective 'mystify' and it also exhibits the doubling property with the repetition of the suffix '-ing'.""
+}","['foreign_borrowing', 'doubling']",[],"['compounds', 'conversions']",-1,[]
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",New_words_and_changing_uses,[],[],['prefixes/suffixes'],,[],,[],,[],[],['doubling'],-1,['doubling']
+3790,[10],Over-excitement is a serious problem in the Muslim world.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['prefixes/suffixes'],1,['prefixes/suffixes']
+3791,[10],"“This is contrary to Divine Revelation,” Schneider further told LifeSite, adding that the “beautiful explanations” that are being presented to clergy and faithful as “discernment” and “pastoral accompaniment,” or a “change of paradigm” and “discovery of the subjective part of the truth,” when translated into “common sense language,” are tantamount to an allowance to sin.",New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",New_words_and_changing_uses,['acronyms'],"['compounds', 'prefixes/suffixes', 'acronyms']","['prefixes/suffixes', 'acronyms']",,[],,[],,[],['acronyms'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",New_words_and_changing_uses,[],['doubling'],['doubling'],,[],,[],,[],['doubling'],['doubling'],1,['doubling']
+3794,[11],"Awan told people Wasserman Schultz chose the name for his daughter, Leza — a Jewish name — and that the Florida congresswoman’s daughter regularly rode a horse that Awan kept at a boarding facility, sources with knowledge of the relationship told TheDCNF.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",New_words_and_changing_uses,['compounds'],"['compounds', 'prefixes/suffixes']","['foreign_borrowing', 'acronyms']",,[],,[],,[],['compounds'],"['foreign_borrowing', 'compounds']",0,"['foreign_borrowing', 'compounds']"
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",New_words_and_changing_uses,"['conversions', 'compounds', 'acronyms']",['compounds'],['acronyms'],,[],,[],,[],"['conversions', 'compounds', 'acronyms']","['conversion', 'prefixes/suffixes']",-1,"['conversion', 'prefixes/suffixes']"
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],"['compounds', 'conversions']",-1,"['compounds', 'conversions']"
+3798,[ 6  4 11],"In other words, unlike Lee Harvey Oswald, who had absolutely no motive to kill President Kennedy, the national security establishment did have motive, a powerful motive, the same motive that motivated the CIA and Pentagon to target other political leaders for regime change or assassination around that time, such as Mohamad Mossadegh, Jacobo Arbenz, Patrice Lumumba (who Kennedy admired), Fidel Castro, and Salvador Allende.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'acronyms']","['proper_nouns_to_common_nouns', 'foreign_borrowing', 'conversions']",-1,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'conversions']"
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']",,[],,[],,[],"['compounds', 'acronyms']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",-1,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']"
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",New_words_and_changing_uses,[],['clipping'],[],,[],,[],,[],[],[],1,[]
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",New_words_and_changing_uses,[],[],[],"```{
+  ""Properties"": [""clipping"", ""catachresis""],
+  ""Explanation"": ""The word 'Democrats' has been clipped from 'Democratic Party' and is being used as a general term, which is a form of catechresis""
+}```","['clipping', 'catachresis']","{
+  ""Properties"": [""conversion"", ""clipping""],
+  ""Explanation"": ""The word 'ridiculous' has been converted from an adjective to an adverb, and the word 'Democrats' has been clipped from 'Democratic Party'.""
+}","['conversions', 'clipping']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'more than 30 years' and 'Democrats', and conversions such as 'bringing' used as a gerund instead of the original verb.""
+}","['compounds', 'conversions']",[],"['clipping', 'catachresis']",-1,[]
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",New_words_and_changing_uses,[],['blends'],[],,[],,[],,[],[],['conversions'],-1,['conversions']
+3805,[11 13],"And Shapira, who “enjoys writing about people who have served in the military and intelligence communities” had an ethical duty to point out Helms’ proclivity for lying in his article.",New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3806,[11  8],"The Guardian, reputedly once a great liberal newspaper, conducted a vendetta against Julian Assange.",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],"['foreign_borrowing', 'conversions']",,[],,[],,[],['foreign_borrowing'],[],-1,[]
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],[],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+3809,[12],The demonic forces we know are the driving force behind this supreme moment of heresy and destruction aren’t really looking at the undermining of marriage as their primary goal; they want to get at the Eucharist.,New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['conversions'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['conversions'],-1,['conversions']
+3811,[ 9 12],"John Pilger — one of the few journalists to speak out on Julian Assange’s behalf, labels journalists who fail to stand in solidarity with Assange in exposing the behavior of the Establishment, “Vichy journalists — after the Vichy government that served ad enabled the German occupation of France.”",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'conversions']","['proper_nouns_to_common_nouns', 'prefixes/suffixes', 'conversions']",['foreign_borrowing'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'conversions']","['proper_nouns_to_common_nouns', 'foreign_borrowing', 'analogy']",0,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'analogy']"
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'acronyms']","['proper_nouns_to_common_nouns', 'analogy']",-1,"['proper_nouns_to_common_nouns', 'analogy']"
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",New_words_and_changing_uses,"['clipping', 'compounds', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'acronyms']","['foreign_borrowing', 'prefixes/suffixes', 'acronyms']",,[],,[],,[],"['clipping', 'compounds', 'foreign_borrowing', 'acronyms']",[],-1,[]
+3817,[12],"Soros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['compounds', 'prefixes/suffixes']",[],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['proper_nouns_to_common_nouns', 'analogy']",-1,"['proper_nouns_to_common_nouns', 'analogy']"
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['blends', 'foreign_borrowing', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'acronyms']","['proper_nouns_to_common_nouns', 'conversions']",-1,"['proper_nouns_to_common_nouns', 'conversions']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'foreign_borrowing', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",New_words_and_changing_uses,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'compounds']",['prefixes/suffixes'],[],,[],,[],,[],"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'compounds']",['proper_nouns_to_common_nouns'],0,['proper_nouns_to_common_nouns']
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing']",['compounds'],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+3827,[12],"An enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],[],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['proper_nouns_to_common_nouns', 'analogy']",-1,"['proper_nouns_to_common_nouns', 'analogy']"
+3828,[12],There could be only one answer: communists.,New_words_and_changing_uses,['foreign_borrowing'],[],[],,[],,[],,[],[],[],1,[]
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']","['compounds', 'foreign_borrowing']",,[],,[],,[],"['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['proper_nouns_to_common_nouns', 'foreign_borrowing', 'analogy']",0,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'analogy']"
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing']","['compounds', 'prefixes/suffixes']",[],,[],,[],,[],"['compounds', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes', 'foreign_borrowing']",,[],,[],,[],"['foreign_borrowing', 'prefixes/suffixes']","['prefixes/suffixes', 'compound', 'foreign_borrowing', 'proper_nouns_to_common_nouns', 'acronyms']",0,"['prefixes/suffixes', 'compound', 'foreign_borrowing', 'proper_nouns_to_common_nouns', 'acronyms']"
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'more and more' and conversion of 'abused' from a verb to an adjective.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'abused' was converted from a verb to a noun in this sentence.""
+}",['conversions'],"{
+  ""Properties"": [
+    ""conversions""
+  ],
+  ""Explanation"": ""The word 'abused' is originally a verb, but it is used here as a past participle, which is a form of a verb used as an adjective.""
+}",['conversions'],[],['conversions'],-1,[]
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,New_words_and_changing_uses,['compounds'],"['compounds', 'foreign_borrowing']",[],,[],,[],,[],['compounds'],"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'compounds']",0,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'compounds']"
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['compounds', 'prefixes/suffixes', 'foreign_borrowing']",[],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",[],-1,[]
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,New_words_and_changing_uses,"['compounds', 'foreign_borrowing']",[],['foreign_borrowing'],,[],,[],,[],"['compounds', 'foreign_borrowing']",['analogy'],-1,['analogy']
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],['doubling'],-1,['doubling']
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""taboo deformation""],
+  ""Explanation"": ""The word 'got' in the phrase 'was indeed got rid of' is a clipped form of 'gotten'. 'Got' is also used as a euphemistic deformation to avoid the taboo of saying 'got rid of'.""
+}","['clipping', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compound words like 'got rid of' and also demonstrates conversion by using 'rid' as a verb."" 
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'got rid of', as well as a conversion where 'treated' is used as a verb instead of its original form as a past participle.""
+}","['compounds', 'conversions']",[],"['compounds', 'conversions']",-1,[]
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,New_words_and_changing_uses,['prefixes/suffixes'],[],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+3895,[13],Impossible.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+3937,[ 9  9 13],"Of course this would be of little interest to secular journalists, who have paid no mind to his habit of rewriting Catholicism, but the sex abuse crisis is something secular journalists are very interested in, a fact Bergoglio seems not to have understood.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['conversions'],-1,['conversions']
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",[],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",1,"['compounds', 'prefixes/suffixes']"
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,New_words_and_changing_uses,['compounds'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],['compounds'],-1,['compounds']
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],[],-1,[]
+3988,[ 8 13],They make sure that the Islamic instruction in these textbooks presents a picture of Islam that is so pristine and whitewashed that it sometimes crosses the boundary from mere pro-Muslim bias into outright Islamic proselytizing.,New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['blends', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['conversions'],-1,['conversions']
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4019,[13],"Anti-jihadist activist Pamela Geller praised Orban for his honesty and wrote, ""At last, a politician who speaks the truth about the Muslim invasion of Europe.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['prefixes/suffixes'],"['prefixes/suffixes', 'foreign_borrowing']",,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",New_words_and_changing_uses,['clipping'],['clipping'],[],,[],,[],,[],['clipping'],['conversions'],-1,['conversions']
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing']","['prefixes/suffixes', 'blends']",['compounds'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'foreign_borrowing', 'conversions']","['prefixes/suffixes', 'blends']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'foreign_borrowing', 'conversions']",['conversions'],0,['conversions']
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing']",['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['doubling'],-1,['doubling']
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],"['compounds', 'foreign_borrowing']",,[],,[],,[],['foreign_borrowing'],['foreign_borrowing'],1,['foreign_borrowing']
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",New_words_and_changing_uses,['compounds'],['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],['foreign_borrowing'],1,['foreign_borrowing']
+4236,[13  1],They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.,New_words_and_changing_uses,['prefixes/suffixes'],['compounds'],['compounds'],,[],,[],,[],['compounds'],[],-1,[]
+4263,[ 9 14  9],"With the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours’ Day 2018 Address in which he told an approving audience that ""powerful Jews are my enemy,"" and ""white folks are going down,"" according to The Washington Examiner.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']",['acronyms'],,[],,[],,[],"['compounds', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4267,[14],“If someone can get me this young man’s information I’ll get him a new #maga hat… SIGNED by #potus!!,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'acronyms']"
+4270,[14],Long live the Fifth Estate!”,New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],[],1,[]
+4278,[14],"In the months leading up to the vote, there had been other anti-Semitic incidents, including a tweet by Igor Sadikov, an elected representative of students in McGill’s faculty of arts, saying: “punch a zionist.”",New_words_and_changing_uses,"['prefixes/suffixes', 'foreign_borrowing']",['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['conversions'],-1,['conversions']
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['foreign_borrowing'],-1,['foreign_borrowing']
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",New_words_and_changing_uses,[],[],[],"``` 
+        {
+            ""Properties"": [
+                ""compounds"",
+                ""conversions"",
+                ""taboo deformation""
+            ],
+            ""Explanation"": ""The text contains compounds such as 'Drain the Swamp', conversions such as 'promising to Drain the Swamp', and taboo deformation with 'don’t' and 'can’t'.""
+        }
+```","['compounds', 'conversions', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""clipping"", ""conversion"", ""analogy""],
+  ""Explanation"": ""The text contains compounds like 'Drain the Swamp', clippings such as 'President Trump', conversions like 'drain' used as a verb, and the creation of the word 'Drain the Swamp' by analogy to existing expressions."" 
+}","['compounds', 'clipping', 'conversions', 'analogy']","{
+  ""Properties"": [""blends"", ""clipping"", ""conversions""],
+  ""Explanation"": ""The text contains blends like 'Drain the Swamp' and 'excellent', clipping with 'President' and 'understand', and a conversion with 'promising'.""
+}","['blends', 'clipping', 'conversions']",[],"['compounds', 'conversions', 'taboo_deformation']",-1,[]
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['foreign_borrowing'],-1,['foreign_borrowing']
+4296,[14],"J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']","['compounds', 'foreign_borrowing', 'prefixes/suffixes']","['clipping', 'foreign_borrowing', 'prefixes/suffixes']",,[],,[],,[],"['foreign_borrowing', 'prefixes/suffixes']","['proper_nouns_to_common_nouns', 'foreign_borrowing', 'prefixes/suffixes']",0,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'prefixes/suffixes']"
+4302,[13 14],A Texas mother’s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.,New_words_and_changing_uses,['acronyms'],"['blends', 'acronyms']",['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'acronyms']"
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",New_words_and_changing_uses,"['compounds', 'conversions']",[],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'conversions']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,New_words_and_changing_uses,"['clipping', 'compounds']",['blends'],"['proper_nouns_to_common_nouns', 'compounds']",,[],,[],,[],"['clipping', 'compounds']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversions"", ""foreign borrowing"", ""taboo deformation""],
+  ""Explanation"": ""The text uses the conversion of 'hater' from a noun to an adjective, the foreign borrowing of 'hater' from English to Spanish, and the taboo deformation of 'darn it' as a euphemism.""
+}","['conversions', 'foreign_borrowing', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""conversion"", ""foreign borrowing""],
+  ""Explanation"": ""The text contains compounds such as 'heavy attack', 'defending the Church', as well as conversion of 'hater' from a noun to an adjective, and foreign borrowing of 'cafe latte'.""
+}","['compounds', 'conversions', 'foreign_borrowing']","```json
+{
+  ""Properties"": [""clipping"", ""conversion"", ""foreign borrowing""],
+  ""Explanation"": ""The text includes the use of clipped words 'defend' and 'join', a conversion from the noun 'hater' to the verb 'hater', and a foreign borrowing in the word 'Cafe'""
+}
+```","['clipping', 'conversions', 'foreign_borrowing']",[],"['conversions', 'foreign_borrowing', 'taboo_deformation']",-1,[]
+4318,[14],Kill the Messenger,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""taboo deformation""],
+  ""Explanation"": ""The word 'Kill' is a clipped form of 'killer' and 'Messenger' may be considered a taboo deformation as it refers to a person or entity that delivers unwelcome news."" 
+}","['clipping', 'taboo_deformation']","{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'Kill' is a clipped version of 'killer' or 'killing' in this context.""
+}",['clipping'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' uses a taboo deformation to soften the harshness of the message being conveyed.""
+}",['taboo_deformation'],[],"['clipping', 'taboo_deformation']",-1,[]
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],['foreign_borrowing'],1,['foreign_borrowing']
+4329,[14],"Representatives work for us, we do not work for them.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text features compounds like 'representatives' and 'work for', and also conversions like 'work' is used as a verb in the phrase 'work for'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The word 'representatives' is a compound word made up of 'represent' and 'atives', and the word 'work' is being used as a verb when it is originally a noun.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [
+    ""conversion""
+  ],
+  ""Explanation"": ""The word 'representatives' is converted from a noun to a verb in the phrase 'Representatives work for us'.""
+}",['conversions'],[],"['compounds', 'conversions']",-1,[]
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",New_words_and_changing_uses,[],['proper_nouns_to_common_nouns'],[],,[],,[],,[],[],"['proper_nouns_to_common_nouns', 'compounds']",-1,"['proper_nouns_to_common_nouns', 'compounds']"
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],['compounds'],1,['compounds']
+4353,[ 7 14],"""For us, Hungary is first.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the country's name.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the Hungarian language.""
+}",['foreign_borrowing'],[],['foreign_borrowing'],-1,[]
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",New_words_and_changing_uses,['acronyms'],[],[],,[],,[],,[],[],[],1,[]
+4366,[15],The authorities allowed him to commit the crime.,New_words_and_changing_uses,[],[],[],timeout,[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'commit' is originally a verb, but in this text it is used as a noun - an example of conversion.""
+}",['conversions'],"```The authorities allowed him to commit the crime.```
+
+{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'commit the crime' and 'allowed him', as well as a conversion of the noun 'crime' into the verb 'commit'.""
+}","['compounds', 'conversions']",[],['conversions'],-1,[]
+4367,[15],They want to preserve the FBI’s reputation.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],['acronyms'],1,['acronyms']
+4368,[15],They don’t care to see Trump vindicated.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""conversion""],
+  ""Explanation"": ""The word 'vindicated' is a clipping of 'vindicate' and a conversion from a verb to an adjective.""
+}","['clipping', 'conversions']","``` 
+        ""Properties"": [""conversions""],
+        ""Explanation"": ""The word 'vindicated' is originally an adjective, but in this sentence, it is used as a verb.""
+```",['conversions'],"```json
+{
+  ""Properties"": [""clipping"", ""catachresis""],
+  ""Explanation"": ""The word 'vindicated' is a clipping of the longer word 'vindication', and 'Trump' is used as a common noun to refer to a person.""
+}
+```","['clipping', 'catachresis']",[],"['clipping', 'conversions']",-1,[]
+4370,[15],The media is very interested in racism.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'racism' is borrowed from another language (German), where it originated.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The word 'interested' is a compound formed by yoking 'interest' and 'ed'. Additionally, 'interested' is a conversion from a noun to an adjective.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'interested' is a conversion from an adjective to a verb, indicating a change in part of speech.""
+}",['conversions'],[],['foreign_borrowing'],-1,[]
+4371,[15],The media is happy to talk about anti-Semitism.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+4372,[15],Here’s my translation:,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'translation' has been clipped to 'trans'""
+}",['clipping'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'translation' is originally a noun, but it is used as a verb in this context, making it a conversion.""
+}",['conversions'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'translation' has been clipped to 'trans.'""
+}",['clipping'],[],['clipping'],-1,[]
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",New_words_and_changing_uses,['prefixes/suffixes'],[],[],,[],,[],,[],[],"['proper_nouns_to_common_nouns', 'foreign_borrowing']",-1,"['proper_nouns_to_common_nouns', 'foreign_borrowing']"
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",New_words_and_changing_uses,"['conversions', 'compounds', 'acronyms']","['prefixes/suffixes', 'acronyms']",['acronyms'],,[],,[],,[],"['conversions', 'compounds', 'acronyms']","['conversions', 'foreign_borrowing', 'acronyms']",0,"['conversions', 'foreign_borrowing', 'acronyms']"
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds like 'cool'+'er' and conversions like 'worry' used as a verb""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text uses compounds such as 'cool and dim' and a conversion of 'worry' from a noun to a verb.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text uses compounds like 'cool and dim', and a conversion of 'worry' from a noun to a verb.""
+}","['compounds', 'conversions']",[],"['compounds', 'conversions']",-1,[]
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",New_words_and_changing_uses,['prefixes/suffixes'],[],[],,[],,[],,[],[],['analogy'],-1,['analogy']
+4384,[16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,New_words_and_changing_uses,[],['compounds'],['prefixes/suffixes'],,[],,[],,[],[],[],1,[]
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,New_words_and_changing_uses,[],['foreign_borrowing'],['onomatopoeia'],,[],,[],,[],[],['onomatopoeia'],-1,['onomatopoeia']
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""doubling""],
+  ""Explanation"": ""The word 'evidence' has been clipped to 'evid' and the phrase 'lie big, lie often' uses the doubling property.""
+}","['clipping', 'doubling']","{
+  ""Properties"": [""clipping"", ""doubling""],
+  ""Explanation"": ""The word 'lie' has been clipped from 'lie often', and the phrase 'lie big' uses doubling to emphasize the act of lying.""
+}","['clipping', 'doubling']","{
+  ""Properties"": [""clipping"", ""taboo deformation""],
+  ""Explanation"": ""The word 'lie' is clipped from 'lying' and 'big' is used as a euphemism for a taboo word.""
+}","['clipping', 'taboo_deformation']",[],"['clipping', 'doubling']",-1,[]
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""compounds"", ""catachresis""],
+  ""Explanation"": ""The text includes compounds like 'lobby of misers' and 'lobby of politicians', as well as the use of 'lobby' in the sense of a group working to influence political decisions, which can be considered a form of catachresis.""
+}
+```","['compounds', 'catachresis']","```{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text includes compounds like 'lobby of misers' and 'lobby of politicians', as well as a conversion of the noun 'lobby' into the plural verb form 'lobbies'.""
+}```","['compounds', 'conversions']","```{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds such as 'misers' and 'politicians' which are yoked together to create new words.""
+}```",['compounds'],[],"['compounds', 'catachresis']",-1,[]
+4400,[ 6 16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],[],1,[]
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+4405,[16],So interesting!,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""onomatopoeia""],
+  ""Explanation"": ""The word 'interesting' may have been shortened to create 'So inter-,' and the exclamation 'So interesting!' is an example of onomatopoeia as it sounds like the speaker's excitement.""
+}","['clipping', 'onomatopoeia']","{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'interesting' is clipped to 'interest' in the example text.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'So' is an example of a clipped word from 'interesting'.""
+}",['clipping'],[],['clipping'],-1,[]
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",New_words_and_changing_uses,[],['doubling'],[],,[],,[],,[],[],['doubling'],-1,['doubling']
+4417,[16],The time for “prudence” is long past.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'prudence' is a shortened version of the phrase 'a state or quality of being prudent', making it an example of clipping.""
+}",['clipping'],"{
+    ""Properties"": [""conversions""],
+    ""Explanation"": ""The word 'prudence' is originally a noun, but in this context, it is used as an adjective to describe a certain time.""
+}",['conversions'],"{
+  ""Properties"": [""clipping"", ""catachresis""],
+  ""Explanation"": ""The word 'prudence' is a clipping of the longer word 'prudential' and a catachresis as it is borrowed to designate a concept in the context of the sentence.""
+}","['clipping', 'catachresis']",[],['clipping'],-1,[]
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",New_words_and_changing_uses,['compounds'],[],['compounds'],,[],,[],,[],['compounds'],"['compounds', 'conversions']",0,"['compounds', 'conversions']"
+4427,[16],It is over.,New_words_and_changing_uses,[],[],[],"```{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It' is a clipped version of the word 'It is'.""
+}```",['clipping'],"{
+  ""Properties"": [""compounds"", ""clipping""],
+  ""Explanation"": ""The word 'cafe latte' is a foreign borrowing, and the word 'spam' is an example of catachresis.""
+}","['compounds', 'clipping']","{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It' is a clipped version of 'It is', creating a shorter version of the phrase.""
+}",['clipping'],[],['clipping'],-1,[]
+4430,[16],You really don't need to know anything.,New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'don't' is a clipped version of 'do not'.""
+}
+```",['clipping'],"``` 
+        {
+          ""Properties"": [""clipping""],
+          ""Explanation"": ""The word 'don't' is a clipped version of 'do not'.""
+        }
+```",['clipping'],"{
+  ""Properties"": [""blends""],
+  ""Explanation"": ""The word 'anything' is a blend of 'any' and 'thing'""
+}",['blends'],[],['clipping'],-1,[]
+4431,[16],“I had no way to see into his mind.,New_words_and_changing_uses,[],[],[],"```json
+{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'texted' is a clipped form of the word 'text'.""
+}
+```",['clipping'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'to see' is originally a verb, but is used here as part of the noun phrase 'no way to see', making it a conversion from a verb to a noun."" 
+}",['conversions'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'texted' is a clipped version of 'text messaged.'""
+}",['clipping'],[],['clipping'],-1,[]
+4434,[ 8 16],No more games.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'games' has been clipped to 'game' to create a new word.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'games' is clipped to form 'game'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'games' is clipped to 'game'.""
+}",['clipping'],[],['clipping'],-1,[]
+4436,[16],“So what if this code is a gun?”,New_words_and_changing_uses,[],[],[],"```{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'code' is a clipped version of 'barcode'""
+}```",['clipping'],"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The word 'code' is borrowed from another language (Latin) and the word 'gun' is a clipping of 'gunfire'.""
+}","['foreign_borrowing', 'clipping']",timeout,[],[],['clipping'],-1,[]
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'criminals' is originally a noun but is used as an adjective in this sentence, which is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions"", ""foreign borrowing""],
+  ""Explanation"": ""The word 'guys' has been converted from a common noun to a specific group on the ship. Additionally, 'criminals' is borrowed from another language (Latin: crimen)."" 
+}","['conversions', 'foreign_borrowing']","```json
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'criminals' is originally a noun but is used here as an adjective to describe the treatment of the two guys.""
+}
+```",['conversions'],[],['conversions'],-1,[]
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,New_words_and_changing_uses,[],['foreign_borrowing'],[],,[],,[],,[],[],[],1,[]
+4448,[17],"@Theresa_May, don’t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",New_words_and_changing_uses,[],[],['conversions'],,[],,[],,[],[],['conversions'],-1,['conversions']
+4452,[17],"Juanita Broaddrick, who accused Bill Clinton of rape — and who’s never ever recanted her story, in all the years she’s made the accusation — had a blunt message for Sen. Dianna Feinstein about the supposed “due process” that needs to be given to Brett Kavanaugh’s accuser, and it’s one that goes like this: Where was mine?",New_words_and_changing_uses,[],['clipping'],['conversions'],,[],,[],,[],[],['conversions'],-1,['conversions']
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",New_words_and_changing_uses,['conversions'],['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],[],-1,[]
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",New_words_and_changing_uses,[],[],['proper_nouns_to_common_nouns'],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'accuses' is originally a verb, but it is used as a noun in this context, representing a conversion from a verb to a noun.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'follow' is originally a verb, but in this sentence it is used as a noun.""
+}",['conversions'],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'follow his own advice' and 'accuses others'. It also features conversion of 'accuses' from a verb to a noun.""
+}","['compounds', 'conversions']",[],['conversions'],-1,[]
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",New_words_and_changing_uses,['conversions'],['prefixes/suffixes'],[],,[],,[],,[],['conversions'],['conversions'],1,['conversions']
+4477,[17],"Seemingly heedless of these hard facts, President Trump – who himself avoided national military service in the 1960’s – keeps beating the war drums over North Korea and needling its thin-skinned regime with naval exercises, over-flights, and intensifying bombast.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'conversions']","['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",,[],,[],,[],"['compounds', 'prefixes/suffixes']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",0,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']"
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,New_words_and_changing_uses,[],['prefixes/suffixes'],[],,[],,[],,[],[],[],1,[]
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'blends']","['compounds', 'foreign_borrowing']","['compounds', 'foreign_borrowing']",,[],,[],,[],"['compounds', 'foreign_borrowing']",['compound'],-1,['compound']
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,New_words_and_changing_uses,[],"['clipping', 'compounds']",['compounds'],,[],,[],,[],[],['conversions'],-1,['conversions']
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",New_words_and_changing_uses,['compounds'],"['proper_nouns_to_common_nouns', 'compounds', 'foreign_borrowing']",['analogy'],,[],,[],,[],['compounds'],"['foreign_borrowing', 'analogy']",-1,"['foreign_borrowing', 'analogy']"
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",New_words_and_changing_uses,[],['clipping'],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,New_words_and_changing_uses,[],[],[],"```json
+{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The example text contains compounds such as 'His Blood', and conversions such as 'revives her' where 'revive' is originally a verb used as a noun.""
+}
+```","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds like 'continually revives' and 'generated her', as well as a conversion of the noun 'spirit' into the verb 'revives'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The text includes compounds like 'His Spirit' and 'Her Blood', as well as the analogy 'continually revives her with His Spirit' formed by analogy from the concept of spiritual revival.""
+}","['compounds', 'analogy']",[],"['compounds', 'conversions']",-1,[]
+4767,[],- No new deaths -,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'deaths' is a clipped version of the original word 'death'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'deaths' is a clipped version of the word 'death'""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'no' is a clipped version of the word 'not'.""
+}",['clipping'],[],['clipping'],-1,[]
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",,[],,[],,[],"['compounds', 'acronyms']","['foreign_borrowing', 'acronyms']",0,"['foreign_borrowing', 'acronyms']"
+4932,[],Here’s a link for ya to do just that.,New_words_and_changing_uses,[],['catachresis'],[],,[],,[],,[],[],['conversions'],-1,['conversions']
+5024,[],The two cities are home to a combined 12 million people.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""compounds"", ""prefixes/suffixes""],
+  ""Explanation"": ""The word 'combined' is a compound word formed by combining 'combine' with the suffix '-ed'.""
+}","['compounds', 'prefixes/suffixes']","``` 
+{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The word 'combined' is a compound of 'combine' and 'combined' is a conversion of the noun 'combine' into a verb.""
+}
+```","['compounds', 'conversions']","{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The word 'combined' is formed by yoking together 'com' and 'bined'""
+}",['compounds'],[],"['compounds', 'prefixes/suffixes']",-1,[]
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",New_words_and_changing_uses,[],[],['prefixes/suffixes'],,[],,[],,[],[],[],1,[]
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],"['clipping', 'compounds']",0,"['clipping', 'compounds']"
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['conversions'],-1,['conversions']
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",New_words_and_changing_uses,[],[],['clipping'],,[],,[],,[],[],[],1,[]
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,New_words_and_changing_uses,[],[],[],timeout,[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'shooters' is originally a noun but is used here as a verb, demonstrating a conversion of parts of speech.""
+}",['conversions'],timeout,[],[],['conversions'],-1,[]
+5438,[],I wanted them to know that I listened.”,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'listened' is a clipped version of the complete word 'listened'."" 
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'wanna' is a clipped version of 'want to'.""
+}",['clipping'],"``` 
+{
+  ""Properties"": [""clipping"", ""conversions""],
+  ""Explanation"": ""The word 'listened' is a clipping of the longer word 'listen' and it is also a conversion from a verb to a noun."" 
+}
+```","['clipping', 'conversions']",[],['clipping'],-1,[]
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",New_words_and_changing_uses,[],['prefixes/suffixes'],"['compounds', 'prefixes/suffixes']",,[],,[],,[],[],['conversions'],-1,['conversions']
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",New_words_and_changing_uses,['acronyms'],"['clipping', 'compounds', 'acronyms']","['clipping', 'compounds', 'acronyms']",,[],,[],,[],"['clipping', 'compounds', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+6125,[],They know that.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'know' is a clipped version of the original word 'knowing'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'fax' is a clipped version of 'facsimile,' and 'app' is a clipped version of 'application.'""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'know that' has been clipped to 'know'.""
+}",['clipping'],[],['clipping'],-1,[]
+6215,[],"The new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",New_words_and_changing_uses,[],['prefixes/suffixes'],[],,[],,[],,[],[],[],1,[]
+6331,[],It is impossible to do all this without God’s assistance.,New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",New_words_and_changing_uses,[],[],['compounds'],,[],,[],,[],[],[],1,[]
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['conversions'],-1,['conversions']
+6745,[],"O’Malley was not only a member of the pope’s “G9” group of close advisors; he was also the man who sought to clean up the abuse scandal in Boston after the departure of his predecessor, Cardinal Bernard Law, whose shifting of predator priests to new posts was exposed by the Boston Globe and chronicled in the movie “Spotlight.”",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']",['conversions'],,[],,[],,[],"['compounds', 'acronyms']",['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",New_words_and_changing_uses,[],[],[],timeout,[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds like 'covering up', as well as conversions like 'help' used as a verb.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds such as 'covering up', and conversions such as 'shot' used as a past participle instead of a noun.""
+}","['compounds', 'conversions']",[],"['compounds', 'conversions']",-1,[]
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],[],"['proper_nouns_to_common_nouns', 'compounds']",-1,"['proper_nouns_to_common_nouns', 'compounds']"
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",New_words_and_changing_uses,[],[],[],"```json
+{
+    ""Properties"": [""foreign borrowing"", ""compounds""],
+    ""Explanation"": ""The text contains the foreign borrowing of 'Ratzinger' from German, and compounds such as 'Principles of Catholic Theology' and 'razing of the bastions'.""
+}
+```","['foreign_borrowing', 'compounds']","```{
+    ""Properties"": [""foreign borrowing"", ""compounds"", ""taboo deformation"", ""doubling""],
+    ""Explanation"": ""The text contains foreign borrowing like 'Principles' (French), 'Council' (Latin), as well as compounds like 'Catholic Church' and 'modern world'. Additionally, 'razing of the bastions' is an example of taboo deformation and 'goody-goody' and 'sing-song' demonstrate doubling.""
+}```","['foreign_borrowing', 'compounds', 'taboo_deformation', 'doubling']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text includes foreign borrowings such as 'raison d'etre' and compounds like 'Principles of Catholic Theology'""
+}","['foreign_borrowing', 'compounds']",[],"['foreign_borrowing', 'compounds']",-1,[]
+7211,[],Then Benedict allowed him to remain a cardinal.,New_words_and_changing_uses,[],[],[],"``` 
+{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'cardinal' is borrowed from Latin (cardinalis).""
+}
+```",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'cardinal' in this context is a proper noun (referring to a position in the Catholic Church), but it is being used as a common noun to refer to the person holding that position."" 
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing"", ""conversion""],
+  ""Explanation"": ""The word 'cardinal' is borrowed from Latin, and in this context, it is being used as a noun even though it is originally an adjective.""
+}","['foreign_borrowing', 'conversions']",[],['foreign_borrowing'],-1,[]
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['compounds'],['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],0,['prefixes/suffixes']
+7408,[],"Looking carefully at the infamous “Who am I to judge” comment, this was clear early on.",New_words_and_changing_uses,"['prefixes/suffixes', 'conversions']",['prefixes/suffixes'],['compounds'],,[],,[],,[],"['prefixes/suffixes', 'conversions']",['conversions'],0,['conversions']
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+7758,[],Article posted with permission from Robert Spencer,New_words_and_changing_uses,[],['catachresis'],[],,[],,[],,[],[],[],1,[]
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,New_words_and_changing_uses,['acronyms'],"['clipping', 'acronyms']",['acronyms'],,[],,[],,[],['acronyms'],['acronyms'],1,['acronyms']
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,New_words_and_changing_uses,[],[],[],"```json
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'vindicated' originally functions as a verb, but in this context it is used as an adjective to describe Julian.""
+}
+```",['conversions'],"{
+  ""Properties"": [""conversions"", ""taboo deformation""],
+  ""Explanation"": ""The word 'isolated' is a conversion from an adjective to a verb, and the use of 'isolated' may be considered a euphemism for 'lonely' in this context.""
+}","['conversions', 'taboo_deformation']","``` 
+{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'vindicated' is originally a verb, but in this sentence it is used as an adjective to describe Julian.""
+}
+```",['conversions'],[],['conversions'],-1,[]
+7818,[],But really it comes down to the British government.,New_words_and_changing_uses,[],[],['compounds'],,[],,[],,[],[],[],1,[]
+7975,[],Laws are for conservatives.,New_words_and_changing_uses,[],[],[],"{
+    ""Properties"": [""conversion"", ""proper nouns to common nouns"", ""taboo deformation""],
+    ""Explanation"": ""The word 'conservatives' is a conversion of the noun 'conservative' into a plural noun, and it is also used as a general term. This can also be seen as a taboo deformation or euphemism for a more direct or harsher term that may have been used in the original context."" 
+}","['conversions', 'proper_nouns_to_common_nouns', 'taboo_deformation']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'conservatives' is a noun converted to a verb to create the new word 'conservaties'.""
+}",['conversions'],"{
+  ""Properties"": [""compounds"", ""catachresis""],
+  ""Explanation"": ""The term 'conservatives' is formed from 'conservative' and 'law' is borrowed to designate a group of people.""
+}","['compounds', 'catachresis']",[],"['conversions', 'proper_nouns_to_common_nouns', 'taboo_deformation']",-1,[]
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],[],-1,[]
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'acronyms']",['prefixes/suffixes'],"['prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'prefixes/suffixes', 'acronyms']",['conversions'],-1,['conversions']
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",New_words_and_changing_uses,[],['compounds'],['proper_nouns_to_common_nouns'],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'resisteth' is originally a verb (resist), but it is used in the text as a noun (resistance). This is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""catachresis"", ""conversion""],
+  ""Explanation"": ""The use of 'purchase' as a verb is a conversion from its original noun form. The term 'eternal damnation' is an example of catachresis, as it borrows an available word to describe an abstract concept.""
+}","['catachresis', 'conversions']","{
+  ""Properties"": [""foreign borrowing"", ""conversions"", ""taboo deformation""],
+  ""Explanation"": ""The text contains foreign borrowing in the form of 'cafe latte' and 'eternal damnation'. It also includes a conversion with 'resisteth' being used as a verb instead of its original form as a noun. Lastly, there is a taboo deformation with the use of 'damnation' as a euphemism for a stronger word."" 
+}","['foreign_borrowing', 'conversions', 'taboo_deformation']",[],['conversions'],-1,[]
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",New_words_and_changing_uses,"['compounds', 'conversions']",['compounds'],[],,[],,[],,[],"['compounds', 'conversions']",['compounds'],0,['compounds']
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",New_words_and_changing_uses,['compounds'],"['compounds', 'foreign_borrowing']",['compounds'],,[],,[],,[],['compounds'],['foreign_borrowing'],-1,['foreign_borrowing']
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],[],-1,[]
+9235,[],He said he spoke with Trump to make sure that the president wasn’t actually issuing an order.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'spoke' is typically a verb, but in this context, it is used as a noun, making it an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversion"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The word 'Trump' is used as a common noun to refer to the president, and the verb 'spoke' is converted from a noun."" 
+}","['conversions', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""conversions"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to the president and the conversion of 'spoke' from a verb to a past tense verb indicate the use of these properties in the example text.""
+}","['conversions', 'proper_nouns_to_common_nouns']",[],"['conversions', 'proper_nouns_to_common_nouns']",-1,[]
+9329,[],Solemnly professed:,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'professed' is a clipped version of the word 'professionally'""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'Solemnly' is a clipped version of 'solemnly professed', making a shorter version of the original phrase.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'professed' is a clipped version of 'solemnly professed'.""
+}",['clipping'],[],['clipping'],-1,[]
+9396,[],Also on communion between the communities.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing"", ""fabrication""],
+  ""Explanation"": ""The word 'communion' is borrowed from Latin, and it is also a fabricated word in the context of the example text.""
+}","['foreign_borrowing', 'fabrication']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'communion' is borrowed from Latin.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'communion' is borrowed from Latin.""
+}",['foreign_borrowing'],[],['foreign_borrowing'],-1,[]
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",New_words_and_changing_uses,[],"['clipping', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],[],['foreign_borrowing'],-1,['foreign_borrowing']
+9657,[],I don't remember how I got there.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'don't' is a clipped form of 'do not'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'don't' is a clipped version of 'do not.'""
+}",['clipping'],timeout,[],[],['clipping'],-1,[]
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],[],1,[]
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],[],-1,[]
+9712,[],His life before joining the caliphate was unremarkable.,New_words_and_changing_uses,['foreign_borrowing'],"['foreign_borrowing', 'prefixes/suffixes']","['foreign_borrowing', 'prefixes/suffixes']",,[],,[],,[],"['foreign_borrowing', 'prefixes/suffixes']",['foreign_borrowing'],0,['foreign_borrowing']
+9827,[],It will be addressed quickly and justly.,New_words_and_changing_uses,['conversions'],[],[],,[],,[],,[],[],[],1,[]
+9866,[],But he is now a full-fledged member of the nuclear club.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing"", ""conversions"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of the term 'clergy abuse' involves a conversion from the noun 'clergy' to the adjective 'clergy' and the use of the proper noun 'Sacred Heart Major Seminary' as a general term.""
+}","['foreign_borrowing', 'conversions', 'proper_nouns_to_common_nouns']","``` 
+{
+  ""Properties"": [""compounds"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text contains compounds such as 'Sacred Heart Major Seminary' and 'clergy abuse', as well as using 'Sacred Heart Major Seminary' as a general term for the institution.""
+}
+```","['compounds', 'proper_nouns_to_common_nouns']","```json
+{
+    ""Properties"": [""proper nouns to common nouns""],
+    ""Explanation"": ""The use of 'Sacred Heart Major Seminary' as a general term for a type of institution.""
+}
+```",['proper_nouns_to_common_nouns'],[],"['foreign_borrowing', 'conversions', 'proper_nouns_to_common_nouns']",-1,[]
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",New_words_and_changing_uses,['compounds'],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['acronyms'],-1,['acronyms']
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],[],1,[]
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",New_words_and_changing_uses,['acronyms'],['foreign_borrowing'],['acronyms'],,[],,[],,[],['acronyms'],['conversions'],-1,['conversions']
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",New_words_and_changing_uses,['compounds'],['compounds'],['proper_nouns_to_common_nouns'],,[],,[],,[],['compounds'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,New_words_and_changing_uses,['conversions'],[],[],,[],,[],,[],[],[],1,[]
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",New_words_and_changing_uses,[],[],[],"{
+    ""Properties"": [""compounds"", ""clipping"", ""conversions""],
+    ""Explanation"": ""The text contains compounds such as 'loaves of bread' and 'bakery', clipping in 'bakery', and a conversion in 'wanted' (originally a verb used as a past tense adjective).""
+}","['compounds', 'clipping', 'conversions']","```{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The word 'bakery' is a clipped form of 'bake-house', and the use of 'What size...' is an analogy to the size of physical objects.""
+}```","['clipping', 'analogy']","{
+  ""Properties"": [""conversions"", ""compounds""],
+  ""Explanation"": ""The term 'bakery' has been converted from a common noun to a noun used as a modifier to describe the size of the bakery. Additionally, the phrase 'loaves of bread' is a compound formed by yoking the existing words 'loaves' and 'bread' together.""
+}","['conversions', 'compounds']",[],"['compounds', 'clipping', 'conversions']",-1,[]
+10448,[],Anybody?,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'Anybody' is a clipped version of 'Anybody' from 'anybody'""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'anybody' is a clipped version of 'any body'.""
+}",['clipping'],timeout,[],[],['clipping'],-1,[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'foreign_borrowing']",[],,[],,[],,[],['foreign_borrowing'],['foreign_borrowing'],1,['foreign_borrowing']
+10658,[],Assange’s crime is to have broken a silence.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing"", ""conversion""],
+  ""Explanation"": ""The term 'Assange' is a proper noun used as a common noun ('Assange's crime'). The term 'silence' is a noun used as a verb ('to have broken a silence'), which is a conversion.""
+}","['foreign_borrowing', 'conversions']","``` 
+{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The word 'Assange' in 'Assange's' is a clipping of the proper noun 'Assange'. The word 'crime' is an analogy to the act of breaking a silence.""
+}
+```","['clipping', 'analogy']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Assange' is borrowed from the proper noun of a person's name.""
+}",['foreign_borrowing'],[],"['foreign_borrowing', 'conversions']",-1,[]
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'acronyms']","['compounds', 'prefixes/suffixes', 'acronyms']","['prefixes/suffixes', 'acronyms']",,[],,[],,[],"['compounds', 'prefixes/suffixes', 'acronyms']","['proper_nouns_to_common_nouns', 'prefixes/suffixes']",0,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']"
+11157,[],"Debra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",New_words_and_changing_uses,['acronyms'],"['compounds', 'acronyms']",['acronyms'],,[],,[],,[],['acronyms'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+11361,[],Email This field is for validation purposes and should be left unchanged.,New_words_and_changing_uses,"['compounds', 'blends']","['blends', 'prefixes/suffixes']",[],,[],,[],,[],"['compounds', 'blends']",['conversions'],-1,['conversions']
+11544,[],As to matters of purely ecclesiastical law such as this one the Church has always allowed for departures from traditional practice in cases of emergency or grave necessity.,New_words_and_changing_uses,[],['compounds'],['compounds'],,[],,[],,[],['compounds'],['compounds'],1,['compounds']
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,New_words_and_changing_uses,['compounds'],['compounds'],[],,[],,[],,[],['compounds'],[],-1,[]
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,New_words_and_changing_uses,[],['compounds'],[],,[],,[],,[],[],['conversions'],-1,['conversions']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",New_words_and_changing_uses,[],[],[],"{
+    ""Properties"": [""clipping"", ""conversion"", ""analogy""],
+    ""Explanation"": ""The word 'May's' is a clipping of the full month name, 'May'. 'Growth' is converted from a noun to a verb, and 'emerging' is formed by analogy from 'emerge'.""
+}","['clipping', 'conversions', 'analogy']","{
+  ""Properties"": [""clipping"", ""conversions""],
+  ""Explanation"": ""The word 'May's' is a clipped version of 'May is' and 'emerging' is a word converted from an adjective to a verb.""
+}","['clipping', 'conversions']","{
+  ""Properties"": [""prefixes/suffixes"", ""conversion""],
+  ""Explanation"": ""The word 'emerging' has the suffix -ing added to the base word 'emerge'. Also, the noun 'trend' is used as a verb in the phrase 'an emerging trend', showing conversion.""
+}","['prefixes/suffixes', 'conversions']",[],"['clipping', 'conversions', 'analogy']",-1,[]
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",New_words_and_changing_uses,['foreign_borrowing'],['clipping'],['clipping'],,[],,[],,[],['clipping'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",New_words_and_changing_uses,['acronyms'],"['blends', 'prefixes/suffixes', 'acronyms']",['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'foreign_borrowing', 'acronyms']"
+11936,[],America's Immigration Voice.,New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['acronyms'],-1,['acronyms']
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+12371,[],The ever growing global list of Bishops and Cardinals that have preyed on /and or covered up the sexual abuse of minors and seminarians over the last 60 years continues to enrage the laity.,New_words_and_changing_uses,['compounds'],[],['compounds'],,[],,[],,[],['compounds'],[],-1,[]
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'acronyms']",['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],"['proper_nouns_to_common_nouns', 'prefixes/suffixes', 'acronyms']",0,"['proper_nouns_to_common_nouns', 'prefixes/suffixes', 'acronyms']"
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",New_words_and_changing_uses,[],['prefixes/suffixes'],['prefixes/suffixes'],,[],,[],,[],['prefixes/suffixes'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+12626,[],It did what it is designed to do.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It' is a clipping of 'it is'""
+}",['clipping'],"{
+  ""Properties"": [""compounds"", ""clipping""],
+  ""Explanation"": ""The use of 'cafe latte' is a foreign borrowing, and the combination of 'cafe' and 'latte' is a compound. Additionally, 'cafe' is clipped from the full word 'cafeteria'.""
+}","['compounds', 'clipping']","{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'it' is a clipped version of 'it is'.""
+}",['clipping'],[],['clipping'],-1,[]
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",New_words_and_changing_uses,[],['compounds'],"['compounds', 'prefixes/suffixes']",,[],,[],,[],[],[],1,[]
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes']",['compounds'],['compounds'],,[],,[],,[],['compounds'],['prefixes/suffixes'],-1,['prefixes/suffixes']
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,New_words_and_changing_uses,"['compounds', 'conversions']",['compounds'],['compounds'],,[],,[],,[],['compounds'],[],-1,[]
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,New_words_and_changing_uses,['compounds'],[],[],,[],,[],,[],[],['Proper_Nouns_to_Common_Nouns'],-1,['Proper_Nouns_to_Common_Nouns']
+12935,[],"An organization that hands out the Emma Lazarus Award, named after a passionate Zionist, at its posh dinners is hosting attacks on the existence of Israel.",New_words_and_changing_uses,"['foreign_borrowing', 'prefixes/suffixes']",[],[],,[],,[],,[],[],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+12977,[],And yet it’s inescapable.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],[],,[],,[],,[],['prefixes/suffixes'],[],-1,[]
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",New_words_and_changing_uses,[],['catachresis'],[],,[],,[],,[],[],"['proper_nouns_to_common_nouns', 'conversions']",-1,"['proper_nouns_to_common_nouns', 'conversions']"
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""catachresis""],
+  ""Explanation"": ""The text contains foreign borrowing in the use of 'chopping block' which originated from the French term 'échafaud'. It also demonstrates clipping in the shortened version of the word 'what I’ve' and catachresis in the use of 'chopping block' to refer to a document.""
+}","['foreign_borrowing', 'clipping', 'catachresis']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The example uses the foreign borrowing of 'chopping block' from English to signify a place of extreme pressure or hardship. It also uses clipping in the form of 'I've' instead of 'I have'.""
+}","['foreign_borrowing', 'clipping']","```json
+{
+    ""Properties"": [""foreign borrowing"", ""quotation marks""],
+    ""Explanation"": ""The use of the term 'chopping block' and the quotation marks around it indicate foreign borrowing from an older era.""
+}
+```","['foreign_borrowing', 'acronyms']",[],"['foreign_borrowing', 'clipping', 'catachresis']",-1,[]
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",New_words_and_changing_uses,['foreign_borrowing'],['foreign_borrowing'],['foreign_borrowing'],,[],,[],,[],['foreign_borrowing'],['foreign_borrowing'],1,['foreign_borrowing']
+13225,[],"It is the Federation that now has the power to monitor for compliance with the rules, to report non-compliance to the Holy See, to make new foundations and, apparently, to “encourage” individual monasteries to “communicate” their goods.",New_words_and_changing_uses,"['prefixes/suffixes', 'conversions']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['prefixes/suffixes', 'conversions']",['conversions'],0,['conversions']
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",New_words_and_changing_uses,['compounds'],[],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+13573,[],I am not a fan of Donald Trump.,New_words_and_changing_uses,[],[],['clipping'],,[],,[],,[],[],[],1,[]
+13660,[],"It is to wonder what this man would make of a comment by the great Dom Paul Delatte, the second abbot of Solesmes and successor to the refounder, Dom Gueranger, who wrote in his commentary on the Rule of St. Benedict:",New_words_and_changing_uses,['prefixes/suffixes'],"['clipping', 'prefixes/suffixes']",['clipping'],,[],,[],,[],['prefixes/suffixes'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']
+14016,[],Other Hondurans are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States against president Trump’s wishes.,New_words_and_changing_uses,[],['prefixes/suffixes'],['foreign_borrowing'],,[],,[],,[],[],"['foreign_borrowing', 'conversions', 'analogy']",-1,"['foreign_borrowing', 'conversions', 'analogy']"
+14038,[],And in Russia.,New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Russia' is borrowed from the Russian language""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Russia' is borrowed from the Russian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Russia' is borrowed from the Russian language.""
+}",['foreign_borrowing'],[],['foreign_borrowing'],-1,[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],,[],,[],,[],['acronyms'],['acronyms'],1,['acronyms']
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",New_words_and_changing_uses,"['compounds', 'prefixes/suffixes', 'acronyms']","['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],,[],,[],,[],"['compounds', 'prefixes/suffixes', 'acronyms']","['proper_nouns_to_common_nouns', 'conversions']",-1,"['proper_nouns_to_common_nouns', 'conversions']"
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",New_words_and_changing_uses,[],[],[],"{
+  ""Properties"": [""clipping"", ""conversion"", ""taboo deformation"", ""doubling""],
+  ""Explanation"": ""The text contains examples of clipping with 'front' from 'front door', conversion with 'screaming' used as a verb, taboo deformation with 'darn' used as a euphemism, and doubling with 'front door'.""
+}","['clipping', 'conversions', 'taboo_deformation', 'doubling']","``` 
+        ""Properties"": [""clipping""],
+        ""Explanation"": ""The word 'front' has been clipped to create 'front door'.""
+```",['clipping'],"{
+  ""Properties"": [""clipping"", ""conversion""],
+  ""Explanation"": ""The use of 'front door' is a clipping of the full term 'front entrance' and the conversion of 'die' from a verb to a noun.""
+}","['clipping', 'conversions']",[],"['clipping', 'conversions', 'taboo_deformation', 'doubling']",-1,[]
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",,[],,[],,[],"['compounds', 'acronyms']",['acronyms'],0,['acronyms']
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",New_words_and_changing_uses,"['compounds', 'conversions']",['compounds'],['compounds'],,[],,[],,[],['compounds'],['conversions'],-1,['conversions']
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",New_words_and_changing_uses,['compounds'],"['compounds', 'foreign_borrowing']",['compounds'],,[],,[],,[],['compounds'],['proper_nouns_to_common_nouns'],-1,['proper_nouns_to_common_nouns']

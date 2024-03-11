@@ -1,0 +1,235 @@
+{% extends 'layout.html' %}
+
+{% block title %}Review{% endblock %}
+
+{% block content %}
+<script>
+window.onload = function() {
+
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+    
+    const toastElList = document.querySelectorAll('.toast')
+    const toastList = [...toastElList].map(toastEl => new bootstrap.Toast(toastEl))
+
+
+
+
+    var searchParams = new URLSearchParams(window.location.search)
+
+    _j('#nav-completed-tab').on('click',function(){
+        searchParams.set("active", 1);
+        var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
+        history.pushState(null, '', newRelativePathQuery);
+    })
+
+    _j('#nav-progress-tab').on('click',function(){
+        searchParams.set("active", 0);
+        var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
+        history.pushState(null, '', newRelativePathQuery);
+    })
+
+
+    act = searchParams.get("active")
+
+    if (act == 1){
+        _j('#nav-completed-tab').trigger('click')
+    }else{
+        _j('#nav-progress-tab').trigger('click')
+    }
+
+}
+</script>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-auto">
+            <h2>Review</h2>
+           <p>&nbsp;</p>
+        </div>
+    </div>
+    <!--  tabs -->
+    <div class="row">
+        <div class="col">
+            <nav class="">
+              <div class="nav nav-tabs d-flex" id="nav-tab" role="tablist">
+                
+                    <button class="nav-link" id="nav-progress-tab" data-bs-toggle="tab" data-bs-target="#nav-progress" type="button" role="tab" aria-controls="nav-progress" aria-selected="false">In-progress ({{meta_data["in_progress"]}})</button>
+
+                    <button class="nav-link" id="nav-completed-tab" data-bs-toggle="tab" data-bs-target="#nav-completed" type="button" role="tab" aria-controls="nav-completed" aria-selected="true">Completed ({{meta_data["completed"]}})</button>
+               
+                    <div class="ms-auto">
+
+                        <div class="dropdown mt-2 me-3">
+                          <a class="dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                            Filter
+                          </a>
+
+                          <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active, filter=1) }}"><i class="bi bi-bookmark-fill"></i> Flagged</a></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active, filter=0) }}"><i class="bi bi-bookmark"></i> Not Flagged</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=active) }}">Clear filter</a></li>
+                          </ul>
+                        </div>
+
+
+
+
+
+                        <!-- <a class="nav-link" href="{{ url_for('review', prog_num=inprogress.page, comp_num=completed.page, active=0, filter=flag) }}">
+                             <i class="bi bi-funnel me-3  ms-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="toggle flagged"></i></a> -->
+                    </div>
+              </div>
+              
+            </nav>
+        
+            <div class="tab-content p-3" id="nav-tabContent">
+                <div class="tab-pane fade" id="nav-progress" role="tabpanel" aria-labelledby="nav-progress-tab" tabindex="0">
+                    {% for sentence in inprogress.items %}
+                    <div class="row pt-2 pb-2 highligthing">
+                        <div class="col">{{sentence.text}}</div>
+                        <div class="col-auto">
+                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
+                                <i class="bi bi-pencil-fill me-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="edit annotation"></i></a>
+                            
+                            <a href="#" class="flag_for_review" onclick="flagForReview(this,{{sentence.id}}); return false;">
+                            {% if sentence.review_flag == 1 %}
+                                <i class="bi bi-bookmark-fill text-primary-emphasis me-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="unflag"></i>
+                            {% else %}
+                                <i class="bi bi-bookmark me-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="flag for review"></i>
+                            {% endif %}
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    <div class="row mt-3">
+                        <nav aria-label="In-progress navigation">
+                          <ul class="pagination">
+                            <li class="page-item {% if inprogress.has_prev == False %}disabled{% endif %}">
+                              <a class="page-link" 
+                                    href="{% if inprogress.has_prev %}
+                                            {{ url_for('review', prog_num=inprogress.prev_num, comp_num=completed.page, active=0, filter=flag) }}
+                                          {% endif %}"
+                                    aria-label="Prev">
+                                <span aria-hidden="true">&laquo;</span>
+                              </a>
+                            </li>
+
+                            {% for page in inprogress.iter_pages(left_edge=1, left_current=1, right_current=1, right_edge=1) %}
+                                {% if page %}
+                                    {% if inprogress.page == page %}
+                                    <li class="page-item active">
+                                        <span class="page-link">{{ page }}</span>
+                                    </li>
+                                    {% else %}
+                                    <li class="page-item">
+                                        <a class="page-link" href="{{ url_for('review', prog_num=page, comp_num=completed.page, active=0, filter=flag) }}">{{ page }}</a>
+                                    </li>
+                                    {% endif %}
+                                {% else %}
+                                    <li class="page-item" class="page-link" ><a class="page-link" href="#"> ... </a></li>
+                                {% endif %}
+                            {% endfor %}
+
+                            <li class="page-item {% if inprogress.has_next == False %}disabled{% endif %}">
+                              <a class="page-link" href="{% if inprogress.has_next %}{{ url_for('review', prog_num=inprogress.next_num, comp_num=completed.page, active=0, filter=flag) }}{% endif %}" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                              </a>
+                            </li>
+                          </ul>
+                        </nav>
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="nav-completed" role="tabpanel" aria-labelledby="nav-completed-tab" tabindex="0">
+                    {% for sentence in completed.items %}
+                    <div class="row pb-2 pt-2 highligthing">
+                        <div class="col">{{sentence.text}}</div>
+                        <div class="col-auto">
+                            <a href="{{ url_for('home',sentence_id=sentence.sentence_id) }}">
+                                <i class="bi bi-pencil-fill"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="edit annotation"></i></a>
+                            <a href="#" class="flag_for_review" onclick="flagForReview(this,{{sentence.id}}); return false;">
+                            {% if sentence.review_flag == 1 %}
+                                <i class="bi bi-bookmark-fill text-primary-emphasis ms-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="unflag"></i>
+                            {% else %}
+                                <i class="bi bi-bookmark ms-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="flag for review"></i>
+                            {% endif %}
+                            </a>
+                            <!-- <a href="#"><i class="bi bi-person-check-fill ms-3"
+                                data-bs-toggle="tooltip" 
+                                data-bs-placement="top" 
+                                data-bs-custom-class="small-tooltip"
+                                data-bs-title="check annotator agreement"></i></a> -->
+                        </div>
+                    </div>
+                    {% endfor %}
+                    <div class="row mt-3">
+                            <nav aria-label="Completed navigation">
+                              <ul class="pagination">
+                                <li class="page-item {% if completed.has_prev == False %}disabled{% endif %}">
+                                  <a class="page-link" href="{% if completed.has_prev %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.prev_num, active=1, filter=flag) }}{% endif %}" aria-label="Prev">
+                                    <span aria-hidden="true">&laquo;</span>
+                                  </a>
+                                </li>
+
+                                {% for page in completed.iter_pages(left_edge=1, left_current=1, right_current=1, right_edge=1) %}
+                                    {% if page %}
+                                        {% if completed.page == page %}
+                                        <li class="page-item active">
+                                            <span class="page-link">{{ page }}</span>
+                                        </li>
+                                        {% else %}
+                                        <li class="page-item">
+                                            <a class="page-link" href="{{ url_for('review', prog_num=inprogress.page, comp_num=page, active=1, filter=flag) }}">{{ page }}</a>
+                                        </li>
+                                        {% endif %}
+                                    {% else %}
+                                        <li class="page-item" class="page-link" ><a class="page-link" href="#"> ... </a></li>
+                                    {% endif %}
+                                {% endfor %}
+
+                                <li class="page-item {% if completed.has_next == False %}disabled{% endif %}">
+                                  <a class="page-link" href="{% if completed.has_next %}{{ url_for('review', prog_num=inprogress.page, comp_num=completed.next_num, active=1, filter=flag) }}{% endif %}" aria-label="Next">
+                                    <span aria-hidden="true">&raquo;</span>
+                                  </a>
+                                </li>
+                              </ul>
+                            </nav>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+</div>
+{% endblock %}

@@ -1,0 +1,946 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Language_varieties,"['correctness', 'clarity']","['correctness', 'clarity']","['correctness', 'clarity']",TRUE,[],"{
+  ""Properties"": [""correctness"", ""clarity"", ""maxims/proverbs"", ""allusions""],
+  ""Explanation"": ""The text is well-formed grammatically and understandable to the intended audience. It also contains a maxim or proverb ('the tradition of the Muslim doctors') and an allusion to historical and cultural knowledge (Temur's conquests) which requires understanding of the context.""
+}","['correctness', 'clarity', 'maxims/proverbs', 'allusions']","{
+  ""Properties"": [""allusions""],
+  ""Explanation"": ""The text makes an allusion to 'the tradition of the Muslim doctors' without explicitly naming the other context, requiring cultural knowledge to understand the reference.""
+}",['allusions'],"{
+  ""Properties"": [""allusions"", ""high""],
+  ""Explanation"": ""The text makes an allusion to the tradition of the Muslim doctors, which requires cultural and historical knowledge to understand. Additionally, the language used is formal and grand, typical of historical or scholarly texts.""
+}","['allusions', 'high']",FALSE,"{
+  ""Properties"": [""allusions""],
+  ""Explanation"": ""The text makes an allusion to the tradition of the Muslim doctors and the actions of Temur, requiring cultural knowledge to fully understand the reference.""
+}",['allusions'],"{
+  ""Properties"": [""allusions""],
+  ""Explanation"": ""The text makes an allusion to the tradition of the Muslim doctors and the actions of Temur, requiring cultural knowledge to fully understand the reference.""
+}",['allusions'],"{
+  ""Properties"": [""allusions""],
+  ""Explanation"": ""The text makes an allusion to the tradition of the Muslim doctors and the actions of Temur, requiring cultural knowledge to fully understand the reference.""
+}",['allusions'],1,['allusions'],0,0,,"['correctness', 'clarity','middle']"
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it is appropriate in its cultural and societal context. It correctly conveys the legal outcome of the trial with precision and without any language that might be considered inappropriate."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience. There are no elements of informal or formal language, and it is well structured for readability.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The sentence is appropriate in its use of language for a news report, and it is clear and understandable to the intended audience.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is well-formed grammatically, clear and understandable to the intended audience, and appropriate in its use of language for a news report on a legal matter.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+}
+
+ 	","['correctness', 'clarity', 'appropriateness']",0,"['correctness', 'clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle']"
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}
+
+  ","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience. It conveys a forceful and memorable expression through the allusion to the effectiveness of the flu vaccine, implying that the hope for something to work better is not very high.""
+}","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+  ,
+  ""Explanation"": ""The text is clear and understandable, using a forceful and memorable expression to convey the message effectively. The mention of 'this year’s flu vaccine' alludes to the idea of something not working effectively, creating an indirect reference for comparison.""
+}","['clarity', 'forcefulness', 'allusions']",TRUE,"{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}
+
+ 	","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""]
+  ,
+  ""Explanation"": ""The text is clear and understandable to the intended audience, uses informal language, and employs a forceful expression to convey a memorable message.""
+}","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}
+
+ 	","['clarity', 'forcefulness', 'allusions']",0,"['clarity', 'forcefulness', 'allusions']",0,0,,"['correctness', 'clarity','middle', 'forcefulness']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""appropriateness"", ""forcefulness""],
+  ""Explanation"": ""The use of language to urge for an official ban on Donald Trump from entering the UK due to his condoning fascism demonstrates forcefulness in conveying a strong and memorable message. Additionally, the language used is appropriate in the context of political discourse and aligns with cultural norms of propriety."" 
+}","['appropriateness', 'forcefulness']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The text uses appropriate language for a news article and is clear in conveying the message to the intended audience.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""appropriateness"", ""forcefulness""],
+  ""Explanation"": ""The text demonstrates appropriateness by adhering to the cultural norms of political expression, as well as forcefulness through the use of strong language to convey the urgency of the message.""
+}","['appropriateness', 'forcefulness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate in its use of language and tone for the context of political discourse.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate in its use of language given the formal context of a political statement.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety by using formal language to discuss a serious political issue.""
+}","['clarity', 'appropriateness']",1,"['clarity', 'appropriateness']",0,0,,"['correctness', 'clarity','middle', 'forcefulness']"
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Language_varieties,"['correctness', 'clarity', 'forcefulness', 'middle']","['correctness', 'clarity', 'forcefulness', 'middle']","['correctness', 'clarity', 'forcefulness', 'middle']",TRUE,"['correctness', 'high', 'middle']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it uses a forceful and striking expression to convey the message. Additionally, the language used is appropriate within the context of discussing a sensitive topic related to religion."" 
+}","['clarity', 'forcefulness', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""]
+}
+
+ 	","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [
+    ""clarity"",
+    ""forcefulness"",
+    ""low""
+  ],
+  ""Explanation"": ""The text is low in style with informal and colloquial language, making it understandable to the intended audience and forceful in conveying a striking expression to reinforce the message.""
+}","['clarity', 'forcefulness', 'low']",FALSE,"{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness"", ""allusions""]
+}","['clarity', 'forcefulness', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness"", ""allusions""]
+}","['clarity', 'forcefulness', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness"", ""allusions""]
+}
+
+ 	","['clarity', 'forcefulness', 'appropriateness', 'allusions']",1,"['clarity', 'forcefulness', 'appropriateness', 'allusions']",1,0,,"['correctness', 'clarity','middle', 'forcefulness']"
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'high', 'middle']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience. It also makes an allusion to the concept of 'double jeopardy' from legal terminology, requiring cultural knowledge to fully understand.""
+}","['clarity', 'allusions']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience. It also contains an allusion to the concept of 'double jeopardy', requiring cultural knowledge of the legal term.""
+}","['clarity', 'allusions']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it makes an allusion to the concept of 'double jeopardy' without explicitly naming it, requiring cultural knowledge.""
+}","['clarity', 'allusions']",TRUE,"{
+  ""Properties"": [""clarity"", ""allusions""]
+}
+
+ 	","['clarity', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}
+
+ 	","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}
+
+ 	","['clarity', 'forcefulness', 'allusions']",0,"['clarity', 'forcefulness', 'allusions']",1,0,,"['correctness', 'clarity','middle']"
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""appropriateness""],
+  ""Explanation"": ""The use of 'Iranian parties' reflects cultural and political norms, as well as legal regulations regarding financial transactions involving Iran. This makes the language appropriate as it adheres to the sensitivities and propriety related to international relations and sanctions."" 
+}",['appropriateness'],"{
+  ""Properties"": [""appropriateness"", ""clarity""]
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [
+    ""appropriateness"",
+    ""clarity""
+  ],
+  ""Explanation"": ""The text is appropriate as it conforms to the cultural norms and expectations regarding diplomatic and financial relations with Iran. It is also clear and understandable to the intended audience, conveying the restriction on Iranian parties opening accounts at US banks.""
+}","['appropriateness', 'clarity']",FALSE,"{
+  ""Properties"": [""appropriateness""],
+  ""Explanation"": ""The use of 'Iranian' reflects the cultural and political sensitivity around relations with Iran, making the language appropriate to the context of international relations and sanctions.""
+}",['appropriateness'],"{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The sentence is appropriate in the context of discussing international banking regulations, and it is clear in its meaning for the intended audience.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""appropriateness"", ""clarity""]
+  ,
+  ""Explanation"": ""The text is appropriate as it adheres to the cultural and legal norms regarding international banking sanctions. It is also clear and understandable to the intended audience.""
+}","['appropriateness', 'clarity']",0,"['appropriateness', 'clarity']",1,0,,"['correctness', 'clarity','middle']"
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understood by the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [
+    ""correctness"",
+    ""clarity"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The sentence is well-formed grammatically, clear, and follows the appropriate cultural norms as it is a straightforward and culturally acceptable statement regarding financial transactions between Iran and the US.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is grammatically correct and written in a clear and understandable manner.""
+}","['correctness', 'clarity']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is grammatically correct and clear in its meaning, making it suitable for the intended audience.""
+}","['correctness', 'clarity']",0,"['correctness', 'clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle']"
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""forcefulness""]
+}
+
+  
+  ","['correctness', 'clarity', 'forcefulness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is grammatically correct, clear in its meaning, and appropriate in tone for a news report, discussing a legal complaint about a sensitive issue regarding education and religion.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate as it follows the cultural norms of propriety by maintaining a neutral tone when discussing sensitive religious topics.""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is grammatically correct, clear, and appropriate for a news report, using standard language to convey the information accurately and without bias.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is well-formed grammatically, clear, and appropriate for a news article, as it conveys the information in a neutral and objective manner.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety by using formal language to discuss a sensitive topic.""
+}","['clarity', 'appropriateness']",0,"['correctness', 'clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle','register shift']"
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the audience. It uses forceful and striking language to convey the message that Trump's chances are severely impacted. Additionally, the phrase 'Trump is dead' alludes to political defeat without explicitly stating it.""
+}","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness""]
+}
+  
+  ","['clarity', 'forcefulness', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""],
+  ""Explanation"": ""The text is clear and easily understandable. It is forceful in its expression, using the phrase 'Trump is dead' to convey a strong message. There is an allusion to a tweet from Jon Ralston, which requires knowledge of the context and the individual mentioned.""
+}","['clarity', 'forcefulness', 'allusions']",FALSE,"{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+  ,
+  ""Explanation"": ""The text is clear and understandable to the intended audience. It is forceful in its expression, using the phrase 'Trump is dead' to reinforce the message. Additionally, it alludes to a specific context, assuming the audience's knowledge of the political situation and the impact of Latino turnout on the election.""
+}","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience. It is forceful in its expression, using the phrase 'Trump is dead' to reinforce the message. It also contains an allusion to a tweet from Jon Ralston, requiring knowledge of the context and the source."" 
+}","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience. It is forceful in its expression, using the phrase 'Trump is dead' to reinforce the message. It also contains an allusion to a specific tweet from Jon Ralston, requiring knowledge of the context and the source."" 
+}","['clarity', 'forcefulness', 'allusions']",1,"['clarity', 'forcefulness', 'allusions']",1,0,,"['correctness', 'clarity','middle']"
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""],
+  ""Explanation"": ""The text is clear and easily understandable to the intended audience. The mention of 'Make America Great Again' hat and 'Latinos for Trump' sign is appropriate to the cultural and political context. The phrase 'Latinos for Trump' alludes to the political movement aligned with the subject.""
+}","['clarity', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience (English-speaking readers), and it alludes to the concept of 'Latinos for Trump' without explicitly naming the political context.""
+}","['clarity', 'allusions']","{
+  ""Properties"": [
+    ""clarity"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it also demonstrates appropriateness by referencing a cultural and political context relevant to the topic.""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate in the context of discussing a political campaign and its supporters.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""]
+}
+
+ 	","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate in the context of discussing a political campaign and its supporters.""
+}","['clarity', 'appropriateness']",1,"['clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle']"
+4367,[15],They want to preserve the FBI’s reputation.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""appropriateness""],
+  ""Explanation"": ""The use of 'FBI' and the consideration for its reputation indicates adherence to cultural norms of propriety.""
+}",['appropriateness'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and easily understood by the intended audience, and it is appropriate in terms of the cultural norms of discussing the reputation of an organization like the FBI.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, as it conveys a straightforward message about preserving the FBI's reputation.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience. It also adheres to the cultural norms of propriety by discussing the preservation of the FBI's reputation, which is a relevant and appropriate topic."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and easily understood by the intended audience, and it adheres to the cultural norms of propriety by discussing the preservation of the FBI's reputation in a respectful manner.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the message effectively.""
+}",['clarity'],0,"['clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle']"
+4370,[15],The media is very interested in racism.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""appropriateness"", ""clarity""]
+}
+
+ 	","['appropriateness', 'clarity']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness""]
+}","['clarity', 'forcefulness', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""]
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and direct, making it understandable to the intended audience. It also carries a forceful and impactful message, as it addresses a significant and controversial topic."" 
+}","['clarity', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""appropriateness""]
+}
+
+ 	","['clarity', 'forcefulness', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, and it is appropriate in the context of discussing a sensitive and important social issue like racism.""
+}","['clarity', 'appropriateness']",0,"['clarity', 'forcefulness']",1,0,,"['correctness', 'clarity','middle']"
+4371,[15],The media is happy to talk about anti-Semitism.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and easily understood by the intended audience. It also addresses a culturally sensitive topic in a manner that aligns with norms of propriety. The use of the word 'happy' adds a forceful and memorable expression to reinforce the message."" 
+}","['clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, and it aligns with cultural norms of discussing sensitive topics like anti-Semitism in the media."" 
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, as it conveys a straightforward message about the media's willingness to discuss anti-Semitism.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, and it is appropriate in terms of cultural norms regarding the topic of anti-Semitism."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience. It also aligns with the cultural norms of discussing sensitive topics like anti-Semitism in the media.""
+}","['clarity', 'appropriateness']",0,"['clarity', 'appropriateness']",1,0,,"['correctness', 'clarity','middle']"
+4372,[15],Here’s my translation:,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity']","{
+  ""Properties"": [""clarity"", ""correctness""],
+  ""Explanation"": ""The text appears to be well-formed grammatically and understandable to the intended audience, meeting the criteria for both correctness and clarity.""
+}","['clarity', 'correctness']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The text demonstrates correctness in terms of grammar and clarity in terms of being understandable to the intended audience.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The translation appears to be well-formed grammatically and understandable to the intended audience.""
+}","['correctness', 'clarity']",FALSE,"{
+  ""Properties"": [""clarity"", ""correctness""],
+  ""Explanation"": ""The translation is clear and grammatically correct, ensuring that the intended audience can understand the message accurately.""
+}","['clarity', 'correctness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The translation demonstrates clarity by being understandable to the intended audience. It also shows appropriateness by adhering to the cultural norms of propriety in the target language.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The translation appears to be well-formed grammatically, understandable, and culturally appropriate.""
+}","['correctness', 'clarity', 'appropriateness']",0,"['clarity', 'correctness']",0,0,,"['correctness', 'clarity','low']"
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Language_varieties,"['correctness', 'clarity', 'middle', 'appropriateness']","['correctness', 'clarity', 'middle', 'appropriateness']","['correctness', 'clarity', 'middle', 'appropriateness']",TRUE,"['middle', 'correctness', 'clarity', 'high', 'appropriateness']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The text uses appropriate language for discussing religious matters and is clear in discussing the interpretations of the Holy Father's letter and the statements of the Argentine bishops.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to its intended audience (those familiar with the context of the Holy Father's letter, the Buenos Aires bishops, Cardinal Müller, and the National Catholic Register). It also follows the cultural norms of propriety in discussing religious and official sources."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""allusions""],
+  ""Explanation"": ""The text demonstrates correctness by using well-formed grammatical structures. It also shows clarity in being understandable to the intended audience. Additionally, it includes an allusion by referencing the National Catholic Register without explicitly naming it.""
+}","['correctness', 'clarity', 'allusions']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, which is likely familiar with the context of the Holy Father's letter and the National Catholic Register. The language used is appropriate for discussing religious matters and referencing specific publications.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, which is likely familiar with the context of the Holy Father's letter and the National Catholic Register. The language used is appropriate for discussing religious matters and references to specific publications."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it discusses a specific topic using language appropriate for a religious or scholarly context. It also makes an allusion to an interview published in the National Catholic Register, requiring cultural knowledge of the publication."" 
+}","['clarity', 'appropriateness', 'allusions']",0,"['clarity', 'appropriateness']",0,0,,"['correctness', 'clarity','middle']"
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""maxims/proverbs""],
+  ""Explanation"": ""The text demonstrates clarity by being easily understandable to the intended audience. The forcefulness is seen in the use of the phrase 'a lot worse' to emphasize the negative outlook. It also contains the proverbial expression 'same old, same old', conveying a sense of repetition and predictability.""
+}","['clarity', 'forcefulness', 'maxims/proverbs']","{
+  ""Properties"": [
+    ""clarity"",
+    ""forcefulness"",
+    ""low""
+  ],
+  ""Explanation"": ""The sentence is written in informal, colloquial language ('same old, same old'). It is forceful in expressing a negative sentiment, and is clear in its message to the intended audience.""
+}","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The text exhibits clarity by being understandable to the intended audience. It also shows forcefulness through the use of a memorable and striking expression ('same old, same old') which reinforces the message.""
+}","['clarity', 'forcefulness']",FALSE,"{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""],
+  ""Explanation"": ""The text is clear and understandable, using informal language to convey a forceful and impactful message.""
+}","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, uses informal language ('same old, same old'), and has a forceful tone with the phrase 'about to get a lot worse.'""
+}","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""],
+  ""Explanation"": ""The text is clear and understandable, using informal language and a forceful expression to convey a sense of frustration or resignation.""
+}","['clarity', 'forcefulness', 'low']",1,"['clarity', 'forcefulness', 'low']",0,0,,"['correctness', 'clarity','middle','forcefulness','cliches/idioms']"
+4431,[16],“I had no way to see into his mind.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, as it effectively conveys the meaning without ambiguity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, without any ambiguity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""correctness""],
+  ""Explanation"": ""The sentence is grammatically correct and clear in its meaning, making it understandable to the intended audience.""
+}","['clarity', 'correctness']",FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the idea that the speaker had no way to understand the thoughts of another person.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the idea that the speaker had no way to understand what was going on in someone else's mind.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+5024,[],The two cities are home to a combined 12 million people.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is written in clear and understandable language, suitable for a general audience, and it is appropriate in tone and style for a news article.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is grammatically correct and easily understandable, making use of standard English.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable in conveying the information about the population of the two cities.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, providing a straightforward statement about the population of the two cities.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, providing a straightforward statement about the population of the two cities.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, conveying the information about the population of the two cities.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and is understandable to the intended audience, demonstrating correctness and clarity.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+  ,
+  ""Explanation"": ""The text is correctly formed grammatically, clear and understandable to the intended audience, and appropriate in terms of cultural norms and propriety.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is grammatically correct, clear in its meaning, and appropriate in its language use for a formal or professional context.""
+}","['correctness', 'clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is well-formed grammatically, clear and understandable to the intended audience, and appropriate in tone and language for the context of legal communication.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is well-formed grammatically, clear and understandable to the intended audience, and appropriate in tone and language for the context of legal communication.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is well-formed grammatically, clear and appropriate in tone for a formal statement.""
+}","['correctness', 'clarity', 'appropriateness']",1,"['correctness', 'clarity', 'appropriateness']",1,0,,"['correctness', 'clarity', 'middle']"
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, providing information about the ideological split on the court.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, as it conveys the ideological split on the court in a straightforward manner.""
+}",['clarity'],"{
+  ""Properties"": [
+    ""clarity""
+  ],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, conveying information about the ideological split on the court.""
+}",['clarity'],TRUE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, providing a straightforward explanation of the ideological split on the court.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, providing a straightforward explanation of the ideological split on the court.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, providing a straightforward explanation of the ideological split on the court.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity','middle','cliches/idioms']"
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, as it conveys Jeff's belief in a straightforward manner.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, conveying Jeff's belief about the Las Vegas attack.""
+}",['clarity'],"{
+  ""Properties"": [
+    ""correctness"",
+    ""clarity"",
+    ""forcefulness"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The sentence is grammatically correct and expresses the interviewee's belief with clarity and forcefulness, which is appropriate for the context of discussing a serious incident."" 
+}","['correctness', 'clarity', 'forcefulness', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying Jeff's belief about the Las Vegas attack.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, as it effectively communicates Jeff's belief about the Las Vegas attack.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, as it effectively communicates Jeff's belief about the Las Vegas attack.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear in conveying the sequence of events and actions taken by the two men in response to the victim being shot.""
+}",['clarity'],"{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and is understandable to the intended audience, conveying the events clearly.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and understandable to the intended audience.""
+}","['correctness', 'clarity']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and is understandable to the intended audience, conveying the events clearly.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and is understandable to the intended audience.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is well-formed grammatically and is understandable to the intended audience, conveying the events clearly.""
+}","['correctness', 'clarity']",1,"['correctness', 'clarity']",0,0,,"['clarity', 'middle']"
+7211,[],Then Benedict allowed him to remain a cardinal.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+  ,
+  ""Explanation"": ""The sentence is grammatically correct, clear, and appropriate for the context without the use of informal or formal language.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is well-formed grammatically, easily understandable, and culturally appropriate for the context of discussing the actions of a cardinal.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is well formed grammatically, understandable, and appropriate for the context in which it appears.""
+}","['correctness', 'clarity', 'appropriateness']",TRUE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is grammatically correct, clear, and appropriate for a formal context such as news reporting.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is grammatically correct, clear, and appropriate for a formal context such as news reporting.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is grammatically correct, clear, and appropriate for the context in which it is used.""
+}","['correctness', 'clarity', 'appropriateness']",1,"['correctness', 'clarity', 'appropriateness']",1,0,,"['correctness', 'clarity', 'middle']"
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The sentence is appropriate in terms of cultural norms and propriety, as it references a specific historical event and the language used is suitable for a news report. Additionally, the sentence is clear and understandable to the intended audience, conveying the Archbishop's complaint and claim effectively.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The language used is appropriate for a formal news report, and it is clear and understandable to the intended audience.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety by using formal language to describe a serious topic (accusations against an Archbishop).""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The sentence is appropriate in terms of cultural norms and propriety as it discusses a sensitive topic involving a religious figure. It is also clear and understandable to the intended audience, conveying the Archbishop's complaint and claim effectively.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The sentence is appropriate in terms of cultural norms as it refers to a specific case and uses standard language. It is also clear and understandable to the intended audience.""
+}","['appropriateness', 'clarity']","{
+  ""Properties"": [""appropriateness"", ""clarity""],
+  ""Explanation"": ""The use of formal language and the clear communication of Archbishop Bergoglio's complaint and claim demonstrate appropriateness and clarity in the text.""
+}","['appropriateness', 'clarity']",1,"['appropriateness', 'clarity']",1,0,,"['correctness', 'clarity', 'middle']"
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience. It conveys a specific point effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable for the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying a point in a straightforward manner.""
+}",['clarity'],TRUE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the point effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the point being made by Thomas.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the point that Thomas is making about metaphysics.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+7818,[],But really it comes down to the British government.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it directly communicates the main point about the British government.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience.""
+}",['clarity'],TRUE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity','middle','cliches/idioms']"
+9396,[],Also on communion between the communities.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and appropriate to the topic of discussion, making it understandable to the intended audience and respecting cultural norms of propriety.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable in its discussion of communion between communities, and it is appropriate in its tone and language for the topic at hand.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and easily understandable to the intended audience, containing no obscure or ambiguous language.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it discusses the topic of communion between communities.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it discusses the topic of communion between communities.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it discusses the topic of communion between communities.""
+}",['clarity'],1,['clarity'],0,0,,[ 'middle']
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Language_varieties,"['correctness', 'clarity', 'middle', 'appropriateness']","['correctness', 'clarity', 'middle', 'appropriateness']","['correctness', 'clarity', 'middle', 'appropriateness']",TRUE,"['correctness', 'clarity', 'middle', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""]
+}
+
+   
+","['clarity', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable, utilizing appropriate language for the religious context. It also contains an allusion to the particular obsession of the Congregation, which requires cultural knowledge to interpret.""
+}","['clarity', 'appropriateness', 'allusions']","{
+  ""Properties"": [
+    ""clarity"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The text is clear and understandable, using standard English to communicate a message appropriate for the context of a news report on religious matters.""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, which is likely to be familiar with religious and Vatican-related terminology. The use of 'Sr.' and 'Vatican’s Congregation for Religious' indicates appropriateness to the cultural norms of the topic. The mention of 'the challenge of globalization and the challenge of irrelevancy' alludes to broader societal issues without explicitly naming them, requiring cultural knowledge."" 
+}","['clarity', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""]
+}
+
+ 	","['clarity', 'appropriateness', 'allusions']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""allusions""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, which is likely to be familiar with religious and Vatican-related terminology. The use of 'Sr.' and 'Vatican’s Congregation for Religious' indicates appropriateness to the cultural norms of propriety. The mention of 'the challenge of globalization and the challenge of irrelevancy' alludes to broader societal issues without explicitly naming them, requiring cultural knowledge to fully understand the reference."" 
+}","['clarity', 'appropriateness', 'allusions']",1,"['clarity', 'appropriateness', 'allusions']",0,0,,"['correctness', 'clarity', 'middle']"
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information about Ford's willingness to answer questions in a straightforward manner.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [
+    ""correctness"",
+    ""clarity""
+  ],
+  ""Explanation"": ""The sentence is well-formed grammatically and is clear and understandable to the intended audience.""
+}","['correctness', 'clarity']",FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety by using formal language to discuss a sensitive topic.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information in a straightforward manner.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+9712,[],His life before joining the caliphate was unremarkable.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience. It is also appropriate in its use of language for discussing a serious topic."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [
+    ""clarity"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience. It is also appropriate as it conforms to cultural norms of propriety by not using any informal or controversial language in the context of discussing a serious topic like joining a caliphate.""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+9866,[],But he is now a full-fledged member of the nuclear club.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+  ,
+  ""Explanation"": ""The sentence is clear and understandable, using forceful language to convey the significance of the individual becoming a member of the 'nuclear club', an allusion to a group of countries possessing nuclear weapons. The use of 'full-fledged' adds forcefulness to the statement.""
+}","['clarity', 'forcefulness', 'allusions']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it makes an allusion to the concept of being a member of an exclusive club by using the term 'nuclear club'.""
+}","['clarity', 'allusions']","{
+  ""Properties"": [""clarity"", ""allusions""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience. It also contains an allusion to the 'nuclear club', which requires cultural knowledge to fully understand.""
+}","['clarity', 'allusions']",FALSE,"{
+  ""Properties"": [""clarity"", ""middle""]
+}
+
+ 	","['clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, conveying the message effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'forcefulness', 'middle']","{
+  ""Properties"": [
+    ""clarity"",
+    ""forcefulness""
+  ],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience. It is forceful in conveying the message of difficult decisions being made in hospitals due to the current situation."" 
+}","['clarity', 'forcefulness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""forcefulness""]
+  ,
+  ""Explanation"": ""The statement is grammatically correct, clearly conveys the information, and uses forceful language to emphasize the impact of the situation.""
+}","['correctness', 'clarity', 'forcefulness']","{
+  ""Properties"": [""forcefulness"", ""appropriateness""],
+  ""Explanation"": ""The use of the word 'forced' in relation to hospitals prioritizing patients and rationing services is forceful, as it conveys a sense of compulsion and urgency. Additionally, the mention of hospitals being 'forced to prioritize patients' and 'ration services' is appropriate in the context of discussing the challenges faced by healthcare institutions during the COVID-19 pandemic.""
+}","['forcefulness', 'appropriateness']",FALSE,"{
+  ""Properties"": [""forcefulness"", ""appropriateness""],
+  ""Explanation"": ""The use of the word 'forced' in the sentence conveys a sense of urgency and necessity, making it forceful. Additionally, the mention of hospitals having to 'prioritize patients, ration services, and forgo elective surgeries' is appropriate as it aligns with the cultural norms of the healthcare system during a crisis.""
+}","['forcefulness', 'appropriateness']","{
+  ""Properties"": [""forcefulness"", ""appropriateness""],
+  ""Explanation"": ""The use of the word 'forced' conveys a sense of urgency and necessity, making the statement forceful. Additionally, the mention of hospitals having to prioritize patients and ration services is appropriate as it aligns with the cultural norms of healthcare in times of crisis.""
+}","['forcefulness', 'appropriateness']","{
+  ""Properties"": [""forcefulness"", ""appropriateness""],
+  ""Explanation"": ""The use of the word 'forced' conveys a sense of urgency and necessity, making the statement forceful. Additionally, the mention of hospitals having to 'prioritize patients' and 'ration services' is appropriate as it aligns with the cultural norms of healthcare resource management during a crisis.""
+}","['forcefulness', 'appropriateness']",1,"['forcefulness', 'appropriateness']",0,0,,"['correctness', 'clarity', 'middle','forcefulness']"
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is grammatically correct, clear in its meaning, and culturally appropriate for a news context, presenting scientific information in a straightforward manner.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [
+    ""clarity"",
+    ""appropriateness""
+  ],
+  ""Explanation"": ""The sentence is clear and understandable, using language appropriate for a general audience. The use of 'robot' and 'souvenir rock' is appropriate for the context of discussing space exploration."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, conveying the idea that NASA is interested in visiting the region with a robot to bring back rocks for analysis.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, conveying the idea that NASA is interested in visiting the region with a robot to bring back rocks for analysis.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and easily understandable to the intended audience, conveying the message without ambiguity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, conveying the message without ambiguity.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [
+    ""clarity""
+  ],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, providing information about the event in a straightforward manner.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text demonstrates clarity by effectively communicating the situation at the border in a manner that is easily understood by the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it provides a straightforward description of people climbing the border fence. The language used is appropriate for a news report on this topic.""
+}","['clarity', 'appropriateness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, and it is appropriate in its use of language for the context of reporting news about a current event."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it provides a straightforward description of an event without ambiguity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it provides a straightforward description of an event without any ambiguity.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information about May's growth being less than April and March's growth, possibly indicating an emerging trend.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, conveying the information about May's growth being less than April and March, possibly indicating an emerging trend.""
+}",['clarity'],TRUE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, conveying the information effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information about May's growth being less than that in April and March, and the possibility of an emerging trend.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, as it effectively conveys the information about May's growth being less than that in April and March, and the possibility of an emerging trend.""
+}",['clarity'],1,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it uses appropriate language for discussing the topic of U.S. politics and the behavior of a political figure."" 
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""]
+  , ""Explanation"": ""The statement is clear and understandable to the audience, and it reflects the cultural norm of the appropriateness of discussing the coarsening of politics in relation to a specific political figure.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""]
+}
+
+ 
+ 	","['clarity', 'appropriateness']",TRUE,"{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience. It also addresses the appropriateness of the language used in the context of U.S. politics. The use of 'coarsened' is forceful and memorable, reinforcing the message."" 
+}","['clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""]
+}
+
+ 	","['clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience. It is also forceful in its assertion about the coarsening of U.S. politics, and it is appropriate in its use of language for discussing a serious topic."" 
+}","['clarity', 'appropriateness', 'forcefulness']",1,"['clarity', 'appropriateness', 'forcefulness']",1,0,,"['correctness', 'clarity', 'middle']"
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'forcefulness', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""high""]
+  ,
+  ""Explanation"": ""The sentence is well-formed grammatically and uses formal, high-level language appropriate for a news report. It is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety for communicating about legal proceedings and criminal charges.""
+}","['correctness', 'clarity', 'appropriateness', 'high']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""middle""]
+}","['correctness', 'clarity', 'appropriateness', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""high""]
+}
+
+ 
+
+  
+ ","['correctness', 'clarity', 'appropriateness', 'high']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""high""]
+}","['correctness', 'clarity', 'high']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""high""]
+}
+
+ 	","['correctness', 'clarity', 'appropriateness', 'high']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""high""],
+  ""Explanation"": ""The text is well-formed grammatically, clear and understandable to the intended audience, uses formal English, and is appropriate for a news report on a serious legal matter.""
+}","['correctness', 'clarity', 'appropriateness', 'high']",0,"['correctness', 'clarity', 'appropriateness', 'high']",1,0.5,it's possible GPT picked up the word 'formally' and assinged this property on that basis rather than reasoning through the instructions.,"['correctness', 'clarity', 'middle']"
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The tweet is clear and understandable to the intended audience, as it concisely communicates that President Trump said the right things.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable without ambiguity, and it is appropriate in the context of reporting on a political figure's statements.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The tweet is clear and understandable to the intended audience, as it conveys that President Trump said the 'right things'.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The tweet is clear and understandable to the intended audience, as it conveys the message effectively.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The tweet is clear and understandable to the intended audience, and it follows the appropriate cultural norms for social media communication.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it conveys the message that President Trump said the right things in a series of tweets on Thursday.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+13573,[],I am not a fan of Donald Trump.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience, conveying a clear opinion about Donald Trump.""
+}",['clarity'],"{
+  ""Properties"": [""appropriateness""],
+  ""Explanation"": ""The statement expresses a personal opinion about a political figure, which may not be appropriate in certain cultural or professional contexts.""
+}",['appropriateness'],"{
+    ""Properties"": [""appropriateness""],
+    ""Explanation"": ""The statement expresses a personal opinion about a controversial political figure, which may not align with cultural norms of propriety in certain contexts.""
+}",['appropriateness'],FALSE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, expressing a clear opinion about Donald Trump.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The statement is clear and understandable, and it is appropriate within the cultural norms of expressing personal opinions about public figures.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience without any ambiguity.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+14038,[],And in Russia.,Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear in its brevity, indicating a continuation or addition related to a previous context, likely in a news or discussion setting.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience despite its brevity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear in terms of being understandable to the intended audience, as it simply refers to a location without any ambiguity.""
+}",['clarity'],TRUE,"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable, as it consists of a simple statement without any ambiguity.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it is a simple statement indicating a location.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The text is clear and understandable to the intended audience, as it is a simple statement indicating a location.""
+}",['clarity'],1,['clarity'],0,0,,"[ 'clarity', 'middle']"
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""]
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text demonstrates correctness by following standard grammatical rules, clarity by being understandable to the intended audience, and appropriateness by conforming to the cultural norms of propriety in formal writing.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""correctness""],
+  ""Explanation"": ""The sentence is clear and understandable for the intended audience. It is also appropriate in terms of cultural norms and grammatically correct.""
+}","['clarity', 'appropriateness', 'correctness']",FALSE,"{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""middle""]
+}
+
+ 	","['correctness', 'clarity', 'appropriateness', 'middle']","{
+  ""Properties"": [""correctness"", ""clarity""],
+  ""Explanation"": ""The sentence is grammatically correct and clear in its communication of information about Haig's work history.""
+}","['correctness', 'clarity']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness"", ""middle""]
+}
+
+ 	","['correctness', 'clarity', 'appropriateness', 'middle']",0,"['correctness', 'clarity', 'appropriateness', 'middle']",1,0,,"['correctness', 'clarity', 'middle']"
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""low""]
+}","['clarity', 'forcefulness', 'low']","{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience, and it also conveys a forceful and striking expression delivering the intensity of the threat."" 
+}","['clarity', 'forcefulness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],FALSE,"{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and understandable to the intended audience, and it conveys a forceful and memorable expression that reinforces the message of the threats faced by Haig.""
+}","['clarity', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience. It also uses forceful language to convey the intensity of the threats."" 
+}","['clarity', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The statement is clear and easily understandable to the intended audience. It is forceful in conveying the intensity of the threats received.""
+}","['clarity', 'forcefulness']",1,"['clarity', 'forcefulness']",1,0,,"['correctness', 'clarity', 'middle']"
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'forcefulness', 'middle']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""]
+}
+
+ 
+ 	","['clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""clarity"", ""appropriateness"", ""forcefulness""]
+}
+
+  ","['clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""appropriateness"", ""clarity"", ""forcefulness""],
+  ""Explanation"": ""Appropriateness is present here because the language used is suitable for discussing sensitive and potentially controversial topics. Clarity is evident as the sentence effectively communicates the intended message to the audience. Forcefulness is displayed through the use of strong and impactful language to reinforce the gravity of the information being conveyed.""
+}","['appropriateness', 'clarity', 'forcefulness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""]
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""appropriateness""]
+}
+
+ 	","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity"", ""forcefulness"", ""allusions""]
+}","['clarity', 'forcefulness', 'allusions']",0,"['clarity', 'appropriateness']",1,0,,"['correctness', 'clarity', 'middle']"
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Language_varieties,"['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']","['correctness', 'clarity', 'middle']",TRUE,"['correctness', 'clarity', 'middle']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is written in a clear and understandable manner, making it accessible to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],"{
+  ""Properties"": [""clarity"", ""forcefulness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience. It also has forcefulness in the use of the word 'hailed', which makes the description memorable and impactful.""
+}","['clarity', 'forcefulness']",FALSE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, and it adheres to the cultural norms of propriety in news reporting.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and understandable to the intended audience, conveying the information about Campos being initially praised for his actions during the Las Vegas shooting."" 
+}",['clarity'],"{
+  ""Properties"": [""clarity""],
+  ""Explanation"": ""The sentence is clear and easily understandable to the intended audience.""
+}",['clarity'],0,['clarity'],1,0,,"['correctness', 'clarity', 'middle']"
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Language_varieties,"['correctness', 'clarity', 'forcefulness', 'appropriateness']","['middle', 'correctness', 'clarity', 'forcefulness', 'maxims/proverbs']","['middle', 'correctness', 'allusions', 'clarity', 'appropriateness']",FALSE,"['middle', 'correctness', 'allusions', 'clarity', 'appropriateness', 'forcefulness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text displays correctness in grammar and punctuation, it is clear and understandable to the intended audience, but it also reflects a specific cultural and religious perspective, which may be considered appropriate or inappropriate depending on the audience's beliefs and norms.""
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text demonstrates correctness by using well-formed grammatical structures. It also maintains clarity by being understandable to the intended audience. Additionally, it exhibits appropriateness by adhering to cultural norms of propriety despite discussing a potentially sensitive topic."" 
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text demonstrates correctness by being well-formed grammatically. It also exhibits clarity by being understandable to the intended audience. Additionally, it shows appropriateness by adhering to cultural norms of propriety in the context of discussing religious beliefs."" 
+}","['correctness', 'clarity', 'appropriateness']",TRUE,"{
+  ""Properties"": [""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text is clear in expressing the writer's opinion, but it may not be appropriate in all contexts due to its controversial and potentially offensive nature.""
+}","['clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text demonstrates correctness by using well-formed grammatical structures. It also exhibits clarity by being understandable to the intended audience. Additionally, the text shows appropriateness by adhering to cultural norms of propriety in the context of discussing religious beliefs."" 
+}","['correctness', 'clarity', 'appropriateness']","{
+  ""Properties"": [""correctness"", ""clarity"", ""appropriateness""],
+  ""Explanation"": ""The text demonstrates correctness by using well-formed grammatical structures. It also exhibits clarity by being understandable to the intended audience. Additionally, it shows appropriateness by adhering to cultural norms of propriety in discussing religious beliefs."" 
+}","['correctness', 'clarity', 'appropriateness']",0,,0,0,,"['middle', 'correctness', 'clarity', 'forcefulness', 'maxims/proverbs']"

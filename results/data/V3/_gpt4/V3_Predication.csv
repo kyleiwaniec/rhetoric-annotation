@@ -1,0 +1,2020 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,Unnamed: 28,property_gpt4,res_gpt4_0.0_V3_2,property_gpt4_0.0_V3_2
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [
+    ""active"",
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'is', and also multiple verbs about one subject, making it a compound predication.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'notes', 'are', 'infallible', 'content', and 'prevails'. These verbs indicate action or occurrence by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (are, is) and stative verbs (are, is) to describe the state of something or someone.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'are', and 'prevails'. These active verbs indicate actions performed by the subjects in the sentence.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'prevails'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are', 'are', 'prevails'. These active verbs indicate actions performed by the subject, meeting the criteria for the active property.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question does contain active voice verbs. In the clause 'I can tell you,' the subject 'I' is performing the action of 'can tell.' The subject is actively doing the telling, which is characteristic of the active voice. Additionally, 'the content of the written notes usually prevails' is another active clause where 'the content' is the subject doing the prevailing. Despite the sentence's complexity and the presence of passive constructions ('are infallible,' 'are contested'), the presence of active voice verbs in the main clauses qualifies the sentence as containing active voice.""
+}",['active']
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [
+    ""active"",
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'is', and also multiple verbs about one subject, making it a compound predication.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'notes', 'are', 'infallible', 'content', and 'prevails'. These verbs indicate action or occurrence by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (are, is) and stative verbs (are, is) to describe the state of something or someone.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'are', and 'prevails'. These active verbs indicate actions performed by the subjects in the sentence.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'prevails'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are', 'are', 'prevails'. These active verbs indicate actions performed by the subject, meeting the criteria for the active property.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does not contain what is traditionally known as 'passive voice,' which seems to be the intended meaning behind 'stative voice.' In passive voice, the subject of the sentence is acted upon by the verb, and this often involves a form of 'be' plus a past participle. The sentence provided ('As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.') does not contain passive constructions. Instead, it contains active verbs like 'can tell,' 'are,' and 'prevails,' where the subjects ('I,' 'notes nor memories,' 'content of the written notes') are performing the actions.""
+}",[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [
+    ""active"",
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'is', and also multiple verbs about one subject, making it a compound predication.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'notes', 'are', 'infallible', 'content', and 'prevails'. These verbs indicate action or occurrence by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (are, is) and stative verbs (are, is) to describe the state of something or someone.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'are', and 'prevails'. These active verbs indicate actions performed by the subjects in the sentence.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'prevails'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are', 'are', 'prevails'. These active verbs indicate actions performed by the subject, meeting the criteria for the active property.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves the use of both active and passive voice with respect to a single subject within the same clause or sentence. The example sentence you provided ('The telegram was late but contained exciting news.') does indeed illustrate compound voice, as 'was late' is in the passive voice and 'contained exciting news' is in the active voice, both referring to the subject 'The telegram.' However, the sentence in question ('As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.') does not exhibit this pattern. It does not use passive voice at all; it is entirely in the active voice. The subject 'I' is the actor performing the action 'can tell,' and 'the content of the written notes' is the subject performing the action 'prevails.' There is no shift from active to passive voice concerning a single subject within the same clause.""
+}",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. Instead, it is a complex sentence expressing a prediction about a future event without specifying any particular action or state.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'irreversible' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The phrase 'will fall' contains a stative verb ('fall') indicating a state or condition. The sentence also contains a compound verb structure with 'will fall' and 'will fall', involving multiple verbs about one subject.""
+}","['stative', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'will fall', indicating a state or condition that will occur in the future.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' to describe a future state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' which describes a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,['active'],will fail,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.' does not contain an active voice verb in the main clause. The subject of the sentence is 'A dark, impenetrable and “irreversible” winter of persecution of the faithful,' and the verb is 'will fall.' The subject is not performing the action of falling; instead, the sentence is constructed in a way that the 'winter of persecution' is something that happens to the subject, not an action performed by it. Additionally, the phrase 'by their own shepherds' indicates that the shepherds are the ones performing the action (persecution), which is a passive construction.""
+}",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. Instead, it is a complex sentence expressing a prediction about a future event without specifying any particular action or state.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'irreversible' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The phrase 'will fall' contains a stative verb ('fall') indicating a state or condition. The sentence also contains a compound verb structure with 'will fall' and 'will fall', involving multiple verbs about one subject.""
+}","['stative', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'will fall', indicating a state or condition that will occur in the future.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' to describe a future state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' which describes a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,['active'],will fail,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.' does not contain a stative voice verb as described. In the context of predication, stative verbs refer to a state of being or condition, and the subject is in that state rather than performing an action. However, the sentence provided does not follow the structure of stative voice as defined. The verb 'will fall' is a future tense verb indicating an action that will happen, not a state of being. Additionally, there is no use of 'be' as a helping verb, nor is there a main verb ending in 'ing.' The subject 'winter of persecution' is not receiving an action but is predicted to occur or happen.""
+}",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. Instead, it is a complex sentence expressing a prediction about a future event without specifying any particular action or state.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'irreversible' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The phrase 'will fall' contains a stative verb ('fall') indicating a state or condition. The sentence also contains a compound verb structure with 'will fall' and 'will fall', involving multiple verbs about one subject.""
+}","['stative', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'will fall', indicating a state or condition that will occur in the future.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' to describe a future state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' which describes a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,['active'],will fail,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.' does not contain compound voice. Compound voice would require a mix of active and passive constructions within the same sentence about a single subject. In this sentence, there is only a predictive active voice where 'a winter will fall' is a future tense prediction about the subject 'a winter'. There is no passive voice construction in this sentence.""
+}",[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the clause 'the letter to me from the UK Home Office said'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs such as 'said' and 'saying', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs, such as 'said', which indicate the action being performed by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action, fulfilling the stative property.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence in question does not contain an active voice verb related to the main action. The main clause of the sentence 'the letter to me from the UK Home Office said that I was banned' is in the passive voice. The subject of the sentence ('the letter') is not performing the action of the verb ('said'); instead, it is conveying a message or information that was acted upon by another agent, presumably the UK Home Office. The structure of the sentence indicates that the action (the banning) was done to the subject ('I') by an unspecified actor, which is a characteristic of the passive voice.""
+}",[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the clause 'the letter to me from the UK Home Office said'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs such as 'said' and 'saying', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs, such as 'said', which indicate the action being performed by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action, fulfilling the stative property.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question uses a form of the verb 'to be' ('was banned'), which is a passive construction. In a passive voice sentence, the subject ('I') is indeed the recipient of the action rather than the doer. However, the term 'stative voice' is not recognized in English grammar. Stative verbs are verbs that describe a state of being or condition, such as 'believe,' 'know,' or 'belong,' and they do not typically take a progressive form (ending in 'ing'). The sentence provided does not contain a stative verb in the progressive form, but it does use a passive voice construction. The explanation provided in the question seems to conflate stative verbs with passive voice, which are distinct concepts.""
+}",[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the clause 'the letter to me from the UK Home Office said'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs such as 'said' and 'saying', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs, such as 'said', which indicate the action being performed by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action, fulfilling the stative property.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves the use of both active and passive voice in relation to a single subject within the same sentence. In the given sentence, 'the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers...”', the sentence structure remains in the active voice throughout. The subject 'the letter' performs the action of 'saying', and there is no shift to passive voice where the subject would be acted upon by something else.""
+}",[]
+243,[2 6],Women everywhere should be furious.,Predication,['stative'],['stative'],['stative'],True,[],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence uses the stative verb 'should be' to express a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.' It is directly calling on women to feel a certain way.""
+}",['active'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious' which expresses an action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious.' does not contain an active voice verb in the sense of showing the subject performing an action. Instead, it expresses a state of being or condition that women should experience, which is 'furious.' The verb 'should be' is a modal verb combined with a state of being, which does not depict a direct action performed by the subject.""
+}",[]
+243,[2 6],Women everywhere should be furious.,Predication,['stative'],['stative'],['stative'],True,[],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence uses the stative verb 'should be' to express a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.' It is directly calling on women to feel a certain way.""
+}",['active'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious' which expresses an action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in linguistic terminology. The sentence 'Women everywhere should be furious.' does not contain a passive construction, which is likely what is meant by 'stative voice' in the context provided. In a passive construction, the subject of the sentence is acted upon by an external force or agent. The sentence in question uses a modal verb ('should') combined with the verb 'be' and an adjective ('furious'). There is no action being performed on the subject by an external agent, and thus it does not fit the description of a passive voice construction, nor does it fit the provided (though incorrect) definition of 'stative voice.'""
+}",[]
+243,[2 6],Women everywhere should be furious.,Predication,['stative'],['stative'],['stative'],True,[],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence uses the stative verb 'should be' to express a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.' It is directly calling on women to feel a certain way.""
+}",['active'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious' which expresses an action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious.' does not contain compound voice because it is solely in the active voice. Compound voice would require a combination of active and passive constructions within the same sentence about a single subject, which is not the case here.""
+}",[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (express, carrying) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' which indicate active voice. Additionally, it also has compound verbs 'is important', 'would be capable', and 'carrying out', where multiple verbs are connected to one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The example contains active verbs ('are', 'is', 'remember', 'express', 'carrying', 'denying'), stative verb ('is'), and compound verbs ('is important', 'would be capable', 'carrying out').""
+}","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (are, express, denying), stative verbs (are), and compound verbs (would be, carrying out).""
+}","['active', 'stative', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (express, carrying out) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' and also has a compound structure with multiple verbs 'are', 'express', 'denying' about one subject.""
+}","['active', 'compound']",0,"['active', 'stative', 'compound']",1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain active voice verbs as the main actions. The verbs 'are' and 'is' are forms of 'to be' and are used in a passive construction here. The sentence describes the state of being of 'claims' and what 'it' (referring to a situation or fact) is important to remember, rather than an action being performed by the subject. The latter part of the sentence, 'friends and neighbors express shock,' does contain an active verb ('express'), but it is a subordinate clause and not the main verb of the sentence's primary clause.""
+}",[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (express, carrying) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' which indicate active voice. Additionally, it also has compound verbs 'is important', 'would be capable', and 'carrying out', where multiple verbs are connected to one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The example contains active verbs ('are', 'is', 'remember', 'express', 'carrying', 'denying'), stative verb ('is'), and compound verbs ('is important', 'would be capable', 'carrying out').""
+}","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (are, express, denying), stative verbs (are), and compound verbs (would be, carrying out).""
+}","['active', 'stative', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (express, carrying out) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' and also has a compound structure with multiple verbs 'are', 'express', 'denying' about one subject.""
+}","['active', 'compound']",0,"['active', 'stative', 'compound']",1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence provided does contain stative verbs, which describe a state of being or condition, such as 'are' and 'is' in this context. However, the term 'stative voice' is incorrect. The sentence does not contain verbs in a passive construction, where the subject is the recipient of the action, which might be confused with the term 'stative voice.' The verbs 'are intriguing' and 'is important' are indeed stative verbs, but they do not indicate that the subject is receiving an action performed by someone else. Instead, they describe a state or quality of the subject. Therefore, the sentence does not contain what is described as 'stative voice' because that is not a recognized grammatical term or concept.""
+}",[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (express, carrying) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' which indicate active voice. Additionally, it also has compound verbs 'is important', 'would be capable', and 'carrying out', where multiple verbs are connected to one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The example contains active verbs ('are', 'is', 'remember', 'express', 'carrying', 'denying'), stative verb ('is'), and compound verbs ('is important', 'would be capable', 'carrying out').""
+}","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (are, express, denying), stative verbs (are), and compound verbs (would be, carrying out).""
+}","['active', 'stative', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (express, carrying out) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' and also has a compound structure with multiple verbs 'are', 'express', 'denying' about one subject.""
+}","['active', 'compound']",0,"['active', 'stative', 'compound']",1.0,0.0,GPT is mixing up the properties and definitions,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice because it does not combine both active and passive voice regarding a single subject. The sentence maintains a consistent voice throughout, which is the passive voice, indicated by phrases such as 'the claims are intriguing' and 'it is important to remember.' There is no shift to an active voice in relation to the same subject within the sentence.""
+}",[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains compound predication, as it expresses two contrasting actions (pardoning and locking up) related to two different subjects (drug dealers and ranchers) in a parallel structure.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs 'pardoned' and 'locked up', as well as a compound structure with multiple verbs about one subject (Obama and Trump) in the same sentence.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also features a compound structure with multiple verbs related to the same subject.""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('pardons', 'locked up') about one subject ('Obama' and 'Trump').""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,GPT is misinterpreting a property,['active'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.' contains active voice verbs. In this sentence, 'Obama' and 'Trump' are the subjects performing the actions described by the verbs 'pardoned' and 'locked up' for Obama, and 'pardons' and 'locks up' for Trump. Each verb directly follows its subject, clearly indicating that the subjects are performing the actions, which is characteristic of the active voice.""
+}",['active']
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains compound predication, as it expresses two contrasting actions (pardoning and locking up) related to two different subjects (drug dealers and ranchers) in a parallel structure.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs 'pardoned' and 'locked up', as well as a compound structure with multiple verbs about one subject (Obama and Trump) in the same sentence.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also features a compound structure with multiple verbs related to the same subject.""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('pardons', 'locked up') about one subject ('Obama' and 'Trump').""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,GPT is misinterpreting a property,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain stative voice verbs. Stative verbs describe a state of being or condition and do not involve an action being performed by the subject. In the sentence, 'Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers,' the verbs 'pardoned,' 'locked,' 'pardons,' and 'locks' are all action verbs, not stative. They describe actions taken by the subjects (Obama and Trump), not states of being. Additionally, the verbs do not follow the pattern of stative voice as described, where the subject is not doing the action but receiving it, nor is 'be' used as a helping verb here.""
+}",[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Predication,['active'],['active'],['active'],True,[],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains compound predication, as it expresses two contrasting actions (pardoning and locking up) related to two different subjects (drug dealers and ranchers) in a parallel structure.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs 'pardoned' and 'locked up', as well as a compound structure with multiple verbs about one subject (Obama and Trump) in the same sentence.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also features a compound structure with multiple verbs related to the same subject.""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('pardons', 'locked up') about one subject ('Obama' and 'Trump').""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,GPT is misinterpreting a property,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. However, the sentence provided does not contain a mix of active and passive voice regarding a single subject. Instead, it uses active voice throughout to describe the actions of two different subjects ('Obama' and 'Trump'). Each clause maintains the same voice, with the subjects actively performing the actions ('pardoned' and 'locked up' by Obama, 'pardons' and 'locks up' by Trump). There is no shift from active to passive or vice versa for any single subject within the sentence.""
+}",[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes a stative verb 'was' and a compound structure with multiple verbs ('can declare,' 'lacks').""
+}","['stative', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and uses an active voice construction.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'declare,' 'consults,' 'can' and 'lacks,' indicating the use of active voice.""
+}",['active'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' to express a state of being (invalid).""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and 'declare' which indicate action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (consults, can declare) and a stative verb (is).""
+}","['active', 'stative']",0,['stative'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question does contain active voice verbs. In the clause 'he consults a priest,' 'he' is the subject performing the action of consulting. Similarly, in 'he lacks canonical proof of invalidity,' 'he' is the subject performing the action of lacking. Both verbs 'consults' and 'lacks' are in the active voice because the subject is performing the action.""
+}",['active']
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes a stative verb 'was' and a compound structure with multiple verbs ('can declare,' 'lacks').""
+}","['stative', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and uses an active voice construction.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'declare,' 'consults,' 'can' and 'lacks,' indicating the use of active voice.""
+}",['active'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' to express a state of being (invalid).""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and 'declare' which indicate action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (consults, can declare) and a stative verb (is).""
+}","['active', 'stative']",0,['stative'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain stative voice verbs as defined in the context provided. Stative voice, as described, would involve the subject receiving the action with 'be' as a helping verb and the main verb not ending in 'ing.' In the sentence given, 'consults' and 'can declare' are active voice verbs where the subject ('No Catholic') is performing the actions. The verbs do not follow the pattern of stative voice as there is no use of 'be' as a helping verb, nor is the subject receiving the action of the verb.""
+}",[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,[],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes a stative verb 'was' and a compound structure with multiple verbs ('can declare,' 'lacks').""
+}","['stative', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and uses an active voice construction.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'declare,' 'consults,' 'can' and 'lacks,' indicating the use of active voice.""
+}",['active'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' to express a state of being (invalid).""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and 'declare' which indicate action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (consults, can declare) and a stative verb (is).""
+}","['active', 'stative']",0,['stative'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. Typically, we discuss voice in terms of 'active' or 'passive'. An active voice is where the subject performs the action of the verb, and a passive voice is where the subject is acted upon by the verb. The sentence provided does not contain a mixture of active and passive voice regarding a single subject. Instead, it maintains a consistent voice throughout. The sentence is in the active voice, with 'No Catholic' as the subject performing the actions (cannot declare, lacks). Therefore, it does not contain what was described as 'compound' voice in the context of the question.""
+}",[]
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Predication,['stative'],['stative'],['stative'],True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' as part of the phrase 'is not'. This indicates a state of being or a condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', indicating a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which is used to express a state of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look' which indicates action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain an active voice verb as per the definition given. In the sentence 'And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like,' the subject 'it' is not performing an action but rather is in a state of being, indicated by the verb 'is.' The phrase 'it is hard to see' is a passive construction because 'it' is not doing the action of seeing; instead, 'it' is the subject of a statement about the difficulty of seeing something. The sentence is expressing a state or condition rather than an action being performed by the subject.""
+}",[]
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Predication,['stative'],['stative'],['stative'],True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' as part of the phrase 'is not'. This indicates a state of being or a condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', indicating a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which is used to express a state of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look' which indicates action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a stative voice verb as defined in the context provided. The term 'stative voice' is not a standard term in English grammar; however, the explanation seems to conflate passive voice with what is being called 'stative voice.' In the passive voice, the subject of the sentence is acted upon by the verb. The sentence 'And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like' does contain a form of the verb 'to be' ('is'), but it is used here as a linking verb, not as an auxiliary verb in a passive construction. The verb 'is' links the subject 'Trumpism' with the complement 'the future of the GOP,' which does not indicate an action being received by the subject. Therefore, the sentence does not fit the provided definition of 'stative voice,' which seems to describe passive voice.""
+}",[]
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Predication,['stative'],['stative'],['stative'],True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' as part of the phrase 'is not'. This indicates a state of being or a condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', indicating a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which is used to express a state of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look' which indicates action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,GPT is mixing up the properties and definitions,['stative'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice because it does not combine both active and passive voice regarding a single subject. The sentence is entirely in the active voice, with the subject 'it' performing the action 'is hard to see.' There is no passive construction within the sentence.""
+}",[]
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'set' and 'belong', which indicates action or movement.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active ('set') and stative ('cannot remain') verbs.""
+}","['active', 'stative']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'remain' which indicates a state of being.""
+}",['stative'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'set' and 'belong', which indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (set, belong) and stative verbs (remain, belong) indicating action and state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'set' and 'belong' which indicate action being performed by the subject.""
+}",['active'],0,['active'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.' contains active voice verbs. In this sentence, 'The Prologue' is the subject performing the action of setting 'this choice before us.' Additionally, 'we' is the subject in the latter part of the sentence performing the actions 'cannot remain neutral' and 'must belong wholly to the one or wholly to the other.' Both subjects are actively doing something, which is characteristic of the active voice.""
+}",['active']
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'set' and 'belong', which indicates action or movement.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active ('set') and stative ('cannot remain') verbs.""
+}","['active', 'stative']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'remain' which indicates a state of being.""
+}",['stative'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'set' and 'belong', which indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (set, belong) and stative verbs (remain, belong) indicating action and state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'set' and 'belong' which indicate action being performed by the subject.""
+}",['active'],0,['active'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in traditional grammatical terms. The sentence in question does not contain a verb in a voice that indicates the subject is receiving the action. Instead, 'set' is a transitive verb in the active voice, where 'The Prologue' is the subject performing the action of setting a choice before us. Additionally, the sentence does not follow the pattern described for 'stative voice' verbs, as there is no 'be' helping verb, and the main verb 'set' does not end in 'ing.'""
+}",[]
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'set' and 'belong', which indicates action or movement.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active ('set') and stative ('cannot remain') verbs.""
+}","['active', 'stative']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'remain' which indicates a state of being.""
+}",['stative'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'set' and 'belong', which indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (set, belong) and stative verbs (remain, belong) indicating action and state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'set' and 'belong' which indicate action being performed by the subject.""
+}",['active'],0,['active'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves the use of both active and passive voice with respect to a single subject within the same sentence. In the given sentence, 'The Prologue set this choice before us' is in the active voice, where 'The Prologue' is the subject performing the action of setting. The rest of the sentence does not switch to passive voice; it continues to describe the choice set before the subject in active terms. Therefore, the sentence does not exhibit a combination of active and passive voice regarding a single subject.""
+}",[]
+319,[3],It’s not coming back.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' that expresses a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' indicating a state of absence or non-existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence uses a stative verb 'coming' to describe a state of being for the subject. It does not involve an action in progress.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the sentence 'It’s not coming back,' the subject 'It' is performing the action of 'not coming back.' Despite the negative form, the sentence is still in the active voice because the subject is carrying out the action.""
+}",['active']
+319,[3],It’s not coming back.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' that expresses a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' indicating a state of absence or non-existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence uses a stative verb 'coming' to describe a state of being for the subject. It does not involve an action in progress.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence 'It’s not coming back' contains a verb in the progressive form ('coming'), which indicates ongoing action, not a state. Additionally, stative verbs typically refer to a state of being or condition and do not usually take the progressive form ('-ing'). The sentence does not show a subject being acted upon by another agent, which would be characteristic of the passive voice, not 'stative voice.'""
+}",[]
+319,[3],It’s not coming back.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' that expresses a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' indicating a state of absence or non-existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence uses a stative verb 'coming' to describe a state of being for the subject. It does not involve an action in progress.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'It’s not coming back.' does not contain compound voice because it is solely in the active voice. Compound voice would require a combination of both active and passive voice in relation to a single subject within the same sentence. In this case, the verb 'coming' is in the active voice and there is no passive voice component present.""
+}",[]
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' to express a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'means' and 'shall flourish', indicating a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains the stative property of predication because it includes the stative verb 'means.' Stative verbs express a state or condition, and in this case, it conveys the meaning of the action of blessing.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain an active voice verb in the main clause. The main clause of the sentence ('To bless always means that something shall flourish') uses a verb ('means') that does not have a subject performing the action. Instead, it is an infinitive phrase ('To bless') acting as the subject of the sentence. The verb 'means' is a linking verb, connecting the subject to the complement or definition of the subject, rather than showing an action performed by the subject. Additionally, the clause ('because only then when there is a blessing upon a cause or a project, will something good come out of it') is a complex sentence structure that includes a modal verb ('will') and a passive construction ('something good come out of it'), which does not explicitly state the actor or the doer of the action. Therefore, the sentence does not exemplify the active voice.""
+}",[]
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' to express a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'means' and 'shall flourish', indicating a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains the stative property of predication because it includes the stative verb 'means.' Stative verbs express a state or condition, and in this case, it conveys the meaning of the action of blessing.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terms. The sentence provided does not contain a passive construction, which is likely what is meant by 'stative voice' in the context given. The verbs in the sentence ('means', 'shall flourish', 'is', 'come') are not used in a passive voice, where the subject is acted upon by the verb. Instead, they are active verbs or linking verbs that describe a state of being or a condition. Additionally, the sentence does not follow the structure of having 'be' as a helping verb followed by a main verb not ending in 'ing.' Therefore, the sentence does not contain what is described as 'stative voice' verbs.""
+}",[]
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' to express a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'means' and 'shall flourish', indicating a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains the stative property of predication because it includes the stative verb 'means.' Stative verbs express a state or condition, and in this case, it conveys the meaning of the action of blessing.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. Typically, we discuss voice in terms of 'active' or 'passive'. An active voice is where the subject performs the action stated by the verb, and a passive voice is where the subject is acted upon by the verb. The sentence provided ('To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.') does not contain a mix of active and passive voice regarding a single subject. Instead, it maintains a consistent use of active voice, with the subjects ('something', 'a blessing', 'something good') performing the actions ('shall flourish', 'come out'). Therefore, it does not contain what was described as 'compound voice'.""
+}",[]
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('was,' 'described,' 'challenging') and a compound structure with multiple verbs about one subject ('was,' 'described,' 'challenging').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described', 'said', and 'challenging'.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative"", ""compound""]
+} 
+ ","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', as well as a compound verb 'were...taken' involving multiple verbs about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""]
+}
+
+ 	","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', indicating actions performed by the subject.""
+}",['active'],0,"['active', 'compound']",0.0,1.0,,"['active', 'compound']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence in question does not contain an active voice verb in the main clause. The main clause of the sentence is 'Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,' where the subject 'Their only defense' is not performing the action but is being described by a state of being, indicated by the verb 'was.' This is a form of the verb 'to be,' which is often used in passive constructions or to describe states of being rather than actions performed by the subject. Therefore, the sentence is not in the active voice.""
+}",[]
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('was,' 'described,' 'challenging') and a compound structure with multiple verbs about one subject ('was,' 'described,' 'challenging').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described', 'said', and 'challenging'.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative"", ""compound""]
+} 
+ ","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', as well as a compound verb 'were...taken' involving multiple verbs about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""]
+}
+
+ 	","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', indicating actions performed by the subject.""
+}",['active'],0,"['active', 'compound']",0.0,1.0,,"['active', 'compound']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does contain stative verbs, which describe a state of being or condition, such as 'was' in 'Their only defense was that the activities they described...' However, the term 'stative voice' is incorrect. The correct term is 'stative verb,' and it refers to verbs that express a state rather than an action. Furthermore, stative verbs can indeed be used with 'be' as a helping verb and can end in 'ing' when used in a progressive tense to indicate a temporary state, which contradicts the definition provided. Therefore, the sentence does not contain 'stative voice' because that is not a recognized grammatical term.""
+}",[]
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('was,' 'described,' 'challenging') and a compound structure with multiple verbs about one subject ('was,' 'described,' 'challenging').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described', 'said', and 'challenging'.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative"", ""compound""]
+} 
+ ","['active', 'stative', 'compound']",False,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', as well as a compound verb 'were...taken' involving multiple verbs about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""]
+}
+
+ 	","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', indicating actions performed by the subject.""
+}",['active'],0,"['active', 'compound']",0.0,1.0,,"['active', 'compound']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a recognized term in traditional grammatical theory. The sentence provided does not contain a mixture of active and passive voice regarding a single subject within the same clause. Instead, it contains a mix of direct speech and reporting verbs in active voice. The sentence 'Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,' is in the passive voice, indicating the defense that was given. The rest of the sentence, 'Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both,' is a narrative of what Carlson did and said, which is in the active voice. However, these are separate clauses and do not constitute a 'compound voice' as described.""
+}",[]
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains stative verbs such as 'are' and 'is,' which express a state of being. It also includes compound verbs like 'have' and 'turn' which have multiple verbs related to one subject.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example text contains stative verbs such as 'are' and 'is' to express the state of being of the subjects 'wicked men' and 'America'. The verbs describe the condition or state of the subjects rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'are', 'have', 'is', 'will', which indicate a state or condition rather than an action. These verbs express the state of being or the state of something.""
+}",['stative'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],0.0,0.0,,"['active', 'stative', 'compound']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question contains active voice verbs. For instance, 'Americans are bringing upon themselves destruction' has 'Americans' as the subject performing the action of bringing. Similarly, 'God judges and is judging America today' has 'God' as the subject performing the action of judging. Despite the complex structure and multiple clauses, the subjects of these verbs are performing the actions, which is indicative of the active voice.""
+}",['active']
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains stative verbs such as 'are' and 'is,' which express a state of being. It also includes compound verbs like 'have' and 'turn' which have multiple verbs related to one subject.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example text contains stative verbs such as 'are' and 'is' to express the state of being of the subjects 'wicked men' and 'America'. The verbs describe the condition or state of the subjects rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'are', 'have', 'is', 'will', which indicate a state or condition rather than an action. These verbs express the state of being or the state of something.""
+}",['stative'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],0.0,0.0,,"['active', 'stative', 'compound']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not align with established grammatical terminology. In grammar, verbs are typically categorized as 'stative' or 'dynamic' based on the kind of action they describe. Stative verbs describe a state of being or condition (e.g., 'know', 'believe', 'prefer'), whereas dynamic verbs describe actions (e.g., 'run', 'talk', 'write'). The term 'stative voice' is not standard; instead, we talk about 'active' and 'passive' voice. In the passive voice, the subject of the sentence is acted upon by the verb, and this often involves a form of 'be' plus the past participle of the main verb. The sentence provided does not contain a passive construction but rather a series of stative and dynamic verbs in active constructions. Therefore, the sentence does not contain what is described as 'stative voice' because the term is not applicable, and the sentence does not exhibit passive voice characteristics.""
+}",[]
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains stative verbs such as 'are' and 'is,' which express a state of being. It also includes compound verbs like 'have' and 'turn' which have multiple verbs related to one subject.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example text contains stative verbs such as 'are' and 'is' to express the state of being of the subjects 'wicked men' and 'America'. The verbs describe the condition or state of the subjects rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'are', 'have', 'is', 'will', which indicate a state or condition rather than an action. These verbs express the state of being or the state of something.""
+}",['stative'],False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],0.0,0.0,,"['active', 'stative', 'compound']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' as described is not a standard term in linguistic or grammatical analysis. However, the sentence provided does not contain a mix of active and passive voice regarding a single subject in the same clause, which seems to be the intended meaning of 'compound voice' in the question. The sentence is complex and contains multiple clauses with different subjects, but it does not exhibit a structure where both active and passive voice are used about a single subject in the same clause. Each clause maintains a consistent voice, either active or passive, throughout.""
+}",[]
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Predication,['stative'],['stative'],['stative'],True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' and a direct object 'odd', which makes use of the active voice. The verb 'is' is the core of the predication, and it is in the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', which indicates the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' in the form 'is + adjective' (is odd).""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],1,['active'],1.0,0.0,,['stative'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the sentence provided, 'His warning...is odd,' the subject 'His warning' is performing the action of being 'odd.' The verb 'is' links the subject to the adjective 'odd,' making it a simple sentence in the active voice. There is no action being performed upon the subject by another actor, which would indicate passive voice.""
+}",['active']
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Predication,['stative'],['stative'],['stative'],True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' and a direct object 'odd', which makes use of the active voice. The verb 'is' is the core of the predication, and it is in the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', which indicates the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' in the form 'is + adjective' (is odd).""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],1,['active'],1.0,0.0,,['stative'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.' does not contain a stative voice verb as described in the context provided. In the sentence, 'is' functions as a linking verb, connecting the subject 'His warning' with the predicate adjective 'odd.' The verb 'is' does not indicate that the subject is receiving an action, but rather it describes a state of being. Additionally, the sentence does not fit the provided definition of stative voice verbs where the subject receives the action, nor does it avoid the use of 'ing' in the main verb, as 'making' ends with 'ing'.""
+}",[]
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Predication,['stative'],['stative'],['stative'],True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' and a direct object 'odd', which makes use of the active voice. The verb 'is' is the core of the predication, and it is in the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', which indicates the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' in the form 'is + adjective' (is odd).""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],1,['active'],1.0,0.0,,['stative'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.' does not contain compound voice. Compound voice would require both an active and a passive construction about a single subject within the same sentence. In this sentence, there is only a passive construction ('is odd'), and there is no active voice present. The sentence maintains a consistent voice throughout.""
+}",[]
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Predication,['active'],['active'],['active'],True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, such as 'published', 'discloses', and 'assure'. These verbs show actions being performed by the subject, indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'published' and 'discloses' which demonstrate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'discloses', which represents an action carried out by the subject 'investigation'.""
+}",['active'],True,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('published', 'discloses') and a compound verb structure ('would receive', 'engaged').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'published', 'discloses', and 'assure', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('discloses', 'assure') and a compound structure with multiple verbs ('discloses', 'assure') about one subject.""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question does contain active voice verbs. In the phrase 'the investigation... further discloses secret efforts,' the subject 'the investigation' performs the action of disclosing. Despite the complex structure of the sentence, the action is directly attributed to the subject, which is characteristic of the active voice.""
+}",['active']
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Predication,['active'],['active'],['active'],True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, such as 'published', 'discloses', and 'assure'. These verbs show actions being performed by the subject, indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'published' and 'discloses' which demonstrate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'discloses', which represents an action carried out by the subject 'investigation'.""
+}",['active'],True,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('published', 'discloses') and a compound verb structure ('would receive', 'engaged').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'published', 'discloses', and 'assure', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('discloses', 'assure') and a compound structure with multiple verbs ('discloses', 'assure') about one subject.""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does not contain what is traditionally known as 'stative verbs.' Stative verbs are verbs that describe a state of being or condition, such as 'know,' 'believe,' 'like,' etc. They do not describe actions being done to the subject, as passive voice constructions do. The sentence provided uses active voice, where the subject ('The investigation') is performing the action ('discloses'). Additionally, stative verbs can indeed be used with 'be' as a helping verb and can end in 'ing' when they are used in continuous tenses to indicate temporary states, contrary to the claim in the context provided. Therefore, the sentence does not contain 'stative voice' verbs as per the incorrect definition given, nor does it contain stative verbs in the traditional sense.""
+}",[]
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Predication,['active'],['active'],['active'],True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, such as 'published', 'discloses', and 'assure'. These verbs show actions being performed by the subject, indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'published' and 'discloses' which demonstrate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'discloses', which represents an action carried out by the subject 'investigation'.""
+}",['active'],True,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('published', 'discloses') and a compound verb structure ('would receive', 'engaged').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'published', 'discloses', and 'assure', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('discloses', 'assure') and a compound structure with multiple verbs ('discloses', 'assure') about one subject.""
+}","['active', 'compound']",0,"['active', 'compound']",1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves a single subject being described with both active and passive constructions. In the sentence given, 'The investigation' is the subject of the main clause and is described in the passive voice ('was published'). However, there is no active voice construction applied to the same subject within the same sentence. The rest of the sentence continues to provide additional information about the investigation in a descriptive manner, but it does not switch to an active voice where 'the investigation' would be the actor performing an action.""
+}",[]
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Predication,['active'],['active'],['active'],True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' which denotes action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains an active verb 'empty' in 'any purge would empty parishes', indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead'. 'Empty' is an active verb describing the potential action of a purge, while 'lead' is a stative verb describing the ongoing state of the priests and bishops.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.' contains an active voice verb. In this case, 'lead' is the active voice verb where the subject ('the thousands of priests and bishops') is performing the action of leading healthy and faithful lives.""
+}",['active']
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Predication,['active'],['active'],['active'],True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' which denotes action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains an active verb 'empty' in 'any purge would empty parishes', indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead'. 'Empty' is an active verb describing the potential action of a purge, while 'lead' is a stative verb describing the ongoing state of the priests and bishops.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain stative voice verbs as defined in the context provided. The verbs in the sentence ('would empty' and 'lead') do not follow the structure of stative voice as described. In the sentence, 'would empty' is a modal verb followed by a base verb, not a 'be' verb followed by a past participle, and 'lead' is a simple present tense verb, not a verb in a passive construction. Additionally, neither verb is accompanied by 'be' as a helping verb, nor is the main verb in a non-'ing' form as a result of being in a passive construction. The subject 'thousands of priests and bishops' is actively doing the action of leading, not receiving the action.""
+}",[]
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Predication,['active'],['active'],['active'],True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' which denotes action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains an active verb 'empty' in 'any purge would empty parishes', indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead'. 'Empty' is an active verb describing the potential action of a purge, while 'lead' is a stative verb describing the ongoing state of the priests and bishops.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice because it does not combine both active and passive voice regarding a single subject. The sentence 'Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.' is entirely in the active voice, with the subject 'Any purge' performing the action 'would empty.'""
+}",[]
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'. There are no active or compound verbs in this sentence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'defended' to express a state of action or being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the action rather than an ongoing action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' describing the action of Danny Davis.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes a state of action rather than an active action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""In the sentence provided, 'Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday,' the subject 'Democratic Illinois Rep. Danny Davis' is performing the action of the verb 'defended.' Therefore, the verb 'defended' is in the active voice, as the subject is actively carrying out the action.""
+}",['active']
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'. There are no active or compound verbs in this sentence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'defended' to express a state of action or being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the action rather than an ongoing action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' describing the action of Danny Davis.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes a state of action rather than an active action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.' does not contain a stative voice verb. In this sentence, the subject 'Democratic Illinois Rep. Danny Davis' is actively performing the action of defending, which is indicated by the verb 'defended.' This is an example of an active voice, where the subject performs the action denoted by the verb. Additionally, the verb 'defended' does not follow the criteria for stative voice as described: it is not paired with the helping verb 'be,' nor is the main verb in a non-'ing' form as it is a past tense verb.""
+}",[]
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'. There are no active or compound verbs in this sentence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'defended' to express a state of action or being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the action rather than an ongoing action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' describing the action of Danny Davis.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes a state of action rather than an active action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.' does not contain compound voice. It is entirely in the active voice, with the subject 'Democratic Illinois Rep. Danny Davis' performing the action 'defended.' Compound voice would require a mix of active and passive constructions within the same sentence about a single subject, which is not the case here.""
+}",[]
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The given text contains an active verb 'should stop' as the main predicate.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'should stop' and 'continues', which indicates action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'should stop', indicating an action being performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'should stop' which indicates an action performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'. These active verbs indicate action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains an active voice verb phrase 'should stop'. In this phrase, the subject 'Attorney General Jeff Sessions' is the person who is being called to perform the action 'stop'. The structure of the sentence places the subject as the doer of the action, which is characteristic of the active voice.""
+}",['active']
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The given text contains an active verb 'should stop' as the main predicate.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'should stop' and 'continues', which indicates action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'should stop', indicating an action being performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'should stop' which indicates an action performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'. These active verbs indicate action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does contain a stative verb, which is 'is' in 'This is a terrible situation.' Stative verbs describe a state of being or condition, and 'is' fits this description. However, the term 'stative voice' is not recognized in linguistic grammar. The sentence also contains an imperative mood where 'should stop' is used, which is a directive for someone to take action, not a description of a state of being. Therefore, the sentence does not contain what is described as 'stative voice' because that term is not applicable in this context.""
+}",[]
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The given text contains an active verb 'should stop' as the main predicate.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'should stop' and 'continues', which indicates action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'should stop', indicating an action being performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'should stop' which indicates an action performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'. These active verbs indicate action being performed by the subject.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves the use of both active and passive voice with respect to a single subject within the same sentence. In the given sentence, 'This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further,' the subject 'Attorney General Jeff Sessions' is only associated with an active voice construction ('should stop this Rigged Witch Hunt right now'). There is no passive voice construction applied to the subject within the sentence. Therefore, it does not exhibit the characteristics of a compound voice.""
+}",[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Predication,['stative'],['stative'],['stative'],True,['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains multiple verbs ('is', 'problem') about one subject ('it').""
+}",['compound'],"{
+  ""Properties"": [
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains a compound predicate 'is' and 'problem'. Both verbs are about the same subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which denotes a state of being ('is a national problem'). There are no active or compound verbs present in the given example.""
+}",['stative'],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase 'it's a national problem.' This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],0,['compound'],1.0,0.0,,['stative'],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'And it’s a problem not just in West Virginia – it’s a national problem.' does not contain an active voice verb where the subject performs an action. Instead, the sentence is structured in the form of a state of being, using the verb 'is' to describe the existence of a problem. There is no action being performed by the subject.""
+}",[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Predication,['stative'],['stative'],['stative'],True,['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains multiple verbs ('is', 'problem') about one subject ('it').""
+}",['compound'],"{
+  ""Properties"": [
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains a compound predicate 'is' and 'problem'. Both verbs are about the same subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which denotes a state of being ('is a national problem'). There are no active or compound verbs present in the given example.""
+}",['stative'],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase 'it's a national problem.' This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],0,['compound'],1.0,0.0,,['stative'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'And it’s a problem not just in West Virginia – it’s a national problem.' does not contain a stative voice verb as described. In the context of predication, stative verbs refer to a state of being or condition, such as 'know,' 'believe,' or 'own.' The sentence in question uses the verb 'is,' which is a state of being verb, but it does not fit the provided definition of stative voice because the subject ('it') is not receiving an action from someone else; rather, 'it' is being equated with 'a problem.' Additionally, the concept of 'stative voice' is not a standard grammatical term. The term 'stative' typically refers to a type of verb that denotes a state or condition, as opposed to an action (dynamic verb), and there is no action being received by the subject in this sentence. Therefore, the sentence does not contain a stative voice verb as per the definition provided.""
+}",[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Predication,['stative'],['stative'],['stative'],True,['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains multiple verbs ('is', 'problem') about one subject ('it').""
+}",['compound'],"{
+  ""Properties"": [
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains a compound predicate 'is' and 'problem'. Both verbs are about the same subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which denotes a state of being ('is a national problem'). There are no active or compound verbs present in the given example.""
+}",['stative'],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase 'it's a national problem.' This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],0,['compound'],1.0,0.0,,['stative'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'And it’s a problem not just in West Virginia – it’s a national problem.' does not contain compound voice. Compound voice involves the use of both active and passive voice in relation to a single subject within the same sentence. In the provided sentence, there is no use of passive voice; the sentence maintains a simple active voice throughout, stating that 'it' (the problem) exists in West Virginia and is also a national problem. Both clauses are in active voice and refer to the same subject without any change in voice.""
+}",[]
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'provides' and 'claims', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'are'. These active verbs indicate that the subject of the sentence is performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, such as 'provides', 'claims', 'is', 'covering', and 'happened', which indicate actions taken by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', 'covering'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering'. These verbs indicate actions or states of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering', indicating the use of active voice.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question does contain active voice verbs. In the phrase 'authorities are actually actively covering up,' 'authorities' is the subject performing the action of 'covering up,' which is an active voice construction. The subject (authorities) is doing the action of covering up, which aligns with the definition of active voice as the sentence structure where the subject performs the action denoted by the verb.""
+}",['active']
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'provides' and 'claims', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'are'. These active verbs indicate that the subject of the sentence is performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, such as 'provides', 'claims', 'is', 'covering', and 'happened', which indicate actions taken by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', 'covering'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering'. These verbs indicate actions or states of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering', indicating the use of active voice.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a stative voice verb as defined in the context. Stative verbs describe a state of being or condition, and they do not usually involve an action being performed by the subject or received by the subject. In the sentence, 'provides' is an active verb showing what the 'tower audio' is doing, not what is being done to it. Additionally, the verb 'provides' ends in 'ing' when in the present participle form (providing), which contradicts the definition given that stative voice verbs will never end in 'ing.' Therefore, the sentence does not exhibit the characteristics of the stative voice as described.""
+}",[]
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'provides' and 'claims', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'are'. These active verbs indicate that the subject of the sentence is performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, such as 'provides', 'claims', 'is', 'covering', and 'happened', which indicate actions taken by the subject.""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', 'covering'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering'. These verbs indicate actions or states of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering', indicating the use of active voice.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice because it does not use both active and passive voice about a single subject. The sentence maintains a consistent active voice throughout, with the subject 'the stunning tower audio' performing the action of providing proof. There is no shift to passive voice where the subject would be acted upon by something else. Therefore, the sentence does not exhibit the characteristics of compound voice as defined.""
+}",[]
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a compound structure with 'said' and 'was' both being verbs about the same subject 'the group'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains both an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'He said the group was a toothless, paper-shuffling exercise.' contains an active voice verb. In this sentence, 'He' is the subject who is performing the action of saying. The verb 'said' is in the active voice because it directly relates the subject to the action of saying something about the group.""
+}",['active']
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a compound structure with 'said' and 'was' both being verbs about the same subject 'the group'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains both an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence 'He said the group was a toothless, paper-shuffling exercise.' contains a stative verb 'was,' which describes a state of being. However, the term 'stative voice' is not recognized in linguistic theory. Instead, we talk about 'stative verbs,' which refer to a state of being, emotion, possession, sense, or opinion. In this sentence, 'was' is a stative verb, but it does not fit the provided (and incorrect) definition of 'stative voice' because the subject 'group' is not receiving an action. Additionally, the sentence does not contain a main verb ending in 'ing' nor is it structured to indicate that the subject is receiving an action.""
+}",[]
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a compound structure with 'said' and 'was' both being verbs about the same subject 'the group'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains both an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'He said the group was a toothless, paper-shuffling exercise.' does not contain a compound voice. Compound voice refers to a sentence where both active and passive voice are used in relation to a single subject. In the provided sentence, there is only one clause 'He said the group was a toothless, paper-shuffling exercise', and it is in the active voice. The subject 'He' is performing the action of saying, and there is no passive voice construction within the sentence.""
+}",[]
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The phrase 'is breaking down' contains an active verb 'breaking', which indicates ongoing action""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'are breaking down' which indicates an action performed by the subject 'sisters'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', indicating action by the subject 'the case of the Netherlands'.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' which indicates a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'the case of the Netherlands'.""
+}",['active'],0,['stative'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.' contains active voice verbs. In the first clause, 'is' is a linking verb that connects the subject 'The case of the Netherlands' with the predicate adjective 'downright bizarre,' which describes the subject. In the second clause, 'are breaking down' is an active voice verb phrase where the subject 'federation structures' performs the action of 'breaking down.'""
+}",['active']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The phrase 'is breaking down' contains an active verb 'breaking', which indicates ongoing action""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'are breaking down' which indicates an action performed by the subject 'sisters'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', indicating action by the subject 'the case of the Netherlands'.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' which indicates a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'the case of the Netherlands'.""
+}",['active'],0,['stative'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in traditional grammatical terms. The sentence provided does not contain any verbs in a passive construction, which is likely what is meant by 'stative voice' in the context given. The verbs in the sentence ('is' and 'are breaking down') are not used in a passive voice where the subject is acted upon by the verb. Instead, 'is' is a linking verb connecting the subject 'case of the Netherlands' with the predicate adjective 'downright bizarre,' and 'are breaking down' is an active voice verb phrase describing the action of the 'federation structures.' Therefore, the sentence does not contain what is described as 'stative voice' verbs.""
+}",[]
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The phrase 'is breaking down' contains an active verb 'breaking', which indicates ongoing action""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'are breaking down' which indicates an action performed by the subject 'sisters'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', indicating action by the subject 'the case of the Netherlands'.""
+}",['active'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' which indicates a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'the case of the Netherlands'.""
+}",['active'],0,['stative'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. However, the example provided suggests that 'compound voice' refers to a sentence where both active and passive voice are used with respect to a single subject. In the sentence 'The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down,' there is no use of passive voice. The sentence is entirely in the active voice, with 'the case...is' and 'sisters...are breaking down' both being active constructions. Therefore, it does not contain what is described as 'compound voice' in the context provided.""
+}",[]
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the form 'Greg Rinckey said.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which indicates an action performed by the subject 'Greg Rinckey'.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains the active verb 'said.'""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a clear indication of the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a key property of Predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' with a clear subject 'Greg Rinckey' performing the action.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'It was a foolish mistake by a very young man,' Saucier’s lawyer, Greg Rinckey, said, does not contain an active voice in the main clause. The main clause 'It was a foolish mistake by a very young man' is in the passive voice because the subject 'It' is not performing the action but is rather the recipient of the action. The agent of the action, 'a very young man,' is introduced by the preposition 'by,' which is a common marker of the passive voice. The active voice equivalent would be 'A very young man made a foolish mistake.' However, the reporting clause 'Saucier’s lawyer, Greg Rinckey, said' is in the active voice, with 'Greg Rinckey' as the subject performing the action of saying.""
+}",[]
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the form 'Greg Rinckey said.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which indicates an action performed by the subject 'Greg Rinckey'.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains the active verb 'said.'""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a clear indication of the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a key property of Predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' with a clear subject 'Greg Rinckey' performing the action.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'It was a foolish mistake by a very young man,' does not contain a stative voice verb as described in the context provided. The verb 'was' is a form of 'be,' which can be used with stative verbs, but in this sentence, it functions as a linking verb connecting the subject 'It' with the complement 'a foolish mistake.' There is no action being received by the subject, and 'was' is not used as a helping verb here. Additionally, the sentence does not contain a main verb that could be considered in a stative or passive construction. Therefore, the sentence does not fit the description of containing a stative voice verb.""
+}",[]
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the form 'Greg Rinckey said.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which indicates an action performed by the subject 'Greg Rinckey'.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains the active verb 'said.'""
+}",['active'],True,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a clear indication of the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a key property of Predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' with a clear subject 'Greg Rinckey' performing the action.""
+}",['active'],1,['active'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'It was a foolish mistake by a very young man,' Saucier’s lawyer, Greg Rinckey, said, does not contain compound voice. Compound voice involves the use of both active and passive voice in relation to a single subject within the same sentence. In the provided sentence, there is no use of active voice; the sentence is entirely in the passive voice, with 'It was a foolish mistake by a very young man' being a passive construction. There is no active voice counterpart to this passive construction within the sentence to make it a compound voice.""
+}",[]
+2629,[ 8 13],ADVANTAGE AMERICANS,Predication,[],[],[],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text contains no verbs, so no properties of predication are used.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text only contains a stative verb 'AMERICANS'. This verb is not actively doing anything, it simply denotes a state of being.""
+}",['stative'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example does not contain any active, stative, or compound predicates. It is a simple statement without any verbal components.""
+}",[],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predicate with the verbs 'advantage' and 'Americans' both referring to the same subject.""
+}",['compound'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'advantage' which is a verb directly performed by the subject 'Americans'.""
+}",['active'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. It is a simple noun phrase without any verbal elements.""
+}",[],0,['compound'],1.0,1.0,,[],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The phrase 'ADVANTAGE AMERICANS' does not contain a verb, which is a necessary component for a sentence to be in either active or passive voice. Active voice requires a subject that performs the action denoted by the verb. Since there is no verb present in the phrase, it cannot be classified as an active voice sentence.""
+}",[]
+2629,[ 8 13],ADVANTAGE AMERICANS,Predication,[],[],[],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text contains no verbs, so no properties of predication are used.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text only contains a stative verb 'AMERICANS'. This verb is not actively doing anything, it simply denotes a state of being.""
+}",['stative'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example does not contain any active, stative, or compound predicates. It is a simple statement without any verbal components.""
+}",[],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predicate with the verbs 'advantage' and 'Americans' both referring to the same subject.""
+}",['compound'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'advantage' which is a verb directly performed by the subject 'Americans'.""
+}",['active'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. It is a simple noun phrase without any verbal elements.""
+}",[],0,['compound'],1.0,1.0,,[],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The phrase 'ADVANTAGE AMERICANS' does not contain a verb, which is necessary to establish any kind of voice, including stative voice. Stative voice would require a form of the verb 'to be' as a helping verb and a main verb that does not end in 'ing.' Since the phrase lacks a verb entirely, it cannot be an example of stative voice or any other verb voice.""
+}",[]
+2629,[ 8 13],ADVANTAGE AMERICANS,Predication,[],[],[],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text contains no verbs, so no properties of predication are used.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text only contains a stative verb 'AMERICANS'. This verb is not actively doing anything, it simply denotes a state of being.""
+}",['stative'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example does not contain any active, stative, or compound predicates. It is a simple statement without any verbal components.""
+}",[],False,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predicate with the verbs 'advantage' and 'Americans' both referring to the same subject.""
+}",['compound'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'advantage' which is a verb directly performed by the subject 'Americans'.""
+}",['active'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. It is a simple noun phrase without any verbal elements.""
+}",[],0,['compound'],1.0,1.0,,[],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The phrase 'ADVANTAGE AMERICANS' does not contain a verb, which is necessary to establish either active or passive voice. Without a verb, we cannot determine if the sentence has a compound voice. Additionally, 'ADVANTAGE AMERICANS' appears to be a fragment rather than a complete sentence, as it lacks a subject-verb structure.""
+}",[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' in the past tense, which indicates an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'made' and 'balance' which signify action being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""]
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'made', 'balance', and 'reporting', which indicate actions being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('made', 'balance', 'reporting', 'is') and also has a compound structure with multiple verbs ('made', 'balance').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' which indicates an action performed by the subject.""
+}",['active'],0,['active'],0.0,0.0,,['compound'],,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly mainstream in the worst sense.' contains active voice verbs. In the first part, 'it' is the subject performing the action 'made attempts'. In the second part, 'it' is again the subject, linked to the state of being 'now solidly mainstream' through the verb 'is'. Both verbs 'made' and 'is' are in the active voice, with the subject 'it' performing the actions.""
+}",['active']
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' in the past tense, which indicates an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'made' and 'balance' which signify action being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""]
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'made', 'balance', and 'reporting', which indicate actions being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('made', 'balance', 'reporting', 'is') and also has a compound structure with multiple verbs ('made', 'balance').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' which indicates an action performed by the subject.""
+}",['active'],0,['active'],0.0,0.0,,['compound'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does contain a stative verb, which is 'is.' Stative verbs describe a state of being or condition, and 'is' fits this description. However, the term 'stative voice' is incorrect. The sentence does not contain a passive construction, where the subject is the recipient of the action, which might be confused with the term 'stative voice.' The correct term for verbs that form sentences where the subject receives the action is 'passive voice.' In the sentence provided, 'is' is used as a linking verb connecting the subject with the complement 'solidly main stream in the worst sense,' which describes the subject's state. There is no action being received by the subject, so it does not contain a passive voice construction. Additionally, the presence of 'be' as a helping verb and the absence of an '-ing' ending on the main verb are not relevant to identifying stative verbs or passive voice in this context.""
+}",[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' in the past tense, which indicates an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'made' and 'balance' which signify action being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""]
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'made', 'balance', and 'reporting', which indicate actions being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('made', 'balance', 'reporting', 'is') and also has a compound structure with multiple verbs ('made', 'balance').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' which indicates an action performed by the subject.""
+}",['active'],0,['active'],0.0,0.0,,['compound'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. However, the sentence provided does not contain both active and passive voice regarding a single subject. The sentence 'While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly mainstream in the worst sense.' is entirely in the active voice. The subject 'it' performs the actions described by the verbs 'made' and 'is,' which are both active constructions. There is no passive voice construction in this sentence, where the subject would be acted upon by the verb.""
+}",[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do' which describe a state of being or a state of action rather than an ongoing action or process.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs, such as 'be' and 'should be', which express a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence in question is written in a style that is reminiscent of older forms of English, likely from the King James Bible. The sentence does not contain a clear example of an active voice verb where the subject is performing the action. Instead, it contains modal verbs and subjunctive moods (e.g., 'that be far from thee') and passive constructions (e.g., 'the righteous should be as the wicked'). The closest it comes to active voice is the rhetorical question at the end, 'Shall not the Judge of all the earth do right?' However, this is still not a straightforward active voice statement but rather a question implying an obligation or expectation of action.""
+}",[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do' which describe a state of being or a state of action rather than an ongoing action or process.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs, such as 'be' and 'should be', which express a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence provided contains verbs that are stative in nature, meaning they describe a state of being or condition rather than an action. However, the term 'stative voice' is incorrect. In grammar, we discuss 'stative verbs,' which refer to a type of verb that describes a state of being, emotion, possession, sense, or opinion. Examples of stative verbs include 'be,' 'like,' 'belong,' 'seem,' 'prefer,' etc. The sentence in question uses 'be' in an archaic form ('That be far from thee'), which is a stative verb, but this does not constitute a 'stative voice.' The sentence also contains 'do,' which is an action verb, not a stative verb. Therefore, the sentence does not contain what is described as 'stative voice' because such a term does not apply to the verbs or the construction of the sentence.""
+}",[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do' which describe a state of being or a state of action rather than an ongoing action or process.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs, such as 'be' and 'should be', which express a state of being rather than action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. However, the sentence provided does not contain a mix of active and passive voice regarding a single subject. The sentence is written in an archaic form of English and uses a subjunctive mood ('that be far from thee') to express a wish or a hypothetical situation. It does not switch between active and passive voice. All the verbs ('be', 'do', 'slay', 'should be', 'do') relate to their subjects in a consistent voice, which is not a mix of active and passive.""
+}",[]
+3249,[9],When Cain complains that being a “vagabond .,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example contains a stative verb 'complains.' Stative verbs express a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'complains', which describes a state of being rather than an action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which expresses a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided, 'When Cain complains that being a “vagabond,' is incomplete and does not contain a main verb that would allow us to determine if it is in the active voice. Active voice requires a clear subject performing the action of the verb, but since the sentence is not complete and lacks a main verb, we cannot identify an action being performed by the subject. Therefore, we cannot confirm the use of active voice in this sentence fragment.""
+}",[]
+3249,[9],When Cain complains that being a “vagabond .,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example contains a stative verb 'complains.' Stative verbs express a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'complains', which describes a state of being rather than an action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which expresses a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The term 'stative' typically refers to verbs that describe a state of being or condition, such as 'know,' 'believe,' or 'love.' These verbs do not usually take the progressive aspect (i.e., ending in 'ing'). However, the term 'stative voice' is not recognized in linguistic grammar. The sentence 'When Cain complains that being a “vagabond' does not contain a verb in the stative form as it is incomplete and lacks a main verb. Additionally, 'being' is a present participle, which contradicts the provided definition that stative voice verbs 'will never end in 'ing.' Therefore, based on the provided context and definition, the sentence does not contain a stative voice verb.""
+}",[]
+3249,[9],When Cain complains that being a “vagabond .,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example contains a stative verb 'complains.' Stative verbs express a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'complains', which describes a state of being rather than an action.""
+}",['stative'],True,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which expresses a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided, 'When Cain complains that being a “vagabond,' does not contain a compound voice because it is not a complete sentence and does not have both an active and a passive construction related to a single subject. Additionally, the sentence is cut off and does not provide enough context to determine the voice with certainty. Compound voice would require a complete sentence with a clear use of both active and passive voice constructions pertaining to the same subject within the sentence.""
+}",[]
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The example contains a compound structure with two verbs 'would be' and 'have systematically enabled' in relation to the same subject 'Bergoglio'.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and a compound structure with multiple verbs about one subject ('would be', 'have enabled').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with two verbs 'would be' and 'have enabled' related to the subject 'Bergoglio and his Vatican henchmen'.""
+}",['compound'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'would be', 'have systematically enabled'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and also has a compound structure with multiple verbs ('would be', 'have enabled') about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('would be', 'have enabled') about one subject ('Bergoglio').""
+}",['compound'],0,['active'],1.0,0.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence in question does not contain an active voice. In an active voice construction, the subject of the sentence performs the action of the verb. However, in this sentence, the main actions ('would be' and 'have enabled') are not performed by the subject 'Faggioli'. Instead, 'Faggioli' is the subject of a subordinate clause expressing his opinion or perspective, and 'Bergoglio and his Vatican henchmen' are the subjects of the second part of the sentence, which is in passive voice ('have been enabled' rather than 'enable'). The sentence is complex and contains modal verbs, but the key actions are not expressed in the active voice.""
+}",[]
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The example contains a compound structure with two verbs 'would be' and 'have systematically enabled' in relation to the same subject 'Bergoglio'.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and a compound structure with multiple verbs about one subject ('would be', 'have enabled').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with two verbs 'would be' and 'have enabled' related to the subject 'Bergoglio and his Vatican henchmen'.""
+}",['compound'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'would be', 'have systematically enabled'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and also has a compound structure with multiple verbs ('would be', 'have enabled') about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('would be', 'have enabled') about one subject ('Bergoglio').""
+}",['compound'],0,['active'],1.0,0.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does not contain what is traditionally known as 'stative verbs' in a passive construction. Stative verbs are verbs that describe a state of being, emotion, possession, sense, or thought (e.g., 'know,' 'believe,' 'prefer'). The sentence provided contains modal verbs ('would') and active verbs ('have enabled'). The verbs 'be' and 'have' in this sentence are auxiliary verbs, not main verbs used in a stative sense. Furthermore, the sentence does not follow the structure of a passive voice construction where the subject is the recipient of the action. Instead, it discusses potential actions ('resignation,' 'purge') that are considered by the subject ('Bergoglio'). Therefore, the sentence does not contain 'stative voice' as described.""
+}",[]
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['compound', 'active']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The example contains a compound structure with two verbs 'would be' and 'have systematically enabled' in relation to the same subject 'Bergoglio'.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and a compound structure with multiple verbs about one subject ('would be', 'have enabled').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with two verbs 'would be' and 'have enabled' related to the subject 'Bergoglio and his Vatican henchmen'.""
+}",['compound'],False,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'would be', 'have systematically enabled'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and also has a compound structure with multiple verbs ('would be', 'have enabled') about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('would be', 'have enabled') about one subject ('Bergoglio').""
+}",['compound'],0,['active'],1.0,0.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. Typically, we discuss voice in terms of 'active' or 'passive'. An active voice is where the subject of the sentence performs the action stated by the verb, and a passive voice is where the subject is acted upon by the verb. The sentence provided does not contain a mix of active and passive voice regarding a single subject. Instead, it consistently uses a conditional active voice to express what the subject 'would' do or what would happen. Therefore, it does not contain what you've referred to as 'compound' voice.""
+}",[]
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs such as 'scoffs' and a stative verb 'is' in the phrase 'who, in typical neo-Catholic style, imperiously scoffs at the notion of.'""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs such as 'imperiously scoffs' and 'busies himself defending', which indicates the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('be', 'win') and it also has compound verbs ('be', 'scoffs', 'busies', 'defending').""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g., 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g., 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g. 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'defending', 'describes') and stative verbs (e.g. 'is', 'busies').""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,active,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence in question does contain active voice verbs. For instance, 'Faggioli...scoffs at the notion' and 'busies himself defending an unsalvageable mass of corruption' are both active voice constructions. In these phrases, 'Faggioli' is the subject performing the actions 'scoffs' and 'busies himself.' Despite the sentence's complexity and length, the use of active verbs is clear, with the subjects performing the actions directly.""
+}",['active']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs such as 'scoffs' and a stative verb 'is' in the phrase 'who, in typical neo-Catholic style, imperiously scoffs at the notion of.'""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs such as 'imperiously scoffs' and 'busies himself defending', which indicates the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('be', 'win') and it also has compound verbs ('be', 'scoffs', 'busies', 'defending').""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g., 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g., 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g. 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'defending', 'describes') and stative verbs (e.g. 'is', 'busies').""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not align with established grammatical terms. In English grammar, verbs are typically categorized as 'stative' or 'dynamic' based on the kind of action they express. Stative verbs describe a state or condition (e.g., 'know', 'believe', 'prefer'), whereas dynamic verbs describe an action (e.g., 'run', 'write', 'speak'). The sentence provided does not contain a 'stative voice' because that is not a recognized term in English grammar. Instead, the sentence contains dynamic verbs such as 'scoffs' and 'busies,' which describe actions taken by the subject. Additionally, the sentence does not follow the structure described in the context, as the verbs 'scoffs' and 'busies' do not have 'be' as a helping verb, nor is the subject receiving the action of the verb.""
+}",[]
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",True,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs such as 'scoffs' and a stative verb 'is' in the phrase 'who, in typical neo-Catholic style, imperiously scoffs at the notion of.'""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs such as 'imperiously scoffs' and 'busies himself defending', which indicates the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('be', 'win') and it also has compound verbs ('be', 'scoffs', 'busies', 'defending').""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g., 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g., 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g. 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'defending', 'describes') and stative verbs (e.g. 'is', 'busies').""
+}","['active', 'stative']",1,"['active', 'stative']",1.0,1.0,,"['stative', 'active']",,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain a compound voice. Compound voice involves the use of both active and passive voice in relation to a single subject within the same sentence. The example given, 'The telegram was late but contained exciting news,' shows the telegram (subject) being described in passive voice ('was late') and active voice ('contained exciting news'). In the sentence you provided, there is no clear instance where the subject is being described using both active and passive voice. The sentence maintains a consistent voice throughout, which is primarily active, as it describes actions and stances associated with the subject ('who...scoffs at the notion' and 'busies himself defending').""
+}",[]
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase 'something is coming up'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs indicating action such as 'coming up', 'going to hit', and 'are going to happen.'""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (is coming, are going) and a compound structure with multiple verbs (are going to hit, are going to happen).""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is coming up', which indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which describes the state of something.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which indicates a state of being rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,active,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain active voice verbs. The verbs used ('is coming', 'are going', 'are going to happen') are all in the passive voice or do not have a clear actor performing the action. In active voice, the subject of the sentence performs the action, but in this sentence, the subjects ('something', 'they', 'a lot of different things') are not performing an action but are rather in a state of being or are acted upon.""
+}",[]
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase 'something is coming up'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs indicating action such as 'coming up', 'going to hit', and 'are going to happen.'""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (is coming, are going) and a compound structure with multiple verbs (are going to hit, are going to happen).""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is coming up', which indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which describes the state of something.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which indicates a state of being rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,stative,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'stative voice' as described does not exist in grammatical terminology. The sentence in question does not contain what is traditionally known as 'stative verbs.' Stative verbs are verbs that describe a state of being or condition, such as 'know,' 'believe,' or 'love.' They do not describe actions being done by or to the subject, and they do not typically use progressive tenses ('-ing' forms). In the sentence provided, 'is coming' is a present continuous form of the verb 'come,' which is an action verb, not a stative verb. Additionally, the sentence does not fit the description provided because the main verb 'coming' ends in 'ing,' which contradicts the statement that stative voice verbs 'will never end in 'ing.' Therefore, the sentence does not contain stative voice as per the given definition.""
+}",[]
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Predication,['active'],['active'],['active'],True,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase 'something is coming up'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs indicating action such as 'coming up', 'going to hit', and 'are going to happen.'""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (is coming, are going) and a compound structure with multiple verbs (are going to hit, are going to happen).""
+}","['active', 'compound']",False,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is coming up', which indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which describes the state of something.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which indicates a state of being rather than action.""
+}",['stative'],1,['stative'],1.0,0.0,,['active'],,compound,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The concept of 'compound voice' is not a standard term in English grammar. Typically, we discuss voice in terms of 'active' or 'passive'. A sentence in active voice has the subject performing the action, while in passive voice, the subject is acted upon. The example sentence provided does not combine active and passive voice regarding a single subject. Instead, it uses active voice throughout ('something is coming up and down', 'they are either going to hit the ground', 'things are going to happen'). Each clause's subject is performing the action, which is characteristic of active voice. Therefore, the sentence does not contain what you've referred to as 'compound voice'.""
+}",[]

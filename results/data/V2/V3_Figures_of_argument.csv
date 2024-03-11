@@ -1,0 +1,1229 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt3.5 isCorrect,comments,ground truth,gpt4 isCorrect,res_induction_0.1_V3_2,induction_0.1_V3_2,res_strategic_repetition_0.1_V3_2,strategic_repetition_0.1_V3_2,res_antithesis_0.1_V3_2,antithesis_0.1_V3_2,res_antimetabole_0.1_V3_2,antimetabole_0.1_V3_2,res_defintion_as_figure_0.1_V3_2,defintion_as_figure_0.1_V3_2,res_eduction_0.1_V3_2,eduction_0.1_V3_2,res_deduction_0.1_V3_2,deduction_0.1_V3_2
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example does not include any clear use of antithesis, antimetabole, definition as figure, induction, or eduction. However, it does demonstrate strategic repetition with the use of the word 'horrifying' to emphasize the intensity of the verdict in conservative Ben Shapiro's statement.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence contains strategic repetition of the word 'horrifying', emphasizing the intensity of Ben Shapiro's reaction to the verdict.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the adjective 'horrifying' is strategically repeated to emphasize the intensity of the speaker's reaction to the verdict.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'horrifying' in juxtaposition with the conservative viewpoint of Ben Shapiro creates an argument from opposites, making it an example of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the word 'horrifying' is strategically repeated for emphasis and to convey a strong negative sentiment.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text does not exhibit any of the other listed properties of Figures of argument. However, it does contain strategic repetition with the use of the word 'horrifying' to emphasize the intensity of the verdict."" 
+}",['strategic_repetition'],0,['strategic_repetition'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Conservative Ben Shapiro told Fox news the verdict was “horrifying' does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided is a specific statement made by an individual and does not involve drawing a general conclusion from specific instances or observations. Therefore, it does not demonstrate induction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The sentence 'Conservative Ben Shapiro told Fox news the verdict was “horrifying' does not exhibit this intentional repetition of clauses or phrases.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Conservative Ben Shapiro told Fox news the verdict was “horrifying' does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, with two ideas that are functionally opposite. In the given sentence, there is no clear contrast of opposing ideas or words within parallel grammatical structures."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated structure. The sentence 'Conservative Ben Shapiro told Fox news the verdict was “horrifying' does not exhibit the transposition of arguments in a repeated structure, as seen in the provided example of antimetabole: 'Ask not what your country can do for you. Ask what you can do for your country.'""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Conservative Ben Shapiro told Fox news the verdict was 'horrifying'' does not demonstrate definition as figure. Definition as figure is a type of argument that sets forth the full meaning and character of a thing lucidly and succinctly. It provides a clear and concise definition of a concept or term. The sentence in question does not provide a clear and concise definition of any concept or term; instead, it expresses an opinion about a verdict, lacking the characteristics of a definition as figure.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given does not present a set of examples or cases from which an inference is drawn. Instead, it appears to be a statement of opinion or reaction to a specific event, lacking the characteristic inference from a set of examples that defines abduction.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence 'Conservative Ben Shapiro told Fox news the verdict was “horrifying' does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not present a logical inference from general principles to a specific conclusion; instead, it conveys an opinion or reaction without providing a logical inference based on general principles."" 
+}",[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by juxtaposing the idea of 'totally taken to heart' with 'those responsible in the Church', creating a contrast between the actions and the recipients of those actions.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement contains an antithesis, as it presents an argument from opposites - the declarations made by Archbishop Viganò must be totally taken to heart by those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The property of strategic repetition is used in the statement with the repetition of the phrase 'must be totally taken to heart'.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting the authority of Archbishop Carlo Maria Viganò with those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting the authority of Archbishop Carlo Maria Viganò with those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The statement provides a clear and succinct definition of the authority and importance of Archbishop Carlo Maria Viganò's declarations within the Church.""
+}",['defintion_as_figure'],0,['antithesis'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided is a specific statement made by Cardinal Raymond Burke and does not involve drawing a general conclusion from specific instances. Therefore, it does not exemplify inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. In the provided sentence, there is no evident repetition of clauses or phrases within the passage. The sentence is a straightforward statement without the deliberate repetition characteristic of strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. The sentence in question does not present contrasting ideas or words within parallel grammatical structures. Instead, it expresses a singular idea without a clear contrast or opposition."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate 'definition as figure.' Definition as figure is a type of argument that sets forth the full meaning and character of a thing lucidly and succinctly. The sentence in question does not provide a clear and concise definition of a concept or thing, but rather makes a statement about the importance of declarations made by a prelate within the Church. Therefore, it does not fit the criteria of 'definition as figure.'""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction, also known as case-based reasoning, involves making an inference from a set of examples. The sentence given does not present a set of examples from which an inference is drawn. Instead, it appears to be a statement of opinion or a call to action within the context of the Church, rather than an inference drawn from a set of examples."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not present a general principle or premise from which a specific conclusion is drawn. Instead, it appears to be a statement of opinion or belief without a clear logical inference from general principles.""
+}",[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of the phrase 'the first signer of the Declaration of Independence' sets up an antithesis between John Hancock and the other signers, emphasizing his unique position.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The phrase 'the first signer of the Declaration of Independence' creates an antithesis by setting up a contrast between the 'first' and the subsequent signers of the Declaration of Independence.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a definition of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text sets forth the full meaning and character of John Hancock as the first signer of the Declaration of Independence in a succinct and lucid manner.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text sets forth the full meaning and character of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a clear and succinct definition of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],1,['defintion_as_figure'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence about John Hancock does not present specific instances or observations from which a general conclusion is drawn. Instead, it appears to be a historical or factual statement about a specific individual and does not involve the process of inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The given sentence does not contain repeated clauses or phrases, and therefore does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate antithesis. It simply introduces John Hancock as the first signer of the Declaration of Independence without presenting contrasting or opposing ideas within parallel grammatical structures. Antithesis involves the deliberate contrast of ideas or words, which is not evident in the given sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. The given sentence does not exhibit this transpositional pattern, and therefore, it does not demonstrate antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Instead, it seems to be an introductory statement about John Hancock, the first signer of the Declaration of Independence, and does not provide a lucid and succinct definition of a thing as per the definition of 'definition as figure' provided."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence about John Hancock does not involve inferring from a set of examples; rather, it appears to be the beginning of a statement or a quote, lacking the necessary context for abduction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate deduction. The sentence does not involve an inference from the general to the specific, which is a key characteristic of deduction. Instead, it appears to be introducing a direct quotation or statement without making an inference based on general principles or premises.""
+}",[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting two contrasting ideas: 'I believe her because she is telling the truth' vs 'you know it by her story.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'I believe her' and 'you know it by her story' presents an argument from opposites, emphasizing the contrast between the speaker's belief and the listener's supposed knowledge.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'I believe her' and 'you know it' presents an argument from opposites, emphasizing the contrast between belief and knowledge.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'I believe her because she is telling the truth and you know it by her story' presents an argument from opposites, contrasting the idea of believing someone with the assertion of knowing the truth from their story.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas in close proximity: 'I believe her because she is telling the truth and you know it by her story.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'I believe her because she is telling the truth and you know it by her story' presents an antithesis by contrasting the idea of believing someone based on their truthfulness with the idea of knowing the truth based on their story.""
+}",['antithesis'],1,['antithesis'],0,1,Annotaors missed 'fron inversion',[],False,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates induction. The speaker is drawing a general conclusion ('I believe her') based on specific instances or evidence ('because she is telling the truth and you know it by her story'). This is an example of inductive reasoning, where a general conclusion is inferred from specific instances or evidence."" 
+}",['induction'],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the provided sentence, there is no intentional repetition of clauses or phrases for rhetorical effect. Instead, the sentence seems to focus on emphasizing the speaker's belief in Ms. Ford's truthfulness.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. In the given sentence, there is no clear contrast of opposing ideas within parallel grammatical structures. The statement simply expresses belief in Ms. Ford's truthfulness without presenting contrasting or opposing ideas.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or a repeated pattern of transposed elements. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not offer a lucid and succinct definition of a concept or thing, but rather expresses a belief in someone's truthfulness based on their story. Therefore, it does not align with the concept of 'definition as figure'.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. In the provided sentence, there is no explicit reference to a set of examples or past patterns that are being used to infer a likely explanation. Instead, the sentence seems to be more focused on expressing belief based on the speaker's perception of truthfulness, rather than inferring from a set of examples or cases.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not present a logical inference based on general principles or premises, but rather expresses a personal belief or opinion without clear logical reasoning."" 
+}",[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence 'I have read the Cardinal's exposition in both Italian and English' is repeated with slight modification in 'and I only find mention of the help of the sacraments in certain cases.' This repetition creates emphasis and draws attention to the comparison between the two readings.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement implies a conclusion drawn from specific examples mentioned by the Cardinal, which then leads to a general statement about the help of the sacraments in certain cases.""
+}",['induction'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of strategic repetition is evident in the repetition of the idea of 'mention of the help of the sacraments' in both Italian and English, emphasizing its significance.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of the phrase 'in both Italian and English' sets up an antithesis by contrasting the two languages, emphasizing the Cardinal's exposition in both languages.""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion from specific cases (exposition in Italian and English) to make a generalization about the Cardinal's mention of the help of the sacraments in certain cases.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement 'I only find mention of the help of the sacraments in certain cases' is a conclusion drawn from specific examples or instances, indicating an inductive reasoning process.""
+}",['induction'],0,['induction'],0,1,Annotaors missed 'fron inversion',[],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided does not present a general conclusion drawn from specific instances; rather, it seems to be a specific observation or experience related to reading the Cardinal's exposition in different languages.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The provided sentence does not exhibit this deliberate repetition of clauses or phrases, and therefore, it does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence contrasts the languages in which the Cardinal's exposition was read, it does not present two opposing ideas within parallel grammatical structures. Antithesis requires the contrast of ideas or words within parallel grammatical structures, and the sentence provided does not fulfill this requirement.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. The sentence provided does not exhibit this transpositional pattern, and therefore, it does not demonstrate antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure of argument. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not provide a lucid and succinct definition of a concept or thing, but rather discusses the Cardinal's exposition and the mention of the help of sacraments in certain cases.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not present a situation where an inference is made from a set of examples. Instead, it seems to be a statement about personal experience or comparison of information in different languages, rather than drawing an inference from a set of examples."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not show this type of logical inference. Instead, it seems to convey a personal experience or observation without explicitly drawing a specific conclusion from general principles."" 
+}",[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement suggests that because the current situation is unprecedented, an unprecedented step of recalling Benedict XVI should be considered sooner rather than later.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The use of the phrase 'unprecedented moment in papal history' leads to the induction that an unprecedented step should also be considered to address the crisis.""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The argument from opposites is employed in the phrase 'unprecedented moment in papal history' and 'unprecedented step of recalling Benedict XVI to the Chair of St. Peter'. This contrast emphasizes the gravity and unique nature of the situation.""
+}",['antithesis'],False,"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The argument is made from the specific situation of an unprecedented moment in papal history to the general suggestion of recalling Benedict XVI to the Chair of St. Peter before the crisis worsens.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The argument is made from specific circumstances (unprecedented moment in papal history) to a general conclusion (consider recalling Benedict XVI to the Chair of St. Peter).""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'unprecedented moment' and 'unprecedented step' creates an antithesis by presenting opposite ideas for emphasis.""
+}",['antithesis'],0,['induction'],1,0,classification and explanation both wrong,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate induction. The sentence does not present a general conclusion drawn from specific instances or observations. Instead, it suggests a specific action to be taken in response to a unique and unprecedented situation. It does not follow the pattern of inductive reasoning or generalization as seen in the examples provided."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is no deliberate repetition of clauses or phrases for rhetorical effect. The sentence does not exhibit the characteristic pattern of strategic repetition as seen in the example provided."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence does not demonstrate antithesis. While it does express a sense of urgency and the idea of an unprecedented moment in papal history, it does not present contrasting or opposing ideas within parallel grammatical structures. Instead, it focuses on the urgency of a particular action without setting up a direct contrast between two opposing concepts.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated structure. In the provided sentence, there is no transposition of arguments or phrases in a repeated structure. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument involves setting forth the full meaning and character of a thing lucidly and succinctly. The sentence in question does not provide a clear and concise definition of a specific concept or thing, but rather discusses a potential course of action in a specific context.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not present a set of examples or cases from which an inference is drawn. Instead, it discusses a potential course of action in response to a current situation, without explicitly referencing a set of examples or cases to infer from.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate deduction. Deduction involves drawing a specific conclusion from a general principle or set of premises. The sentence provided does not follow this pattern. Instead, it seems to suggest a specific action based on the uniqueness of the current situation, rather than drawing a conclusion from a general principle or set of premises.""
+}",[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition with the phrase 'loss of faith in the Church as an institution' being repeated in different forms ('their loss of faith in the Church', 'loss of faith in the Church as an institution').""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The statement uses strategic repetition with the phrase 'loss of faith in the Church as an institution' being repeated in a slightly modified form, creating emphasis and rhetorical effect.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition of the phrase 'loss of faith in the Church as an institution', emphasizing the sentiment expressed by multiple Catholics.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith in the Church' is strategically repeated in the sentence to emphasize the sentiment expressed by the Catholics on social media.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith' is strategically repeated in the sentence to emphasize the impact of Paul VI's canonization on the Catholics' faith in the Church.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith in the Church as an institution' is strategically repeated in the sentence to emphasize the sentiment expressed by the Catholics on social media.""
+}",['strategic_repetition'],1,['strategic_repetition'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It is a statement about the personal observations of a specific group of individuals (Catholics on social media) and their potential reaction to a specific event (the canonization of Paul VI). It does not draw a general conclusion based on specific instances or observations, which is the essence of inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the provided sentence, there is no evident repetition of clauses or phrases. The sentence is a complex statement expressing the speaker's observation of a group of Catholics on social media and their reaction to the potential canonization of Paul VI. While it may contain rhetorical devices, strategic repetition is not one of them in this case.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence does express a contrast of ideas, it does not do so within parallel grammatical structures. Antithesis requires the contrast of ideas or words within parallel grammatical structures, and the given sentence does not exhibit this characteristic. Therefore, it does not demonstrate antithesis.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate 'definition as figure.' The concept of 'definition as figure' involves setting forth the full meaning and character of a thing lucidly and succinctly. The sentence in question does not provide a clear and concise definition of a specific concept or thing, but rather expresses an observation or opinion about a group of people on social media. Therefore, it does not align with the concept of 'definition as figure.'""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not present a set of examples or cases from which an inference is drawn. Instead, it expresses a personal observation or opinion about the reactions of a specific group of people on social media. Therefore, it does not fit the definition of abduction, which is based on inference from examples or cases.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. Deduction involves reasoning from the general to the specific, typically using a premise to reach a specific conclusion. The sentence in question does not present a general premise leading to a specific conclusion, but rather reports a specific observation or statement made by a group of individuals. It does not follow the structure of a deductive argument.""
+}",[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'largely immune' creates a contrast between 'real threat' and 'immune to attack', emphasizing the severity of the threat.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The statement provides a lucid and succinct definition of the threat by describing it as 'largely immune to attack from the air.'""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites: the threat is real, but it is largely immune to attack from the air.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, highlighting the contrast between the threat being real and largely immune to attack from the air.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'very real threat' and 'largely immune to attack' presents an argument from opposites, emphasizing the severity of the threat and the difficulty in countering it.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the threat being largely immune to attack from the air with the idea of it being a real threat.""
+}",['antithesis'],1,['antithesis'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided does not present specific instances or observations from which a general conclusion is drawn. Instead, it seems to be making a general statement about a threat without providing specific instances or evidence to support a general conclusion.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the provided sentence, there is no deliberate repetition of clauses or phrases. The sentence simply uses a hyphen to connect two related ideas, but it does not employ strategic repetition as defined.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it contrasts the idea of a 'very real threat' with the notion of being 'largely immune to attack from the air', it does not present two ideas that are functionally opposite within parallel grammatical structures. Antithesis requires a more direct and explicit contrast of ideas or words within parallel structures, which is not fully demonstrated in the provided sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases. It simply presents a statement about a threat and its immunity to attack from the air.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'This is a very real threat – one that is largely immune to attack from the air' does not demonstrate definition as a figure. Definition as a figure typically involves providing a clear and concise explanation of the meaning and character of a thing. In the given sentence, the focus is on the threat's immunity to air attacks rather than providing a lucid and succinct definition of the threat itself.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not involve inferring from examples or cases, but rather states a general characteristic of a threat, indicating its resistance to attacks from the air.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. It rather presents a statement about a threat being immune to attack from the air, without explicitly inferring it from a general principle or trend. Deduction involves drawing specific conclusions from general principles or premises, which is not evident in the given sentence.""
+}",[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about a general situation (potential targets) from a specific scenario (US and South Korea attacking the north).""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the potential targets in the specific scenario of a US and South Korea attack on the north, and then generalizes this to imply that 'they' would be immediate targets.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement makes a conclusion about a general situation (potential targets) based on the specific scenario of a US and South Korea attack on the north.""
+}",['induction'],True,"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a potential US and South Korea attack on North Korea based on specific circumstances.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a potential US and South Korea attack on the north, based on specific circumstances.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a US and South Korea attack on the north based on specific circumstances.""
+}",['induction'],1,['induction'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided does not present specific instances or observations from which a general conclusion is drawn. Instead, it presents a hypothetical scenario without providing specific instances or observations to support a general conclusion.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The sentence provided does not exhibit this kind of intentional repetition within the passage.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. The sentence provided does not contain a clear contrast of opposing ideas within parallel grammatical structures. Instead, it presents a straightforward statement about potential targets in the event of an attack.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. The sentence 'They would be immediate targets should the US and South Korea attack the north' does not exhibit the transposition of arguments in a repeated pattern, as seen in the provided example of antimetabole: 'Ask not what your country can do for you. Ask what you can do for your country.'""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'They would be immediate targets should the US and South Korea attack the north.' does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning or character of a thing. In the given sentence, there is no explicit definition or characterization of a concept or thing, but rather a statement about potential targets in a hypothetical situation.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given does not present a set of examples or cases from which an inference is drawn. Instead, it seems to be a statement based on a hypothetical or potential future scenario, rather than an inference drawn from past examples or cases.""
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence 'They would be immediate targets should the US and South Korea attack the north' demonstrates deduction because it involves an inference from a general situation to a specific outcome. The statement implies that if a certain event (the US and South Korea attacking the north) were to occur, then a specific consequence (being immediate targets) would follow. This reasoning aligns with the concept of deduction, where a general premise leads to a specific conclusion.""
+}",['deduction']
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the meekness of the man with the boldness of his task to confront the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The text presents an argument from opposites by contrasting the meekness of the man with the assertive action of delivering a demand to the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis"",
+    ""defintion as figure""
+  ],
+  ""Explanation"": ""The sentence contains an argument from opposites (meek vs. commanding) and sets forth the full meaning of the situation lucidly and succinctly.""
+}","['antithesis', 'defintion_as_figure']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by contrasting the meekness of the man with the boldness of his mission to confront the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing the idea of the 'meekest man alive' with the action of confronting the Pharaoh, creating a contrast between meekness and assertiveness.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the meekness of the man with the boldness of his mission to confront the Pharaoh.""
+}",['antithesis'],1,['antithesis'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It is a statement that does not rely on specific instances or examples to draw a general conclusion. Instead, it appears to be a historical or narrative statement about an individual's action, lacking the characteristic of inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the provided sentence, there is no deliberate repetition of clauses or phrases. The sentence does not repeat any specific clauses or phrases for rhetorical effect, and therefore does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it contrasts the meekness of the man with the act of delivering a strong message to the Pharaoh, it does not present two directly opposing ideas within parallel grammatical structures, which is a key characteristic of antithesis. Therefore, the sentence does not exemplify antithesis.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not explicitly provide a lucid and succinct definition of a concept or thing, but rather presents a scenario or situation involving a meek man confronting a Pharaoh. Therefore, it does not align with the characteristics of a definition as a figure of argument.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given does not present a set of examples or cases from which an inference is drawn. Instead, it seems to be a statement or a prompt for thought, rather than an inference drawn from a set of examples."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not present a general principle or premise from which a specific conclusion is drawn. Instead, it seems to be a statement or anecdote about a specific event without a clear logical inference from a general principle.""
+}",[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of the phrase 'When Kavanaugh is on the Supreme Court' followed by 'it will be too late for others to join me' presents an argument from opposites, highlighting the negative consequence of having Kavanaugh on the Supreme Court.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of 'When Kavanaugh is on the Supreme Court' juxtaposed with 'it will be too late for others to join me' creates an argument from opposites, emphasizing the urgency of the situation.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text contains an antithesis, as it presents an argument from opposites 'When Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me.'""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites by contrasting the current situation with Kavanaugh on the Supreme Court with the future situation where it will be too late for others to join the speaker.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'when Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me' presents an argument from opposites, highlighting the contrast between the current situation and a future outcome.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'when Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me' presents an argument from opposites, highlighting the negative impact of Kavanaugh being on the Supreme Court.""
+}",['antithesis'],1,['antithesis'],0,0,,['deduction'],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It expresses a prediction or a future consequence based on a specific event (Kavanaugh being on the Supreme Court) rather than drawing a general conclusion from specific instances or observations. Inductive reasoning involves generalizing from specific examples or observations to form a broader conclusion, which is not the case in the provided sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition as defined. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. In the given sentence, there is no evident repetition of clauses or phrases within the passage. Therefore, it does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it does express a contrast between the current time and a future event, it does not present two directly opposing ideas within parallel grammatical structures. Instead, it conveys a sense of urgency and consequence related to a specific event.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no clear transposition of arguments or phrases in a repeated manner. Therefore, it does not fit the definition of antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not directly provide a lucid and succinct definition of a concept or thing, but rather expresses a concern about a potential future event related to the Supreme Court and the 4th Amendment. Therefore, it does not fit the definition of a figure of argument."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not present a set of examples or cases from which an inference is drawn. Instead, it expresses a concern about potential future actions and their consequences, without explicitly referencing a set of examples or cases to infer from.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Instead, it expresses a conditional statement about a future event. The speaker is not making an inference from the general to the specific based on a logical reasoning process. Rather, they are expressing a concern about a potential future outcome if a specific event occurs (Kavanaugh being on the Supreme Court). Therefore, the sentence does not exemplify deduction as a form of logical reasoning.""
+}",[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an antithesis by contrasting the potential consequences of a grid failure (state of panic) with the importance of being prepared (always good to be prepared).""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The text uses induction by drawing a conclusion from a specific scenario (grid failure) to a general situation (United States being flung into a state of panic).""
+}",['induction'],"{
+    ""Properties"": [""defintion as figure""],
+    ""Explanation"": ""The statement sets forth the full meaning and character of a 'grid failure' by explaining the immediate consequences and the need for preparedness.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the potential consequences of a grid failure with the importance of being prepared.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by contrasting the potential consequences of a grid failure (state of panic) with the need to be prepared (good to be prepared).""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'almost immediately' and 'just in case' presents an argument from opposites, emphasizing the potential for a sudden and extreme outcome and the need for preparation.""
+}",['antithesis'],1,['antithesis'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It does not make a general conclusion based on specific instances or observations. Instead, it presents a hypothetical scenario without providing specific instances or evidence to support a general conclusion. Therefore, it does not exemplify inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the provided sentence, there is no intentional repetition of clauses or phrases for rhetorical effect. Therefore, it does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence contrasts the potential consequences of a grid failure with the importance of being prepared, it does not present two directly opposing or functionally opposite ideas within parallel grammatical structures, which is a key characteristic of antithesis. Therefore, the sentence does not exemplify antithesis.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not offer a lucid and succinct definition of a specific concept or thing, but rather discusses a potential consequence and the importance of preparedness.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or observations. The sentence provided does not present a set of examples or observations from which an inference is drawn. Instead, it expresses a hypothetical scenario and the importance of being prepared for it, which does not align with the concept of abduction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. It expresses a general statement about the potential consequences of a grid failure, but it does not logically infer a specific outcome based on a general principle or trend. Instead, it emphasizes the importance of being prepared for a potential event without directly linking it to a specific logical inference based on general principles or trends.""
+}",[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example contains strategic repetition through the repetition of the phrase 'in the Catholic Church' and 'the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.'""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'Catholic Church' and 'religion of peace' is strategically repeated to emphasize the contrast between the two beliefs.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the idea of believing that Islam is a Religion of Peace with the consequence of being ruthlessly harassed and silenced.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'superdogma' and 'Religion of Peace' presents an argument from opposites, creating a contrast between the two concepts.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the belief that Islam is a Religion of Peace with the consequence of being harassed and silenced by the Catholic Church.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'superdogma' and 'Religion of Peace' presents an antithesis, emphasizing the contrast between the two concepts.""
+}",['antithesis'],1,['antithesis'],0,0,,['deduction'],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided does not present specific instances or observations leading to a general conclusion, but rather expresses a specific belief or opinion within the Catholic Church. Therefore, it does not exemplify inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is no evident repetition of clauses or phrases within the passage. Therefore, it does not demonstrate strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence does present contrasting ideas about the perception of Islam within the Catholic Church, it does not do so within parallel grammatical structures. Antithesis requires the contrast of ideas or words within parallel grammatical structures, and in this sentence, the contrast is not presented in a parallel manner.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no clear transposition of arguments or phrases in a repeated manner. While the sentence contains strong language and contrasts, it does not exhibit the specific transpositional structure characteristic of antimetabole."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. The definition as a figure of argument typically presents a clear and concise explanation of the meaning and character of a thing. The sentence given does not provide a lucid and succinct definition of the term 'superdogma' or 'Religion of Peace', but rather expresses an opinion or belief about the Catholic Church and its stance on Islam. Therefore, it does not fit the definition of a figure of argument."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making inferences or drawing conclusions based on observed patterns or examples. The sentence provided does not present a set of examples or patterns from which an inference is drawn. Instead, it appears to express an opinion or belief about a specific situation within the Catholic Church and its stance on Islam, rather than making an inference based on observed examples or patterns.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves drawing a specific conclusion from general premises or information. The sentence provided does not present a logical inference based on general principles or information, but rather expresses an opinion or belief about a specific situation within the Catholic Church and its stance on Islam. Therefore, it does not exemplify deduction as a form of logical reasoning.""
+}",[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains the strategic repetition of the phrase 'I should be killed and I should die.'""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The quote 'I should be killed and I should die' demonstrates strategic repetition of the phrase 'I should' for emphasis and to convey the intensity of the situation.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence contains strategic repetition with the use of 'I should be killed and I should die'. This repetition serves as a rhetorical device to emphasize the severity of the situation.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity and severity of the threat, making it a strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity and severity of the threat, making it a strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity of the threat and creates a strong emotional impact.""
+}",['strategic_repetition'],1,['strategic_repetition'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided is a specific instance of an event and does not lead to a general conclusion or inference based on multiple instances or observations. Therefore, it does not exemplify inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition as defined. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is a repetition of the phrases 'I should be killed' and 'I should die,' but this repetition does not serve the purpose of strategic repetition as it does not reinforce a specific argument or idea within the passage.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. In the given sentence, there is no clear contrast of opposing ideas within parallel grammatical structures. Instead, it describes a single woman expressing a single sentiment, without presenting contrasting or opposing ideas.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or a repeated pattern of transposed elements. Therefore, it does not fit the definition of antimetabole.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure is a type of argument that sets forth the full meaning and character of a thing lucidly and succinctly. The sentence given does not provide a clear and concise definition of a specific concept or thing, but rather describes a specific event or situation involving a woman screaming at someone. Therefore, it does not fit the criteria of a definition as a figure.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or using case-based reasoning to arrive at a likely explanation. The sentence given does not involve such a process. Instead, it appears to be a direct quotation or report of an event without the use of inference or reasoning based on examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence given does not involve logical reasoning or inference from general principles to a specific conclusion. Instead, it appears to be a direct quotation or report of a specific event or statement without any logical inference or deduction being made.""
+}",[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition of the idea of Iran's plans to increase enrichment, first mentioning it and then emphasizing it through the threat of quick expansion.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat from a top Iranian official that the activities could be quickly expanded.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition is evident in the passage, with the phrase 'the announcement came' repeated to emphasize the connection between Iran's statement to the U.N. and the subsequent threats from a top Iranian official.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the passage 'Iran told the U.N. nuclear watchdog agency' and 'the announcement came with threats from a top Iranian official' demonstrates strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat of quickly expanding the activities.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat of quickly expanding the activities.""
+}",['antithesis'],0,['antithesis'],1,0,,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It reports a specific event or statement made by Iranian officials regarding their plans for nuclear enrichment. It does not draw a general conclusion based on specific instances or data, which is the essence of inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The sentence provided does not exhibit this deliberate repetition of clauses or phrases.""
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence demonstrates antithesis as it contrasts the idea of Iran's stated intention to increase enrichment within limits set by the 2015 deal with the threat from a top Iranian official that the activities could be quickly expanded. This contrast of intentions and potential actions within parallel grammatical structures aligns with the definition of antithesis.""
+}",['antithesis'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, the sentence does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument involves setting forth the full meaning and character of a thing lucidly and succinctly. The sentence in question does not provide a clear and concise definition of a concept or term, but rather reports on a specific announcement and threat made by Iran to the U.N. nuclear watchdog agency.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence in question does not present a set of examples or cases from which an inference is drawn. Instead, it reports a specific event and a statement made by Iranian officials regarding their plans for nuclear enrichment. This sentence is more indicative of reporting current events rather than making an inference based on a set of examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. It presents a specific situation without directly inferring from a general principle or rule. Instead, it reports a specific event and the associated threats, lacking the logical inference characteristic of deduction.""
+}",[]
+243,[2 6],Women everywhere should be furious.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text contains strategic repetition of the word 'women', emphasizing the universality of the sentiment being expressed.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""defintion as figure""],
+  ""Explanation"": ""The sentence uses strategic repetition by repeating the word 'women' to emphasize the inclusive nature of the anger. It also employs a form of definition as figure by succinctly expressing that women globally should feel intense anger.""
+}","['strategic_repetition', 'defintion_as_figure']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'women everywhere' is strategically repeated to emphasize the universality of the feeling being expressed.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of 'women everywhere' and 'should be furious' creates strategic repetition by repeating the idea of anger and emphasizing the universality of the feeling among women.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the word 'everywhere' strategically repeats the idea of women being widespread and universal, emphasizing the extent of the issue.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of 'everywhere' strategically repeats the idea of women being widespread and universal, emphasizing the importance of the statement.""
+}",['strategic_repetition'],1,['strategic_repetition'],1,0,GPT is making stuff up,[],True,"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious' does not demonstrate induction. Induction involves making a general conclusion based on specific instances or observations. The given sentence does not provide specific instances or observations from which a general conclusion is drawn. It is a statement that lacks the specific instances or evidence required for inductive reasoning.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence, 'Women everywhere should be furious,' does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is no repetition of clauses or phrases, so it does not exhibit strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious' does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, with two ideas that are functionally opposite. In the given sentence, there is no explicit contrast or comparison of opposing ideas within parallel grammatical structures. Therefore, it does not demonstrate antithesis.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence, 'Women everywhere should be furious,' does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated structure. In the provided sentence, there is no transposition of arguments or a repeated structure, so it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious' does not demonstrate definition as a figure. Definition as a figure typically involves providing a clear and concise explanation of the meaning or character of a thing. In this sentence, there is no explicit definition or clear elucidation of the meaning or character of 'women' or 'furious.' Instead, it expresses a general sentiment or opinion without providing a specific definition or characterization.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious' does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The given sentence does not provide a set of examples or cases from which an inference is drawn. Instead, it expresses a general sentiment or opinion without providing specific examples or cases to support the inference."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence 'Women everywhere should be furious' does not demonstrate deduction. Deduction involves drawing a specific conclusion from a general principle or set of premises. The given sentence does not provide a general principle or set of premises from which a specific conclusion is drawn. Instead, it expresses a general sentiment without providing specific premises or logical reasoning to support it. Therefore, it does not exemplify deduction as a form of logical reasoning.""
+}",[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'one could not ... one could not' sets up an argument from opposites, creating a contrast between the consecration of a brothel and the blessing of a concentration camp or weapons not intended for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'one could not' followed by contrasting examples of things that cannot be consecrated or blessed creates an argument from opposites, making use of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites, such as 'consecrate a brothel' and 'bless a concentration camp', reflects the use of antithesis as a figure of argument.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing the consecration of a brothel with the blessing of a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing consecrating a brothel with blessing a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the consecration of a brothel or a concentration camp with the ordainment of weapons for hunting or legitimate self-defense.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,['strategic_repetition'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The provided sentence, on the other hand, seems to be making a moral or ethical argument rather than drawing a general conclusion from specific instances. It does not follow the pattern of inductive reasoning or generalization as seen in the examples provided."" 
+}",[],"{
+  ""Answer"": ""Yes"",
+  ""Explanation"": ""The given sentence demonstrates strategic repetition. The phrase 'one could not' is repeated to emphasize the prohibition or impossibility of certain actions, creating a rhetorical effect through the strategic repetition of clauses within the passage.""
+}",['strategic_repetition'],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates antithesis. It contrasts the consecration of a brothel with the blessing of a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense. This contrast of ideas within parallel grammatical structures fulfills the criteria for antithesis.""
+}",['antithesis'],"{
+  ""Answer"": ""Yes"",
+  ""Explanation"": ""The given sentence demonstrates antimetabole. Antimetabole involves the transposition of words in successive clauses to create a rhetorical effect. In the provided sentence, the structure 'one could not' is repeated and transposed in the clauses, creating a parallelism and reversal of the initial phrase, which aligns with the definition of antimetabole.""
+}",['antimetabole'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given, however, is more of a statement expressing a moral or ethical standpoint, rather than providing a lucid and succinct definition of a concept or thing.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction is an inference from a set of examples or observations to form a likely explanation. The sentence given appears to be a statement about what one could or could not consecrate or bless, rather than an inference drawn from a set of examples or observations.""
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates deduction. It starts with general principles or rules (one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense) and then applies these principles to specific situations. This process of moving from general principles to specific instances is characteristic of deduction and logical reasoning.""
+}",['deduction']
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Figures_of_argument,['antithesis'],['antithesis'],['antithesis'],True,['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an argument from opposites, emphasizing the contrast between standing with BDS, Hamas, etc., and standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an argument from opposites, creating a contrast between standing with certain entities and standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The sentence presents an argument from opposites, framing the choice as between standing with BDS, Hamas, and those who want to destroy Israel, or with Jews.""
+}",['antithesis'],True,timeout,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting standing with BDS, Hamas, and those who want to destroy Israel with standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting standing with BDS, Hamas, blood libels, and those who want to destroy Israel with standing with Jews.""
+}",['antithesis'],1,['antithesis'],1,1,,['antithesis'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing general conclusions from specific instances or observations. The sentence provided does not present specific instances or observations from which a general conclusion is drawn. Instead, it presents a dichotomous choice without providing specific instances or evidence to support a general conclusion.""
+}",[],"{
+  ""Answer"": ""Yes"",
+  ""Explanation"": ""The given sentence demonstrates strategic repetition. The structure of the sentence repeats the phrase 'Either you stand with' followed by different elements, creating a strategic repetition of clauses within the passage. This repetition is used to emphasize a contrast and to make a persuasive argument.""
+}",['strategic_repetition'],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates antithesis. It presents a clear contrast between standing with one set of entities (BDS, Hamas, etc.) and standing with another (Jews), thereby fulfilling the requirement of presenting opposing ideas within parallel grammatical structures.""
+}",['antithesis'],"{
+  ""Answer"": ""Yes"",
+  ""Explanation"": ""The given sentence demonstrates antimetabole. Antimetabole involves the repetition of words in successive clauses, but in transposed order. In the provided sentence, the structure 'Either you stand with [list of negative associations] or with [positive association]' mirrors the transposition of arguments, which is characteristic of antimetabole.""
+}",['antimetabole'],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument aims to provide a clear and concise explanation of the meaning and character of a thing. The sentence given does not provide a lucid and succinct definition of a concept or thing, but rather presents a dichotomous choice between different entities without defining them."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given appears to be a statement that presents a binary choice or a false dilemma, rather than drawing an inference from a set of examples. It seems to be more of a rhetorical statement rather than a form of reasoning based on examples or cases."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence given does not follow this pattern. Instead, it presents a binary choice between two opposing positions without providing a logical inference from general principles to a specific conclusion. Therefore, it does not exemplify deduction as a form of logical reasoning.""
+}",[]
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Figures_of_argument,[],[],['strategic_repetition'],False,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'destroy this guy's life' and 'hope you win in 2020' presents an argument from opposites, creating a contrast between the potential outcomes.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition of the phrases 'destroy this guy's life' and 'hold this seat open' qualifies as strategic repetition within the passage.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'destroy this guy's life' and 'hold this seat open' creates a strategic repetition, and the contrast between 'destroy' and 'hope you win' forms an antithesis in the statement.""
+}","['strategic_repetition', 'antithesis']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'destroy this guy's life' is contrasted with 'hold this seat open' to create an argument from opposites, making use of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'destroy this guy's life' and 'hold this seat open' demonstrates strategic repetition, emphasizing the speaker's point and creating a strong rhetorical effect.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the repetition of 'destroy this guy's life' and 'hold this seat open' creates a strategic repetition, emphasizing the speaker's point and adding emphasis to the argument.""
+}",['strategic_repetition'],0,['strategic_repetition'],0,1,,['strategic_repetition'],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate induction. Induction involves making general conclusions based on specific instances or observations. The sentence in question is a direct quotation and does not involve generalizing from specific instances to a broader conclusion. It is a specific statement made by a person and does not represent a generalization based on specific instances.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition as defined. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. The sentence provided does not exhibit this type of deliberate repetition of clauses or phrases.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate antithesis. While it does express a strong contrast in ideas, it does not do so within parallel grammatical structures. Antithesis requires the contrast of ideas or words within parallel grammatical structures, and the sentence in question does not exhibit this specific grammatical structure."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence in question does not provide a lucid and succinct definition of a concept or thing, but rather expresses a strong opinion or directive in a political context."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given does not present a situation where an inference is made based on a set of examples. Instead, it appears to be a direct quote expressing a political opinion or accusation, lacking the characteristic inference from a set of examples that defines abduction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence given does not present a logical inference from general principles to a specific conclusion. Instead, it appears to be a statement expressing a specific opinion or accusation without explicitly following a logical inference process.""
+}",[]
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Figures_of_argument,[],['defintion_as_figure'],['defintion_as_figure'],False,['defintion_as_figure'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The text uses antimetabole by transposing the arguments in the phrase 'To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.'""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text uses the argument from opposites, presenting the contrast between 'blessing' and 'flourishing' to emphasize the positive outcome of a blessing.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a lucid and succinct definition of the term 'to bless', setting forth its full meaning and character.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a lucid and succinct definition of the term 'to bless' by stating that it means something shall flourish, and that only when there is a blessing upon a cause or project, will something good come out of it.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a clear and succinct definition of the term 'to bless' by stating that it means something shall flourish, and that only when there is a blessing upon a cause or project, will something good come out of it.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting the idea of blessing with the idea of something flourishing, implying that the absence of a blessing leads to a lack of flourishing.""
+}",['antithesis'],0,['defintion_as_figure'],0,1,,['defintion_as_figure'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It presents a statement about the meaning of 'blessing' without relying on specific instances or examples to support a general conclusion. Instead, it seems to offer a definition or interpretation without providing empirical evidence or specific cases to support the claim. Inductive reasoning typically involves drawing general conclusions based on specific instances or examples, which is not evident in the given sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is no evident repetition of clauses or phrases for rhetorical effect. Instead, the sentence seems to focus on explaining the concept of blessing and its impact on the flourishing of something."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it discusses the concept of blessing and flourishing, it does not present a direct contrast of opposing ideas within parallel grammatical structures, which is a key characteristic of antithesis. Instead, it primarily focuses on the relationship between blessing and positive outcomes.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically presents a clear and concise explanation of the meaning and character of a thing. The sentence given does not explicitly define the term 'bless' or 'blessing' in a succinct and lucid manner. Instead, it discusses the consequence of being blessed, rather than providing a direct and clear definition of the term."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making inferences or conclusions based on observed patterns or examples. The sentence provided does not present a set of examples or observed patterns from which an inference is drawn. Instead, it seems to be a statement about the meaning of 'blessing' and its effect on outcomes, which does not align with the concept of abduction or case-based reasoning.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Instead, it presents a general statement about the meaning of 'to bless' and its presumed outcome, without directly inferring a specific conclusion from a set of premises or general principles. Deduction involves drawing specific conclusions from general principles or premises, which is not evident in the provided sentence.""
+}",[]
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis"", ""induction""],
+  ""Explanation"": ""The sentence contains argument from opposites (antithesis) by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law. It also uses induction by drawing a conclusion about Germany based on specific examples of chaos, anarchy, and illegal border crossings.""
+}","['antithesis', 'induction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting 'chaos, anarchy, and illegal border crossings' with 'discipline and the rule of law' in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis"", ""defintion as figure""],
+  ""Explanation"": ""The statement presents an antithesis through the contrast between 'chaos, anarchy, and illegal border crossings' and 'discipline and the rule of law'. It also provides a definition as a figure by setting forth the character of Germany as a country known for discipline and the rule of law.""
+}","['antithesis', 'defintion_as_figure']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],1,['antithesis'],0,0,GPT classification and explanation both wrong,['strategic_repetition'],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided expresses a personal opinion or belief without referencing specific instances or data to support a general conclusion. It is more of a subjective statement rather than an example of inductive reasoning or generalization.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition as defined. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. In the given sentence, there is no deliberate repetition of clauses or phrases for rhetorical effect. Instead, the speaker contrasts 'chaos, anarchy, and illegal border crossings' with 'discipline and the rule of law' to make a point about their understanding of Germany. This is not an example of strategic repetition as described.""
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates antithesis. It contrasts the ideas of chaos, anarchy, and illegal border crossings with the concept of discipline and the rule of law, presenting opposing ideas within parallel grammatical structures.""
+}",['antithesis'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated structure. In the provided sentence, there is no transposition of arguments or phrases in a repeated structure. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not explicitly provide a lucid and succinct definition of the terms 'chaos,' 'anarchy,' or 'illegal border crossings.' Instead, it expresses an opinion about these concepts in relation to Germany, without providing a clear definition of the terms themselves.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or using case-based reasoning to arrive at a conclusion. The sentence given appears to express an opinion or observation without explicitly referencing a set of examples or using case-based reasoning to reach a conclusion. Instead, it seems to reflect the speaker's personal viewpoint on chaos, anarchy, and illegal border crossings in Germany, contrasting it with their perception of the country as a paragon of discipline and the rule of law."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The provided sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, typically using a premise to reach a specific conclusion. The sentence provided expresses an opinion or belief about the concepts of chaos, anarchy, and illegal border crossings in Germany, contrasting them with the perceived values of discipline and the rule of law. It does not present a logical inference based on general principles or premises, and therefore does not exemplify deduction.""
+}",[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'hope' and 'sham' creates an antithesis, contrasting the positive expectation with the negative reality, thereby creating a stronger rhetorical effect.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement 'I hope the American people can see through this sham, that you knew about it and you held it' presents an argument from opposites, contrasting the idea of seeing through a sham with knowing about and holding it.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting 'hope' with 'sham' and 'knew' with 'held', creating a sense of opposition and highlighting the speaker's perspective.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas in close proximity: 'see through this sham' and 'you knew about it and you held it.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses the rhetorical device of antithesis by presenting contrasting ideas in close proximity ('see through this sham' vs 'you knew about it and you held it').""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas: 'you knew about it' and 'you held it'.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,['strategic_repetition'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided seems to express a hope or desire for a specific outcome rather than making a general conclusion based on specific instances or observations.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. In the provided sentence, there is a repetition of 'you' and 'it,' but this repetition does not serve the purpose of emphasizing a point or creating a rhetorical effect. Instead, it seems to be a natural repetition in the context of the sentence's structure.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence does contrast two ideas ('see through this sham' and 'you knew about it and you held it'), it does not do so within parallel grammatical structures. Antithesis requires the contrast of ideas or words within parallel grammatical structures, and the given sentence does not meet this criterion.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure is a type of argument that sets forth the full meaning and character of a thing lucidly and succinctly. The sentence given does not provide a clear and concise definition of a specific concept or thing, but rather expresses a hope and accusation regarding the American people and their perception of a situation."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or using case-based reasoning to arrive at a likely explanation. The sentence given appears to express a hope or desire for a particular outcome rather than making an inference based on examples or past patterns. Therefore, it does not align with the concept of abduction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves drawing a specific conclusion from a general principle or set of premises. The sentence provided does not present a logical inference from a general statement to a specific conclusion. Instead, it seems to express a hope or desire for a particular outcome without directly linking it to a general principle or premise.""
+}",[]
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Figures_of_argument,[],['eduction'],[],False,"['eduction', 'induction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between the idea of Oswald defecting to the Soviet Union and promising military secrets, and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The question presents an argument from opposites by contrasting the idea of a supposed defector to the Soviet Union with the decision of US officials to allow him back into the country with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'supposedly' and the contrast between Oswald's attempt to defect to the Soviet Union and the US officials agreeing to let him back in the country with a communist wife creates an antithesis, highlighting the contradictory nature of the situation.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald supposedly defecting to the Soviet Union and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald supposedly defecting to the Soviet Union and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald's attempt to defect to the Soviet Union and the U.S. officials' decision to let him back into the country with a communist wife.""
+}",['antithesis'],1,['antithesis'],0,0,,[],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It seems to be a rhetorical question or a statement that implies skepticism or disbelief rather than drawing a general conclusion from specific instances. Inductive reasoning typically involves drawing a general conclusion based on specific instances or observations, which is not the case in the provided sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The sentence provided does not exhibit this intentional repetition of clauses or phrases for rhetorical effect.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While the sentence contrasts Oswald's actions and the response of U.S. officials, it does not present two directly opposing or contrasting ideas within parallel grammatical structures, which is a key characteristic of antithesis. The sentence primarily poses a question and does not contain the necessary parallelism to qualify as an example of antithesis.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument involves setting forth the full meaning and character of a thing lucidly and succinctly. The sentence in question does not provide a clear and concise definition of a specific concept or thing, but rather poses a rhetorical question about the actions of U.S. officials in relation to Oswald's supposed actions. Therefore, it does not align with the concept of 'definition as figure'.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence in question seems to be more of a rhetorical question or a statement expressing disbelief rather than an inference drawn from a set of examples or cases. It does not present a pattern of similar cases or examples from which an inference is made, which is characteristic of abduction.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. It presents a question and expresses surprise or disbelief about a specific event (Oswald's return to the country with a communist wife) rather than making an inference from the general to the specific based on established principles or patterns. Deduction involves drawing specific conclusions from general principles or premises, which is not evident in the provided sentence.""
+}",[]
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Figures_of_argument,[],['strategic_repetition'],[],False,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites by juxtaposing the idea of being under investigation with the presumption of innocence.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis"",
+    ""eduction""
+  ],
+  ""Explanation"": ""The use of 'reflect on that before they comment or disparage' presents an antithesis by contrasting the act of reflecting with the act of commenting or disparaging. Additionally, the speaker makes an eduction by using the specific example of the special prosecutor's investigation to generate a conclusion about reflecting on the case before commenting."" 
+}","['antithesis', 'eduction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The passage uses antithesis as it presents contrasting ideas in close proximity, contrasting being under investigation and availing themselves of the presumption of innocence beyond a reasonable doubt.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'they are themselves' and 'they may soon avail themselves' presents an argument from opposites, emphasizing the contrast between the subjects being investigated and potentially benefiting from the presumption of innocence.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'under investigation' and 'presumption of innocence beyond a reasonable doubt' presents an argument from opposites, highlighting the contrast between the two situations.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of 'they are themselves under investigation' followed by 'they may soon avail themselves of the presumption of innocence beyond a reasonable doubt' presents an argument from opposites, highlighting the contrast between being under investigation and the presumption of innocence.""
+}",['antithesis'],1,['antithesis'],0,0,,[],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It does not involve inferring a general conclusion from specific instances or observations. Instead, it seems to be a specific statement addressing a particular situation, urging individuals to consider their own circumstances before making comments or criticisms. It does not involve the process of generalizing from specific instances to form a broader conclusion, which is characteristic of inductive reasoning.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a persuasive effect. In the given sentence, there is no evident repetition of clauses or phrases for rhetorical effect. Instead, the speaker is using parallel structure to convey a message, but it does not constitute strategic repetition as a figure of argument.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate antithesis. While the sentence contrasts the actions of the individuals being addressed with a request for reflection, it does not present two directly opposing ideas or words within parallel grammatical structures, which are essential characteristics of antithesis. The sentence primarily emphasizes a contrast in actions and a call for reflection, rather than a direct contrast of ideas or words."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no clear transposition of arguments or phrases in a repeated manner. The sentence does not exhibit the characteristic reversal or transposition that is typical of antimetabole."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence in question does not aim to define or explain the meaning of a specific concept or term, but rather serves as a cautionary statement or a reminder, addressing a specific situation and urging reflection before making comments or disparaging the results of a case.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not present a specific inference drawn from a set of examples, but rather urges individuals to consider their own legal situation before commenting on or criticizing the results of a case. It is more of a plea for reflection and restraint rather than an inference drawn from a set of examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate deduction. Instead, it seems to be a statement intended to remind or caution someone about their own situation in light of a potential future event. It does not involve the process of logical reasoning from general principles to specific conclusions, which is characteristic of deduction.""
+}",[]
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [
+    ""strategic repetition""
+  ],
+  ""Explanation"": ""The use of the phrase 'there is no' is strategically repeated to emphasize the absence of any alternative or defense.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence 'there is no way' is repeated at the beginning of the sentence for emphasis, which fits the definition of strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'there is no way' and 'there is no defense' creates strategic repetition, and the opposition in 'there is no way to spin this' and 'today the mask came off' constitutes antithesis.""
+}","['strategic_repetition', 'antithesis']",False,"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'there is no way' and 'there is no defense' demonstrates strategic repetition, while the contrast between 'there is no way to spin this' and 'today the mask came off' illustrates antithesis.""
+}","['strategic_repetition', 'antithesis']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text contains strategic repetition with the phrase 'there is no' repeated twice for emphasis and to convey a sense of finality and certainty.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The text uses strategic repetition with the phrase 'there is no' and 'the mask came off', and also employs antithesis with the contrast between 'there is no way to spin this' and 'there is no defense'.""
+}","['strategic_repetition', 'antithesis']",0,"['strategic_repetition', 'antithesis']",1,0,GPT is pertially correct,['strategic_repetition'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The provided sentence does not present specific instances or observations from which a general conclusion is drawn. Instead, it seems to express a specific opinion or observation without providing the basis for a general conclusion."" 
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates strategic repetition. It repeats the phrase 'there is no' to emphasize the lack of possibility or defense, creating a rhetorical effect by reinforcing the idea and making it more memorable to the audience.""
+}",['strategic_repetition'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it does express a strong contrast in ideas, it does not present a parallel grammatical structure that contrasts opposing ideas. Antithesis requires a specific grammatical structure where contrasting ideas are presented in a parallel manner, which is not the case in the given sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the repetition of words in successive clauses, but in reverse order. In the provided sentence, there is no transposition of arguments or repetition of words in reverse order. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning or character of a thing. The sentence given seems to express a different concept, possibly related to a revelation or unmasking, rather than providing a lucid and succinct definition of a specific term or concept."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided seems to express a conclusion or opinion without referencing specific examples or cases. It appears to be more of a statement or opinion rather than an inference drawn from a set of examples, which is characteristic of abduction or case-based reasoning.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing conclusions based on established principles or premises. The sentence provided does not follow this pattern; it appears to express a sudden realization or a direct observation rather than a logical inference based on prior knowledge or principles.""
+}",[]
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Figures_of_argument,['eduction'],['eduction'],[],False,"['antimetabole', 'strategic_repetition']","{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of opposites such as 'nosebleeds' and 'memory loss' creates an antithesis in the passage.""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The passage uses the specific examples of symptoms experienced by individuals to draw a general conclusion about the consequences of the situation, which is an example of induction.""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of hearing anything with the unmistakable consequences, creating a sense of opposition and contrast.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the 'consequences' that are 'unmistakable'.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the consequences that have been unmistakable.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the consequences that have been unmistakable.""
+}",['antithesis'],1,['antithesis'],0,0,,['induction'],False,"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. Induction involves drawing a general conclusion from specific instances or observations. The sentence provided describes specific consequences without generalizing from specific instances to a broader conclusion. It is more descriptive of specific effects rather than drawing a general conclusion based on specific instances, which is the essence of inductive reasoning.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a rhetorical effect. In the given sentence, there is no intentional repetition of clauses or phrases. The sentence simply lists various symptoms and their consequences without utilizing strategic repetition.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. The sentence provided does not contain a clear contrast of opposing ideas within parallel grammatical structures. Instead, it describes a list of consequences without setting up a clear opposition between two contrasting ideas."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases. It is a complex sentence describing consequences without the transpositional pattern characteristic of antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure of argument. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not provide a lucid and succinct definition of a concept or thing, but rather describes the consequences of a situation."" 
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or observed phenomena. The sentence describes the consequences of a situation without referring to a set of examples or observed patterns that lead to the conclusion. Instead, it presents a list of symptoms and their consequences without explicitly referencing a set of examples or observed patterns that lead to the conclusion, which is characteristic of abduction.""
+}",[],"{
+  ""Answer"": ""No"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, typically using logical principles. The sentence provided describes a situation and its consequences without explicitly using general principles or logical reasoning to arrive at a specific conclusion. Instead, it presents a cause-and-effect relationship without explicitly showing the process of logical inference from general principles to a specific outcome."" 
+}",[]
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Figures_of_argument,['defintion_as_figure'],['defintion_as_figure'],['defintion_as_figure'],True,['defintion_as_figure'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The sentence uses antimetabole by transposing the arguments in the phrase 'the same man who made the Clinton Foundation happen and which employed Huma Abedin' to 'made the Clinton Foundation happen and which employed Huma Abedin'.""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the positive association with the Clinton Foundation with the negative association of her ex-husband heading up Teneo Strategy.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence employs antithesis by juxtaposing the creation of Teneo Strategy by the ex-husband with the creation of the Clinton Foundation, implying opposite or conflicting associations.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by juxtaposing 'her ex-husband' with 'the same man who made the Clinton Foundation happen.' This creates a contrast between the two individuals.""
+}",['antithesis'],timeout,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the creation of Teneo Strategy by one man with the employment of Huma Abedin by the same organization.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,[],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It provides specific information about the roles and connections of individuals and organizations, but it does not draw a general conclusion from specific instances. Inductive reasoning involves drawing general conclusions based on specific instances or observations, which is not evident in the given sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. The sentence provided does not exhibit this intentional repetition of clauses or phrases for rhetorical effect.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. The sentence provided does not contain a clear contrast of opposing ideas within parallel grammatical structures. Instead, it presents a series of related facts about Teneo Strategy, the Clinton Foundation, and Huma Abedin, without a direct contrast of opposing ideas."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated structure. In the provided sentence, there is no transposition of arguments or phrases in a repeated structure. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given does not provide a lucid and succinct definition of the term 'Teneo Strategy' or 'her ex-husband'. Instead, it provides information about the organization and its connection to the Clinton Foundation and Huma Abedin, but it does not define the term in a clear and succinct manner."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence provided does not involve inferring a likely explanation from a set of examples or cases. Instead, it provides information about the professional background of the ex-husband, without making an inference based on a set of examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence provided does not involve this kind of logical inference. Instead, it appears to be a statement of fact or a description of a situation, lacking the logical progression characteristic of deduction.""
+}",[]
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The passage employs an antithesis by presenting an argument from opposites: resisting the power is framed as resisting the ordinance of God, and resisting leads to eternal damnation.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The phrase 'he that resisteth the power, resisteth the ordinance of God' presents an argument from opposites, emphasizing the contrast between resisting the power and resisting the ordinance of God.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'he that resisteth the power' and 'resisteth the ordinance of God' presents an argument from opposites, making it an example of antithesis.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites, contrasting those who resist the power with those who purchase eternal damnation.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'he that resisteth the power' and 'resisteth the ordinance of God' creates an argument from opposites, emphasizing the contrast between resisting the power and resisting the ordinance of God.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text uses antithesis by presenting opposing ideas: resisting the power is equated with resisting the ordinance of God, and the consequence is eternal damnation.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,['strategic_repetition'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate induction. The sentence appears to be a religious or moral statement rather than an inference from specific instances to a general conclusion. Inductive reasoning involves drawing general conclusions based on specific observations or instances, which is not evident in the given sentence.""
+}",[],"{
+  ""Answer"": ""Yes"",
+  ""Explanation"": ""The given sentence demonstrates strategic repetition. It repeats the phrase 'he that resisteth' and 'resisteth' to emphasize the idea of resistance, which is a form of strategic repetition commonly used to reinforce a point or idea within a passage.""
+}",['strategic_repetition'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. While it contrasts the act of resisting power with the consequence of eternal damnation, it does not present two ideas that are functionally opposite within parallel grammatical structures. Antithesis requires a clear contrast of ideas or words, which is not fully evident in this sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or a repeated pattern of transposed elements. Therefore, it does not fit the definition of antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves providing a clear and concise explanation of the meaning and character of a thing. The sentence given appears to be a statement about resisting power and its consequences, rather than providing a lucid and succinct definition of a concept or thing.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given appears to be a theological statement rather than an inference drawn from a set of examples or cases. It seems to express a belief or doctrine rather than a conclusion drawn from observed patterns or examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. The sentence appears to be a religious or moral statement rather than an inference from the general to the specific based on logical reasoning or evidence. Deduction typically involves drawing specific conclusions from general principles or premises, which is not evident in the provided sentence.""
+}",[]
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The use of 'going to go out' and 'shoot it at night' in an inverted form reflects the antimetabole figure of argument.""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The phrase 'going to go out to the desert and put on a light show' followed by 'going to go out and shoot it at night with friends' presents an argument from opposites, highlighting the contrast between the intended activities.""
+}",['antithesis'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The sentence 'going to go out' is repeated and inverted in the form 'to go out and shoot it' for antimetabole.""
+}",['antimetabole'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'going to go out' and 'put on a light show' presents an argument from opposites, creating a contrast between the peaceful activity of putting on a light show and the potentially violent activity of shooting ammunition."" 
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between 'going to go out to the desert and put on a light show' and 'going to go out and shoot it at night with friends.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'going to go out' and 'put on a light show' presents an argument from opposites, emphasizing the contrast between the peaceful activity of putting on a light show and the potentially violent activity of shooting ammunition at night.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,['strategic_repetition'],True,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. The sentence is a specific instance of an event and does not lead to a general conclusion. It describes a particular conversation or event without drawing a general inference from multiple instances, which is the essence of inductive reasoning.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the intentional repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is a repetition of the phrase 'going to go out,' but this repetition does not serve a rhetorical or argumentative purpose. It appears to be a natural repetition in speech rather than a deliberate figure of argument."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antithesis. Antithesis involves the contrast of ideas or words within parallel grammatical structures, where two ideas are functionally opposite. The sentence provided does not contain a clear contrast of opposing ideas within parallel grammatical structures. Instead, it describes a sequence of events without presenting opposing concepts in a parallel structure.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument typically involves a clear and concise explanation of the full meaning and character of a thing. The sentence in question does not provide a lucid and succinct definition of a concept or thing, but rather describes an action or event involving a sale and plans for a light show in the desert. Therefore, it does not exemplify the use of definition as a figure.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or cases. The sentence given does not involve inferring a likely explanation from past patterns or examples. Instead, it seems to describe a direct statement or plan without the use of inference or reasoning based on past examples.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate deduction. Deduction involves reasoning from the general to the specific, drawing a specific conclusion from general principles or premises. The sentence given does not involve drawing a specific conclusion from general principles, but rather reports a specific statement made by Paddock about his intentions. Therefore, it does not exemplify deduction.""
+}",[]
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,"['definition_as_figure', 'strategic_repetition']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example text does not contain explicit examples of antithesis, antimetabole, definition as figure, induction, or eduction. However, it does use strategic repetition by repeating the phrase 'in the art of' to emphasize the dual expertise of the CIA in both assassination and covering up its role in state-sponsored assassinations.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The use of 'not only in the art of assassination but also in the art of covering up' exemplifies antimetabole by transposing the arguments in the phrase.""
+}",['antimetabole'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage emphasizes the dual focus of the CIA on both the 'art of assassination' and the 'art of covering up its role', employing strategic repetition to underscore this point.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only... but also' presents an argument from opposites, highlighting the dual expertise of the CIA in both assassination and covering up its role in state-sponsored assassinations.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only...but also' presents an argument from opposites, emphasizing the dual expertise of the CIA in both assassination and covering up its role.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only... but also' presents an argument from opposites, emphasizing the dual expertise of the CIA in both assassination and covering up its role.""
+}",['antithesis'],1,['antithesis'],1,0,GPT classification and explanation both wrong,['strategic_repetition'],False,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate induction. It provides a specific historical instance without drawing a general conclusion based on multiple instances or data. Inductive reasoning involves drawing general conclusions from specific instances or data, which is not evident in the given sentence.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The provided sentence does not demonstrate strategic repetition. Strategic repetition involves the deliberate repetition of clauses or phrases within a passage to emphasize a point or create a specific effect. In the given sentence, there is no intentional repetition of clauses or phrases for rhetorical effect. The sentence simply provides information about the CIA's activities without utilizing strategic repetition.""
+}",[],"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The given sentence demonstrates antithesis as it contrasts the CIA's involvement in both the act of assassination and the act of covering up its role in state-sponsored assassinations. This contrast is presented within parallel grammatical structures, fulfilling the criteria for antithesis.""
+}",['antithesis'],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate antimetabole. Antimetabole involves the transposition of words or phrases in a repeated pattern. In the provided sentence, there is no transposition of arguments or phrases in a repeated pattern. Therefore, it does not exhibit antimetabole.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate definition as a figure. Definition as a figure of argument aims to provide a clear and concise explanation of the meaning and character of a thing. The sentence in question does not provide a clear and succinct definition of a concept or thing, but rather describes an action or process undertaken by the CIA in 1953."" 
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not demonstrate abduction. Abduction involves making an inference from a set of examples or observed data. The sentence given does not present a set of examples or observed data from which an inference is made. Instead, it appears to be a statement of historical fact or allegation.""
+}",[],"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The given sentence does not demonstrate deduction. Deduction involves reasoning from the general to the specific, typically using a premise or set of premises to reach a logically certain conclusion. The sentence provided does not follow this pattern. Instead, it presents a specific historical fact without deriving it from a general principle or set of principles. Therefore, it does not exemplify deduction.""
+}",[]

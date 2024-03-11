@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<html>
+<meta charset="utf-8">
+<title>Liguistic devices annotation</title>
+
+<script
+  src="{{ url_for('static', filename='libs/jquery-3.6.4.min.js') }}"
+  integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+  crossorigin="anonymous"></script>
+
+<script src="{{ url_for('static', filename='libs/js.cookie.min.js') }}"></script>
+<script src="{{ url_for('static', filename='libs/js/jquery.arrayUtilities.min.js') }}"></script>
+
+<script src="{{ url_for('static', filename='libs/popper.min.js') }}"></script>
+
+<link href="{{ url_for('static', filename='libs/bootstrap.min.css') }}" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+<script src="{{ url_for('static', filename='libs/bootstrap.bundle.min.js') }}" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
+
+<script type="text/javascript">
+	const annotator_id = {{userid}}
+	var _j = jQuery.noConflict();
+</script>
+
+<script src="{{ url_for('static', filename='libs/d3.v3.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/utils.js') }}"></script>
+<script src="{{ url_for('static', filename='js/parser.js') }}"></script>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+<script src="{{ url_for('static', filename='js/tag_set.js') }}"></script>
+<script src="{{ url_for('static', filename='js/d3Tree.js') }}"></script>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/tree-viewer.css') }}">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+
+<body class="loggedin">
+
+	<nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary">
+		<div class="container-fluid">
+		    <a class="navbar-brand" href="#">Rhetoric Annotation Tool</a>
+		    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+		      <span class="navbar-toggler-icon"></span>
+		    </button>
+		    <div class="collapse navbar-collapse row justify-content-between" id="navbarNavAltMarkup">
+      		<div class="navbar-nav col-auto ms-md-auto text-center">
+			      <span class="nav-link">Hi {{ firstname }}</span>
+			    </div>
+			    <div class="navbar-nav col-auto ms-md-auto text-right">
+				    <a href="{{ url_for('home') }}" class="nav-link">Annotate</a>
+						<a href="{{ url_for('review',prog_num=1, comp_num=1, active=0) }}" class="nav-link">Review</a>
+						<a href="{{ url_for('help') }}" class="nav-link"><i class="bi bi-info-circle"></i> Help</a>
+						<a href="{{ url_for('references') }}" class="nav-link">Credits</a>
+						<a href="{{ url_for('logout') }}" class="nav-link"><i class="bi bi-box-arrow-left"></i> Logout</a>
+						
+				</div>
+		    </div>
+		  </div>
+	</nav>
+
+	<div class="content">
+		{% block content %}{% endblock %}
+	</div>
+</body>
+</html>

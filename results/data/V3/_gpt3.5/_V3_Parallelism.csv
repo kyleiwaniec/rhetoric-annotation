@@ -1,0 +1,600 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_gpt3.5_0.0_V3_2,property_gpt3.5_0.0_V3_2
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)"", ""comparison (parallelism in argument)""],
+  ""Explanation"": ""The text exhibits both parison with the repeated structure 'he was told by authorities that' and comparison in the contrast between the detention center and a typical American prison.""
+}","['grammatical_structure_(parison)', 'comparison_(parallelism_in_argument)']","{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'he was told' and 'could cause' shows grammatical structure parallelism, creating parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The statement draws a comparison between the detention centre and a typical American prison to emphasize their similarity.""
+}",['comparison_(parallelism_in_argument)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'he was told by authorities' and 'could cause violence and disrupt community cohesion.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'he was told' and 'could cause violence' exhibits a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'he was told' and 'could cause violence' exhibits a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The phrases and clauses in the sentence do not have equal syllable length, and there is no pattern of syllable repetition or balance that would indicate the use of isocolon. Therefore, the sentence does not exhibit parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). Although the sentence contains a description by Sellner and an action he was told by authorities, the structure does not exhibit parity among longer clauses through repetition, as seen in the provided example. Therefore, it does not exemplify the specific type of parallelism described.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not contain adjacent phrases or clauses that are used for comparison. Instead, it presents a statement made by Sellner according to Breitbart, without a direct comparison between two similar elements.', 'Property': 'comparison (parallelism in argument)'}]",[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'the first signer of the Declaration of Independence' twice in the sentence demonstrates grammatical structure parallelism (parison), where longer clauses exhibit repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'John Hancock' at the beginning of each clause, creating a sense of balance and emphasis.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The quoted text demonstrates parallelism in grammatical structure by repeating the phrase 'the first signer of the Declaration of Independence' to create a sense of parity and cohesion.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'the first signer of the Declaration of Independence' is repeated in the sentence, creating a grammatical structure of parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'the first signer of the Declaration of Independence' and 'said' creates a grammatical structure of repetition, emphasizing the significance of the statement.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'the first signer of the Declaration of Independence' and 'said' creates a grammatical structure of repetition, indicating parity among longer clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). Parallelism in syllables (isocolon) requires adjacent phrases or clauses to have equal syllable length. The provided sentence is incomplete and does not contain adjacent phrases or clauses for comparison of syllable length.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The sentence provided is incomplete, and it does not contain a pattern of alternating stressed and unstressed syllables. Additionally, the sentence does not exhibit a clear rhythmic pattern that would indicate iambic parallelism.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence provided does not exhibit parity among longer clauses through repetition, which is a characteristic of grammatical structure (parison) in parallelism. Instead, it seems to be an incomplete sentence, lacking a continuation or parallel structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence provided does not contain adjacent phrases or clauses used for comparison. Instead, it seems to be an incomplete sentence, lacking the comparison elements required for parallelism in argument.', 'Property': 'comparison (parallelism in argument)'}]",[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Parallelism,['grammatical_structure_(parison)'],[],[],False,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'in both Italian and English' creates a parallel structure by repeating the preposition 'in' to show equality between the two languages.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The text displays parallelism in its grammatical structure, with the repetition of 'in both Italian and English' and 'mention of the help of the sacraments'. This creates a sense of symmetry and reinforces the relationship between the two ideas.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits the grammatical structure property of parallelism, with the repetition of 'in both Italian and English' and 'of the help of the sacraments'.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of the phrase 'in both Italian and English' followed by 'mention of the help of the sacraments in certain cases' demonstrates grammatical structure parallelism, creating a balanced and cohesive sentence structure.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'in both Italian and English' and 'of the help of the sacraments in certain cases' shows a parallel structure in the grammatical form, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'in both Italian and English' and 'of the help of the sacraments' demonstrates a grammatical structure (parison) with the repetition of similar longer clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The structure of the sentence does not exhibit equal syllable length in adjacent phrases or clauses. Therefore, it does not exemplify the use of isocolon for parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence does not exhibit a repeated grammatical structure or parallelism in longer clauses. Instead, it presents a list of actions (I have read... and I only find mention...) without the repetition of a similar grammatical structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses used for comparison. Instead, it lists two actions (read and find mention) without a clear comparative structure, making it not an example of parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""in syllables (isocolon)"", ""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'a dark, impenetrable and “irreversible” winter' demonstrates isocolon with equal syllable length, and the repetition of 'of persecution of the faithful' creates a parison in the grammatical structure.""
+}","['in_syllables_(isocolon)', 'grammatical_structure_(parison)']","{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The repetition of the phrase 'a dark' followed by multiple adjectives 'impenetrable' and 'irreversible' constitutes parison, creating parity among longer clauses from repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The use of 'dark, impenetrable and irreversible' creates a sense of parallelism through equal syllable length in the phrases, enhancing the coherence and impact of the statement.""
+}",['in_syllables_(isocolon)'],False,"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example uses isocolon, as the phrases 'a dark, impenetrable' and 'irreversible' have equal syllable length, creating a sense of cohesion and emphasis.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The phrase 'dark, impenetrable and irreversible' demonstrates isocolon with equal syllable length in each adjective.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example exhibits the use of isocolon, as the phrases 'a dark, impenetrable' and 'irreversible' have equal syllable length, creating a sense of balance and cohesion.""
+}",['in_syllables_(isocolon)'],True,['in_syllables_(isocolon)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The structure of the sentence does not exhibit equal syllable length in adjacent phrases or clauses. The phrases A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall have different syllable lengths, and therefore do not adhere to the principle of isocolon.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). In the sentence, the stress patterns are not consistently alternating between stressed and unstressed syllables. Instead, the sentence contains a series of adjectives (dark, impenetrable, irreversible) followed by a noun (winter), which does not follow the alternating stressed and unstressed syllable pattern characteristic of iambic parameter parallelism.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). While the sentence does contain a series of adjectives (dark, impenetrable, irreversible), it does not repeat longer clauses with parity as demonstrated in the example. The example provided shows repetition of longer clauses (Thats the kind of soldiers they are and Thats the kind of people they are), which is not present in the given sentence.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it uses a series of adjectives (dark, impenetrable, and irreversible) to describe the winter of persecution, but it does not set up a direct comparison between them as required for parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]",[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'a senior Labour backbencher' followed by 'a senior Labour MP' demonstrates parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallelism can be seen in the repeated structure of 'a senior Labour backbencher' and 'a senior Labour MP', which creates a balanced and symmetrical pattern in the sentence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of 'a senior Labour backbencher' and 'a senior Labour MP' in similar grammatical structures creates a sense of parity and repetition.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'a senior Labour backbencher' and 'a senior Labour MP' in parallel form demonstrates the grammatical structure of parison, creating parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'a senior Labour backbencher' and 'a senior Labour MP' in parallel structure creates grammatical parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'a senior Labour backbencher' and 'a senior Labour MP' in the same sentence exhibits grammatical structure parallelism (parison).""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains a series of phrases and clauses, but the syllable length is not equal across the adjacent phrases or clauses. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses to create a sense of balance and cohesion.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is irregular and does not consistently alternate between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a list of actions and descriptions, but it lacks the repetition of longer clauses in a parallel structure. The elements in the sentence are not structured in a way that creates a clear parallelism in grammatical structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it provides a series of related actions and statements without a direct comparison structure.', 'Property': 'comparison (parallelism in argument)'}]",[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The text uses an iambic stress pattern with alternating stressed and unstressed syllables, such as 'very real' and 'largely immune'.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The text contains parallelism in argument, as it presents a comparison between the threat being immune to attack from the air and its reality as a significant concern.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence presents a comparison between the threat being discussed and the inability to attack it from the air, highlighting the seriousness of the threat.""
+}",['comparison_(parallelism_in_argument)'],False,"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The sentence exhibits an iambic stress pattern with alternating stressed and unstressed syllables, such as 'This is a very real threat' and 'one that is largely immune to attack from the air.'""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'one that is' in 'one that is largely immune to attack from the air.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The sentence exhibits an iambic stress pattern with alternating stressed and unstressed syllables, such as 'This is a very real threat'.""
+}",['in_stress_patterns_(iambic_parameter)'],False,['in_stress_patterns_(iambic_parameter)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The structure of the sentence does not exhibit equal syllable length in adjacent phrases or clauses. The sentence contains a main clause (This is a very real threat) followed by a subordinate clause (one that is largely immune to attack from the air), and the syllable length in these clauses is not equal, thus not demonstrating isocolon parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, it follows a more varied stress pattern, and therefore does not align with the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The structure of the sentence does not exhibit repetition of longer clauses with parity. Instead, it presents a complex sentence with a main clause (This is a very real threat) and a subordinate clause (one that is largely immune to attack from the air). While it contains parallelism in terms of the parallel structure of the subordinate clause, it does not exhibit the specific type of parallelism described in the context of grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it presents a single idea about a threat being largely immune to attack from the air.', 'Property': 'comparison (parallelism in argument)'}]",[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the US and South Korea' and 'the north'."" 
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the US and South Korea' and 'the north'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [
+    ""comparison""
+  ],
+  ""Explanation"": ""The statement sets up a comparison between the immediate targets in case of a US and South Korea attack on the north, implying a parallelism in argument.""
+}",['comparison_(parallelism_in_argument)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'should' in the clause creates a parallel grammatical structure with 'the US' and 'South Korea'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits grammatical structure parallelism with the repetition of 'should' and 'the' in 'should the US and South Korea attack the north.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence presents a comparison between the potential targets in the event of a US and South Korea attack on the north.""
+}",['comparison_(parallelism_in_argument)'],False,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence does not have adjacent phrases or clauses with equal syllable length. Therefore, it does not exhibit the characteristic of isocolon parallelism, which requires equal syllable length in adjacent phrases or clauses.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). In the sentence, the stress pattern does not consistently alternate between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence lacks the repetition of longer clauses with parity, which is a characteristic of grammatical structure (parison) in parallelism. Therefore, the sentence does not exhibit this specific form of parallelism.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). Parallelism in comparison involves using adjacent phrases or clauses to compare similar ideas. In the given sentence, there is no direct comparison being made between two similar ideas using parallel structure. Instead, the sentence discusses potential targets in a hypothetical scenario.', 'Property': 'comparison (parallelism in argument)'}]",[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The repetition of 'I should be killed and I should die' demonstrates parallelism in grammatical structure, establishing parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example uses isocolon, as the adjacent phrases 'I should be killed' and 'I should die' have equal syllable length, helping to create a cohesive set of consecutive statements.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example exhibits isocolon as the phrases 'I should be killed' and 'I should die' have equal syllable length, creating a sense of balance and cohesion.""
+}",['in_syllables_(isocolon)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The repetition of 'I should be killed and I should die' exhibits parity among longer clauses, demonstrating the use of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'I should be killed' and 'I should die' exhibits parallelism in grammatical structure, creating a sense of balance and emphasis on the speaker's reported experience.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The sentence exhibits an alternating stressed and unstressed syllable pattern, as seen in 'screaming through my door' and 'I should be killed and I should die'.""
+}",['in_stress_patterns_(iambic_parameter)'],False,['grammatical_structure_(parison)'],0,1,,['grammatical_structure_(parison)'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The phrases that I should be killed and and I should die have different syllable lengths, so they do not exhibit equal syllable length, which is a requirement for isocolon parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, it seems to follow a more natural stress pattern based on the emphasis of the words in the sentence.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). While the sentence contains a repetition of I should be killed and I should die, it lacks the parity among longer clauses that is characteristic of grammatical structure (parison) in parallelism. In the example provided, the repetition is not structured in a way that creates a balanced or parallel grammatical structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The structure of the sentence does not present a comparison between two similar ideas or concepts. Instead, it describes a single woman making two related statements, but these statements are not being compared to each other in a parallel structure.', 'Property': 'comparison (parallelism in argument)'}]",[]
+243,[2 6],Women everywhere should be furious.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The phrase 'Women everywhere should be furious' contains an isocolon with three syllables in each adjacent phrase.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The statement exhibits the iambic parameter with an alternating stressed and unstressed syllable pattern.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""This sentence contains an iambic stress pattern with alternating stressed and unstressed syllables: 'Wǝmǝn ǝvǝrywhǝrǝ shǝuld bǝ fǝryǝs.'""
+}",['in_stress_patterns_(iambic_parameter)'],False,"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The phrase 'should be furious' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'should be furious' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The statement consists of two adjacent phrases with equal syllable length, creating a sense of cohesion and emphasis.""
+}",['in_syllables_(isocolon)'],False,['in_stress_patterns_(iambic_parameter)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence Women everywhere should be furious. does not demonstrate parallelism in syllables (isocolon) because it does not contain adjacent phrases or clauses with equal syllable length. The sentence is a simple statement and does not exhibit the pattern of parallelism in syllables.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence Women everywhere should be furious does not demonstrate parallelism in stress patterns (iambic parameter). In iambic parameter, parallelism would involve alternating stressed and unstressed syllables in a consistent pattern throughout the sentence. However, the given sentence does not exhibit this consistent alternation of stressed and unstressed syllables, and therefore does not demonstrate parallelism in stress patterns (iambic parameter).', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence Women everywhere should be furious. does not demonstrate parallelism in grammatical structure (parison) as it consists of a single clause without any repetition or parity among longer clauses. Parallelism in grammatical structure (parison) involves the repetition of longer clauses to create balance and symmetry within a sentence, which is not present in the given sentence.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence Women everywhere should be furious does not demonstrate parallelism in comparison (parallelism in argument). This sentence does not contain adjacent phrases or clauses used for comparison. It is a standalone statement expressing a general sentiment rather than a comparison between two related ideas.', 'Property': 'comparison (parallelism in argument)'}]",[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",Parallelism,[],[],['grammatical_structure_(parison)'],False,[],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The text exhibits parallelism in syllables (isocolon) as the adjacent phrases 'many many others, too' and 'whom I do not know' have equal syllable length, creating a sense of cohesion and balance.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The phrase 'many many others' is an example of parison, where longer clauses are repeated in a parallel structure.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example contains a parallelism in syllables (isocolon), as the adjacent phrases 'many many others' and 'too, who think alike' have equal syllable length.""
+}",['in_syllables_(isocolon)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'many many' and 'who'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'many many' creates a parallel grammatical structure, repeating the word 'many' for emphasis and coherence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'many many' and 'who'.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The syllable lengths in the phrases I am sure there are many many others, too and who think alike, but whom I do not know are not equal. Therefore, it does not exhibit the characteristic of isocolon parallelism, which requires adjacent phrases or clauses to have equal syllable length.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a complex structure with multiple clauses, but there is no repetition of longer clauses to create parity. Therefore, it does not exhibit the specific type of parallelism described.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it focuses on expressing the speakers certainty about the existence of others who share similar thoughts but are unknown to the speaker. Therefore, it does not exhibit the specific structure associated with parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]",[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Parallelism,[],[],['grammatical_structure_(parison)'],False,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure by repeating the pattern 'pardoned [noun] and locked up [noun]' for both Obama and Trump.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [
+    ""comparison""
+  ],
+  ""Explanation"": ""The sentence presents a direct comparison between the actions of Obama and Trump, highlighting their opposite approaches to pardoning and locking up individuals involved in drug-related and ranching activities.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [
+    ""grammatical structure (parison)""
+  ],
+  ""Explanation"": ""The statement uses a grammatical structure that mirrors the contrast between Obama and Trump's actions, creating a parallelism in the argument.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence contains a comparison between the actions of Obama and Trump, highlighting the reversal of their approaches to pardoning and locking up individuals.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence presents a clear comparison between the actions of Obama and Trump in pardoning and locking up different groups of people.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence uses parallelism in argument by comparing the actions of Obama and Trump in pardoning and locking up different groups of people.""
+}",['comparison_(parallelism_in_argument)'],True,,0,0,,['in stress patterns (iambic parameter)'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). Although the sentence contains parallel structure in terms of the actions being compared (pardon/lock up), the syllable count in the phrases is not equal. The first clause Obama pardoned drug dealers and locked up ranchers has 9 syllables, while the second clause Trump pardons ranchers and locks up drug dealers has 8 syllables. Therefore, it does not adhere to the principle of isocolon, which requires equal syllable length in adjacent phrases or clauses.', 'Property': 'syllables (isocolon)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in stress patterns (iambic parameter) as it alternates stressed and unstressed syllables. For instance, pardoned drug dealers and locked up ranchers follow the same stress pattern, and similarly, pardons ranchers and locks up drug dealers exhibit parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in grammatical structure (parison). The structure of the sentence shows parity among longer clauses through repetition. The first part of the sentence While Obama pardoned drug dealers and locked up ranchers is paralleled by the second part Trump pardons ranchers and locks up drug dealers. Both parts of the sentence follow a similar grammatical structure, thereby exhibiting parallelism in the form of parison.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in comparison (parallelism in argument) because it presents a comparison between the actions of Obama and Trump using parallel structure. The sentence juxtaposes the actions of pardoning and locking up, creating a balanced and parallel structure that highlights the contrast between the two presidents approaches to dealing with drug dealers and ranchers.', 'Property': 'comparison (parallelism in argument)'}]","['stress_patterns_(iambic_parameter)', 'grammatical_structure_(parison)', 'comparison_(parallelism_in_argument)']"
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Parallelism,['grammatical_structure_(parison)'],[],['grammatical_structure_(parison)'],False,[],"{
+  ""Properties"": [
+    ""grammatical structure (parison)""
+  ],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure through the repetition of 'one could not' and the subsequent clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of the structure 'one could not [verb] a [noun]' is repeated for emphasis and to create a sense of parallelism.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'one could not' at the beginning of each clause.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one could not' is repeated in the structure of the sentence, creating parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one could not' is repeated in the sentence, creating a grammatical structure of parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one could not' is repeated in the sentence, creating a grammatical structure of parity among longer clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,1,,['grammatical_structure_(parison)'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). While the sentence does contain parallel structure in terms of repeating one could not, the syllable length of the phrases is not equal. The first clause one could not consecrate a brothel has 8 syllables, the second clause one could not bless a concentration camp has 9 syllables, and the third clause weapons which are not explicitly ordained for hunting or for legitimate self-defense has 16 syllables. Therefore, the syllable length is not equal, and thus, it does not demonstrate parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in stress patterns (iambic parameter) by consistently alternating stressed and unstressed syllables. For instance, the pattern is evident in phrases such as could not consecrate, could not bless, and explicitly ordained. These phrases exhibit a consistent alternation of stressed and unstressed syllables, showcasing parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). While the sentence contains a series of clauses, they are not structured in a parallel manner. The clauses vary in length and do not exhibit the repetition or parity typically associated with parallelism in grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in comparison (parallelism in argument) by using adjacent phrases to compare different actions that one could not do. The structure one could not consecrate a brothel, one could not bless a concentration camp, or weapons which are not explicitly ordained for hunting or for legitimate self-defense showcases parallelism in the comparison of actions that are not permissible.', 'Property': 'comparison (parallelism in argument)'}]","['stress_patterns_(iambic_parameter)', 'comparison_(parallelism_in_argument)']"
+319,[3],It’s not coming back.,Parallelism,[],[],[],True,[],"{
+    ""Properties"": [],
+    ""Explanation"": ""The given text does not exhibit any clear instances of parallelism properties."" 
+}",[],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'It’s not coming back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'It's not coming back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],False,"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'It's not coming back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'It's not coming back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'It's not coming back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],True,['in_stress_patterns_(iambic_parameter)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The sentence It’s not coming back. does not demonstrate parallelism in syllables (isocolon) because it does not have adjacent phrases or clauses with equal syllable length. The sentence is a simple statement and does not exhibit the characteristic parallel structure required for isocolon.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence It’s not coming back does not demonstrate parallelism in stress patterns (iambic parameter). In iambic parameter, parallelism would involve alternating stressed and unstressed syllables in a consistent pattern. However, the given sentence does not exhibit this consistent alternation of stressed and unstressed syllables, so it does not demonstrate parallelism in stress patterns (iambic parameter).', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence It’s not coming back. does not demonstrate parallelism in grammatical structure (parison) as it consists of a single clause without any repetition or parity among longer clauses. Therefore, the answer is no.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence It’s not coming back. does not demonstrate parallelism in comparison (parallelism in argument). This sentence does not contain adjacent phrases or clauses used for comparison. It is a simple statement without a comparison structure.', 'Property': 'comparison (parallelism in argument)'}]",[]
+320,[ 3 16],There will be no turning back.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The example exhibits an iambic stress pattern with alternating stressed and unstressed syllables ('There will be no turning back').""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The two adjacent phrases 'no turning back' have equal syllable length, creating coherence as a set.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The example 'There will be no turning back.' exhibits an iambic stress pattern with alternating stressed and unstressed syllables: There WILL, be NO, TURN-ing, BACK.""
+}",['in_stress_patterns_(iambic_parameter)'],False,"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example exhibits isocolon parallelism with equal syllable length in the adjacent phrases 'no turning' and 'no back'. This helps the consecutive statements to cohere as a set.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The example exhibits isocolon parallelism with equal syllable length in the adjacent phrases 'no turning' and 'no back'. This helps the consecutive statements to cohere as a set.""
+}",['in_syllables_(isocolon)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The phrase 'no turning back' follows an iambic stress pattern with alternating stressed and unstressed syllables.""
+}",['in_stress_patterns_(iambic_parameter)'],False,['in_syllables_(isocolon)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence There will be no turning back. does not demonstrate parallelism in syllables (isocolon) because the syllable lengths of the adjacent phrases or clauses are not equal. The sentence consists of 5, 1, 2, and 4 syllables respectively, which do not form equal syllable lengths in adjacent phrases or clauses.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence There will be no turning back does not demonstrate parallelism in stress patterns (iambic parameter). In iambic parameter, parallelism would involve alternating stressed and unstressed syllables in a consistent pattern. The sentence provided does not exhibit this consistent alternation of stressed and unstressed syllables, so it does not demonstrate parallelism in stress patterns (iambic parameter).', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence There will be no turning back does not demonstrate parallelism in grammatical structure (parison) as it consists of a single clause without any repetition or parity among longer clauses. In order to demonstrate grammatical structure (parison), the sentence should have longer clauses that are repeated in a parallel structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence There will be no turning back does not demonstrate parallelism in comparison (parallelism in argument). This sentence does not contain adjacent phrases or clauses used for comparison. Instead, it conveys a single idea without a direct comparison to another concept or situation.', 'Property': 'comparison (parallelism in argument)'}]",[]
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The article uses grammatical structure parallelism through the repetition of the 'making the claim that...' and 'wound up on the personal Facebook page of...' phrases.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure by repeating the pattern 'making the claim that' and 'wound up on the personal Facebook page of'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'making the claim' and 'wound up' creates a grammatical structure of repetition, implying similarity or equivalence.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallel structure is evident in the repetition of the phrase 'making the claim that' and 'wound up on the personal Facebook page of', creating a grammatical structure (parison) in the sentence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence contains parallelism in argument, as it compares the claim made by the anti-Semitic pastor with the action of it winding up on the personal Facebook page of the South Florida Muslim leader.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'making the claim' and 'wound up' creates a grammatical structure with parity among longer clauses, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],False,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains a complex structure with varying syllable lengths in the phrases and clauses. It does not exhibit the deliberate repetition of syllable lengths that characterizes isocolon. Therefore, it does not adhere to the specific pattern associated with parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The sentence structure does not exhibit a consistent pattern of alternating stressed and unstressed syllables. Instead, it presents a complex statement about a video clip and its distribution, lacking the rhythmic pattern characteristic of iambic parameter parallelism.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a complex structure with multiple clauses, but these clauses do not exhibit repetition or parity in their grammatical structure. Therefore, it does not exemplify the defined concept of grammatical structure (parison) within the context of parallelism.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses that are used for comparison. Instead, it provides information about a specific event involving two individuals, without drawing a direct comparison between them.', 'Property': 'comparison (parallelism in argument)'}]",[]
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,Parallelism,[],[],['grammatical_structure_(parison)'],False,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'doesn’t contradict' and 'embodies' reflects a grammatical structure of parity or repetition, creating a sense of balance and emphasis.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in stress patterns (iambic parameter)""],
+  ""Explanation"": ""The use of alternating stressed and unstressed syllables in the phrase 'Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it' demonstrates the iambic parameter of parallelism.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits grammatical structure parallelism with the repetition of 'doesn’t contradict' and 'embodies'.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'doesn’t contradict' and 'embodies'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'it' at the end of each clause.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits a grammatical structure where the clauses 'doesn’t contradict the spirit of Ramadan' and 'it embodies it' have parity and repetition, demonstrating parison.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,['in stress patterns (iambic parameter)'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). While the sentence does contain two phrases, Murdering infidels thus doesn’t contradict the spirit of Ramadan and it embodies it, the syllable lengths of the phrases are not equal. The first phrase has 8 syllables, and the second phrase has 5 syllables. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in grammatical structure (parison) because it consists of two parallel clauses (Murdering infidels thus doesn’t contradict the spirit of Ramadan and it embodies it) that are of similar length and follow a repetitive structure, showcasing parity among longer clauses through repetition.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in comparison (parallelism in argument) because it presents two parallel clauses (doesn’t contradict the spirit of Ramadan and embodies it) that are used for comparison. Both clauses are structured similarly and convey contrasting ideas, making it an example of parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]","['grammatical_structure_(parison)', 'comparison_(parallelism_in_argument)']"
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Parallelism,[],[],['grammatical_structure_(parison)'],False,[],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits a form of parallelism known as parison, with the repetition of 'defends a Hitler-lover' and 'raises the Jewish Question' in longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of repetition in the structure of the sentence with 'defends a Hitler-lover' and 'raises the Jewish Question' exhibits grammatical structure parallelism (parison).""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of 'defends a Hitler-lover' and 'raises the Jewish Question' creates a comparison highlighting the politician's controversial actions.""
+}",['comparison_(parallelism_in_argument)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of repetition in 'defends a Hitler-lover' and 'raises the Jewish Question' creates a grammatical structure that parallels the longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'defends a Hitler-lover' and 'raises the Jewish Question' exhibits parity among longer clauses through repetition, indicating the presence of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'defends a Hitler-lover' and 'raises the Jewish Question' exhibits a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The structure of the sentence does not exhibit equal syllable length in adjacent phrases or clauses. Therefore, it does not exemplify the use of isocolon for parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is irregular and does not consistently alternate between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence lacks the repetition of longer clauses with parity, which is a characteristic of grammatical structure (parison) in parallelism. Therefore, the sentence does not exhibit this specific form of parallelism.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses that are used for comparison. Instead, it presents a complex statement about J Streets indecision regarding a politicians actions, without a clear comparison structure.', 'Property': 'comparison (parallelism in argument)'}]",[]
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The presence of comparison can be identified in the text, as it highlights the contrast between the school's action and the potential controversy it has sparked.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'to write the Islamic profession of faith' and 'ostensibly to practice calligraphy' exhibits a parity in the longer clauses through repetition, indicating the use of grammatical structure (parison).""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in syllables (isocolon)""],
+  ""Explanation"": ""The text contains an example of isocolon as the phrases 'come under fire for instructing junior high students to write' and 'the Islamic profession of faith ostensibly to practice calligraphy' have a similar number of syllables, thus creating a sense of balance and cohesion.""
+}",['in_syllables_(isocolon)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'to write the Islamic profession of faith' and 'ostensibly to practice calligraphy' exhibits a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'to write the Islamic profession of faith' and 'ostensibly to practice calligraphy' exhibits parity among longer clauses, creating a sense of balance and cohesion.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'to write the Islamic profession of faith' and 'ostensibly to practice calligraphy' exhibits parity among longer clauses through repetition, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence does not contain adjacent phrases or clauses with equal syllable length. Therefore, it does not exhibit the characteristic of isocolon parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence does not exhibit parity among longer clauses through repetition. Instead, it presents a single complex statement without the repetition of longer clauses in a parallel structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it conveys an action and its purpose, without setting up a comparison between two similar ideas or concepts.', 'Property': 'comparison (parallelism in argument)'}]",[]
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The sentence presents a comparison between the warning against turning resistance to jihad into a battle and the oddness of this warning.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure by repeating the phrase 'making the resistance to jihad' and 'us and the entire religion'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'against' in parallel structure with 'between' creates a grammatical structure known as parison, which emphasizes the parallel relationship between these two elements.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallel structure in the clause 'making the resistance to jihad a 'battle between us and the entire religion'' creates a sense of balance and equality, indicating the presence of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallel structure in the phrase 'making the resistance to jihad' and 'a battle between us and the entire religion' creates a sense of balance and equivalence, indicating the presence of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'against' in 'His warning against making the resistance to jihad' and 'between us and the entire religion' creates a grammatical structure that parallels the two phrases, forming a parison.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains a single clause and does not have adjacent phrases or clauses with equal syllable length. Therefore, it does not exhibit the characteristic of isocolon parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence does not contain longer clauses that are repeated with parity. Instead, it consists of a single clause without the repetition of longer structures, which is necessary to demonstrate grammatical structure (parison) parallelism.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not contain adjacent phrases or clauses used for comparison. Instead, it presents a statement about someones warning, without a direct comparison between two similar elements.', 'Property': 'comparison (parallelism in argument)'}]",[]
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The parallel structure 'The investigation' and 'further discloses' is an example of parison, where longer clauses have parity through repetition.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The example uses parallelism in argument by comparing the situation in the past ('Yesterday climate change was a theory') to the situation in the present ('Today climate change is the reality').""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure through the repetition of 'The investigation' at the beginning and 'discloses' later in the sentence.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'further discloses' and 'assure' creates a grammatical structure of parity among longer clauses, indicating the presence of parison parallelism.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'further discloses' and 'assure' creates a grammatical structure of parity among longer clauses, demonstrating the use of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'further discloses' and 'assure' creates a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains a complex structure with varying syllable lengths in the phrases and clauses. It does not exhibit the characteristic of isocolon, which requires adjacent phrases or clauses to have equal syllable length to create a sense of balance and cohesion.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, the sentence follows a more typical stress pattern found in English prose, with varying stress patterns based on the natural emphasis of the words and phrases used.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a complex structure with multiple clauses, but there is no repetition of longer clauses to create parity. Therefore, it does not exhibit the specific type of parallelism described.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it provides information about a specific investigation and its findings without drawing a direct comparison between two related ideas.', 'Property': 'comparison (parallelism in argument)'}]",[]
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The statement uses parallelism in grammatical structure with the repetition of 'nothing good can be said about'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits grammatical structure parallelism by repeating the format 'adjective + noun + prepositional phrase' with 'sanctimony and incompetence'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of 'nothing good' and 'sanctimony and incompetence' presents a comparison, highlighting the negative aspects of his four years.""
+}",['comparison_(parallelism_in_argument)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'nothing' and 'can be said about his four years of'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'his four years of' followed by different qualities 'sanctimony and incompetence'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'nothing' and 'can be said about his four years of' in the two clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The syllable count in the phrases his four years of sanctimony and incompetence is not equal, and therefore, they do not exhibit the characteristic of isocolon. In this case, the phrases have unequal syllable lengths, so they do not form a parallel structure based on syllable count.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The structure of the sentence does not exhibit parity among longer clauses through repetition. Instead, it presents a single clause describing his four years of sanctimony and incompetence.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not contain adjacent phrases or clauses that are used for comparison. Instead, it presents a single negative assertion about his four years of sanctimony and incompetence.', 'Property': 'comparison (parallelism in argument)'}]",[]
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'his one-time customer' as longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'the man' as well as 'his one-time customer'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'the man's lawyer' as the longer clauses.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'the man's lawyer'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'the man's lawyer'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'the gunman' and 'the man's lawyer' as well as 'any suspicious signs' and 'his one-time customer'. This creates a sense of balance and cohesion in the sentence.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains phrases and clauses of varying syllable lengths, and there is no consistent pattern of equal syllable length in the adjacent phrases or clauses. Therefore, it does not exhibit the characteristic of parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, the sentence follows a more typical stress pattern found in English prose, with variations in stress based on the natural emphasis of the words and phrases used.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a complex structure with multiple clauses, but there is no repetition of longer clauses to create parity. Therefore, it does not exhibit the specific type of parallelism described.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses that are used for comparison. Instead, it provides information about an Arizona man and his actions without drawing a direct comparison between different elements.', 'Property': 'comparison (parallelism in argument)'}]",[]
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of 'without a shred of evidence' creates a comparison between Judge Kavanaugh's situation and a standard of evidence, highlighting the lack of evidence in his case.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of 'without a shred of evidence' is a form of comparison, contrasting the situation of Judge Kavanaugh being put through the ringer with the lack of evidence."" 
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of repetition in 'without a shred of evidence' creates a grammatical structure known as parison, which emphasizes the lack of evidence and reinforces the point being made.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of 'being put through the ringer' and 'without a shred of evidence' exhibits grammatical structure parallelism, creating a balanced and cohesive expression.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of parallelism in argument is evident in the comparison between Judge Kavanaugh's comfort in being put through the ringer without evidence and Senator Flake's actions.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'without a shred of evidence' and 'Senator Flake' exhibits a grammatical structure of parity among longer clauses through repetition.""
+}",['grammatical_structure_(parison)'],False,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains phrases of varying syllable lengths, and the structure does not exhibit the pattern of equal syllable length in adjacent phrases or clauses, which is characteristic of isocolon. Therefore, it does not fulfill the criteria for demonstrating parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not align with the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence lacks the repetition of longer clauses with parity, which is a characteristic of grammatical structure (parison). Therefore, it does not exhibit parallelism in the specified sense.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not contain adjacent phrases or clauses used for comparison. Instead, it seems to be a rhetorical question or a statement seeking clarification.', 'Property': 'comparison (parallelism in argument)'}]",[]
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The statement sets up a comparison between the perceived chaos, anarchy, and illegal border crossings with the traditional view of Germany as a country known for discipline and the rule of law.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The statement sets up a comparison between chaos, anarchy, and illegal border crossings and the perceived values of discipline and the rule of law in Germany.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'how chaos, anarchy and illegal border crossings are viewed as something good' and 'which we view as the best example of discipline and the rule of law'.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'how chaos, anarchy and illegal border crossings are viewed as something good' and 'which we view as the best example of discipline and the rule of law.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure through the repetition of 'how chaos, anarchy and illegal border crossings are viewed as something good' and 'which we view as the best example of discipline and the rule of law.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of parallelism in argument is present in the comparison between chaos, anarchy, and illegal border crossings being viewed as something good, and Germany being viewed as the best example of discipline and the rule of law.""
+}",['comparison_(parallelism_in_argument)'],False,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). While the sentence does contain a list of items (chaos, anarchy, and illegal border crossings), the syllable length of the phrases is not equal. Additionally, the structure of the sentence does not exhibit a consistent pattern of syllable length in the adjacent phrases or clauses, which is necessary for demonstrating parallelism in syllables (isocolon).', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, it presents a complex structure with varying stress patterns and does not adhere to the iambic parameter.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). While the sentence does contain a contrast between chaos, anarchy, and illegal border crossings on one hand and discipline and the rule of law on the other, it does not exhibit the specific form of parallelism known as grammatical structure (parison) where longer clauses are repeated with parity. The sentence structure does not repeat longer clauses in a parallel manner as demonstrated in the example provided.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'yes', 'Explanation': 'The given sentence demonstrates parallelism in comparison (parallelism in argument). The speaker is comparing chaos, anarchy, and illegal border crossings with the best example of discipline and the rule of law. The structure of the sentence presents adjacent phrases for comparison, making it an example of parallelism in argument.', 'Property': 'comparison (parallelism in argument)'}]",['comparison_(parallelism_in_argument)']
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The text contains parallelism in argument by comparing the testimony of Archbishop Viganò with the actions of Bergoglio, highlighting the damning details and their impact on the defense of Bergoglio.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence uses grammatical structure parallelism by repeating the pattern of 'details concerning Bergoglio's friendly relations with McCarrick' and 'details conveniently ignored by Winters, Allen, and Shea', creating a sense of balance and emphasis.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [
+    ""grammatical structure (parison)""
+  ],
+  ""Explanation"": ""The repetition of 'details' and 'before he finally had to cut him loose' creates a sense of balance and equivalence, demonstrating grammatical structure (parison).""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in its grammatical structure by repeating the pattern 'details...are utterly devastating to any defense of Bergoglio' for emphasis and coherence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallel structure 'ignored by Winters, Allen and Shea' and 'utterly devastating to any defense of Bergoglio' creates a sense of balance and emphasis on the impact of the details.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence contains a repetition of the structure 'details' and 'friendly relations with McCarrick' which creates a sense of parity among longer clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains phrases of varying syllable lengths, and the structure does not exhibit a pattern of equal syllable length in adjacent phrases or clauses. Therefore, it does not exemplify the use of isocolon for parallelism in syllables.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Instead, the sentence contains a complex structure with various clauses and phrases, but it does not exhibit a consistent iambic stress pattern.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). Although the sentence contains a complex structure with multiple clauses, it does not exhibit a clear repetition of longer clauses to create parity. Instead, it presents a series of details and actions related to Archbishop Viganò’s testimony, which are not structured in a parallel form as per the definition provided.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it provides a list of details concerning Archbishop Viganò’s testimony and the individuals who ignored those details, without a direct comparison between them.', 'Property': 'comparison (parallelism in argument)'}]",[]
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of parallel structure can be seen in the repetition of 'healthy lives of service' and 'faithful lives of celibacy', creating a balanced and cohesive sentence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits grammatical structure parallelism, with the repetition of 'healthy lives of service' and 'faithful lives of celibacy' creating a balanced and cohesive structure.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure by repeating the phrase 'healthy lives of service and faithful lives of celibacy.'""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'healthy lives of service' and 'faithful lives of celibacy'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure by repeating the phrase 'healthy lives of service and faithful lives of celibacy.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'healthy lives of service' and 'faithful lives of celibacy'.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). While the sentence does contain parallel structure in terms of listing the qualities of the priests and bishops, the syllable count in the phrases is not equal. Therefore, it does not adhere to the specific requirement of equal syllable length for isocolon parallelism.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). While the sentence does contain a contrast between lead healthy lives of service and faithful lives of celibacy, it lacks the repetition of longer clauses that is characteristic of grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses that are used for comparison. Instead, it describes the potential impact of a purge on parishes and religious orders, followed by a description of the priests and bishops within those institutions. The sentence does not set up a direct comparison between two similar elements using parallel structure.', 'Property': 'comparison (parallelism in argument)'}]",[]
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The text exhibits the property of parallelism in grammatical structure with the repetition of 'about former CIA Director Richard Helms' and 'one great big important point.'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of 'one great big important point about' and 'former CIA Director Richard Helms' demonstrates a parity in structure, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one great big important point about former CIA Director Richard Helms' and the repetition of 'about' creates a grammatical structure with parity among longer clauses.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one great big important point' and 'former CIA Director Richard Helms' exhibits parity among longer clauses through repetition, indicating the presence of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one great big important point about' followed by 'former CIA Director Richard Helms' demonstrates parallelism in grammatical structure, creating parity among longer clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'one great big important point' and 'former CIA Director Richard Helms' exhibits parity among longer clauses through repetition, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The syllable lengths of the adjacent phrases or clauses in the sentence are not equal. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses to create a sense of cohesion and balance.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The structure of the sentence does not exhibit parity among longer clauses through repetition. Instead, it presents a single complex clause without the repetition characteristic of grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not contain adjacent phrases or clauses used for comparison. Instead, it presents a single idea about the failure to conclude an article with an important point, without drawing a comparison between two similar ideas or concepts.', 'Property': 'comparison (parallelism in argument)'}]",[]
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Parallelism,[],[],[],True,[],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The text demonstrates parallelism in grammatical structure by repeating the pattern 'in December it successfully...' and 'with the mission team guiding it...'""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The text uses parallelism in argument to compare the spacecraft's previous achievements (the most-distant course-correction manoeuvre ever) with its upcoming encounter with a KBO scheduled for 1 January 2019.""
+}",['comparison_(parallelism_in_argument)'],"{
+    ""Properties"": [""in syllables (isocolon)""],
+    ""Explanation"": ""The use of 'in December' and '1 January 2019' creates isocolon by having equal syllable length and helps to emphasize the timeline of the mission's activities.""
+}",['in_syllables_(isocolon)'],False,"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'it' at the beginning of each clause.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The sentence exhibits parallelism in grammatical structure with the repetition of 'it' and 'with the mission team guiding it'. This creates a sense of balance and cohesion in the sentence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The sentence contains a repetition of the structure 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019', creating a sense of parity among longer clauses.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],1,0,GPT explanation is incorrect,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains phrases of varying syllable lengths and does not exhibit the pattern of equal syllable length in adjacent phrases or clauses, which is characteristic of isocolon.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not based on alternating stressed and unstressed syllables, which is characteristic of iambic parameter. Instead, the sentence is a statement about a specific event and does not exhibit the rhythmic pattern associated with iambic parallelism.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). Parallelism in grammatical structure (parison) involves the repetition of longer clauses with parity. The given sentence does not exhibit this kind of repetition or parity among longer clauses. Instead, it describes a singular event without the repetition of longer clauses in a parallel structure.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence describes a sequence of events and actions without directly comparing two similar or contrasting ideas using parallel structure. It does not present a comparison between two adjacent phrases or clauses, which is a key characteristic of parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]",[]
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Parallelism,['grammatical_structure_(parison)'],[],[],False,['grammatical_structure_(parison)'],"{
+  ""Properties"": [""in stress patterns""],
+  ""Explanation"": ""The example exhibits an iambic stress pattern with alternating stressed and unstressed syllables, as seen in 'believe it would be' and 'power respects power'.""
+}",['in_stress_patterns_(iambic_parameter)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The statement exhibits grammatical structure parallelism, with the repetition of 'It could' and 'I don't believe it would be'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The statement 'it could but I don't believe it would be' exhibits a grammatical structure with parallelism, emphasizing the contrast in beliefs.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The statement 'It could but I don’t believe it would be' exhibits parallelism in grammatical structure, with the repetition of 'It could' and 'I don’t believe it would be'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The statement exhibits grammatical structure parallelism with the repetition of 'It could but' and 'I don’t believe it would be'.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The statement exhibits parallelism in grammatical structure with the repetition of 'It could but I don’t believe it would be'."" 
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,1,,['grammatical_structure_(parison)'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The syllable lengths of the adjacent phrases or clauses in the sentence are not equal. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses to create coherence as a set.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not adhere to the iambic parameter characteristic of parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence It could but I don’t believe it would be, because power respects power does not exhibit parity among longer clauses through repetition. Instead, it presents a conditional statement followed by a rationale, lacking the repeated structure found in the example provided for grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The structure It could but I don’t believe it would be does not present a direct comparison between two similar phrases or clauses. Instead, it presents a conditional statement followed by a belief, which does not align with the concept of parallelism in comparison.', 'Property': 'comparison (parallelism in argument)'}]",[]
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Parallelism,['grammatical_structure_(parison)'],[],[],False,['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'He mentions' and 'he fails' in the sentence shows a repetition of the grammatical structure, indicating the presence of parison parallelism.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'He mentions the Holy Father's letter' and 'he fails to take into account' exhibits grammatical structure parallelism, creating a balanced and cohesive sentence structure.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'He mentions...but he fails to take into account' shows a parallelism in the grammatical structure of the clauses, indicating a comparison in the argument.""
+}",['grammatical_structure_(parison)'],True,"{
+  ""Properties"": [""grammatical structure""],
+  ""Explanation"": ""The use of 'He mentions...but he fails to take into account' demonstrates grammatical structure parallelism, with the repetition of 'he' and the similar structure of the clauses.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'He mentions...but he fails to take into account' creates a grammatical structure of parallelism, emphasizing the contrast between the two actions.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'He mentions...but he fails to take into account' creates a grammatical structure with parity among longer clauses, indicating the use of parison.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The sentence contains a series of clauses, but the syllable lengths of the adjacent phrases or clauses are not equal. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses to create a sense of balance and cohesion.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The sentence structure does not exhibit a consistent pattern of alternating stressed and unstressed syllables. Instead, it is a complex sentence with multiple clauses and does not follow the specific stress pattern characteristic of iambic parameter parallelism.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence contains a list of actions performed by he and does not exhibit the repetition of longer clauses with parity, as seen in the provided example. Therefore, it does not meet the criteria for demonstrating parallelism in grammatical structure (parison).', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses for comparison. Instead, it provides a sequence of related events or actions without a direct comparison between them.', 'Property': 'comparison (parallelism in argument)'}]",[]
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Parallelism,[],[],['grammatical_structure_(parison)'],False,['grammatical_structure_(parison)'],"{
+  ""Properties"": [""comparison""],
+  ""Explanation"": ""The use of parallelism in argument is evident in the comparison of the current situation with the suggestion for healing and reconciliation.""
+}",['comparison_(parallelism_in_argument)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'healing and reconciliation' and 'take a hard look at our own flaws' follows a grammatical parallel structure, creating a sense of balance and coherence.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'healing and reconciliation will only come if' followed by 'we take a hard look at our own flaws' exhibits parity in the grammatical structure of the clauses.""
+}",['grammatical_structure_(parison)'],False,"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'healing and reconciliation' and 'take a hard look at our own flaws' exhibits a parity in the grammatical structure, creating a sense of balance and cohesion.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'healing and reconciliation' followed by 'take a hard look at our own flaws' demonstrates parity among longer clauses through repetition, indicating the presence of parison.""
+}",['grammatical_structure_(parison)'],"{
+  ""Properties"": [""grammatical structure (parison)""],
+  ""Explanation"": ""The use of 'healing and reconciliation' and 'take a hard look at our own flaws' exhibits parity in grammatical structure, creating a sense of balance and cohesion in the sentence.""
+}",['grammatical_structure_(parison)'],True,['grammatical_structure_(parison)'],0,0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in syllables (isocolon). The syllable lengths of the adjacent phrases or clauses in the sentence are not equal. Therefore, it does not exhibit the characteristic of isocolon, which requires equal syllable length in adjacent phrases or clauses to create a sense of cohesion and balance.', 'Property': 'syllables (isocolon)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in stress patterns (iambic parameter). The stress pattern in the sentence is not consistently alternating between stressed and unstressed syllables. Therefore, it does not exhibit the characteristic iambic parameter associated with parallelism in stress patterns.', 'Property': 'stress patterns (iambic parameter)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in grammatical structure (parison). The sentence does not exhibit parity among longer clauses through repetition. Instead, it presents a sequence of actions (suggests and take) without the repeated grammatical structure found in parison.', 'Property': 'grammatical structure (parison)'}, {'Answer': 'no', 'Explanation': 'The given sentence does not demonstrate parallelism in comparison (parallelism in argument). The sentence does not present adjacent phrases or clauses that are used for comparison. Instead, it presents a sequence of actions or conditions (healing and reconciliation will only come if we take a hard look at our own flaws), but these are not structured in a way that creates a direct comparison between them.', 'Property': 'comparison (parallelism in argument)'}]",[]

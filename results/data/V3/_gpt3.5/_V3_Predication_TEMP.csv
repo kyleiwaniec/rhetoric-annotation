@@ -1,0 +1,1241 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_0.0_V3_2,property_0.0_V3_2
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,[],"{
+  ""Properties"": [
+    ""active"",
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'is', and also multiple verbs about one subject, making it a compound predication.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'notes', 'are', 'infallible', 'content', and 'prevails'. These verbs indicate action or occurrence by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (are, is) and stative verbs (are, is) to describe the state of something or someone.""
+}","['active', 'stative']",FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'are', and 'prevails'. These active verbs indicate actions performed by the subjects in the sentence.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are' and 'prevails'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'are', 'are', 'prevails'. These active verbs indicate actions performed by the subject, meeting the criteria for the active property.""
+}",['active'],1,['active'],1,0,GPT is mixing up the properties and definitions,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. Active predication typically involves a subject performing an action and taking a direct object. In the provided sentence, the subject I is not directly performing an action with a direct object. Instead, the sentence is expressing a statement about the speakers experience and opinion as a former trial lawyer. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. The sentence provided does not express a state or condition but rather presents a complex statement about the reliability of contemporaneous notes versus later verbal testimony. It does not fit the criteria of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main predication the content of the written notes usually prevails with a subordinate clause while neither notes nor memories are infallible providing additional information. Therefore, it does not exhibit compound predication.', 'Property': 'compound'}]",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Predication,['active'],['active'],['active'],TRUE,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. Instead, it is a complex sentence expressing a prediction about a future event without specifying any particular action or state.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'irreversible' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The phrase 'will fall' contains a stative verb ('fall') indicating a state or condition. The sentence also contains a compound verb structure with 'will fall' and 'will fall', involving multiple verbs about one subject.""
+}","['stative', 'compound']",FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'will fall', indicating a state or condition that will occur in the future.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' to describe a future state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'will fall' which describes a state of being rather than an action.""
+}",['stative'],1,['stative'],1,0,GPT is mixing up the properties and definitions,['active'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the provided sentence, A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall, the subject winter is not performing an action with a direct object. Instead, the sentence is using a passive construction where the action is being done to the subject (persecution of the faithful by their own shepherds). Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence does not use stative predication. The sentence describes a future event (will fall), which indicates an activity or event rather than a state or condition. Additionally, the use of will fall suggests an action that will occur in the future, making it an example of dynamic predication rather than stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall, there is only one predication of the verb will fall about the subject A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds. There are multiple adjectives describing winter, but they do not create multiple predications of verbs about the subject.', 'Property': 'compound'}]",[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the clause 'the letter to me from the UK Home Office said'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs such as 'said' and 'saying', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs, such as 'said', which indicate the action being performed by the subject.""
+}",['active'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action, fulfilling the stative property.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase '[Islam] is a religion and is a belief system'. This indicates a state of being rather than an action.""
+}",['stative'],1,['stative'],1,0,GPT is mixing up the properties and definitions,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, the subject the letter to me from the UK Home Office is not performing the action. Instead, it is the source of the communication. The main action is conveyed by the verb said, and the direct object is that I was banned for saying that... Therefore, the sentence does not fit the definition of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. In the provided sentence, the verb saying is not a stative verb; it indicates an action rather than a state or condition. Therefore, the sentence does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main predication the letter to me from the UK Home Office said with the rest of the sentence serving as the content of what the letter said. There are no multiple predications of verbs about one subject, so it does not fit the definition of compound predication.', 'Property': 'compound'}]",[]
+243,[2 6],Women everywhere should be furious.,Predication,['stative'],['stative'],['stative'],TRUE,[],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence uses the stative verb 'should be' to express a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.' It is directly calling on women to feel a certain way.""
+}",['active'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious' which expresses an action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'should be furious.'""
+}",['active'],1,['active'],1,0,GPT is mixing up the properties and definitions,['stative'],"[{'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In this sentence, Women everywhere is the subject, but they are not performing a specific action with a direct object. Instead, the sentence expresses a state of being (should be furious), which does not align with the characteristics of active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence Women everywhere should be furious uses stative predication. The verb be in this sentence expresses a state or condition (furious) rather than an action or event. Therefore, it falls under the category of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not use compound predication. It contains a single predication should be furious about the subject Women everywhere. There is only one main verb should be furious used to describe the action of the subject, making it a simple predication rather than a compound predication.', 'Property': 'compound'}]",['stative']
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,[],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (express, carrying) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' which indicate active voice. Additionally, it also has compound verbs 'is important', 'would be capable', and 'carrying out', where multiple verbs are connected to one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The example contains active verbs ('are', 'is', 'remember', 'express', 'carrying', 'denying'), stative verb ('is'), and compound verbs ('is important', 'would be capable', 'carrying out').""
+}","['active', 'stative', 'compound']",FALSE,"{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (are, express, denying), stative verbs (are), and compound verbs (would be, carrying out).""
+}","['active', 'stative', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (express, carrying out) and stative verbs (are, is, denying).""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'are', 'is', 'remember', 'express', 'denying' and also has a compound structure with multiple verbs 'are', 'express', 'denying' about one subject.""
+}","['active', 'compound']",0,"['active', 'stative', 'compound']",1,0,GPT is mixing up the properties and definitions,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the provided sentence, the subject friends and neighbors are not performing the action but rather expressing shock and denying, making it a passive construction. Therefore, the sentence does not use active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. The sentence describes an ongoing or continuous action (friends and neighbors express shock) and the denial of possibility (some outright denying it to be possible), which are not expressions of a state or condition. Therefore, it does not fit the definition of stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The sentence uses compound predication because it contains multiple predications of verbs (express, deny) about one subject (friends and neighbors). This structure reflects the use of compound predication, as it conveys multiple actions related to the same subject within the sentence.', 'Property': 'compound'}]",['compound']
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Predication,['active'],['active'],['active'],TRUE,[],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains compound predication, as it expresses two contrasting actions (pardoning and locking up) related to two different subjects (drug dealers and ranchers) in a parallel structure.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs 'pardoned' and 'locked up', as well as a compound structure with multiple verbs about one subject (Obama and Trump) in the same sentence.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also features a compound structure with multiple verbs related to the same subject.""
+}","['active', 'compound']",FALSE,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('pardons', 'locked up') about one subject ('Obama' and 'Trump').""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('pardoned', 'locked up') and also has a compound structure with multiple verbs ('pardoned', 'locked up') about one subject ('Obama', 'Trump').""
+}","['active', 'compound']",0,"['active', 'compound']",1,0,GPT is misinterpreting a property,['active'],"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. In the sentence, Obama and Trump are the subjects performing the actions of pardoning and locking up, and the actions are directly connected to the objects drug dealers and ranchers. Therefore, the sentence fits the definition of active predication, where the subject performs the action and can take a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. It is a comparison of actions performed by Obama and Trump, using active verbs pardons and locks up to describe ongoing actions, rather than expressing a state or condition. Stative predication typically involves verbs like be or know that express a state or condition, which is not the case in the given sentence.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (pardons and locks up) about one subject (Trump). This structure aligns with the definition of compound predication, where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]","['active', 'compound']"
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,[],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes a stative verb 'was' and a compound structure with multiple verbs ('can declare,' 'lacks').""
+}","['stative', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and uses an active voice construction.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'declare,' 'consults,' 'can' and 'lacks,' indicating the use of active voice.""
+}",['active'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' to express a state of being (invalid).""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'consults' and 'declare' which indicate action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains active verbs (consults, can declare) and a stative verb (is).""
+}","['active', 'stative']",0,['stative'],1,0,,"['stative', 'active']","[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. The subject No Catholic is performing the action of declaring, and the sentence also includes a direct object that his marriage in the Church was invalid. Therefore, it fits the definition of active predication where the subject performs the action and can take a direct object.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses stative predication. The phrase he lacks expresses a state or condition rather than an activity or event, indicating a lack of canonical proof of invalidity. This aligns with the definition of stative predication, which expresses a state or condition rather than an action or event.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main predication can declare with additional subordinate clauses (whether or not he consults a priest, especially when—indeed because—he lacks canonical proof of invalidity). These clauses do not create multiple predications of verbs about one subject, so the sentence does not exhibit compound predication.', 'Property': 'compound'}]","['active', 'stative']"
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Predication,['stative'],['stative'],['stative'],TRUE,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' as part of the phrase 'is not'. This indicates a state of being or a condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', indicating a state of being rather than action.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which is used to express a state of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'look' which indicates action being performed by the subject.""
+}",['active'],1,['active'],1,0,GPT is mixing up the properties and definitions,['stative'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not use active predication. In the sentence, Trumpism is the subject, but it is not performing an action. Instead, it is being described or discussed. The verb is is a linking verb, and the future of the GOP is a subject complement, not a direct object. Therefore, the sentence does not exhibit active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence does not use stative predication. The verb is in Trumpism is not the future of the GOP is not expressing a state or condition, but rather a negation of a potential future state. It is not describing a static condition, but rather a hypothetical future outcome, making it more dynamic in nature.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, is not and might look like are not predications of verbs about one subject. Instead, is not and might look like are separate predications about the future of the GOP and a promising GOP agenda, respectively.', 'Property': 'compound'}]",[]
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'set' and 'belong', which indicates action or movement.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active ('set') and stative ('cannot remain') verbs.""
+}","['active', 'stative']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'remain' which indicates a state of being.""
+}",['stative'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'set' and 'belong', which indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (set, belong) and stative verbs (remain, belong) indicating action and state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'set' and 'belong' which indicate action being performed by the subject.""
+}",['active'],0,['active'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other, the subject The Prologue is not performing an action in the traditional sense. Instead, it is being described as the entity that set this choice before us. This sentence is better categorized as a passive construction, as the focus is on what was done to the subject rather than what the subject did.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. The sentence provided describes a situation and presents a choice, rather than expressing a state or condition. It does not use be or know to express a state, but rather presents a scenario and a decision that needs to be made.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there are multiple clauses (The Prologue set this choice before us and we cannot remain neutral, but must belong wholly to the one or wholly to the other), but each clause has its own subject and predicate. The verbs set and belong are not predications of the same subject, so this does not fit the definition of compound predication.', 'Property': 'compound'}]",[]
+319,[3],It’s not coming back.,Predication,['active'],['active'],['active'],TRUE,['active'],"{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' that expresses a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' indicating a state of absence or non-existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence uses a stative verb 'coming' to describe a state of being for the subject. It does not involve an action in progress.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'coming' which describes a state rather than an action.""
+}",['stative'],1,['stative'],1,0,,['active'],"[{'Answer': 'no', 'Explanation': 'The sentence It’s not coming back does not use active predication. In this sentence, It is the subject, but it is not performing an action. Instead, the verb coming is in the progressive tense, and back is functioning as an adverb rather than a direct object. Therefore, this sentence does not fit the definition of active predication, as the subject is not performing an action and there is no direct object.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence It’s not coming back uses stative predication. The verb is in this sentence expresses a state of being, indicating a condition rather than an action or event. The state of not coming back is being described, which aligns with the concept of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence It’s not coming back does not use compound predication. Compound predication involves multiple predications of verbs about one subject, as in the example The telegram was late but contained exciting news. In the given sentence, It’s not coming back, there is only one predication of the verb coming back about the subject it. Therefore, it does not meet the criteria for compound predication.', 'Property': 'compound'}]",['stative']
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' to express a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'means' and 'shall flourish', indicating a state or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains the stative property of predication because it includes the stative verb 'means.' Stative verbs express a state or condition, and in this case, it conveys the meaning of the action of blessing.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'means' which expresses a state rather than an action.""
+}",['stative'],1,['stative'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, To bless is an infinitive phrase functioning as the subject of the sentence, and means is the main verb. This construction does not follow the typical structure of an active predication, where the subject is the person or thing performing the action and can take a direct object. Instead, the sentence is structured as a statement about the meaning of to bless rather than an action being performed by a specific subject.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event. In the provided sentence, the phrase means that something shall flourish and when there is a blessing indicate an ongoing or continuous process, which suggests an activity or event rather than a static state. Therefore, the sentence does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, To bless always means that something shall flourish is a single predication with means as the main verb, and when there is a blessing upon a cause or a project, will something good come out of it is another predication with will come as the main verb. These are not multiple predications of verbs about one subject, so the sentence does not use compound predication.', 'Property': 'compound'}]",[]
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('was,' 'described,' 'challenging') and a compound structure with multiple verbs about one subject ('was,' 'described,' 'challenging').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described', 'said', and 'challenging'.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative"", ""compound""]
+} 
+ ","['active', 'stative', 'compound']",FALSE,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', as well as a compound verb 'were...taken' involving multiple verbs about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""]
+}
+
+ 	","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'described' and 'challenging', indicating actions performed by the subject.""
+}",['active'],0,"['active', 'compound']",0,1,,"['active', 'compound']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the provided sentence, Their only defense was that the activities they described were either non-partisan or were not officially taken by the company, the subject Their only defense is not performing an action with a direct object. Instead, it is describing a state of being or existence, which aligns more with a copular or stative construction rather than an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. In the provided sentence, the verb was is used to describe an ongoing action (their only defense was that the activities they described were either non-partisan or were not officially taken by the company). This indicates an ongoing state of being rather than a static condition, therefore it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication of the verb was about the subject their only defense. The rest of the sentence provides additional information about what their only defense was, rather than introducing multiple predications of verbs about the same subject.', 'Property': 'compound'}]",[]
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains stative verbs such as 'are' and 'is,' which express a state of being. It also includes compound verbs like 'have' and 'turn' which have multiple verbs related to one subject.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example text contains stative verbs such as 'are' and 'is' to express the state of being of the subjects 'wicked men' and 'America'. The verbs describe the condition or state of the subjects rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'are', 'have', 'is', 'will', which indicate a state or condition rather than an action. These verbs express the state of being or the state of something.""
+}",['stative'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'are', 'have', 'is', and 'leaves', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],0,0,,"['active', 'stative', 'compound']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. In the provided sentence, the structure is more complex and does not clearly present a subject performing a direct action. Instead, it seems to be a complex statement about the actions and consequences of certain individuals, lacking a clear direct action performed by a specific subject.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses stative predication. It expresses a state or condition rather than an activity or event. The sentence describes the state of wicked men and the condition of Americans, using verbs like are, have, turn, choose, are bringing, and leaves. These verbs indicate a state or condition rather than an action or event, aligning with the concept of stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (are, turn, choose, are bringing, leaves, judges) about one subject (wicked men in the sight of God). This aligns with the definition of compound predication, where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]","['stative', 'compound']"
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Predication,['stative'],['stative'],['stative'],TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' and a direct object 'odd', which makes use of the active voice. The verb 'is' is the core of the predication, and it is in the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', which indicates the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'is' in the form 'is + adjective' (is odd).""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is odd.'""
+}",['active'],1,['active'],1,0,,['stative'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence His warning against making the resistance to jihad a “battle between us and the entire religion” is odd, His warning is the subject, and is is the linking verb. There is no direct action being performed by the subject. Therefore, it does not fit the definition of active predication, which typically involves a subject performing an action and can take a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence His warning against making the resistance to jihad a “battle between us and the entire religion” is odd does not use stative predication. The sentence describes an action or warning (making the resistance to jihad a “battle between us and the entire religion”) rather than expressing a state or condition. Therefore, it does not fall under stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence His warning against making the resistance to jihad a “battle between us and the entire religion” is odd does not use compound predication. Compound predication involves multiple predications of verbs about one subject, as in The telegram was late but contained exciting news. In the given sentence, there is only one predication of the verb is about the subject His warning, so it does not meet the criteria for compound predication.', 'Property': 'compound'}]",[]
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Predication,['active'],['active'],['active'],TRUE,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, such as 'published', 'discloses', and 'assure'. These verbs show actions being performed by the subject, indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'published' and 'discloses' which demonstrate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'discloses', which represents an action carried out by the subject 'investigation'.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('published', 'discloses') and a compound verb structure ('would receive', 'engaged').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'published', 'discloses', and 'assure', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('discloses', 'assure') and a compound structure with multiple verbs ('discloses', 'assure') about one subject.""
+}","['active', 'compound']",0,"['active', 'compound']",1,0,,['active'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, The investigation... discloses secret efforts by top Obama administration officials, the subject The investigation is not performing the action but rather revealing or presenting information. Additionally, there is no direct object in the sentence. Therefore, the sentence does not exhibit active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event, such as be or know. The sentence provided describes ongoing actions and efforts (published, discloses, assure, receive, engaged), which are not characteristic of stative predication. Therefore, the sentence does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one main predication discloses with the object secret efforts. The other verbs published and assure are part of subordinate clauses and do not create multiple predications about the same subject. Therefore, the sentence does not use compound predication.', 'Property': 'compound'}]",[]
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Predication,['active'],['active'],['active'],TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' which denotes action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains an active verb 'empty' in 'any purge would empty parishes', indicating the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead'. 'Empty' is an active verb describing the potential action of a purge, while 'lead' is a stative verb describing the ongoing state of the priests and bishops.""
+}","['active', 'stative']",FALSE,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'empty' and a stative verb 'lead' which indicate action and state respectively.""
+}","['active', 'stative']",1,"['active', 'stative']",1,0,,['active'],"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. The subject thousands of priests and bishops is performing the action of leading healthy lives of service and faithful lives of celibacy. Additionally, the sentence includes a direct object, parishes and religious orders, which is being affected by the action of emptying. Therefore, the sentence fits the description of active predication as it involves the subject performing an action and taking a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence does not use stative predication. The sentence describes potential actions (would empty) rather than a state or condition. It focuses on the potential outcome of a hypothetical action rather than expressing a static state or condition.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (empty and lead) about one subject (thousands of priests and bishops). The verbs empty and lead describe different actions performed by the subject, making it an example of compound predication.', 'Property': 'compound'}]","['active', 'compound']"
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Predication,['active'],['active'],['active'],TRUE,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'. There are no active or compound verbs in this sentence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'defended' to express a state of action or being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the action rather than an ongoing action.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' describing the action of Danny Davis.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes a state of action rather than an active action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'defended' which describes the state of the subject 'Danny Davis'.""
+}",['stative'],1,['stative'],1,0,,['active'],"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. The subject Democratic Illinois Rep. Danny Davis is performing the action of defended, and the sentence also includes a direct object, Nation of Islam leader Louis Farrakhan. Therefore, it fits the definition of active predication as the subject is performing the action and there is a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. In the given sentence, defended is an action verb, indicating an activity, and the statement is about an action (defending) rather than a state or condition. Therefore, it does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication of the verb defended about the subject Democratic Illinois Rep. Danny Davis. There are no additional predications of verbs about the same subject, so it does not meet the criteria for compound predication.', 'Property': 'compound'}]",['active']
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The given text contains an active verb 'should stop' as the main predicate.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'should stop' and 'continues', which indicates action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'should stop', indicating an action being performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'should stop' which indicates an action performed by the subject 'Attorney General Jeff Sessions'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'is' and 'should stop'. These active verbs indicate action being performed by the subject.""
+}",['active'],1,['active'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the provided sentence, Attorney General Jeff Sessions is the subject, but he is not directly performing an action. Instead, the sentence is a statement or a suggestion, and the action is not directly attributed to the subject. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. The sentence provided, This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further, does not express a static state or condition. Instead, it presents a call to action, indicating that Attorney General Jeff Sessions should stop something, which implies an ongoing or future action, rather than a static state or condition.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now are not predications of verbs about one subject. Instead, they are separate independent clauses with different subjects (This and Attorney General Jeff Sessions). Therefore, the sentence does not use compound predication.', 'Property': 'compound'}]",[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Predication,['stative'],['stative'],['stative'],TRUE,['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains multiple verbs ('is', 'problem') about one subject ('it').""
+}",['compound'],"{
+  ""Properties"": [
+    ""compound""
+  ],
+  ""Explanation"": ""The sentence contains a compound predicate 'is' and 'problem'. Both verbs are about the same subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which denotes a state of being ('is a national problem'). There are no active or compound verbs present in the given example.""
+}",['stative'],FALSE,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is' in the phrase 'it's a national problem.' This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'is' and 'problem' as the verbs about the subject 'it'.""
+}",['compound'],0,['compound'],1,0,,['stative'],"[{'Answer': 'no', 'Explanation': 'The sentence And it’s a problem not just in West Virginia – it’s a national problem. does not use active predication. In this sentence, it is the subject, and is is the verb. There is no direct action being performed by a subject, and there is no direct object receiving the action. Therefore, this sentence does not exemplify active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence And it’s a problem not just in West Virginia – it’s a national problem. does not use stative predication. The verb is in this sentence is not expressing a state or condition, but rather it is linking the subject it to the predicate a problem, indicating existence or identity. Therefore, it is not an example of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence And it’s a problem not just in West Virginia – it’s a national problem. does not use compound predication. In this sentence, there is only one predication (it’s a problem) with two complements (not just in West Virginia and it’s a national problem). The sentence does not contain multiple predications of verbs about one subject, which is a characteristic of compound predication.', 'Property': 'compound'}]",[]
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['compound', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs like 'provides' and 'claims', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'are'. These active verbs indicate that the subject of the sentence is performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, such as 'provides', 'claims', 'is', 'covering', and 'happened', which indicate actions taken by the subject.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', 'covering'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering'. These verbs indicate actions or states of being.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'provides', 'claims', 'is', and 'covering', indicating the use of active voice.""
+}",['active'],1,['active'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the given sentence, provides is the verb that is closest to fitting the criteria for active predication, but it does not have a direct object. The sentence is more complex and involves multiple clauses, making it a complex sentence structure rather than a simple active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know. The sentence provided describes an ongoing action or event, rather than a state or condition. It is not a simple statement of being or knowing, but rather a complex statement about an ongoing situation, making it an example of dynamic predication rather than stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'Yes, the given sentence uses compound predication. It contains multiple predications of verbs (provides, is, claims, is, covering up) about one subject (the entire narrative). This structure reflects the use of compound predication in the sentence.', 'Property': 'compound'}]",['compound']
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a compound structure with 'said' and 'was' both being verbs about the same subject 'the group'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains both an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",FALSE,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'said' and a stative verb 'was'.""
+}","['active', 'stative']",1,"['active', 'stative']",1,1,,"['stative', 'active']","[{'Answer': 'yes', 'Explanation': 'The sentence He said the group was a toothless, paper-shuffling exercise uses active predication. In this sentence, He is the subject performing the action of said, and the group is the direct object of the verb said. Therefore, it fits the definition of active predication where the subject performs the action and can take a direct object.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence He said the group was a toothless, paper-shuffling exercise uses stative predication. The verb was expresses a state or condition (toothless, paper-shuffling exercise), rather than an activity or event. Therefore, it fits the definition of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence He said the group was a toothless, paper-shuffling exercise does not use compound predication. In this sentence, there is a single predication the group was a toothless, paper-shuffling exercise where the verb was is used to describe the group. There is no use of multiple predications of verbs about one subject, which is characteristic of compound predication.', 'Property': 'compound'}]","['active', 'stative']"
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The phrase 'is breaking down' contains an active verb 'breaking', which indicates ongoing action""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'are breaking down' which indicates an action performed by the subject 'sisters'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', indicating action by the subject 'the case of the Netherlands'.""
+}",['active'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' which indicates a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'the case of the Netherlands'.""
+}",['active'],0,['stative'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, The case of the Netherlands is downright bizarre, the subject The case of the Netherlands is not performing an action. It is being described as downright bizarre. Similarly, sisters so old that even the federation structures are breaking down does not follow the pattern of active predication, as the subject sisters is not directly performing an action. Instead, the sentence is using a descriptive or stative construction to convey information about the subject rather than an action being performed by the subject.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses stative predication. The phrase is downright bizarre expresses a state or condition rather than an action, aligning with the definition of stative predication. Additionally, the phrase are breaking down also expresses a state rather than a specific action, further supporting the classification of the sentence as using stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, The case of the Netherlands is downright bizarre and sisters so old that even the federation structures are breaking down are separate independent clauses, each with its own subject and predicate. They are not predications of verbs about one subject, so the sentence does not exhibit compound predication.', 'Property': 'compound'}]",['stative']
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' in the form 'Greg Rinckey said.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which indicates an action performed by the subject 'Greg Rinckey'.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains the active verb 'said.'""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a clear indication of the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said', which is a key property of Predication.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'said' with a clear subject 'Greg Rinckey' performing the action.""
+}",['active'],1,['active'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not use active predication. In the sentence, It was a foolish mistake by a very young man, the subject It is not performing the action. Instead, the action is being attributed to a very young man. This sentence uses a passive construction, where the focus is on the recipient of the action rather than the doer. Therefore, it does not exemplify active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence It was a foolish mistake by a very young man, does not use stative predication. Stative predication typically involves verbs that express a state or condition, such as be or know. In the given sentence, the verb was is used to indicate an event that occurred in the past, rather than expressing a state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence It was a foolish mistake by a very young man, Saucier’s lawyer, Greg Rinckey, said. does not use compound predication. In this sentence, there is a single predication It was a foolish mistake by a very young man attributed to Saucier’s lawyer, Greg Rinckey. The sentence does not contain multiple predications of verbs about one subject, which is a characteristic of compound predication.', 'Property': 'compound'}]",[]
+2629,[ 8 13],ADVANTAGE AMERICANS,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text contains no verbs, so no properties of predication are used.""
+}",[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text only contains a stative verb 'AMERICANS'. This verb is not actively doing anything, it simply denotes a state of being.""
+}",['stative'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example does not contain any active, stative, or compound predicates. It is a simple statement without any verbal components.""
+}",[],FALSE,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predicate with the verbs 'advantage' and 'Americans' both referring to the same subject.""
+}",['compound'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'advantage' which is a verb directly performed by the subject 'Americans'.""
+}",['active'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any active, stative, or compound predicates. It is a simple noun phrase without any verbal elements.""
+}",[],0,['compound'],1,1,,[],"[{'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not use active predication. Active predication typically involves a subject performing an action and often taking a direct object. In the given sentence, ADVANTAGE AMERICANS, there is no clear action being performed by a subject, and there is no direct object. It seems to be a headline or a phrase lacking a clear verb or action, and therefore does not fit the criteria of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not use stative predication. Stative predication typically involves a state or condition, such as be or know, as in the example He is wet. The sentence ADVANTAGE AMERICANS does not express a state or condition; instead, it seems to be a command or a statement lacking a verb, and therefore does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not use compound predication. Compound predication involves multiple predications of verbs about one subject, as in the example The telegram was late but contained exciting news. The sentence ADVANTAGE AMERICANS does not contain multiple predications of verbs about one subject; it is a simple statement without multiple verbs or predications.', 'Property': 'compound'}]",[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' in the past tense, which indicates an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'made' and 'balance' which signify action being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""]
+}","['active', 'compound']",FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'made', 'balance', and 'reporting', which indicate actions being performed.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('made', 'balance', 'reporting', 'is') and also has a compound structure with multiple verbs ('made', 'balance').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'made' which indicates an action performed by the subject.""
+}",['active'],0,['active'],0,0,,['compound'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the provided sentence, the subject it is not directly performing an action with a clear direct object. Instead, the sentence is describing a state or condition of it being solidly main stream in the worst sense, which does not align with the characteristics of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event. In the given sentence, it is now solidly main stream in the worst sense, the verb is is not expressing a state or condition, but rather an ongoing state of being or a characteristic. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main verb is and one subject it, and the rest of the sentence functions as a single predication. Therefore, it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs like 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do' which describe a state of being or a state of action rather than an ongoing action or process.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs, such as 'be' and 'should be', which express a state of being rather than action.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains stative verbs such as 'be' and 'do', which express a state of being or existence rather than action.""
+}",['stative'],1,['stative'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, the subject thee is not performing any action, but rather the sentence is expressing a state of being or a desire. The sentence is more about expressing a concept or idea rather than an action being performed by the subject. Therefore, it does not fit the definition of active predication, where the subject typically performs an action and can take a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event. The sentence provided is a question and does not directly express a state or condition using be or know as in the example He is wet. Instead, it presents a moral and ethical inquiry, making it more of a rhetorical question rather than a stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one predication of the verb be about the subject that. The sentence expresses a series of related ideas, but it does not involve multiple predications of verbs about one subject, which is the characteristic of compound predication.', 'Property': 'compound'}]",[]
+3249,[9],When Cain complains that being a “vagabond .,Predication,['active'],['active'],['active'],TRUE,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example contains a stative verb 'complains.' Stative verbs express a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'complains', which describes a state of being rather than an action.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which expresses a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'being' which describes a state of existence rather than an action.""
+}",['stative'],1,['stative'],1,0,,['active'],"[{'Answer': 'no', 'Explanation': 'The sentence When Cain complains that being a vagabond does not use active predication. The sentence does not contain a subject performing an action and taking a direct object. Instead, it seems to be a dependent clause within a larger sentence, and it does not follow the structure of an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided, When Cain complains that being a vagabond, does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know, as in the example He is wet. The sentence provided does not directly express a state or condition, but rather introduces a reported speech or thought, and therefore does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs used about one subject. The sentence When Cain complains that being a vagabond does not exhibit multiple predications of verbs about one subject. Instead, it introduces a subordinate clause (When Cain complains) followed by a noun phrase (that being a vagabond).', 'Property': 'compound'}]",[]
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['compound', 'active']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The example contains a compound structure with two verbs 'would be' and 'have systematically enabled' in relation to the same subject 'Bergoglio'.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and a compound structure with multiple verbs about one subject ('would be', 'have enabled').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with two verbs 'would be' and 'have enabled' related to the subject 'Bergoglio and his Vatican henchmen'.""
+}",['compound'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'would be', 'have systematically enabled'. These active verbs indicate actions being performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('would be', 'have enabled') and also has a compound structure with multiple verbs ('would be', 'have enabled') about one subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with multiple verbs ('would be', 'have enabled') about one subject ('Bergoglio').""
+}",['compound'],0,['active'],1,0,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the provided sentence, Faggioli is the subject, but it is not performing any action. Instead, the sentence is expressing Faggiolis perspective and beliefs about Bergoglios resignation and the potential purge of prelates. Therefore, the sentence does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event, such as be or know. The sentence provided does not directly express a state or condition, but rather discusses potential actions and events related to Bergoglios resignation and the potential purge of certain prelates. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (would be, would, have enabled) about one subject (Bergoglio’s resignation and a purge of the homosexual and pro-homosexual prelates). This structure fits the definition of compound predication, where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]",['compound']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'compound', 'active']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs such as 'scoffs' and a stative verb 'is' in the phrase 'who, in typical neo-Catholic style, imperiously scoffs at the notion of.'""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example contains active verbs such as 'imperiously scoffs' and 'busies himself defending', which indicates the use of active predication.""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs ('be', 'win') and it also has compound verbs ('be', 'scoffs', 'busies', 'defending').""
+}","['active', 'compound']",FALSE,"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g., 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g., 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'imperiously scoffs', 'busies himself defending') and stative verbs (e.g. 'is', 'marked', 'describes').""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains both active verbs (e.g. 'defending', 'describes') and stative verbs (e.g. 'is', 'busies').""
+}","['active', 'stative']",1,"['active', 'stative']",1,1,,"['stative', 'active']","[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the provided sentence, the structure is more complex and does not clearly present a subject performing a direct action. Instead, the sentence seems to involve a more complex set of relationships and descriptions, making it difficult to identify a clear subject performing a direct action.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event, using verbs like be or know. The sentence provided describes an ongoing or future event (This will be a final victory over the enemies within and their apologists...) and does not express a static state or condition, therefore it does not use stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'Yes, the given sentence uses compound predication. The sentence contains multiple predications of verbs (scoffs, busies, defending) about one subject (Faggioli). This structure aligns with the definition of compound predication, where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]",['compound']
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Predication,['active'],['active'],['active'],TRUE,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' in the phrase 'something is coming up'. This indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs indicating action such as 'coming up', 'going to hit', and 'are going to happen.'""
+}",['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs (is coming, are going) and a compound structure with multiple verbs (are going to hit, are going to happen).""
+}","['active', 'compound']",FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is coming up', which indicates a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which describes the state of something.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' and an adjective 'different' which indicates a state of being rather than action.""
+}",['stative'],1,['stative'],1,0,,['active'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. In the given sentence, the subject is not clearly performing an action with a direct object. Instead, the sentence seems to describe a situation without a clear action being performed by a specific subject.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. The sentence given describes a dynamic action involving movement (coming up and down) and potential future events (a lot of different things are going to happen), which aligns more with dynamic predication rather than stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there are multiple clauses and verbs, but they are not predications about a single subject. The sentence contains a complex series of conditional statements and does not fit the structure of compound predication as defined in the context of linguistics.', 'Property': 'compound'}]",[]
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'defends' which directly expresses the action of Francis defending Barros.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'defends' used to describe the action of Francis defending Barros.""
+}",['active'],"{
+  ""Properties"": [""active""]
+  ,
+  ""Explanation"": ""The sentence contains an active verb 'defends.'""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'defends' which shows the subject 'Francis' performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'defends' which indicates an action performed by the subject 'Francis'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'defends' which indicates an action performed by the subject 'Francis'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not use active predication. In this sentence, The insistence is the subject, defends is the verb, and Barros is the object. However, the subject The insistence is not the person or thing performing the action, but rather the thing being described. Therefore, this sentence does not use active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not use stative predication. This sentence describes an ongoing action or behavior (defends), rather than a state or condition. It does not express a static state or condition, as in the case of be or know. Therefore, it does not fall under stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not use compound predication. In this sentence, there is only one predication of the verb is about the subject The insistence with which Francis defends Barros. It does not contain multiple predications of verbs about one subject, which is characteristic of compound predication.', 'Property': 'compound'}]",[]
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Predication,['active'],['active'],['active'],TRUE,"['compound', 'active']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains both active verbs ('found') and compound verbs ('found' and 'guilty').""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs, such as 'found' and 'including', and a compound structure with multiple verbs about 'the jury'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence uses active verbs to describe the actions of the jury ('found') and contains a compound structure with multiple verbs ('found', 'guilty').""
+}","['active', 'compound']",TRUE,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs (found, including) and compound verbs (found, guilty).""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs (found, not guilty, guilty) and compound verbs (found, not guilty, guilty).""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs (found, including) and compound verbs (found, guilty).""
+}","['active', 'compound']",1,"['active', 'compound']",,,,,"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. The subject jury is performing the action of found and the sentence also includes a direct object the Mexican national.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event, such as be or know. The sentence provided describes an action (the jury found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm), which is not characteristic of stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The sentence uses compound predication. It contains multiple predications of verbs (found, guilty, not guilty) about one subject (the Mexican national). This structure demonstrates compound predication, as it conveys multiple actions related to the subject within a single sentence.', 'Property': 'compound'}]","['active', 'compound']"
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Predication,['stative'],['stative'],['stative'],TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'bringing' and 'is.' These denote actions performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'is', indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'bringing' and 'is', demonstrating action taking place.""
+}",['active'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'bringing' which indicates an action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'bringing' which indicates an action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'bringing' which indicates an action being performed.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, bringing something like this up more than 30 years later is a gerund phrase acting as the subject of the sentence. The main verb is is a linking verb, and ridiculous is a subject complement, not a direct object. Therefore, the sentence does not exhibit active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. In the provided sentence, the verb bringing is an active gerund form, indicating an ongoing action, rather than a state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main predication bringing something like this up more than 30 years later is ridiculous, and the rest of the sentence but this is the Democrats for you is not another predication about the same subject. Instead, it provides additional information about the situation. Therefore, it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'left out' indicating an action performed by the subject 'Shapira'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'left out' indicating an action performed by the subject 'Shapira'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'left out', indicating an action performed by the subject 'Shapira'.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'left out' which indicates an action performed by the subject 'Shapira'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'left out' indicating an action performed by the subject 'Shapira'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'left out' which indicates an action performed by the subject 'Shapira'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the provided sentence, the subject Shapira is not performing any action. Instead, the sentence is a question asking about a specific point that Shapira left out of his article. Therefore, the sentence does not exhibit active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event, such as be or know. The sentence provided is a question that does not express a state or condition, but rather seeks information about a specific point that the person mentioned left out of his article. Therefore, it does not fit the criteria of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there is only one main predication left out of his article with a relative clause who, according to his tagline on his article, enjoys writing about people who have served in the military and intelligence communities, modifying Shapira. Therefore, it does not meet the criteria for compound predication.', 'Property': 'compound'}]",[]
+3895,[13],Impossible.,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text only contains a stative verb ('impossible'). There are no active or compound verbs present.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The word 'impossible' is a stative verb expressing a static condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'impossible', which describes a state of being rather than an action.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The word 'impossible' is a stative verb, indicating a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The word 'impossible' is a stative verb, as it describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The word 'impossible' is a stative verb, indicating a state of being rather than an action.""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence Impossible. does not use active predication. In active predication, there is typically a subject performing an action and possibly taking a direct object. However, the sentence Impossible. does not contain a clear subject performing an action, and it does not follow the structure of an active predication. Therefore, the answer is no.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence Impossible does not use stative predication. It is not a complete sentence and does not express a state or condition. It is an exclamation or a fragment, lacking a subject and a verb to form a complete predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Impossible. does not use compound predication. Compound predication involves multiple predications of verbs used about one subject, as in the example The telegram was late but contained exciting news. The sentence Impossible. does not contain multiple predications of verbs about one subject; it is a single-word sentence expressing a state of impossibility.', 'Property': 'compound'}]",[]
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",Predication,['stative'],['stative'],['stative'],TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' which shows the action of being the former roommate.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'was' and 'was the former roommate.' These verbs show action and are not stative.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' describing the action of being the former roommate.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'was' and 'was the former roommate.' These verbs indicate action and therefore the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' in the past tense.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' in the phrase 'was the former roommate'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. However, in the given sentence, the subject the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell is not performing an action but is rather being described in a complex manner. The sentence is a complex statement about the Cardinals relationship, and it does not follow the structure of an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event, such as be or know. The sentence provided describes an event or situation rather than a state or condition. It discusses the past association between individuals, which is not a stative predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (was, was, was) about one subject (the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell). The sentence conveys multiple pieces of information about the subject, making it an example of compound predication.', 'Property': 'compound'}]",['compound']
+4270,[14],Long live the Fifth Estate!”,Predication,['active'],['active'],['active'],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'live' which expresses a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'live' which is used to express a call for the long-lasting existence of the Fifth Estate.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The phrase 'Long live the Fifth Estate' uses the stative verb 'live' to express a state of being rather than action.""
+}",['stative'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The phrase 'Long live the Fifth Estate' contains the stative verb 'live,' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'live' which expresses a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The phrase 'Long live the Fifth Estate' contains the stative verb 'live', which expresses a state rather than an action.""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence Long live the Fifth Estate! does not use active predication. This is an example of an exclamation, where Long live is an idiomatic expression used to express good wishes for the longevity or success of something or someone. In this case, the Fifth Estate refers to the press or news media. The sentence does not follow the structure of an active predication, as it does not contain a subject performing an action with a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence Long live the Fifth Estate! does not use stative predication. This sentence is an example of an exclamation or wish for something to continue or endure. It is not expressing a state or condition, but rather a desire or hope for the longevity of the Fifth Estate. Stative predication typically involves verbs that express a state or condition, such as be or know, as in the example He is wet.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Long live the Fifth Estate! does not use compound predication. In this sentence, Long live is a fixed expression used to express good wishes for the continued success or existence of something, in this case, the Fifth Estate. It is not a case of multiple predications of verbs being used about one subject, as in the example The telegram was late but contained exciting news.', 'Property': 'compound'}]",[]
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The headline contains an active verb 'assassination' which indicates action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The title contains 'assassination', an active verb denoting the action of the character assassination, indicating the use of active verb in the example text.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'assassination' which describes the action of the character assassination. This indicates the use of active predication in the text.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The title contains an active verb 'assassination' which indicates an action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The title contains an active verb 'assassination' which indicates an action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The title contains an active verb 'assassination' which indicates an action being performed.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence The Last-Minute Character Assassination of Judge Kavanaugh does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the given sentence, The Last-Minute Character Assassination of Judge Kavanaugh, the subject The Last-Minute Character Assassination does not perform an action on a direct object. Instead, it describes an event or an action that happened to Judge Kavanaugh, making it a passive construction.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know, as in the example He is wet. The given sentence, however, describes an event or action (character assassination) rather than a state or condition, and therefore does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is a single predication about the subject The Last-Minute Character Assassination of Judge Kavanaugh. There is no use of multiple predications of verbs about the same subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+4372,[15],Here’s my translation:,Predication,['stative'],['stative'],['stative'],TRUE,['active'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains both active verbs and compound verbs. The active verbs show the subject performing the action, and the compound verbs involve multiple actions related to the same subject.""
+}","['active', 'compound']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The example text contains active verbs ('taking', 'ratcheting', 'adding') and compound verbs ('taking', 'folding') about the same subject ('engineers').""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs to describe actions, such as 'sent' and 'issued'.""
+}",['active'],FALSE,"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The text contains active verbs such as 'translated' and 'posted' which indicate direct action. Additionally, there is a compound verb structure with 'translated and posted' both referring to the subject 'I'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, indicating actions performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, as it describes the actions and events of the subject.""
+}",['active'],0,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The provided sentence Here’s my translation: does not contain a complete predication. It lacks a verb and an action being performed by a subject. Therefore, it does not exemplify active predication as described in the context provided.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The provided sentence Here’s my translation: does not contain a complete statement or predication, so it cannot be analyzed for stative predication. In order to determine if the sentence uses stative predication, a complete sentence with a subject and a verb expressing a state or condition would be required.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The provided sentence Here’s my translation: does not use compound predication. Compound predication involves multiple predications of verbs used about one subject, as in the example The telegram was late but contained exciting news. The given sentence lacks multiple predications of verbs about one subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes a stative verb 'is' to express a state of being (getting cooler and dimmer), and a compound structure with multiple verbs 'is' and 'getting' related to the subject 'The Sun'.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains a stative verb 'is' indicating a state of being, and a compound structure with the verbs 'is getting' and 'aren’t worried' both related to the subject.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' to indicate the state of the Sun. It also has a compound structure with the verbs 'is getting' and 'are', which both refer to the subject 'The Sun' and 'scientists' respectively.""
+}","['stative', 'compound']",TRUE,"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains a stative verb 'is' (is getting cooler and dimmer) and a compound verb structure 'are not worried' (are, worried).""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains a stative verb 'is' (is getting) and a compound verb structure 'is getting cooler and dimmer'.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The text contains stative verbs 'is' and 'getting' to indicate a state of being, and a compound structure with the verbs 'is' and 'getting' about the subject 'The Sun'.""
+}","['stative', 'compound']",1,"['stative', 'compound']",,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence The Sun is getting cooler and dimmer, but scientists aren’t worried, the subject The Sun is not performing an action on a direct object. Instead, it is undergoing a change, and the verb getting indicates a state of change rather than an action being performed by the subject. Therefore, this sentence does not use active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence The Sun is getting cooler and dimmer, but scientists aren’t worried does not use stative predication. The verb getting in is getting cooler and dimmer indicates an ongoing change in the state of the Sun, which suggests an activity or event rather than a static condition. Therefore, it does not fit the definition of stative predication, which expresses a state or condition.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The sentence The Sun is getting cooler and dimmer, but scientists aren’t worried uses compound predication. It contains multiple predications of verbs (is getting cooler and dimmer, aren’t worried) about one subject (The Sun).', 'Property': 'compound'}]",['compound']
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Predication,['stative'],['stative'],['stative'],TRUE,['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound structure with multiple verbs 'making' and 'a lobby of'. This indicates a compound predication structure with multiple verb phrases about the same subject.""
+}",['compound'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text uses stative verbs such as 'making' and 'is'. These verbs describe a state of being rather than an action, indicating the stative property.""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predicate with the verbs 'making' and 'is' expressing different actions about the subject 'lobby'.""
+}",['compound'],FALSE,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound structure with multiple verbs ('making', 'a lobby of', 'a lobby of', 'a lobby of', 'so many lobbies') about one subject ('the problem').""
+}",['compound'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound structure with multiple verbs ('making', 'a lobby', 'a lobby', 'a lobby') about one subject ('the problem').""
+}",['compound'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound structure with multiple verbs ('making', 'a lobby', 'a lobby', 'a lobby', 'so many lobbies') about one subject ('the problem').""
+}",['compound'],1,['compound'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence provided does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the given sentence, The problem is the subject, and it is not performing any action. Instead, it is being described as in making a lobby of this tendency. This construction does not align with the characteristics of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. In the given sentence, the verb making indicates an ongoing activity, which suggests an event or an ongoing action rather than a state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, The problem is in making a lobby of this tendency does not contain multiple predications of verbs about one subject. Instead, it contains a single predication with a complex object. The subsequent phrases a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies are part of a list and do not form multiple predications of verbs about one subject. Therefore, the sentence does not use compound predication.', 'Property': 'compound'}]",[]
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Predication,['stative'],['stative'],['stative'],TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which directly connects the subject 'The enemy' to the predicate 'us'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', which expresses action in the present tense.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' in the form of 'is us,' indicating an action performed by the subject.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action performed by the subject 'us'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'us'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' which indicates an action being performed by the subject 'us'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence The enemy to great power is not the likes of the Taliban, it is us, the subject the enemy to great power is not performing an action, and there is no direct object. Instead, the sentence is a statement about the nature of the enemy, making it a stative or copular construction rather than an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence The enemy to great power is not the likes of the Taliban, it is us does not use stative predication. The verb is in this sentence is not expressing a state or condition, but rather it is linking the subject the enemy to great power with the complement not the likes of the Taliban, it is us. This is an example of a copular or linking verb, not a stative verb. Stative verbs typically express a state or condition, such as be or know, as in the example He is wet.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence The enemy to great power is not the likes of the Taliban, it is us does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication is used about the subject the enemy to great power. The rest of the sentence not the likes of the Taliban, it is us is a complement that further describes the subject, rather than introducing multiple predications of verbs about the subject.', 'Property': 'compound'}]",[]
+4767,[],- No new deaths -,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The statement 'No new deaths' uses a stative verb ('is'), indicating a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which denotes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The statement 'No new deaths' uses a stative verb 'is' to describe a state or condition.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The phrase 'no new deaths' contains a stative verb 'is', indicating a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The phrase 'no new deaths' uses a stative verb 'is' to indicate a state of being, rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' indicating a state of being (no new deaths).""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence No new deaths does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. In the given sentence, No new deaths, there is no explicit action being performed by a subject. Instead, it is a statement indicating the absence of a particular condition (new deaths), and it does not follow the structure of an active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence No new deaths uses stative predication. In this sentence, No new deaths expresses a state or condition rather than an activity or event. It describes the absence of a particular state (deaths) rather than an action or event, aligning with the characteristics of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence No new deaths does not use compound predication. It is a simple sentence with a single predication. The subject No new deaths is described by the single verb was (implied) or occurred, making it a single predication. Compound predication involves multiple predications of verbs used about one subject, as in the example The telegram was late but contained exciting news.', 'Property': 'compound'}]",['stative']
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains an active verb in the form of the URL 'zHBz4gKpkf' that indicates an action, suggesting the presence of the active property.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains active verbs in the form of a URL, indicating that the content is likely to be an article or a piece of news.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains an active verb in the form of a web link (zHBz4gKpkf), which represents an action or state being performed by the subject.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains an active verb 'zHBz4gKpkf' in the URL, indicating an action being performed.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains an active verb 'tweeted' which is performed by the subject 'Donald Trump Jr.'""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The tweet contains an active verb 'zHBz4gKpkf' which is a link to a website. The verb is in the active form as it directly indicates an action performed by the subject.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence he ran to the store in the rain does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. In the given sentence, he is the subject, ran is the action, and to the store in the rain is a prepositional phrase indicating where the action took place. There is no direct object in this sentence, so it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence He is wet uses stative predication. The verb is expresses a state or condition (wetness) rather than an action or event, aligning with the definition of stative predication provided in the context. Therefore, the answer is yes.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Does the following sentence use compound predication? does not use compound predication. It is a simple interrogative sentence asking whether the following sentence uses compound predication. The sentence itself does not contain multiple predications of verbs about one subject.', 'Property': 'compound'}]",['stative']
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'came' in the expression 'the mask came off.'""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The text contains an active verb 'came' and a stative verb 'is'. 'Came' is active because it describes an action, and 'is' is stative because it expresses a state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'came off' and a compound structure with 'came off' and 'is' used together.""
+}","['active', 'compound']",FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'came off.' The subject 'the mask' is performing the action of coming off.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'spin', 'is', and 'came'. These verbs indicate actions or states performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'spin', 'is', 'came'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence There is no way to spin this, there is no defense, today the mask came off, the subject the mask is not performing an action. Instead, it is the theme of the sentence, and the action of coming off is attributed to it. This type of construction is not an example of active predication, as the subject is not the one performing the action.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. The sentence There is no way to spin this, there is no defense, today the mask came off does not express a state or condition, but rather describes a situation or event. It does not fit the typical pattern of stative predication, which usually involves verbs like be or know that express a state or condition, as in the example He is wet. Instead, the sentence describes a specific event or situation, indicating that something has been revealed or exposed.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, There is no way to spin this and there is no defense are separate independent clauses, each with its own subject and predicate. The sentence does not contain multiple predications of verbs about one subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Predication,['stative'],['stative'],['stative'],TRUE,"['stative', 'compound', 'active']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'has been vindicated' indicating a state or condition that Julian is in.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'isolated' expressing a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'has been vindicated' referring to the action performed by Julian.""
+}",['active'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'isolated' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'has been vindicated' which indicates an action performed by the subject 'Julian'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'has been vindicated' which indicates an action performed by the subject 'Julian'.""
+}",['active'],0,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the given sentence, Julian has been vindicated in every possible way and yet he is isolated as few people are these days, the subject Julian is not directly performing an action with a direct object. Instead, the sentence describes Julians state of being vindicated and isolated, which does not align with the characteristics of active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence Julian has been vindicated in every possible way and yet he is isolated as few people are these days uses stative predication. The verb is in he is isolated expresses a state or condition rather than an activity or event, indicating a static condition of being isolated.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The sentence Julian has been vindicated in every possible way and yet he is isolated as few people are these days uses compound predication. In this sentence, there are multiple predications of verbs (has been vindicated and is isolated) used about one subject (Julian). This aligns with the definition of compound predication where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]","['stative', 'compound']"
+7818,[],But really it comes down to the British government.,Predication,['active'],['active'],['active'],TRUE,['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The verb 'comes' is stative, denoting a state of existence rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'comes' which describes a state rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'comes' which describes a state of being.""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'comes' which describes a state of being or condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'comes' which describes a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'comes' which describes a state of being or condition.""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence But really it comes down to the British government does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the given sentence, it is the subject, and comes down to the British government is a phrasal verb indicating a state or condition, rather than an action performed by the subject. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence But really it comes down to the British government does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know. In the given sentence, comes down is a dynamic verb phrase indicating an action or movement, rather than a state or condition. Therefore, it does not represent stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence But really it comes down to the British government does not use compound predication. Compound predication involves multiple predications of verbs about one subject, as in the example The telegram was late but contained exciting news. In the given sentence, there is only one predication (comes down to) about the subject (it). Therefore, it does not exhibit compound predication.', 'Property': 'compound'}]",[]
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [
+    ""stative""
+  ],
+  ""Explanation"": ""The sentence contains a stative verb 'is', which describes a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'committed', which indicates an action being performed by the subject (Adam and Eve).""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains the active verb 'committed' which denotes an action performed by the subject 'Adam and Eve'.""
+}",['active'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'committed' which indicates an action performed by the subject 'Adam and Eve'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'committed' which indicates an action performed by the subject 'Adam and Eve'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'committed' which indicates an action performed by the subject 'Adam and Eve'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, every living creature is the subject, and is subject to it is the predicate. The subject every living creature is not performing an action but rather being acted upon, so it does not fit the definition of active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The sentence Ever since Adam and Eve committed the Original Sin, every living creature is subject to it uses stative predication. The verb is in this sentence expresses a state or condition rather than an action or event, indicating a continuous state of being subject to the Original Sin. Therefore, it fits the definition of stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. In the sentence Ever since Adam and Eve committed the Original Sin, every living creature is subject to it, there is only one predication (is subject to it) about the subject (every living creature). There is no use of multiple predications of verbs about one subject, which is characteristic of compound predication.', 'Property': 'compound'}]",['stative']
+9396,[],Also on communion between the communities.,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is on communion', indicating a state of being or a state of existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'communion,' which denotes a state of being or a condition.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is', indicating a state of being ('is on').""
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is on communion', indicating a state of being or existence.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'is on communion between the communities.'""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the given sentence, communion between the communities does not clearly indicate an action being performed by a subject. Instead, it seems to describe a state or a relationship, which does not align with the characteristics of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know, as in the example He is wet. The sentence provided does not express a state or condition; rather, it seems to be a fragment or a prepositional phrase lacking a finite verb to form a complete predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is no use of multiple predications of verbs about one subject. Instead, the sentence seems to be a prepositional phrase or a fragment lacking a clear subject and verb relationship, and therefore does not exhibit compound predication.', 'Property': 'compound'}]",[]
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'asks' and 'are willing', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'asks', indicating the action performed by Hannity.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs like 'asks' and 'throw out' which demonstrate action.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'asks', which is a verb that directly relates the subject 'Hannity' to the action of asking.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'asks', which is a clear indication of the active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'asks' which is directed towards the subject 'Hannity'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'yes', 'Explanation': 'The sentence Hannity asks, Why are people willing to throw out due process, equal justice under the law and the presumption of innocence? uses active predication. In this sentence, Hannity is the subject performing the action of asking, and the sentence also includes a direct object, which is the question being asked. Therefore, it fits the definition of active predication provided in the context.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence Hannity asks, Why are people willing to throw out due process, equal justice under the law and the presumption of innocence? does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event, such as be or know. In the given sentence, are willing to throw out expresses an action or willingness, which is not characteristic of stative predication. Therefore, the sentence does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Hannity asks, Why are people willing to throw out due process, equal justice under the law and the presumption of innocence? does not use compound predication. It is a single predication with the verb asks applied to the subject Hannity and the direct question that follows.', 'Property': 'compound'}]",['active']
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'wrote', 'resolved', and 'be'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text uses an active verb 'wrote', indicating the action performed by Janet Smith.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'wrote', which signifies that the subject, Janet Smith, is performing the action of writing.""
+}",['active'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'be resolved' which expresses a state or condition rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains an active verb 'wrote' and a compound structure with the verbs 'resolved' and 'be' about the subject 'problem'.""
+}","['active', 'compound']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'wrote', which is the action performed by Janet Smith. This is an example of an active verb in the text.""
+}",['active'],0,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote, the subject is Janet Smith, and the action being performed is wrote. However, there is no direct object following the verb wrote. Therefore, this sentence does not exhibit active predication as it does not include a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event, such as be or know. The sentence provided does not directly express a state or condition but rather discusses a problem and its potential resolution, making it more of an active or dynamic predication.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The sentence uses compound predication. It contains multiple predications of verbs (resolved and be) about one subject (problem of clergy abuse).', 'Property': 'compound'}]",['compound']
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['compound', 'active']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound predication with the verbs 'declined' and 'has been' both about the spokesperson for Feinstein.""
+}",['compound'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound structure with the verbs 'declined' and 'has been'. This indicates multiple verbs about one subject.""
+}",['compound'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs such as 'declined' and 'has been'.""
+}",['active'],FALSE,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'declined' and 'has been'. The subject 'spokesperson for Feinstein' is associated with both verbs.""
+}",['compound'],"{
+  ""Properties"": [""active"", ""compound""],
+  ""Explanation"": ""The sentence contains active verbs ('declined', 'has been') and a compound structure with multiple verbs ('declined', 'is referring').""
+}","['active', 'compound']","{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The sentence contains a compound verb structure with 'declined' and 'has been'. This indicates the use of compound predication.""
+}",['compound'],0,['compound'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence, A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, the subject spokesperson is not performing the action directly. Instead, the action is being performed on the spokesperson. Therefore, this sentence does not exemplify active predication.', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses stative predication. The phrase she is referring expresses a state or condition rather than an action or event, indicating that the subject she is in a particular state of referring to something. This aligns with the definition of stative predication, making the answer yes.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the provided sentence, there are two independent clauses connected by the coordinating conjunction but, but each clause has its own subject and verb. The first clause has a spokesperson for Feinstein as the subject and declined as the verb, while the second clause has there as the subject and has been as the verb. Therefore, it does not fit the definition of compound predication.', 'Property': 'compound'}]",['stative']
+10448,[],Anybody?,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The example text utilizes a stative verb with 'is' in the phrase 'He is wet'. This is a static state rather than an action, which fits the definition of a stative verb.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, as it describes an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text uses active verbs to describe actions, such as 'finding,' 'solving,' and 'delivering.'""
+}",['active'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, as it describes an action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, such as 'is investigating' and 'has been charged', indicating action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The example text contains active verbs, as it describes actions being performed by the subject.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence Anybody? does not use active predication. Active predication typically involves a subject performing an action and often taking a direct object. In the sentence Anybody?, there is no explicit action being performed by a subject, and there is no direct object. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'No', 'Explanation': 'The sentence Anybody? does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know, as in the example He is wet. The sentence Anybody? does not express a state or condition; rather, it is a question seeking to identify or inquire about a person, and therefore does not use stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence Anybody? does not use compound predication. Compound predication involves multiple predications of verbs used about one subject, as in the example The telegram was late but contained exciting news. The sentence Anybody? does not contain multiple predications of verbs about one subject, so it does not use compound predication.', 'Property': 'compound'}]",[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains active verbs, such as 'could be seen climbing', which indicate ongoing or continuous actions.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'could be seen climbing', indicating an action performed by the people on the Mexican side of the border.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'could be seen' and 'climbing', indicating action taking place.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'climbing' which indicates an action being performed by the people on the Mexican side of the border.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs 'could be seen' and 'climbing' which indicate action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'climbing' which shows the action being performed by the people on the Mexican side of the border.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. The subject People on the Mexican side of the border is performing the action climbing the fence, and the sentence also includes a direct object, the fence. Therefore, it fits the definition of active predication as the subject is performing the action and can take a direct object.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. In the provided sentence, could be seen climbing is an example of dynamic predication, as it describes an ongoing action (climbing) rather than a static state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon with a single subject People on the Mexican side of the border. There are no additional predications of verbs about the same subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",['active']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Predication,['stative'],['stative'],['stative'],TRUE,['active'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' and a compound verb 'was...less than'. 'Was' is a stative verb conveying a state of being, and 'was less than' is a compound verb expressing the relationship between May’s growth and that in April and March.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains the stative verb 'was' to indicate a static state of May's growth compared to April and March.""
+}",['stative'],"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains the stative verb 'was' to indicate a state of being, and the compound verb 'was less than' to describe the level of growth.""
+}","['stative', 'compound']",FALSE,"{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' and a compound verb 'was less than' which indicates the use of both stative and compound properties of predication.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' and a compound verb 'was less than' which both describe the state of May's growth.""
+}","['stative', 'compound']","{
+  ""Properties"": [""stative"", ""compound""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' and a compound structure with the verbs 'was' and 'less' about the subject 'May's growth'.""
+}","['stative', 'compound']",1,"['stative', 'compound']",,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence But May’s growth was less than that in April and March, possibly an emerging trend., the subject May’s growth is not performing any action, and there is no direct object being acted upon. Instead, the sentence is describing a state or condition of May’s growth, making it a stative or passive construction rather than an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. The phrase May’s growth was less than that in April and March expresses a comparison of growth over time, which is not a state or condition. Additionally, the phrase possibly an emerging trend suggests a potential ongoing or developing situation, which aligns more with an activity or event rather than a static state.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. It contains a single predication May’s growth was less than that in April and March with the addition of a modifying phrase possibly an emerging trend. The modifying phrase does not introduce a separate predication of a verb about the subject, so it does not constitute compound predication.', 'Property': 'compound'}]",[]
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' uses a stative verb 'in Ecstacy' to describe the state of St. Francis. There are no active or compound verbs present in this title.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' contains a stative verb 'in Ecstacy', indicating a state of being.""
+}",['stative'],"{
+    ""Properties"": [""stative""],
+    ""Explanation"": ""The title 'St. Francis in Ecstacy' uses a stative verb 'in Ecstacy' to describe the state of St. Francis."" 
+}",['stative'],TRUE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' contains a stative verb 'in Ecstacy' which describes the state of St. Francis.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' contains a stative verb 'in Ecstacy' which describes a state of being rather than an action.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' contains a stative verb 'in Ecstacy' which describes the state of St. Francis.""
+}",['stative'],1,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence St. Francis in Ecstacy, Caravaggio, 1595 does not use active predication. Active predication typically involves a subject performing an action and taking a direct object. In the given sentence, St. Francis in Ecstacy is a noun phrase and does not contain a verb or an action being performed by a subject. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence St. Francis in Ecstacy, Caravaggio, 1595 does not use stative predication. It is a title of a painting and does not express a state or condition using be or know. Instead, it is a title providing information about the artwork and its creator.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence St. Francis in Ecstacy, Caravaggio, 1595 does not use compound predication. Compound predication involves multiple predications of verbs about one subject, as in the example The telegram was late but contained exciting news. The given sentence is a title and does not contain multiple predications of verbs about one subject. Therefore, it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+11936,[],America's Immigration Voice.,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in 'America's Immigration Voice'.""
+}",['stative'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text uses a stative verb 'is' to express a state of being, indicating the static nature of 'America's Immigration Voice.'""
+}",['stative'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound verb structure as it combines the verbs 'is' and 'voice' to convey the message 'America's Immigration Voice.'""
+}",['compound'],FALSE,"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound verb 'is' and 'voice' which are both about the same subject 'America's Immigration'.""
+}",['compound'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound verb 'Immigration Voice' which consists of two verbs 'immigration' and 'voice' referring to the organization's focus on immigration issues and advocacy.""
+}",['compound'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The title 'America's Immigration Voice' contains a compound verb structure with 'America's' and 'Immigration' acting as compound subjects and 'Voice' as the compound verb.""
+}",['compound'],1,['compound'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. In the given sentence, Americas Immigration Voice, there is no clear action being performed by a subject, nor is there a direct object. Instead, this appears to be a nominal phrase or a title, rather than a sentence with an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not use stative predication. Stative predication typically involves a form of be or other verbs that express a state or condition. In this case, Americas Immigration Voice is a noun phrase and does not express a state or condition as required for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The phrase Americas Immigration Voice does not use compound predication. It is a noun phrase that consists of a possessive noun Americas modifying the noun Voice, and Immigration acting as an attributive noun modifying Voice. There are no multiple predications of verbs about one subject in this phrase.', 'Property': 'compound'}]",[]
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,"['stative', 'active']","{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The text contains an active verb 'is' and 'has ignored'.""
+}",['active'],"{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains active verbs 'is', 'ignore', 'has ignored' indicating actions performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative"", ""compound""],
+  ""Explanation"": ""The sentence includes an active verb 'ignore', a stative verb 'is', and a compound structure with 'ignored' and 'questioned' both relating to 'others'.""
+}","['active', 'stative', 'compound']",FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'ignore' which indicates an action performed by the subject 'the Pope'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'ignore' indicating the action of the Pope.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and a stative verb 'ignored', which indicates a state of being.""
+}","['active', 'stative']",0,['active'],,,,,"[{'Answer': 'yes', 'Explanation': 'The given sentence uses active predication. In the sentence, the Pope is the subject performing the action (ignoring the heartfelt appeal), and this heartfelt appeal serves as the direct object. Therefore, it fits the definition of active predication as the subject (the Pope) is performing the action and there is a direct object (the heartfelt appeal).', 'Property': 'active'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses stative predication. The phrase is almost certain to ignore expresses a state of being almost certain to ignore, rather than an action or event. This aligns with the definition of stative predication, which expresses a state or condition rather than an activity or event.', 'Property': 'stative'}, {'Answer': 'yes', 'Explanation': 'The given sentence uses compound predication. It contains multiple predications of verbs (is almost certain to ignore and has ignored) about one subject (the Pope). This structure aligns with the definition of compound predication, where multiple predications of verbs are used about one subject.', 'Property': 'compound'}]","['active', 'stative', 'compound']"
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Predication,['stative'],['stative'],['stative'],TRUE,"['stative', 'active']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' and 'resting' which is an active participle.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'was' indicating a state of being. There are no active or compound verbs present in the text.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'resting' which indicates an action being performed by the regime.""
+}",['active'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' and 'resting' which indicates an action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'say', 'was', and 'resting'. These verbs indicate actions or states performed by the subjects.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was' and 'resting' which indicates an action being performed by the subject.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action and can take a direct object. In the provided sentence, the subject it is not performing an action but rather serving as the subject of the copular verb is. The sentence is in the form of a copular or linking verb construction, not an active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically involves expressing a state or condition rather than an activity or event, such as be or know. In the given sentence, the phrase it was be rid of the regime is not an example of stative predication. Instead, it is an expression of a desire or intention, which does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication it was be rid of the regime resting on top of all of us about the subject one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters. The conjunction and is not used to connect multiple predications of verbs about the same subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Predication,['stative'],['stative'],['stative'],TRUE,"['stative', 'compound', 'active']","{
+  ""Properties"": [
+    ""active""
+  ],
+  ""Explanation"": ""The sentence contains active verbs such as 'indicted' and 'including', indicating the use of active voice for predication.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' indicating a state of being, but there are no active or compound verbs present.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'indicted.' It does not contain stative or compound verbs.""
+}",['active'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'was' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'indicted' and 'including', indicating the use of active voice.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains active verbs such as 'indicted' and 'including', indicating actions performed by the subject.""
+}",['active'],0,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In active predication, the subject typically performs the action, and the sentence can take a direct object. In the given sentence, He was formally indicted is in the passive voice, indicating that the subject (He) is receiving the action rather than performing it. Therefore, it does not fit the criteria for active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use stative predication. Stative predication typically expresses a state or condition rather than an activity or event. In the given sentence, the verb was formally indicted describes an action that occurred in the past, rather than expressing a state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is a single predication about the subject He. The sentence describes the actions related to the indictment, specifying the charges brought against the subject. It does not involve multiple predications of verbs about one subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'called', indicating the presence of active verbs.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is', with the subject 'the document' performing the action of being a 'chopping block'.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' indicating a state of being.""
+}",['stative'],FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'called' which indicates action being performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'is' and 'called' which indicates action.""
+}",['active'],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The sentence contains a stative verb 'is' describing the state of the document.""
+}",['stative'],0,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The given sentence does not use active predication. In the sentence As we shall see, the document is what I’ve called above a chopping block, the subject the document is not performing an action, but rather being described as something (a chopping block). This is an example of a copular or linking verb construction, where is functions as a linking verb connecting the subject the document to the subject complement what I’ve called above a chopping block.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence As we shall see, the document is what I’ve called above a chopping block. does not use stative predication. The verb is in this sentence is not expressing a state or condition, but rather an identity or classification. It is linking the subject the document to the predicate what I’ve called above a chopping block. This is an example of a copular or linking verb, not a stative verb.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use compound predication. In the sentence As we shall see, the document is what I’ve called above a “chopping block”, there is only one predication of the verb is about the subject the document. There is no use of multiple predications of verbs about one subject, which is characteristic of compound predication.', 'Property': 'compound'}]",[]
+14038,[],And in Russia.,Predication,[],[],[],TRUE,[],"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' indicating a state of being.""
+}",['stative'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The word 'in' indicates location, and 'Russia' is the object of the preposition. There is no verb in this fragment, so no active or stative predication is present.""
+}",['active'],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound verb 'And in Russia.' involving two verbs ('and', 'in') connected to the same subject.""
+}",['compound'],FALSE,"{
+  ""Properties"": [""stative""],
+  ""Explanation"": ""The text contains a stative verb 'is' in the phrase 'And in Russia.'""
+}",['stative'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia' does not contain any active, stative, or compound properties of predication. It is a simple prepositional phrase."" 
+}",[],"{
+  ""Properties"": [""compound""],
+  ""Explanation"": ""The text contains a compound structure with multiple verbs ('is', 'in') about one subject ('Russia').""
+}",['compound'],0,['stative'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence And in Russia does not use active predication. Active predication typically involves a subject performing an action and can take a direct object. However, the sentence And in Russia lacks a clear subject performing an action or a direct object. It seems to be a prepositional phrase or a fragment rather than a complete active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence And in Russia does not use stative predication. Stative predication typically involves expressing a state or condition, such as be or know, as in the example He is wet. And in Russia does not express a state or condition; rather, it appears to be a prepositional phrase or a fragment lacking a clear predicate or verb, and therefore does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence And in Russia does not use compound predication. Compound predication involves multiple predications of verbs about one subject. The sentence And in Russia does not contain multiple predications of verbs about a single subject. Instead, it appears to be a prepositional phrase or a fragment that lacks a clear subject and verb relationship, and therefore does not demonstrate compound predication.', 'Property': 'compound'}]",[]
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Predication,"['stative', 'active']","['stative', 'active']","['stative', 'active']",TRUE,['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'explained' which indicates an action performed by the subject.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The text contains an active verb 'explained' describing an action performed by the subject 'Wilson'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'explained' as Wilson is the subject performing the action of explaining.""
+}",['active'],TRUE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'explained' with the subject 'Wilson' performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'explained' with the subject 'Wilson' performing the action.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'explained' which is directly performed by the subject 'Wilson'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'no', 'Explanation': 'The sentence provided does not use active predication. In the sentence, Wilson explained to WIRED when he first launched the lawsuit in 2015, the subject Wilson is not performing an action on a direct object. Instead, Wilson is the one who is explaining, making this an example of a passive construction. The focus is on the action of explaining rather than the direct action performed by the subject.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The sentence If code is speech, the constitutional contradictions are evident, does not use stative predication. This sentence expresses a conditional statement (If code is speech) and then describes a state of affairs (the constitutional contradictions are evident). The verb are in this context does not express a permanent state or condition, but rather a current state of affairs. Stative predication typically involves verbs that express a state or condition, such as be or know, as in the example He is wet.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. In the sentence, Wilson explained to WIRED when he first launched the lawsuit in 2015 is a single predication where Wilson explained is the main verb and to WIRED when he first launched the lawsuit in 2015 is the object of the verb explained. There is only one main predication about the subject Wilson.', 'Property': 'compound'}]",[]
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Predication,['stative'],['stative'],['stative'],TRUE,"['compound', 'active']","{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains an active verb 'was hailed' and a stative verb 'was' indicating a state of being.""
+}","['active', 'stative']","{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains the active verb 'was hailed', indicating the active voice in the sentence.""
+}",['active'],"{
+  ""Properties"": [""active"", ""stative""],
+  ""Explanation"": ""The sentence contains both active ('was hailed') and stative ('was') verbs.""
+}","['active', 'stative']",FALSE,"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was hailed' which indicates an action performed by the subject 'Campos'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was hailed' which indicates an action performed by the subject 'Campos'.""
+}",['active'],"{
+  ""Properties"": [""active""],
+  ""Explanation"": ""The sentence contains an active verb 'was hailed' which indicates an action performed by the subject 'Campos'.""
+}",['active'],1,['active'],,,,,"[{'Answer': 'yes', 'Explanation': 'The sentence uses active predication. The subject Campos, a guard at the Mandalay Bay Resort and Casino is performing the action of helping guide police to gunman Stephen Paddock’s room on the 32nd floor and the action can take a direct object, police. Therefore, it fits the definition of active predication.', 'Property': 'active'}, {'Answer': 'no', 'Explanation': 'The given sentence does not use stative predication. Stative predication typically expresses a state or condition, such as be or know. In the provided sentence, the action described (helping guide police to gunman Stephen Paddock’s room on the 32nd floor) is an activity or event, not a state or condition. Therefore, it does not fit the criteria for stative predication.', 'Property': 'stative'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not use compound predication. Compound predication involves multiple predications of verbs about one subject. In the given sentence, there is only one predication of the verb was hailed about the subject Campos. There are no additional predications of verbs about the same subject, so it does not demonstrate compound predication.', 'Property': 'compound'}]",['active']

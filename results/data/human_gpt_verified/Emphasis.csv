@@ -1,0 +1,664 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,[],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The use of the phrase 'I don’t regard Louis Farrakhan as an aberration or anything' at the beginning of the sentence and the repetition of 'thousands and thousands and thousands and thousands of people' at the end of the sentence emphasize the writer's viewpoint and the significance of Farrakhan's influence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'I don’t regard Louis Farrakhan as an aberration or anything' and ends with 'thousands and thousands and thousands and thousands of people,' placing emphasis on these key elements by their position in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""by sentence role""
+  ],
+  ""Explanation"": ""The sentence places emphasis on Louis Farrakhan by positioning his name at the beginning, and it emphasizes the subject 'he' by placing it at the end of the sentence.""
+}","['by_position', 'by_sentence_role']",FALSE,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with the structure 'I don’t regard Louis Farrakhan as an aberration or anything' and 'he emphasized later', placing emphasis on the beginning and end of the sentence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the structure 'I don’t regard Louis Farrakhan as an aberration or anything' and 'he emphasized later', placing emphasis on the beginning and end of the sentence. This emphasizes the speaker's opinion and the emphasis on Louis Farrakhan's influence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses the strategy of emphasis by position, with the repetition of 'thousands and thousands and thousands and thousands' at the end of the sentence to draw attention. Additionally, the sentence also employs an inversion with the phrase 'thousands and thousands and thousands and thousands' placed at the end instead of the expected position.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,[],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with 'And so' at the beginning for emphasis, and places 'a senior Labour backbencher' and 'a senior Labour MP' at the beginning and end of the sentence for additional emphasis.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence starts with the phrase 'And so' to draw attention to what follows, using emphasis by position. It also contains an inversion with the phrase 'a senior Labour backbencher' placed before 'Chris Bryant', creating emphasis from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The subject of the sentence, 'Chris Bryant,' receives the most attention, indicating emphasis based on sentence role.""
+}",['by_sentence_role'],FALSE,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban, 'his presence is ‘not conducive to the public good’'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the subject 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban and the source of the statement, 'a senior Labour MP has said.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban, 'his presence is not conducive to the public good'.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,[],"{
+  ""Properties"": [""by position"", ""from inversions"", ""combinations""]
+}
+
+  
+  ","['by_position', 'from_inversions', 'combinations']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'Sagacious gun owners' and ends with 'gun confiscation', placing emphasis on these salient elements at the beginning and end of the sentence. Additionally, the sentence contains an inversion with the list of gun control extremists following the phrase 'such as'. This inversion adds emphasis to the list of individuals by deviating from the normal Subject-Verb-Object order.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence employs emphasis by placing the names of prominent gun control figures at the end and using an inversion 'et al.' to emphasize the concept of gun confiscation as the ultimate goal.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning for emphasis. It also uses an inversion by placing the list of gun control extremists at the end of the sentence for emphasis.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning for emphasis. It also uses an inversion by listing the names of the gun control extremists before the verb 'has always been', which emphasizes the accusation against them.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning of the sentence for emphasis. Additionally, the names of the gun control extremists are placed at the end of the sentence, further emphasizing them.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by sentence role"", ""from inversions""],
+  ""Explanation"": ""The subject 'freedom-loving American' receives the most attention in the sentence, and there is an inversion of the normal order of the sentence structure with 'happy is NOT what you should be feeling right now.'""
+}","['by_sentence_role', 'from_inversions']","{
+  ""Properties"": [
+    ""by sentence role""
+  ],
+  ""Explanation"": ""The subject 'you' is the focus of the sentence, which receives the most attention."" 
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The writer places emphasis at the beginning of the sentence by highlighting the subject 'freedom-loving American'. Additionally, an inversion of the usual word order is used with 'happy is NOT', adding further emphasis to the negation.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This violates the normal order of Subject Verb Object (SVO) and places the salient elements at the beginning and end of the sentence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This violates the normal Subject Verb Object (SVO) order, emphasizing the contradictory nature of the statement.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This creates emphasis through both sentence position and inversion.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",0,1,Annotaors missed 'fron inversion',"['by_position', 'from_inversions']",
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence utilizes the 'by position' property by placing the phrase 'on numerous occasions' at the beginning for emphasis. It also employs the 'from inversions' property through the inversion of the typical Subject Verb Object (SVO) order with 'Russians attempted to interfere' instead of 'Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The writer places 'on numerous occasions' at the beginning of the sentence and 'in our elections' at the end, hence the emphasis is placed on the frequency of the intelligence findings and the impact on the elections.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses both emphasis by position, with the phrase 'on numerous occasions' at the beginning, and from inversions, with the reversal of the typical word order in 'intelligence findings that Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning, and 'our intelligence findings' placed at the end for emphasis. This creates emphasis through both by position and from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing 'I have' at the beginning, and 'on numerous occasions' at the middle, which violates the normal Subject Verb Object (SVO) order. This creates emphasis on the act of noting and the frequency of the occasions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning for emphasis. Additionally, the subject 'Russians' is placed at the beginning of the sentence for emphasis.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",0,1,Annotaors missed 'fron inversion',"['by_position', 'from_inversions']",
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Emphasis,['by_sentence_role'],['by_sentence_role'],['by_sentence_role'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'And' to draw attention to the point being made, and the word 'currently' is placed at the end to give it emphasis.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which gives emphasis to the idea presented at the beginning of the sentence. This technique places emphasis on the skepticism towards Ms. Ford's situation.""
+}",['by_position'],timeout,[],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which places emphasis on the following statement, indicating a continuation or contrast with previous information.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which draws attention to what follows, emphasizing the doubt expressed by the writer about Ms. Ford's situation.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which draws attention to what follows, emphasizing the doubt being cast on Ms. Ford's estimation of the integrity of the 'supportive' lawmakers and lawyers.""
+}",['by_position'],TRUE,['by_position'],1,0,GPT classification and explanation both wrong,['by_sentence_role'],
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'They want to prosecute Assange', placing emphasis on this action and its subject.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence starts with 'They want to prosecute Assange' placing the salient elements at the beginning of the sentence. Additionally, the sentence uses inversion with 'but what about Judith Miller and The New York Times lying the West into war?' where the normal order of subject, verb, and object is altered.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position to place 'Assange' at the beginning and 'Judith Miller and The New York Times' at the end for emphasis. It also employs an inversion with the phrase 'but what about Judith Miller and The New York Times lying the West into war?' by placing the object before the subject.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places the most attention on the beginning and end of the sentence with 'They want to prosecute Assange' and 'hang him from the rafters in Congress.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places emphasis on the beginning and end of the sentence to highlight the contrast between the treatment of Assange and the actions of Judith Miller and The New York Times.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' which violates the normal Subject Verb Object (SVO) order. Additionally, the beginning of the sentence 'They want to prosecute Assange and maybe hang him from the rafters in Congress' places emphasis on the action being taken.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses both 'by position' emphasis by placing 'At this time' at the beginning of the sentence and 'from inversions' emphasis by inverting the normal order of the subject and verb in 'they have made no attempt to substantiate their claims.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'At this time' and ends with 'their claims', placing emphasis on the current status and the lack of action by the attorneys representing other clients.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The writer places the salient elements 'At this time' and 'they have made no attempt to substantiate their claims' at the beginning and end of the sentence, respectively, to emphasize the lack of cooperation and effort from the attorneys representing other clients.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'At this time' at the beginning and 'their claims' at the end, which draws attention to these elements.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position, placing the salient elements 'At this time' and 'they have made no attempt to substantiate their claims' at the beginning and end of the sentence to influence what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'At this time' at the beginning and 'they have made no attempt to substantiate their claims' at the end, which draws attention to these elements.""
+}",['by_position'],TRUE,['by_position'],1,1,,['by_position'],
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Emphasis,['by_sentence_role'],['by_position'],['by_position'],FALSE,"['from_inversions', 'by_position']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'one executive suggests' which places emphasis on the executive and the action of suggesting. The end of the sentence emphasizes the condition of paying for the rides of Latinos only if they vote for Clinton.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The salient elements 'one executive suggests' and 'if they vote for Clinton, that is' are placed at the beginning and end of the sentence, which influences the emphasis by positioning these key points prominently.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence places emphasis on 'one executive suggests' by positioning it first, drawing attention to the idea of an executive proposing a specific action.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the idea of paying for the rides of Latinos to get them to the polls, which is at the beginning of the sentence, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Specifically' which emphasizes the specific suggestion being made, and ends with 'if they vote for Clinton, that is' which emphasizes the condition attached to the suggestion.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence emphasizes the suggestion of paying for the rides of Latinos, while the end emphasizes the condition of voting for Clinton.""
+}",['by_position'],TRUE,['by_position'],0,1,,['by_position'],if they vote for Clicnton' is placed at the end for emphasis
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description. The normal order of Subject Verb Object (SVO) is also violated with 'Yore called the example Pope Francis set...' which is an example of inversion.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The subject of the sentence, 'Pope Francis', receives the most attention, indicating emphasis on his actions.""
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places the salient element 'extremely dangerous' at the end, which gives it the most emphasis.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'extremely dangerous' by positioning it at the end, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description and influencing the reader's perception of the severity of the situation.""
+}",['by_position'],TRUE,['by_position'],1,1,,['by_position'],
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Emphasis,['by_position'],['combinations'],['by_position'],FALSE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding the opportunity' and ends with 'be subpoenaed to testify,' which places emphasis on the act of demanding and the specific request to subpoena certain individuals.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the action of demanding and presenting testimony.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding...' placing emphasis on the action of demanding, and ends with 'to testify,' placing emphasis on the testimony being demanded. Additionally, the normal order of Subject Verb Object (SVO) is violated with 'the opportunity to present testimony,' emphasizing the elements mentioned.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'Avenatti wrote on Twitter', placing emphasis on the actions and the source of the statement.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the actions being demanded.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the actions being demanded.""
+}",['by_position'],TRUE,['by_position'],0,0,,[],
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Emphasis,['from_inversions'],['by_position'],[],FALSE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [
+    ""by sentence role"",
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence emphasizes the subjects 'arch-conservative' and 'Rottweiler' by placing them at the beginning and end of the sentence, which influences the overall emphasis of the sentence. Additionally, the subjects of the sentence receive the most attention.""
+}","['by_sentence_role', 'by_position']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion (anastrophe) by placing the adjectives 'arch-conservative' and 'Rottweiler' before the subject 'Ratzinger', which violates the normal order of Subject Verb Object (SVO). Additionally, the beginning of the sentence places emphasis on the adjectives and the end on the subject, utilizing emphasis by position.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places the phrases 'arch-conservative' and 'Rottweiler' at the beginning of the sentence, giving them the most emphasis.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the beginning and end, with 'arch-conservative' and 'Ratzinger' being the salient elements, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with the salient elements 'arch-conservative' and 'Rottweiler', placing emphasis on these descriptors and influencing what is emphasized in the question.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with the phrase 'With the 'arch-conservative' 'Rottweiler' Ratzinger', placing emphasis on these descriptive terms and setting the tone for the rest of the sentence.""
+}",['by_position'],TRUE,['by_position'],0,0,,['by_sentence_role'],Ratzinger is the subject but is paced in the middle.
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll' which places emphasis on the action of completing the poll, influencing the reader to consider taking that action.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on this action as the most important part of the sentence.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The text uses emphasis by position, as the beginning of the sentence 'Completing this poll' receives the most attention, influencing what is emphasized.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],TRUE,['by_position'],0,0,,[],
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,[],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'By inserting negative search suggestions' at the beginning and 'exclusively by Breitbart News' at the end. It also employs an inversion with 'according to a Breitbart report by Allum Bokhari' instead of the typical order of 'Allum Bokhari reported in a Breitbart report'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The salient elements of the sentence, such as the impact of negative search suggestions on undecided voters, are placed at the beginning and end of the sentence, emphasizing their significance.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing the statistic 'by up to 43.4 percent' at the end of the sentence to create impact. Additionally, the sentence contains an inversion ('By inserting negative search suggestions under the name of a candidate'), which is an example of emphasis from inversions.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile,' which places emphasis on the timing of the information, indicating that it is happening at the same time as something else. This use of 'Meanwhile' at the beginning of the sentence is an example of emphasis by position.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile' which draws attention to the timing of the information, emphasizing that it is happening concurrently with something else.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile,' which places emphasis on the timing of the information being presented.""
+}",['by_position'],TRUE,['by_position'],1,0,,['by_position'],Brietbart news is being emphasised
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the timeline and the outcome of the threat, respectively.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn't stopped', placing emphasis on the timing of the president's threat and the need to stop the flow of immigrants.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago', which places emphasis on the time frame, and ends with 'wasn’t stopped', emphasizing the action or lack thereof taken by the immigrants.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that needs to be stopped.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that needs to be stopped.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that the president threatened to take.""
+}",['by_position'],TRUE,['by_position'],1,1,,['by_position'],
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Emphasis,['by_sentence_role'],['combinations'],['by_position'],FALSE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer uses emphasis by position by placing the salient elements 'They [Guardian editors]' and 'partisan warriors' at the beginning of the sentence to influence what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence places emphasis at the beginning on 'They' and at the end on 'true or false', influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The sentence places emphasis on the subjects 'Guardian editors' and 'they' by attributing actions to them, thus emphasizing their role in the situation.""
+}",['by_sentence_role'],FALSE,"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence places emphasis on the actions of the Guardian editors at the beginning and end, influencing what is emphasized in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the beginning and end by starting with 'They knew' and ending with 'true or false.' This helps to highlight the key points of the sentence.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence places emphasis on the action of 'publishing this story' at the beginning and the potential consequences at the end, influencing what is emphasized.""
+}",['by_position'],TRUE,['by_position'],,,,,
+10658,[],Assange’s crime is to have broken a silence.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Assange's crime', placing emphasis on the action of Assange, and ends with 'broken a silence', emphasizing the significance of the action.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the action 'broken a silence' by positioning it at the end of the sentence, which influences what is emphasized.""
+}",['by_position'],"{
+    ""Properties"": [""by position""],
+    ""Explanation"": ""The sentence begins with 'Assange’s crime', placing emphasis on the subject of the sentence.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'Assange's crime' at the beginning and 'broken a silence' at the end, following the emphasis by position strategy.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places 'Assange’s crime' at the beginning and 'broken a silence' at the end, emphasizing these key elements.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'Assange's crime' by positioning it at the beginning, thereby drawing attention to the action and the person responsible.""
+}",['by_position'],TRUE,['by_position'],,,,,
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Emphasis,['by_sentence_role'],['combinations'],['by_position'],FALSE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This stunning tower audio,' placing emphasis on the described audio, and ends with 'on that fateful night,' emphasizing the significance of the night in question.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The use of 'This stunning tower audio once again provides proof' at the beginning of the sentence places emphasis on the significance of the audio.""
+}",['by_position'],"{
+  ""Properties"": [""from inversions""],
+  ""Explanation"": ""The sentence contains an anastrophe with 'This stunning tower audio' at the beginning of the sentence, deviating from the typical Subject Verb Object (SVO) order. This inversion emphasizes the 'stunning tower audio' as the focal point of the sentence.""
+}",['from_inversions'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This stunning tower audio' and ends with 'on that fateful night', placing emphasis on these key elements.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This stunning tower audio' and ends with 'on that fateful night', placing emphasis on these key elements.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This stunning tower audio' and ends with 'on that fateful night', placing emphasis on these key elements.""
+}",['by_position'],TRUE,['by_position'],,,,,
+4371,[15],The media is happy to talk about anti-Semitism.,Emphasis,['by_position'],['combinations'],['by_position'],FALSE,"['by_position', 'by_sentence_role']","{
+    ""Properties"": [""by sentence role""],
+    ""Explanation"": ""The subject 'media' receives the most attention as the focus of the sentence, indicating emphasis by sentence role.""
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'the media' and 'anti-Semitism' by positioning them at the beginning and end, respectively.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The most emphasis is placed on 'the media' at the beginning of the sentence, influencing what is emphasized.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places 'anti-Semitism' at the end, giving it emphasis and indicating that it is the main topic of discussion.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places 'happy' at the beginning, which emphasizes the media's attitude towards talking about anti-Semitism.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places 'happy' at the beginning, emphasizing the media's attitude towards the topic of anti-Semitism.""
+}",['by_position'],TRUE,['by_position'],,,,,
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Emphasis,['by_position'],['combinations'],['by_position'],FALSE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence emphasizes the call for Washington leaders to prioritize public safety by placing it at the beginning and end of the sentence.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer emphasizes the importance of putting public safety over NRA priorities by placing 'put public safety over NRA priorities' at the end of the sentence, which gives it greater emphasis.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses the structure 'It's time for...' to place an emphasis on the need for action at the beginning of the sentence. Additionally, the phrase 'follow the lead of America's mayors' violates the normal SVO order, using an inversion to emphasize the action of following the mayors' lead.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the idea of putting public safety over NRA priorities by positioning it at the end of the sentence, which is a common strategy for emphasis.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'It's time' and ends with 'NRA priorities', placing emphasis on the call to action and the target of the action.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places the emphasis on 'It's time' at the beginning and 'NRA priorities' at the end, influencing what is emphasized.""
+}",['by_position'],TRUE,['by_position'],,,,,
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Emphasis,['by_position'],['by_position'],[],FALSE,['by_position'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any of the specified properties of emphasis. It is a copyright notice without any emphasis strategies."" 
+}",[],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The text does not contain any specific content to analyze for stylistic or linguistic emphasis, but it is a common practice in news articles to use emphasis by position, where the beginning and end of a sentence receive the most emphasis.""
+}",['by_position'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text is a copyright notice and a distribution attribution, and it does not contain any emphasis properties."" 
+}",[],FALSE,"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any of the specified properties of Emphasis. It is a copyright notice and distribution information, which typically does not contain emphasis techniques."" 
+}",[],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The text does not contain any specific sentence or clause to analyze for sentence role or inversions. However, the use of '©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.' at the beginning of the text indicates emphasis by position, as it is placed at the start of the content to draw attention to the copyright and distribution information.""
+}",['by_position'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text is a copyright notice and distribution information, which does not contain any emphasis properties."" 
+}",[],FALSE,[],,,,,
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence structure emphasizes the numerical split at the beginning and end of the sentence, indicating the salience of the ideological split.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Roughly speaking' and ends with 'on the court', placing emphasis on the idea of a split in ideological positions on the court.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the ideological split by positioning it at the beginning and end of the sentence, thereby highlighting the salient element.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Roughly speaking' which draws attention to the overall statement being made, emphasizing the generalization about the ideological split on the court.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the numerical split at the beginning, influencing what is emphasized in the reader's mind.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the numerical split at the beginning and end, influencing what is emphasized.""
+}",['by_position'],TRUE,['by_position'],,,,,
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'They want to prosecute Assange', placing emphasis on this action and its subject.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence starts with 'They want to prosecute Assange' placing the salient elements at the beginning of the sentence. Additionally, the sentence uses inversion with 'but what about Judith Miller and The New York Times lying the West into war?' where the normal order of subject, verb, and object is altered.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position to place 'Assange' at the beginning and 'Judith Miller and The New York Times' at the end for emphasis. It also employs an inversion with the phrase 'but what about Judith Miller and The New York Times lying the West into war?' by placing the object before the subject.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places the most attention on the beginning and end of the sentence with 'They want to prosecute Assange' and 'hang him from the rafters in Congress.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places emphasis on the beginning and end of the sentence to highlight the contrast between the treatment of Assange and the actions of Judith Miller and The New York Times.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' which violates the normal Subject Verb Object (SVO) order. Additionally, the beginning of the sentence 'They want to prosecute Assange and maybe hang him from the rafters in Congress' places emphasis on the action being taken.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",,,,,
+4430,[16],You really don't need to know anything.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'you' which places focus on the audience, and ends with 'anything' which is emphasized by being the final word in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with the word 'you', giving it emphasis by position. Additionally, the normal word order of a declarative sentence is inverted, with the adverb 'really' placed before the subject 'you', indicating anastrophe."" 
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The use of the word 'really' at the beginning of the sentence emphasizes the negation, indicating that the listener definitely does not need to know anything.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'You' and ends with 'anything', placing emphasis on these words and influencing what is emphasized in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'You', which places emphasis on the subject, and ends with 'anything', which is the most salient element of the sentence, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'You' and ends with 'anything', placing emphasis on these words and influencing what is emphasized in the sentence.""
+}",['by_position'],TRUE,['by_position'],,,,,
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Emphasis,"['by_position', 'by_sentence_role']",['by_sentence_role'],[],FALSE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'A West Virginia school' and ends with 'to practice calligraphy,' placing emphasis on the subject and the purpose of the action.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places emphasis on the controversial action of the West Virginia school at the beginning of the sentence, influencing what is emphasized in the reader's mind.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places 'A West Virginia school' at the beginning of the sentence, which receives the most emphasis. This influences the reader's focus on the school being criticized.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence emphasizes 'A West Virginia school' and the end emphasizes 'to practice calligraphy', which highlights the key elements of the news story.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence emphasizes 'A West Virginia school' and the end emphasizes 'to practice calligraphy', which highlights the key elements of the story.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence emphasizes 'A West Virginia school' and the end emphasizes 'to practice calligraphy', which highlights the key elements of the news.""
+}",['by_position'],TRUE,['by_position'],,,,,
+14038,[],And in Russia.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning and end of the sentence receive the most emphasis. In this case, 'in Russia' is placed at the end of the sentence, therefore receiving emphasis.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The phrase 'And in Russia' is placed at the end of the sentence, receiving emphasis by position.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The phrase 'And in Russia' is positioned at the end of the sentence, receiving emphasis as the final element, which can influence what is emphasized.""
+}",['by_position'],TRUE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The phrase 'And in Russia' is placed at the end of the sentence, receiving emphasis as the final element.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The phrase 'And in Russia' is placed at the end of the sentence, receiving emphasis as the final element.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The phrase 'And in Russia' is placed at the end of the sentence, receiving emphasis as the final element.""
+}",['by_position'],TRUE,['by_position'],,,,,
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Emphasis,['by_position'],['by_position'],['by_position'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence utilizes the 'by position' property by placing the phrase 'on numerous occasions' at the beginning for emphasis. It also employs the 'from inversions' property through the inversion of the typical Subject Verb Object (SVO) order with 'Russians attempted to interfere' instead of 'Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The writer places 'on numerous occasions' at the beginning of the sentence and 'in our elections' at the end, hence the emphasis is placed on the frequency of the intelligence findings and the impact on the elections.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses both emphasis by position, with the phrase 'on numerous occasions' at the beginning, and from inversions, with the reversal of the typical word order in 'intelligence findings that Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']",FALSE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning, and 'our intelligence findings' placed at the end for emphasis. This creates emphasis through both by position and from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing 'I have' at the beginning, and 'on numerous occasions' at the middle, which violates the normal Subject Verb Object (SVO) order. This creates emphasis on the act of noting and the frequency of the occasions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning for emphasis. Additionally, the subject 'Russians' is placed at the beginning of the sentence for emphasis.""
+}","['by_position', 'from_inversions']",TRUE,"['by_position', 'from_inversions']",,,,,
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Emphasis,['by_position'],['combinations'],['by_position'],FALSE,['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The use of 'Attorney General Jeff Sessions' at the beginning of the sentence and 'right now' at the end places emphasis on these elements, utilizing the strategy of emphasis by position. Additionally, the inversion of the typical Subject-Verb-Object order (e.g. 'Jeff Sessions, Attorney General' or 'should stop this Rigged Witch Hunt right now') is used, demonstrating emphasis from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places the salient elements 'terrible situation' and 'Attorney General Jeff Sessions' at the beginning and end of the sentence, drawing emphasis to them.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The use of 'right now' at the end of the sentence places emphasis on the immediacy of the action being demanded.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places emphasis at the beginning of the sentence with 'This is a terrible situation' and at the end with 'stain our country any further.' This influences what is emphasized in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This is a terrible situation' and ends with 'stain our country any further', placing emphasis on the negative situation and the potential harm to the country.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'This is a terrible situation' and ends with 'stain our country any further', placing emphasis on the negative situation and the potential harm to the country.""
+}",['by_position'],TRUE,['by_position'],,,,,
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Emphasis,['by_position'],['by_sentence_role'],['by_position'],FALSE,[],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence contains an inversion with the phrase 'as the head of the Catholic Church' preceding the clause it modifies. Additionally, the phrase 'you know, the last appeal' is positioned at the end of the sentence for emphasis.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses the inverted structure 'But it is extremely dangerous as the head of the Catholic Church' to emphasize the danger aspect at the beginning of the sentence. This inversion, combined with the emphasis on the role of the head of the Catholic Church, highlights the significance of the issue.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence begins with 'But it is extremely dangerous' and ends with 'why should I?' which places emphasis on the seriousness of the situation and the question of accountability, utilizing emphasis by position. Additionally, the sentence includes an inversion with 'that this is the kind of behavior', violating the normal Subject-Verb-Object order.""
+}","['by_position', 'from_inversions']",TRUE,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'as the head of the Catholic Church' placed at the end for emphasis. This violates the normal Subject Verb Object (SVO) order, indicating the use of inversion emphasis. Additionally, the phrase 'extremely dangerous' is placed at the beginning of the sentence for emphasis, indicating emphasis by position.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'But it is extremely dangerous' which places emphasis on the idea that the behavior being discussed is extremely dangerous.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'as the head of the Catholic Church' placed at the end for emphasis. This violates the normal Subject Verb Object (SVO) order, indicating the use of inversion emphasis. Additionally, the beginning of the sentence 'But it is extremely dangerous' also receives emphasis by position.""
+}","['by_position', 'from_inversions']",FALSE,"['by_position', 'from_inversions']",,,,,
+7975,[],Laws are for conservatives.,Emphasis,['by_position'],['by_position'],['by_position'],TRUE,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The emphasized element 'conservatives' is placed at the end of the sentence, giving it the most emphasis. This influences the reader to focus on the concept of 'conservatives' as the main point of the statement.""
+}",['by_position'],"{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The subject 'laws' receives the most attention in the sentence, indicating it as the emphasis of the statement.""
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places 'laws' at the beginning, which emphasizes this word and the concept it represents.""
+}",['by_position'],FALSE,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'conservatives' by positioning it at the end, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'conservatives' by positioning it at the end, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places the salient element 'conservatives' at the end, giving it the most emphasis.""
+}",['by_position'],TRUE,['by_position'],,,,,

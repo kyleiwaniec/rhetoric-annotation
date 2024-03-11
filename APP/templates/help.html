@@ -1,0 +1,80 @@
+{% extends 'layout.html' %}
+
+{% block title %}Help{% endblock %}
+
+{% block content %}
+<div class="container mt-3">
+    <div class="row align-items-start">
+        <div class="col-3">
+            
+            <h2>Instructions</h2>
+            <p>Given a sentence to annotate (2), select a group (3) and property (4) on the left. The ChatGPT 
+            response (5) can speed up the process, but isn’t always correct, so should always be
+            validated by the annotator.</p>
+
+            
+            <p>Required: select a node in the parse tree (1) 
+            corresponding to the annotation value (6).</p>
+            
+            <p>Select the appropriate checkbox(es) (6).</p>
+            
+            <p>Click the Add Property (7) button.</p>
+            
+            <p>Click the Next Property (8) button or select
+            another property (4) from the list on the left.</p>
+            
+            <p>Select the next annotation group (3).</p>
+            
+            <p>Finally, mark the sentence as completed
+            by clicking the Mark Completed (9) button. The 
+            sentence will no longer be presented for
+            annotation, but will be available under the
+            “completed” (12) tab on the Review page.  If the
+            Mark Completed button is not clicked, the
+            current sentence will appear as “in-progress” (11)
+            on the Review page and will remain in the
+            pool of sentences to be annotated. You can 
+            always go back to any sentence from the Review page. </p>
+            
+            <p>Click the Next Sentence (10) button to proceed.</p>
+
+            <h2>Constituency Tags</h2>
+            <p>For explanations of the parse tree node labels (constituency tags) see the following:</p>
+            <ul>
+                <li>
+                   <a href="http://surdeanu.cs.arizona.edu/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html">Penn Treebank II Constituent Tags</a> 
+                </li>
+                <li>
+                    <a href="https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/penn-etb-2-style-guidelines.pdf">Penn Treebank Guidelines</a>
+                </li>
+                <li>
+                   <a href="https://github.com/explosion/spaCy/blob/master/spacy/glossary.py">SpaCy Glossary</a> 
+                </li>
+            </ul>
+        </div>
+        <div class="col-9">
+            <img src="{{ url_for('static', filename='images/instructions.png') }}" style="width:100%; border:1px solid #ccc;">
+            <br><br>
+            <img src="{{ url_for('static', filename='images/instructions-profile.png') }}" style="width:100%; border:1px solid #ccc;">
+            <hr>
+            <ol class="two-columns">
+                <li>Parse tree with selectable nodes</li>
+                <li>Sentence to annotate</li>
+                <li>Annotation group</li>
+                <li>Annotation property</li>
+                <li>ChatGPT response</li>
+                <li>Annotation values</li>
+                <li>Add Property</li>
+                <li>Next Property</li>
+                <li>Mark Completed</li>
+                <li>Next Sentence</li>
+                <li>In-Progress</li>
+                <li>Completed</li>
+            </ol>
+        </div>
+    </div>
+    
+
+
+</div>
+{% endblock %}

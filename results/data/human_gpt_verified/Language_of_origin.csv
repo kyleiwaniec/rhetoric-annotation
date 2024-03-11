@@ -1,0 +1,635 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,annotator_consitency
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Latin/Greek'],True,[],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'conquest' can be traced back to Norman French, which is evident in the context of military conquests and the actions of a historical figure like Temur.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of the word 'exterminate' in the context of military conquest reflects the influence of Norman French, which contributed many military terms to the English language.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'tradition' in the context of 'the tradition of the Muslim doctors' comes from Norman French influence in English.""
+}",['Norman_French'],False,"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of the term 'conquest' in the text is an example of a word that came from Norman French, which is often associated with military terms and conquests.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of the word 'conquest' in the text is an example of a term associated with military endeavors that came from the Norman French language.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of the word 'exterminate' in the context of conquests reflects the influence of Norman French, which contributed many military terms to the English language.""
+}",['Norman_French'],1,['Norman_French'],
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,[],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Norman French""
+  ],
+  ""Explanation"": ""The text contains words from the Old English Core such as 'regard' and 'individuals', as well as a term associated with luxury that comes from Norman French, 'articulate'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'aberration' comes from Norman French, which is evident in the legal and military context in which it is used.""
+}",['Norman_French'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains simple and frequently used words like 'regard', 'him', 'big', 'role', 'later'.""
+}",['Old_English_Core'],True,"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core (e.g., 'regard', 'human', 'individuals'), Norman French (e.g., 'aberration', 'outstanding', 'following'), and Latin/Greek (e.g., 'articulate', 'emphasized').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core (e.g., 'regard', 'outstanding', 'individuals') and Latin/Greek (e.g., 'aberration', 'articulate', 'individuals').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains simple and frequently used words such as 'regard', 'outstanding', 'human being', 'commands', 'following', 'individuals', 'learned', 'articulate', 'plays', 'big', 'role', 'lives', 'thousands'. These words are part of the Old English core vocabulary.""
+}",['Old_English_Core'],0,"['Old_English_Core', 'Norman_French', 'Latin/Greek']",
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,[],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The use of 'Declaration of Independence' and 'signer' reflects the use of Latin/Greek terms, while 'the first', 'said' and 'of' are examples of Old English Core words.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The text contains simple and frequently used words commonly found in Old English Core language, such as 'John' and 'the'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English Core, such as 'the', 'of', and 'first', as well as words of Latin/Greek origin, such as 'Declaration', 'Independence', and 'signer'.""
+}","['Old_English_Core', 'Latin/Greek']",False,"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core, such as 'the', 'of', and 'the', as well as words derived from Latin/Greek, such as 'Declaration', 'Independence', and 'signer'.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core, such as 'the', 'of', 'the', 'first', and also includes words derived from Latin/Greek, such as 'Declaration', 'Independence', and 'signer'.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core, such as 'the', 'of', 'the', and also includes words derived from Latin/Greek, such as 'Declaration', 'Independence'.""
+}","['Old_English_Core', 'Latin/Greek']",1,"['Old_English_Core', 'Latin/Greek']",
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,"['Norman_French', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The sentence contains words from Old English Core ('they', 'had', 'shots', 'fired', 'from', 'the', 'and', 'placed') and Norman French ('front', 'rear').""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'shots fired' is likely of Norman French origin, as it relates to a military action or conflict.""
+}",['Norman_French'],"{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The sentence contains words from Old English Core such as 'they', 'had', 'shots', 'fired', 'from', 'the', 'and', 'placed', 'in', and 'the'. It also includes the Norman French term 'front' and the phrase 'rear' which has its origins in Norman French.""  
+}","['Old_English_Core', 'Norman_French']",True,"{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The sentence contains words from the Old English core ('they', 'had', 'shots', 'fired', 'from', 'the', 'and', 'in', 'the') and the Norman French ('front', 'placed', 'rear').""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The sentence contains words from the Old English core vocabulary ('they', 'had', 'shots', 'fired', 'from', 'the', 'and', 'in', 'the') as well as the Norman French word 'placed'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words from the Old English core ('they', 'had', 'shots', 'fired', 'from', 'the', 'and', 'placed', 'in', 'the') and the Norman French ('front', 'rear').""
+}","['Old_English_Core', 'Norman_French']",1,"['Old_English_Core', 'Norman_French']",
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words that are part of the Old English core (e.g., 'and', 'near', 'the') and also includes words derived from Latin (e.g., 'destroy', 'righteous', 'wicked').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core ('and', 'the', 'wilt', 'thou', 'also', 'with') and also includes the word 'destroy' which comes from Latin/Greek origins.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains words from Old English Core, such as 'drew', 'near', 'said', 'destroy', 'righteous', and 'wicked'.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('and', 'said') as well as words derived from Latin ('destroy', 'righteous', 'wicked').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English core (e.g., 'drew', 'near', 'said', 'destroy', 'righteous', 'wicked') as well as words derived from Latin/Greek (e.g., 'destroy', 'righteous', 'wicked').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, such as 'and', 'said', 'the', 'with'. These words are part of the Old English core."" 
+}",['Old_English_Core'],0,"['Old_English_Core', 'Latin/Greek']",
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,['Old_English_Core'],"{
+  ""Properties"": [
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The text contains simple and frequently used words that are part of the Old English core, such as 'be', 'city', 'place', 'that', 'are'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains Old English Core words like 'be', 'fifty', 'wilt', 'also' and Latin/Greek words like 'destroy', 'spare', 'place', 'righteous', and 'therein'.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The text contains simple and frequently used words in contemporary English, characteristic of Old English Core vocabulary.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('be', 'there', 'wilt', 'also') as well as words derived from Latin ('destroy', 'spare', 'place', 'righteous').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains words from Old English Core, such as 'be', 'fifty', 'the', 'city', 'wilt', 'also', 'destroy', 'not', 'place', 'are', 'therein'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('be', 'there', 'the') and also includes words derived from Latin ('city', 'destroy', 'place', 'also').""
+}","['Old_English_Core', 'Latin/Greek']",0,"['Old_English_Core', 'Latin/Greek']",
+10448,[],Anybody?,Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],True,['Old_English_Core'],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Norman French"",
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The text contains words that are part of the Old English core, such as 'peaceful' and 'pleasant'. It also includes terms of Norman French origin like 'hors d'oeuvre' and 'entrepreneur', and words of Latin/Greek origin like 'television' and 'technology'.""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [
+    ""Latin/Greek"",
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The text contains words from the Latin/Greek vernacular of the Church and Academe (e.g., 'vaccination') as well as words from the Old English Core (e.g., 'fast', 'travel').""
+}","['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text likely uses Old English Core due to the use of simple and frequently used words, Norman French due to the presence of terms associated with luxury, and Latin/Greek due to the inclusion of words commonly used in Academe.""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']",False,"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text uses words from Old English Core, Norman French, and Latin/Greek origins. For example, 'news' and 'text' are from Old English Core, 'linguist' is from Latin, and 'specializing' is from Norman French.""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English Core (e.g., 'news', 'text'), Norman French (e.g., 'linguist', 'specializing', 'contemporary'), and Latin/Greek (e.g., 'rhetoretician', 'linguist', 'specializing').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core, such as 'news' and 'text', as well as words from Norman French, such as 'linguist' and 'specializing', and words from Latin/Greek, such as 'rhetoretician' and 'linguist'.""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']",1,"['Old_English_Core', 'Norman_French', 'Latin/Greek']",
+320,[ 3 16],There will be no turning back.,Language_of_origin,['Old_English_Core'],['Old_English_Core'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'no turning back' consists of simple and frequently used words, which are characteristic of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'turning back' consists of simple and commonly used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words, which are characteristic of Old English core vocabulary.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words, which are characteristic of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words that are part of the Old English core, such as 'will', 'be', 'no', 'turning', and 'back'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words that are part of the Old English core, such as 'will', 'be', 'no', 'turning', and 'back'.""
+}",['Old_English_Core'],1,['Old_English_Core'],True
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Norman_French', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core""]
+}
+
+  ",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""]
+}
+
+ 	","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""]
+}
+  
+  ","['Old_English_Core', 'Norman_French', 'Latin/Greek']",False,"{
+  ""Properties"": [""Old English Core"", ""Norman French""]
+}
+
+  ","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""]
+}
+
+  ","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""]
+}
+
+  ","['Old_English_Core', 'Norman_French', 'Latin/Greek']",0,"['Old_English_Core', 'Norman_French']",False
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The text contains words from the Old English core (e.g., 'questions', 'body', 'given', 'fact', 'certain') as well as words derived from Latin/Greek (e.g., 'preliminary', 'autopsy', 'apparently', 'documentation').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The text contains words derived from Old English (e.g., 'body', 'even', 'given', 'certain') and Latin/Greek (e.g., 'questions', 'elements', 'report', 'mentioned', 'autopsy', 'apparently', 'odds', 'documentation').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of words like 'autopsy', 'preliminary', and 'documentation' indicates the presence of Latin/Greek origin in the text.""
+}",['Latin/Greek'],False,"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core (e.g., 'that', 'given', 'certain') and Latin/Greek (e.g., 'preliminary', 'autopsy', 'documentation').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains words derived from Latin, such as 'preliminary', 'autopsy', and 'documentation'. These words are commonly used in academic and formal contexts, indicating the influence of Latin on the language of origin.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core ('that', 'the', 'was', 'even', 'given', 'the') and Latin/Greek ('questions', 'body', 'elements', 'preliminary', 'police', 'report', 'mentioned', 'autopsy', 'apparently', 'odds', 'documentation').""
+}","['Old_English_Core', 'Latin/Greek']",0,"['Old_English_Core', 'Latin/Greek']",False
+5438,[],I wanted them to know that I listened.”,Language_of_origin,['Latin/Greek'],['Old_English_Core'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The example includes words from the Old English core, such as 'I' and 'to know'. These are among the simplest and most frequently used words in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words that are part of the Old English core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence uses simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],True,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],1,['Old_English_Core'],False
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains the Old English word 'Atlanta', which is a simple and frequently used word in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains the use of contemporary English words, indicating the presence of Old English Core property.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The mention of 'The Atlanta Journal-Constitution' is an indication that the Norman French property is used. The term 'journal' is derived from Norman French, which signifies that this language of origin is present in the example text.""
+}",['Norman_French'],False,"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of 'Constitution' in the name 'The Atlanta Journal-Constitution' likely reflects the influence of Norman French, as the term 'constitution' has legal and political origins associated with the Norman French conquest.""
+}",['Norman_French'],"{
+  ""Properties"": [""Old English Core""]
+  ,
+  ""Explanation"": ""The text contains no specific words or terms that can be attributed to Norman French or Latin/Greek origin. However, the use of 'The' and 'Atlanta' in the text are examples of words from the Old English core, which consists of the simplest and most frequently used words in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of 'The Atlanta Journal-Constitution' indicates the influence of Norman French, as 'journal' and 'constitution' are both words with Norman French origins.""
+}",['Norman_French'],0,['Norman_French'],False
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Norman_French']",,"['Norman_French', 'Old_English_Core']","{
+  ""Properties"": [""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The use of 'indicted', 'grand jury', 'premeditated', 'first-degree murder', and 'attempted first-degree murder' suggests the influence of Norman French in legal terminology as well as Latin/Greek in formal and academic expressions.""
+}","['Norman_French', 'Latin/Greek']","{
+  ""Properties"": [
+    ""Norman French""
+  ],
+  ""Explanation"": ""The term 'indicted' and legal terms such as 'grand jury', 'premeditated', 'first-degree', and 'murder' come from Norman French, indicating the influence of Norman French in legal terminology."" 
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The term 'formally' comes from Norman French, and the legal terms 'indicted', 'grand jury', 'premeditated', 'murder', and 'attempted' come from Norman French and Latin/Greek origins commonly found in legal terminology.""
+}","['Norman_French', 'Latin/Greek']",True,"{
+  ""Properties"": [""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The term 'indicted' comes from Norman French, and the legal and formal nature of the text suggests the influence of Norman French. Additionally, the use of 'premeditated', 'first-degree', 'murder', and 'attempted' indicates the influence of Latin/Greek, which are commonly used in legal terminology.""
+}","['Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The term 'indicted' comes from Norman French, and the legal terms 'premeditated', 'first-degree', 'murder', and 'attempted' come from Latin/Greek origins.""
+}","['Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The term 'indicted' comes from Norman French, and the terms 'premeditated', 'first-degree', and 'murder' come from Latin/Greek origins.""
+}","['Norman_French', 'Latin/Greek']",1,"['Norman_French', 'Latin/Greek']",False
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Language_of_origin,['Latin/Greek'],['Old_English_Core'],['Old_English_Core'],,[],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The name 'Donald Trump' is of Norman French origin. The Norman French influence can be seen in many legal and political terms used in English, such as 'guilty', 'parliament', and 'government'.""
+}",['Norman_French'],"{
+  ""Properties"": [""Old English Core"",""Norman French""],
+  ""Explanation"": ""The tweet doesn't contain any specific linguistic features or vocabulary to suggest the use of Latin/Greek origin words. However, it is likely to include words from the Old English core due to its simplicity and frequency of use. It may also include terms from Norman French, especially if it refers to legal or military matters."" 
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The tweet does not contain any legal, military, or academic terminology associated with Norman French, nor does it contain technical terms derived from Latin or Greek. Instead, it consists of simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The tweet contains simple and frequently used words in contemporary English, which aligns with the Old English Core property.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The tweet contains simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The tweet contains simple and frequently used words in contemporary English, which aligns with the Old English Core property.""
+}",['Old_English_Core'],1,['Old_English_Core'],False
+13573,[],I am not a fan of Donald Trump.,Language_of_origin,['Latin/Greek'],['Old_English_Core'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists solely of simple, frequently used words in contemporary English, which are characteristic of the Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words, which are characteristic of the Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains words from Old English core: 'not', 'fan'. These are simple and frequently used words in contemporary English.""
+}",['Old_English_Core'],True,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, which are characteristic of the Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words in contemporary English, which aligns with the Old English Core property.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words in contemporary English, which aligns with the Old English Core property.""
+}",['Old_English_Core'],1,['Old_English_Core'],False
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('since', 'are', 'at', 'least', 'that') and words derived from Latin/Greek ('currently', 'considering', 'passing').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains words of Old English origin, such as 'and', 'since', 'there', 'are', 'at', 'least', 'that', 'are', 'currently', 'laws'. These are core and frequently used words in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words in contemporary English such as 'since', 'there', 'are', 'at', 'least', 'additional', 'states', 'considering', 'passing', 'laws'.""
+}",['Old_English_Core'],True,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains words from the Old English core, such as 'and', 'are', 'at', 'that', 'are', 'passing'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('since', 'are', 'at', 'least', 'that', 'are') and also includes words of Latin origin ('currently', 'considering', 'passing').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words such as 'since', 'are', 'at', 'least', 'that', 'are', 'currently', 'passing', 'laws'.""
+}",['Old_English_Core'],0,['Old_English_Core'],False
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of the Latin term 'vocations' in the context of religious life indicates the presence of Latin origin in the text.""
+}",['Latin/Greek'],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The text includes words derived from the Old English core ('told', 'them', 'our') and also uses words stemming from Latin/Greek ('congregation', 'representative', 'contemplative', 'challenge', 'globalization', 'irrelevancy', 'vocations', 'monasteries').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains Latin-derived words such as 'contemplative', 'globalization', 'irrelevancy', 'vocations', and 'obsession', which are associated with the vernacular of the Church and Academe.""
+}",['Latin/Greek'],False,"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains words of Latin origin such as 'contemplative', 'globalization', 'irrelevancy', 'vocations', 'monasteries', and 'Congregation'. These words are commonly used in ecclesiastical and academic contexts, reflecting the influence of Latin on the English language.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of words like 'contemplative', 'globalization', 'irrelevancy', 'vocations', and 'monasteries' indicates the presence of Latin/Greek origin in the text.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains words derived from Latin, such as 'contemplative', 'globalization', 'irrelevancy', 'vocations', 'monasteries', and 'Congregation'. These words are commonly used in ecclesiastical and academic contexts, indicating the influence of Latin on the language used in the news text.""
+}",['Latin/Greek'],1,['Latin/Greek'],False
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The phrase 'what to do' is an example of the Old English core, while the usage of 'politician' and 'defends' demonstrates the influence of Norman French in legal and political terminology.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core""]
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains the use of simple and frequently used words such as 'can't', 'decide', 'what', 'do', 'about', 'a', 'who', 'and', 'the'. These words are part of the Old English Core."" 
+}",['Old_English_Core'],True,"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('seriously', 'can't', 'decide'), Norman French ('politician', 'defends', 'raises'), and Latin/Greek ('Hitler-lover', 'Jewish', 'Question').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core ('seriously', 'can't', 'decide'), Norman French ('politician', 'defends', 'raises'), and Latin/Greek ('Hitler-lover', 'Jewish', 'Question').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words of Old English origin ('seriously', 'can't', 'decide') as well as words of Norman French origin ('politician', 'defends', 'raises').""
+}","['Old_English_Core', 'Norman_French']",0,"['Old_English_Core', 'Norman_French', 'Latin/Greek']",False
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'defended' comes from Norman French, which has influenced legal and military terminology in English.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of the term 'defended' in the context of legal or political discourse can be traced back to Norman French influence on English language, as it relates to legal terminology and concepts.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The word 'defended' is of Norman French origin, which is a common source for legal and military terms.""
+}",['Norman_French'],False,"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'defended' is of Norman French origin, which is commonly used in legal and military contexts.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'defended' is of Norman French origin, which is commonly used in legal and military contexts.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The term 'defended' is of Norman French origin, which is commonly used in legal and military contexts.""
+}",['Norman_French'],1,['Norman_French'],False
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'neither lefties nor stupid' contains simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+    ""Properties"": [""Norman French""],
+    ""Explanation"": ""The phrase 'Ni zurdos, ni tontos' contains the Norman French-derived word 'ni' (meaning 'neither').""
+}",['Norman_French'],"{
+  ""Properties"": [
+    ""Norman French""
+  ],
+  ""Explanation"": ""The phrase 'Ni zurdos, ni tontos' includes the word 'tontos' which has its origin in Norman French (tun(t)) and was later part of the Spanish language.""
+}",['Norman_French'],False,"{
+  ""Properties"": [
+    ""Norman French""
+  ],
+  ""Explanation"": ""The phrase 'Ni zurdos, ni tontos' contains the word 'ni' which is derived from Norman French, indicating the influence of Norman French in the language of origin.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The phrase 'Ni zurdos, ni tontos' contains the word 'ni' which is derived from Norman French. The Norman French influence on the Spanish language is reflected in the use of 'ni' to mean 'nor' or 'neither'.""
+}",['Norman_French'],"{
+  ""Properties"": [
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The phrase 'Ni zurdos, ni tontos' consists of simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],0,['Norman_French'],False
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of 'foreign-born' and 'native-born', both derived from Latin roots, indicates the presence of Latin/Greek influence in the text.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The word 'calculated' is derived from Latin (calculatus), which indicates the presence of Latin/Greek language of origin in the text.""
+}",['Latin/Greek'],"{
+  ""Properties"": [
+    ""Latin/Greek"",
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The text uses the Latin-derived acronym 'VDAWDI' and the Old English core words 'New' and 'employment'.""
+}","['Latin/Greek', 'Old_English_Core']",False,"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of 'foreign-born' and 'native-born' in the text indicates the presence of Latin/Greek origin, as 'foreign' and 'native' are derived from Latin.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of 'foreign-born' and 'native-born' in the text indicates the presence of Latin-derived words, as 'foreign' and 'native' both come from Latin roots.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of 'foreign-born' and 'native-born' in the text indicates the presence of Latin/Greek origin in the language used.""
+}",['Latin/Greek'],1,['Latin/Greek'],False
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""]
+}
+
+  
+
+
+  
+
+  
+     ",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""]
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""]
+  ,
+  ""Explanation"": ""The phrase 'to call them' and 'their moral superiority' consist of simple and frequently used words in contemporary English, indicating the use of the Old English Core property.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core""]
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'to call them' and 'their moral superiority' contain words from the Old English core, which consists of the simplest and most frequently used words in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'to call them' and 'their moral superiority' contain words from the Old English core, which consists of the simplest and most frequently used words in contemporary English.""
+}",['Old_English_Core'],1,['Old_English_Core'],False
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of 'allow' in this context can be traced back to Norman French influence on legal terminology in English, where it denotes permission or authorization.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The language of origin property 'Norman French' is present in the text through the word 'receive'. The word 'receive' has its origins in Norman French.""
+}",['Norman_French'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of legal and financial terms like 'fund' and 'receive' suggests the influence of Norman French on the English language, particularly in the realm of legal and financial terminology.""
+}",['Norman_French'],False,"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of 'allow' in the sentence is a legal term, which is derived from Norman French.""
+}",['Norman_French'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The sentence contains words of Latin origin such as 'allow', 'send', 'receive', and 'funds'. These words are commonly used in modern English and derive from Latin.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Norman French""],
+  ""Explanation"": ""The use of 'allow' in the context of legal or regulatory restrictions is a term associated with Norman French origin.""
+}",['Norman_French'],0,['Norman_French'],False
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The sentence contains words from Old English core ('insistence') and Latin ('defends').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The word 'insistence' in the given text is derived from Latin. It demonstrates the influence of Latin on contemporary English vocabulary.""
+}",['Latin/Greek'],"{
+  ""Properties"": [
+    ""Latin/Greek""
+  ],
+  ""Explanation"": ""The word 'insistence' and 'defends' have Latin origins, deriving from the Latin 'insistere' and 'defendere' respectively.""
+}",['Latin/Greek'],False,"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The word 'insistence' is derived from Latin, which is a common source of words in contemporary English.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The word 'insistence' is derived from Latin, which is a property of Language of origin.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The word 'insistence' is derived from Latin, which is a property of Language of origin.""
+}",['Latin/Greek'],1,['Latin/Greek'],False
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of words like 'testimony', 'relations', 'defense' and 'devastating' are derived from Latin/Greek origin.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text includes words from the Old English core ('telling', 'friendly'), Norman French ('testimony', 'relations', 'defense'), and Latin/Greek ('concerning', 'devastating', 'testimony').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of words like 'testimony', 'relations', 'defense' and 'devastating' all originate from Latin/Greek, indicating the presence of this language origin property.""
+}",['Latin/Greek'],True,"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The use of words like 'testimony', 'relations', 'defense' and 'devastating' indicates the influence of Latin/Greek in the text.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains words deriving from Latin such as 'testimony', 'relations', 'defense'.""
+}",['Latin/Greek'],"{
+  ""Properties"": [""Latin/Greek""],
+  ""Explanation"": ""The text contains words derived from Latin, such as 'testimony', 'relations', 'defense'.""
+}",['Latin/Greek'],1,['Latin/Greek'],False
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English Core ('ordinary', 'friendly'), Norman French ('alleged', 'Mafia'), and Latin/Greek ('belief', 'remain', 'terms', 'alleged', 'brains').""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core such as 'ordinary' and 'friendly', as well as words of Latin origin like 'alleged' and 'brains'.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English Core such as 'belief', 'ordinary', as well as Latin/Greek words like 'alleged', 'brains', 'Mafia'.""
+}","['Old_English_Core', 'Latin/Greek']",False,"{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('belief', 'ordinary', 'people', 'years', 'hearing', 'reading', 'remain', 'friendly', 'terms', 'alleged', 'brains') as well as terms of Norman French origin ('alleged', 'Mafia'). Additionally, the text includes the Latin/Greek-derived term 'Mafia'.""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core such as 'belief', 'ordinary', 'people', 'years', 'hearing', 'reading', 'friendly', 'terms', 'men', 'like'. It also includes Latin-derived words like 'alleged', 'brains', 'Mafia'.""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Norman French"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English Core (ordinary, friendly), Norman French (alleged, Mafia), and Latin/Greek (belief, remain, terms, brains).""
+}","['Old_English_Core', 'Norman_French', 'Latin/Greek']",0,"['Old_English_Core', 'Norman_French', 'Latin/Greek']",False
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,"['Latin/Greek', 'Old_English_Core']","{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains words from the Old English core, such as 'history', 'nature', 'current'. These are simple and frequently used words in contemporary English.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English Core ('much', 'nature') as well as Latin/Greek ('pontificate', 'contemplatives').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words with Old English origins like 'modern', 'history', and 'nature', as well as words with Latin origins like 'pontificate' and 'contemplatives'.""
+}","['Old_English_Core', 'Latin/Greek']",False,"{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('nature', 'much', 'current') and also includes words derived from Latin ('pontificate', 'contemplatives').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from the Old English core ('much', 'nature') as well as words derived from Latin ('pontificate', 'contemplatives').""
+}","['Old_English_Core', 'Latin/Greek']","{
+  ""Properties"": [""Old English Core"", ""Latin/Greek""],
+  ""Explanation"": ""The text contains words from Old English core ('much', 'nature') and Latin/Greek ('pontificate', 'contemplatives').""
+}","['Old_English_Core', 'Latin/Greek']",1,"['Old_English_Core', 'Latin/Greek']",False
+4318,[14],Kill the Messenger,Language_of_origin,[],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Norman French""
+  ],
+  ""Explanation"": ""The phrase 'Kill the Messenger' contains both Old English words 'kill' and 'the', as well as the Norman French word 'messenger'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [
+    ""Old English Core""
+  ],
+  ""Explanation"": ""The title 'Kill the Messenger' uses simple and frequently used words in contemporary English, which aligns with the Old English Core property.""
+}",['Old_English_Core'],"{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Norman French""
+  ],
+  ""Explanation"": ""The title 'Kill the Messenger' utilizes the Old English core word 'kill' and the Norman French word 'messenger'.""
+}","['Old_English_Core', 'Norman_French']",True,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' consists of simple and frequently used words in contemporary English, indicating the presence of the Old English Core property.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' consists of simple and frequently used words in contemporary English, indicating the presence of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' contains words from the Old English core ('kill', 'the') and the Norman French ('messenger').""
+}","['Old_English_Core', 'Norman_French']",0,['Old_English_Core'],False
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",Language_of_origin,['Latin/Greek'],['Latin/Greek'],['Old_English_Core'],,['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence uses simple and frequently used words such as 'trust', 'very', 'few', 'politician', 'party', and 'claim'. These words are part of the Old English core vocabulary.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The text contains simple and frequently used words from Old English, such as 'trust', 'very', 'few', 'politicians', 'party', and 'claim'.""
+}",['Old_English_Core'],False,"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, such as 'trust', 'very', 'few', 'politicians', 'party', and 'claim'.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence consists of simple and frequently used words in contemporary English, indicating the use of Old English Core.""
+}",['Old_English_Core'],"{
+  ""Properties"": [""Old English Core""],
+  ""Explanation"": ""The sentence contains simple and frequently used words in contemporary English, such as 'trust', 'very', 'few', 'politicians', 'party', and 'claim'.""
+}",['Old_English_Core'],1,['Old_English_Core'],False
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Language_of_origin,['Old_English_Core'],['Latin/Greek'],"['Old_English_Core', 'Latin/Greek']",,[],"{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words of Old English origin such as 'speech', 'among', 'few' and 'following', as well as terms of Norman French origin such as 'anchor', 'elected', and 'officials'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words with Old English core, such as 'speech', 'began', 'few', 'larger', and 'meeting'. Additionally, the term 'elected officials' may be associated with Norman French influence, as 'officials' is a word of Norman French origin.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [
+    ""Old English Core"",
+    ""Norman French""
+  ],
+  ""Explanation"": ""The example uses words of Old English origin such as 'speech', 'few', 'out', 'it, and 'much'. It also contains terms of Norman French origin like 'leader', 'following', and 'officials'.""
+}","['Old_English_Core', 'Norman_French']",False,"{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words of Old English origin such as 'speech', 'few', 'others', 'larger', and 'following'. It also includes a term of Norman French origin, 'elected officials'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words of Old English origin such as 'speech', 'few', 'others', 'larger', and Norman French origin such as 'anchor', 'quotes', 'larger', 'following', 'officials'.""
+}","['Old_English_Core', 'Norman_French']","{
+  ""Properties"": [""Old English Core"", ""Norman French""],
+  ""Explanation"": ""The text contains words of Old English origin such as 'speech', 'few', 'others', 'larger', and 'following'. It also includes a term of Norman French origin, 'elected officials'.""
+}","['Old_English_Core', 'Norman_French']",1,"['Old_English_Core', 'Norman_French']",False

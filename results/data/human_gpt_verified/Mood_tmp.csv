@@ -1,0 +1,1285 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""subjunctive"", ""optative""],
+  ""Explanation"": ""The use of 'perhaps' expresses a hypothetical situation, qualifying the statement as subjunctive. The phrase 'should also be considered sooner rather than later' expresses a wish or hope, making it optative.""
+}","['subjunctive', 'optative']","{
+  ""Properties"": [""subjunctive"", ""exclamatory""],
+  ""Explanation"": ""The use of 'perhaps', 'should', 'before' and the expression 'before this crisis gets any more out-of-control than it already is' indicate a hypothetical or possible scenario, suggesting the use of the subjunctive mood. Additionally, the expression 'perhaps the unprecedented step' expresses a sense of surprise or strong emotion, suggesting the use of the exclamatory mood.""
+}","['subjunctive', 'exclamatory']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'should' and 'before' indicate a subjunctive mood expressing a hypothetical or possible action. The phrase 'should also be considered' is an imperative mood indicating a directive or suggestion.""
+}","['subjunctive', 'imperative']",False,"{
+  ""Properties"": [""subjunctive"", ""optative""],
+  ""Explanation"": ""The use of 'perhaps' and 'should' indicates a hypothetical or possible situation (subjunctive mood), and the phrase 'before this crisis gets any more out-of-control than it already is' expresses a wish (optative mood).""
+}","['subjunctive', 'optative']","{
+  ""Properties"": [""subjunctive"", ""optative""],
+  ""Explanation"": ""The use of 'perhaps' and 'should' indicates a hypothetical or possible situation, suggesting the use of the subjunctive mood. The phrase 'before this crisis gets any more out-of-control than it already is' expresses a wish, indicating the optative mood.""
+}","['subjunctive', 'optative']","{
+  ""Properties"": [""subjunctive"", ""optative""],
+  ""Explanation"": ""The use of 'perhaps' and 'should' indicates a hypothetical or possible scenario (subjunctive), and the expression 'before this crisis gets any more out-of-control than it already is' expresses a wish (optative).""
+}","['subjunctive', 'optative']",1,"['subjunctive', 'optative']"
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text expresses a simple statement of fact or opinion, without any hypothetical or imagined scenarios, making use of indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'urging' and 'is' implies a suggestion or recommendation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact about Chris Bryant's actions and the statement made by a senior Labour MP.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion about Chris Bryant's action. It also includes an imperative mood to convey the urging or command for Theresa May to take a specific action.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging' and 'issue an official ban' indicates the subjunctive mood, expressing a suggestion and a demand. Additionally, the phrase 'has said' implies an imperative mood, conveying a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains the subjunctive mood in the form of a suggestion or recommendation ('urging her to go further, and issue an official ban on Donald Trump from entering the UK'). It also includes the imperative mood in the form of a directive ('has written to May urging her to go further').""
+}","['subjunctive', 'imperative']",0,"['subjunctive', 'imperative']"
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of a fact (indicative) and includes a directive or command to obey (imperative).""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion ('the meekest man alive was sent to the face of the Pharaoh') and also contains a command or directive ('to tell him to obey or else').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence uses the indicative mood to express a simple statement of fact, and the imperative mood to give a command.""
+}","['indicative', 'imperative']",True,"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also contains a command or directive (imperative) to obey the Pharaoh.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence contains indicative mood to express a simple statement of fact, and imperative mood to give a command or directive.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also contains a command or directive (imperative) to obey the Pharaoh.""
+}","['indicative', 'imperative']",1,"['indicative', 'imperative']"
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'when' and 'it will be too late' indicates a hypothetical or imagined situation, expressing what is possible or anticipated.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The sentence expresses a hypothetical situation of Kavanaugh being on the Supreme Court and its potential consequences, making use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'when' indicates a hypothetical or possible future scenario, suggesting the use of subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'when' and 'it will be too late' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'when' and 'it will be too late' expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'when' and 'it will be too late' expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible situation, expressing what is imagined or hypothetical.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive"", ""indicative""],
+  ""Explanation"": ""The statement expresses a hypothetical or possible situation ('a gird failure would...') and also presents a simple statement of fact ('it's always good to be prepared just in case').""
+}","['subjunctive', 'indicative']","{
+  ""Properties"": [""subjunctive"", ""indicative""],
+  ""Explanation"": ""The sentence contains the subjunctive mood 'would' expressing a hypothetical situation, as well as the indicative mood 'is' expressing a simple statement of fact.""
+}","['subjunctive', 'indicative']",False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' in 'A grid failure would almost immediately fling the United States into a state of panic' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'just in case' indicates a hypothetical or possible situation, which aligns with the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' and 'just in case' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is going to be mimicked' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The statement expresses a hypothetical or possible situation, as well as a suggestion or recommendation, using the verb 'is going to be mimicked' in a conditional form.""
+}",['subjunctive'],"{
+  ""Properties"": [""exclamatory"", ""interrogative""],
+  ""Explanation"": ""The text contains an exclamatory statement expressing strong emotion with 'extremely dangerous', and an interrogative asking a question with 'you know, the last appeal'.""
+}","['exclamatory', 'interrogative']",False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is going to be mimicked' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is going to be mimicked' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is going to be mimicked' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would be' expresses what is imagined or hypothetical, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains indicative mood to express a simple statement of fact ('the claims are intriguing'). It also contains subjunctive mood to express what is hypothetical or possible ('it is important to remember that after virtually every terror attack...some outright denying it to be possible').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'it is important to remember' and 'with some outright denying it to be possible' indicate a hypothetical or possible scenario, which aligns with the use of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('the claims are intriguing') and the subjunctive mood to express what is imagined or hypothetical ('it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('the claims are intriguing') and the subjunctive mood to express what is hypothetical or possible ('with some outright denying it to be possible').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains indicative mood to express a simple statement of fact or opinion ('the claims are intriguing') and subjunctive mood to express what is imagined or hypothetical ('with some outright denying it to be possible').""
+}","['indicative', 'subjunctive']",1,"['indicative', 'subjunctive']"
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative command 'go whine' directed at a specific group of people.""
+}",['imperative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion, indicating what is the case.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example uses indicative mood to express a simple statement of fact or opinion.""
+}",['indicative'],False,"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'can' indicates a subjunctive mood, expressing a hypothetical or possible situation. The phrase 'they can go whine' also contains an imperative mood, giving a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact ('the Jewish community won't let them burn crosses on their lawn') and also contains a directive ('they can go whine to the New York Times').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can' in 'they can go whine' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],0,"['subjunctive', 'imperative']"
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains indicative mood to express a fact or opinion, and imperative mood to convey a directive or command.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, expressing a command or directive to the American Medical Association (AMA) to consider changing their name.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it includes a command or directive to the American Medical Association.""
+}",['imperative'],False,"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'should' in 'AMA should seriously consider' indicates a suggestion or recommendation, which is in the subjunctive mood. Additionally, the phrase 'consider changing their names' is an imperative, expressing a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, as it includes a command or directive for the American Medical Association to consider changing their name.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it includes a directive or command to the American Medical Association to consider changing their name.""
+}",['imperative'],0,['imperative']
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible scenario, which corresponds to the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could not' expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible situation, suggesting a condition or a hypothetical action, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could not' expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple fact or opinion without any hypothetical or imaginary elements, suggestions, wishes, or commands. It is a straightforward assertion of a belief.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of a fact or opinion, making it indicative. Additionally, the exclamation conveys a sense of strong emotion, making it exclamatory as well.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement is expressing a simple opinion or belief without any condition or hypothetical scenario, making use of the indicative mood.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The statement expresses a simple opinion ('you believe') and also includes a directive ('don't believe'). Therefore, it uses both the indicative and imperative mood.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple opinion or belief without any hypothetical or imagined scenarios, exclamations, commands, wishes, or questions."" 
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The statement expresses a simple opinion ('you believe') and also includes a directive ('don't believe'). Therefore, it uses the indicative and imperative mood.""
+}","['indicative', 'imperative']",0,"['indicative', 'imperative']"
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' indicates a hypothetical or possible situation, qualifying for the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is not' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is not' expresses a hypothetical or alternative situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' and 'might' indicates a hypothetical or possible scenario, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' and 'might' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' and 'might' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains a command or directive, urging the audience to make a choice between two options.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence is commanding or directing the reader to make a choice between standing with certain groups or with Jews.""
+}",['imperative'],"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The statement presents a hypothetical situation and also includes a directive or command to choose a side.""
+}","['subjunctive', 'imperative']",False,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains a directive or command, urging the reader to choose a side.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is a command or directive to the reader to make a choice between two options.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains a directive or command, urging the reader to make a choice between two options.""
+}",['imperative'],1,['imperative']
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Mood,['indicative'],['indicative'],['indicative'],True,"['interrogative', 'indicative']","{
+  ""Properties"": [
+    ""imperative""
+  ],
+  ""Explanation"": ""The statement contains an imperative mood as it is giving a directive or command to 'destroy this guy's life' and 'hold this seat open'.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains an imperative mood, as it is giving a command or directive to destroy the guy's life, hold the seat open, and hope to win in 2020.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains an imperative mood as the speaker is giving a command or directive to the Democrat Senators.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it is giving a command or directive to destroy the guy's life, hold the seat open, and hope for a win in 2020.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it is giving a command or directive to the Democrat Senators.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it expresses a command or directive to destroy the guy's life, hold the seat open, and hope for a win in 2020.""
+}",['imperative'],1,['imperative']
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'shall' and 'will' in the sentence expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'means' and 'will' indicate a hypothetical or possible situation, qualifying the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text is expressing a simple statement of a fact or opinion about the meaning of blessing.""
+}",['indicative'],False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'shall' and 'will' indicates a hypothetical or possible situation, making it subjunctive.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'means' and 'will' express a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'means' and 'will' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The example uses the subjunctive mood to express a hypothetical situation ('it could refuse to grant Trump what he wanted') and what is imagined ('which it knew would point to the CIA’s guilt in the assassination').""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible scenario, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible scenario, indicating the use of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible scenario, which aligns with the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible scenario, which aligns with the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible scenario, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses what is required or demanded based on a hypothetical or imagined situation, using the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The statement expresses a fact or opinion without any suggestion, wish, doubt, command, or question, fitting the definition of indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The sentence uses the indicative mood to express a fact about the requirement for Muslims, as well as the subjunctive mood to express what is imagined or hypothetical.""
+}","['indicative', 'subjunctive']",False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'are required' expresses a requirement or demand, which falls under the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion, indicating the belief or requirement for Muslims to wage war until there is no religion other than that of Allah.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'are required' expresses a requirement or demand, which falls under the subjunctive mood.""
+}",['subjunctive'],0,['subjunctive']
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Mood,['indicative'],['indicative'],['indicative'],True,"['indicative', 'optative']","{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The use of 'I hope' expresses a wish, indicating the optative mood.""
+}",['optative'],"{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The text contains an expression of hope ('I hope the story turns out true'), indicating the use of the optative mood.""
+}",['optative'],"{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The text contains an expression of wish, as the author hopes for a certain outcome.""
+}",['optative'],True,"{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The use of 'I hope' expresses a wish, making it an optative mood.""
+}",['optative'],"{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The use of 'I hope' expresses a wish, making it an optative mood.""
+}",['optative'],"{
+  ""Properties"": [""optative""],
+  ""Explanation"": ""The use of 'I hope' expresses a wish, indicating the optative mood.""
+}",['optative'],1,['optative']
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [
+    ""interrogative""
+  ],
+  ""Explanation"": ""The statement contains an interrogative mood as it is asking a question.""
+}",['interrogative'],"{
+  ""Properties"": [
+    ""interrogative""
+  ],
+  ""Explanation"": ""The sentence contains an interrogative mood, as it is asking a question.""
+}",['interrogative'],"{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The text contains an interrogative mood because it is asking a question.""
+}",['interrogative'],True,"{
+  ""Properties"": [
+    ""interrogative""
+  ],
+  ""Explanation"": ""The statement contains an interrogative mood as it is asking a question.""
+}",['interrogative'],"{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The sentence contains an interrogative mood as it is asking a question.""
+}",['interrogative'],"{
+  ""Properties"": [
+    ""interrogative""
+  ],
+  ""Explanation"": ""The sentence contains an interrogative mood as it is asking a question.""
+}",['interrogative'],1,['interrogative']
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple fact or opinion about the existence of questions regarding the identity of the body, making use of indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion.""
+}",['indicative'],"{
+  ""Properties"": [
+    ""interrogative"",
+    ""indicative""
+  ],
+  ""Explanation"": ""The text contains an interrogative sentence asking a question ('whether the body was even that of Stephen Paddock'). Additionally, the majority of the text is written in the indicative mood, expressing a simple statement of fact or opinion.""
+}","['interrogative', 'indicative']",False,"{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion, as well as the interrogative mood to ask a question.""
+}","['indicative', 'interrogative']","{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion, and the interrogative mood to ask a question.""
+}","['indicative', 'interrogative']","{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The text contains an interrogative mood as it asks a question about the identity of the body and the consistency of information in the police report.""
+}",['interrogative'],0,"['indicative', 'interrogative']"
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can' and 'be' in the sentence indicates a hypothetical or imagined situation, making it subjunctive.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can' and 'be' indicates a hypothetical or imagined situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence uses 'can be said,' expressing what is imagined or hypothetical.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can be' indicates a hypothetical or imagined situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can be' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion about his four years of sanctimony and incompetence.""
+}",['indicative'],0,['subjunctive']
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical situation, expressing what is imagined or hypothetical, making it subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible scenario, making it a clear example of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive"", ""indicative""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible situation, suggesting the use of the subjunctive mood. Additionally, the statement expresses a simple statement of fact or opinion, indicating the indicative mood.""
+}","['subjunctive', 'indicative']",False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible situation, making it an example of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible situation, making it subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible situation, making it subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative form, as it is giving a directive or command.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains a directive or command to 'call them nativists and parade their moral superiority.'""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence is giving a directive or command to 'call them nativists' and 'parade their moral superiority'.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it is giving a directive or command to 'call them nativists' and 'parade their moral superiority'.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a directive or command to 'call them nativists and parade their moral superiority.'""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a command or directive to 'call them nativists and parade their moral superiority.'""
+}",['imperative'],1,['imperative']
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Mood,['indicative'],['indicative'],['indicative'],True,"['imperative', 'indicative']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, as it includes a command or directive to Attorney General Jeff Sessions.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, commanding Attorney General Jeff Sessions to stop the Rigged Witch Hunt.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative, as it includes a directive or command calling for a specific action from Attorney General Jeff Sessions.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it includes a command or directive to Attorney General Jeff Sessions to stop the Rigged Witch Hunt.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains an imperative mood, as it includes a command or directive to Attorney General Jeff Sessions to stop the 'Rigged Witch Hunt' right now.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a command or directive to Attorney General Jeff Sessions.""
+}",['imperative'],1,['imperative']
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it is giving a directive or command to the leaders in Washington.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The example contains an imperative mood, as it is giving a directive or command to the leaders in Washington.""
+}",['imperative'],"{
+  ""Properties"": [
+    ""imperative""
+  ],
+  ""Explanation"": ""The sentence contains an imperative verb 'follow' which is a command or directive.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a command or directive to the leaders in Washington.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a directive or command to the leaders in Washington.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a command or directive to the leaders in Washington.""
+}",['imperative'],1,['imperative']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative command, 'This will be a final victory over the enemies within and their apologists,' directing action or making a demand.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative sentence, as it includes a command or directive to 'defend' something.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement 'This will be a final victory over the enemies within and their apologists' is an imperative, expressing a command or directive.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, commanding action or directive, as it calls for action against the enemies within and their apologists.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, commanding action or directive, as it calls for action against the enemies within and their apologists.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a command or directive to focus on the destructive Radical Islamic Terrorism.""
+}",['imperative'],1,['imperative']
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion, indicating a belief about Assange's future in prison.""
+}",['indicative'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement expresses strong emotion and surprise, indicating an exclamatory mood.""
+}",['exclamatory'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple fact or opinion about Assange's situation, indicating the use of the indicative mood.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact ('Assange is going to make a nice bride in prison') and also conveys a tone of strong emotion or surprise, making it both indicative and exclamatory.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence is in the indicative mood as it expresses a simple statement of fact. It is also exclamatory as it expresses strong emotion or surprise.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple fact or opinion about Assange's future in prison.""
+}",['indicative'],0,"['indicative', 'exclamatory']"
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a statement of fact ('Corbyn or Assange threaten to disrupt the entrenched neoliberal order') and includes a directive or command ('certainly not').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example uses the indicative mood to express a simple statement of fact or opinion about the current situation.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion about Corbyn and Assange disrupting the neoliberal order.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The sentence expresses a statement of fact ('Corbyn or Assange threaten to disrupt the entrenched neoliberal order') and also expresses a hypothetical or imagined situation ('hurtling us towards climate breakdown and economic collapse').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion about Corbyn and Assange threatening to disrupt the neoliberal order.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also contains a directive or command (imperative) to not focus on certain individuals.""
+}","['indicative', 'imperative']",0,"['indicative', 'subjunctive']"
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'going to' and 'are going to' expresses what is hypothetical or possible, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""subjunctive"",
+    ""indicative""
+  ],
+  ""Explanation"": ""The use of 'are going to' expresses a sense of what is imagined or possible (subjunctive mood), while the rest of the sentence is expressing a simple statement of fact or opinion (indicative mood).""
+}","['subjunctive', 'indicative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'are going to' expresses a possibility or hypothetical situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'are going to' expresses a sense of what is imagined or hypothetical, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion about what will happen when something is coming up and down or from a different angle.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'are going to' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],0,['subjunctive']
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Mood,['indicative'],['indicative'],['indicative'],True,"['imperative', 'indicative']","{
+  ""Properties"": [
+    ""indicative"",
+    ""imperative""
+  ],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact, and the imperative mood to issue a command or directive.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The statement 'my administration has and will continue to move aggressively to repeal any efforts' uses the indicative mood to express a simple statement of fact. The phrase 'we will stop it, we will repel it' uses the imperative mood to give a directive or command.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [
+    ""indicative"",
+    ""imperative""
+  ],
+  ""Explanation"": ""The statement uses the indicative mood to express a fact or opinion about the administration's actions. It also includes imperative mood to issue a command or directive to 'stop it' and 'repel' any efforts to interfere in the elections.""
+}","['indicative', 'imperative']",True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The use of 'we will stop it' and 'we will repel it' indicates the imperative mood, expressing commands or directives.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains the imperative mood, as it includes a command or directive to 'stop it' and 'repel it'.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The use of 'we will stop it' and 'we will repel it' expresses a directive or command, indicating the use of the imperative mood.""
+}",['imperative'],1,['imperative']
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Mood,['indicative'],['indicative'],['indicative'],True,"['imperative', 'indicative']","{
+  ""Properties"": [
+    ""subjunctive"",
+    ""imperative""
+  ],
+  ""Explanation"": ""The use of 'may soon avail themselves' expresses a hypothetical or possible situation, indicating the use of subjunctive mood. Additionally, the use of 'I ask that they reflect' is a directive or command, indicating the use of imperative mood.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [
+    ""imperative"",
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The use of 'reflect' in 'I ask that they reflect on that before they comment' indicates the imperative mood, conveying a directive. The phrase 'they may soon avail themselves of the presumption of innocence beyond a reasonable doubt' indicates the subjunctive mood, expressing a possibility or hypothetical situation.""
+}","['imperative', 'subjunctive']","{
+  ""Properties"": [
+    ""imperative"",
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The text contains an imperative mood in the form of a polite request, 'I ask that they reflect on that before they comment or disparage the results of this case.' Additionally, the use of 'may' in 'and they may soon avail themselves' indicates the subjunctive mood expressing a possibility or hypothetical situation.""
+}","['imperative', 'subjunctive']",False,"{
+  ""Properties"": [""imperative"", ""subjunctive""],
+  ""Explanation"": ""The text contains an imperative command 'reflect on that' and also expresses a hypothetical or possible situation using the subjunctive mood 'they may soon avail themselves'.""
+}","['imperative', 'subjunctive']","{
+  ""Properties"": [""imperative"", ""subjunctive""],
+  ""Explanation"": ""The text contains an imperative mood with the use of 'reflect' as a directive. It also includes the subjunctive mood with the use of 'may soon avail' expressing a hypothetical or possible situation.""
+}","['imperative', 'subjunctive']","{
+  ""Properties"": [""imperative"", ""subjunctive""],
+  ""Explanation"": ""The text contains an imperative mood in the form of a request or command ('I ask that they reflect on that before they comment or disparage the results of this case'). It also includes the subjunctive mood, expressing what is hypothetical or possible ('they may soon avail themselves of the presumption of innocence beyond a reasonable doubt').""
+}","['imperative', 'subjunctive']",1,"['imperative', 'subjunctive']"
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The text contains an indicative mood to express a simple statement of fact, as well as an interrogative mood to ask a question.""
+}","['indicative', 'interrogative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion about the U.S. Army's actions during the Battle of the Bulge.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The text contains the indicative mood as it expresses a simple statement of fact or opinion, and the interrogative mood as it asks a question.""
+}","['indicative', 'interrogative']",False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'as if' indicates a hypothetical or imagined scenario, suggesting the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The text contains the indicative mood as it expresses a simple statement of fact or opinion. It also includes the interrogative mood as it asks a question.""
+}","['indicative', 'interrogative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'as if' indicates a hypothetical or imagined scenario, which aligns with the subjunctive mood.""
+}",['subjunctive'],0,['subjunctive']
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text is in the indicative mood as it expresses a simple statement of fact or opinion. It also contains an imperative mood as it includes a directive or command ('urge her to go further, and issue an official ban').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The passage includes a subjunctive mood in the form of a suggestion or recommendation ('urging her to go further'), and an imperative mood in the form of a directive ('issue an official ban on Donald Trump').""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging', 'ban', and 'go further' indicates the subjunctive mood, expressing a suggestion or recommendation. Additionally, the phrase 'issue an official ban' is in the imperative mood, giving a directive.""
+}","['subjunctive', 'imperative']",False,"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains the subjunctive mood as it expresses a hypothetical situation or suggestion ('urging her to go further, and issue an official ban on Donald Trump from entering the UK'). Additionally, it includes the imperative mood as it issues a directive or command ('urging her to go further, and issue an official ban on Donald Trump from entering the UK').""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging' and 'issue' indicates the subjunctive mood, expressing a suggestion or recommendation. Additionally, the phrase 'has written to May urging her to go further' contains an imperative mood, giving a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'urging', 'issue', and 'is' in the context of a suggestion and hypothetical situation indicates the use of the subjunctive mood.""
+}",['subjunctive'],0,"['subjunctive', 'imperative']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'urging' and 'issue' indicates a subjunctive mood, expressing a suggestion or recommendation.""
+}",['subjunctive'],"{
+  ""Properties"": [
+    ""subjunctive"",
+    ""imperative""
+  ],
+  ""Explanation"": ""The use of 'urging' and 'to go further' indicates the subjunctive mood, expressing a suggestion or recommendation. The phrase 'issue an official ban' is in the imperative mood, giving a command or directive.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging' and 'issue an official ban' indicates the subjunctive mood expressing recommendations and the imperative mood expressing a directive or command.""
+}","['subjunctive', 'imperative']",False,"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging' and 'go further' indicates the subjunctive mood, expressing a suggestion or recommendation. Additionally, the phrase 'issue an official ban' is in the imperative mood, conveying a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'urging' and 'issue' indicates the subjunctive mood, expressing a recommendation or suggestion. Additionally, the phrase 'urging her to go further' contains an imperative mood, giving a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion ('has written', 'has said'). It also includes an imperative mood to convey a directive or command ('urging her to go further, and issue an official ban').""
+}","['indicative', 'imperative']",0,"['subjunctive', 'imperative']"
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text contains a simple statement of fact or opinion without expressing hypothetical or possible situations, suggestions, recommendations, advice, demands, wishes, doubts, surprise, or strong emotion.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion, without expressing a hypothetical or possible situation, command, wish, or question.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text uses indicative mood to express a simple statement of fact or opinion about the situation.""
+}",['indicative'],True,"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The statement expresses a simple opinion ('is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty') and also conveys strong emotion ('I’m offended' and 'his gun scares me').""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text expresses a simple statement of fact or opinion without any hypothetical or possible scenarios, suggestions, recommendations, advice, demands, wishes, doubts, surprise, strong emotion, or pain. It is a straightforward assertion.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion, and it also includes an exclamatory expression to convey strong emotion.""
+}","['indicative', 'exclamatory']",0,"['indicative', 'exclamatory']"
+3828,[12],There could be only one answer: communists.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement 'There could be only one answer: communists!' is exclamatory in nature, expressing strong emotion.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement 'There could be only one answer' is expressing a strong emotion, indicating surprise or emphasis, which classifies it as exclamatory mood.""
+}",['exclamatory'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The use of the word 'could' indicates a possibility or potentiality, but the structure 'There could be only one answer' functions as a command or directive, making it an imperative mood.""
+}",['imperative'],False,"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement 'There could be only one answer: communists.' is exclamatory in nature, expressing a strong opinion or assertion.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement 'There could be only one answer: communists.' is exclamatory in nature, expressing a strong emotion or assertion.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The statement 'There could be only one answer: communists.' is exclamatory in nature, expressing a strong opinion or assertion.""
+}",['exclamatory'],1,['exclamatory']
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The text contains an interrogative sentence asking a question ('what this 'special need' is that can constitute a Gestapo like police state surveilling its own citizens').""
+}",['interrogative'],"{
+  ""Properties"": [""interrogative"", ""indicative""],
+  ""Explanation"": ""The use of 'what' at the beginning of the sentence indicates an interrogative mood, and the overall tone of the sentence expresses a simple statement of fact or opinion, indicating the indicative mood.""
+}","['interrogative', 'indicative']","{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The sentence is asking a question about the nature of the 'special need' that can lead to a police state, making use of the interrogative mood.""
+}",['interrogative'],False,"{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The text contains an interrogative mood as it asks a question about the nature of a 'special need' that can lead to a police state surveilling its citizens.""
+}",['interrogative'],"{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The text contains an interrogative mood as it asks a question about the nature of a 'special need' that can lead to a surveillance state.""
+}",['interrogative'],"{
+  ""Properties"": [""interrogative"", ""indicative""],
+  ""Explanation"": ""The text contains an interrogative mood as it asks a question ('what this 'special need' is that can constitute a Gestapo like police state surveilling its own citizens?'). It also contains the indicative mood as it expresses a simple statement of fact or opinion ('is a moving target that has already been proven to be abused over and over again.').""
+}","['interrogative', 'indicative']",0,['interrogative']
+3895,[13],Impossible.,Mood,['indicative'],['indicative'],['indicative'],True,['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The use of the word 'impossible' expresses strong emotion and disbelief, indicating an exclamatory mood.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The text contains an exclamatory sentence, expressing strong emotion or emphasis.""
+}",['exclamatory'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement 'Impossible' is an example of an imperative mood, expressing a command or directive.""
+}",['imperative'],False,"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The text contains an exclamation expressing strong emotion or surprise.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The text contains an exclamatory statement expressing strong emotion or surprise.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The text contains an exclamatory expression, indicating strong emotion or surprise.""
+}",['exclamatory'],1,['exclamatory']
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' in the sentence suggests a hypothetical or conditional scenario, making it a clear example of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' in the sentence expresses a hypothetical or possible scenario, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' introduces a hypothetical scenario, suggesting a potential action based on a condition. This falls under the realm of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' in the sentence indicates a hypothetical or possible scenario, making it subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' in the sentence indicates a hypothetical or possible scenario, making it subjunctive.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'if' in the sentence indicates a hypothetical or possible scenario, making it subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also conveys strong emotion through the use of exclamation ('Allahu Akbar').""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact without any hypothetical or expressive elements.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of a fact or opinion regarding the incident.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also conveys strong emotion or surprise (exclamatory) through the use of the exclamation mark and the description of the terrorist's actions.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also conveys strong emotion or surprise (exclamatory) through the use of the exclamation mark and the description of the terrorist's action.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact (indicative) and also conveys strong emotion through the use of an exclamation ('Allahu Akbar').""
+}","['indicative', 'exclamatory']",1,"['indicative', 'exclamatory']"
+4236,[13  1],They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or possible situation, indicating a mood of verbs expressing what is imagined or hypothetical.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The statement expresses a simple fact or opinion without any hypothetical or imagined scenarios, commands, wishes, or questions.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or possible situation where the speaker's children are threatened, making use of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains a directive or command to threaten and kidnap the speaker's children.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it expresses a command or directive, specifically a threat.""
+}",['imperative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'threatened' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],0,['imperative']
+4296,[14],"J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The headline contains an exclamation mark, indicating a tone of strong emotion and potentially surprise.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The use of quotation marks and the overall tone of the headline expresses strong emotion and can be interpreted as expressing surprise or outrage.""
+}",['exclamatory'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The presence of the imperative mood is indicated by the use of the command 'Un-Endorse' in the headline.""
+}",['imperative'],False,"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The headline uses the indicative mood to express a simple statement of fact about J Street un-endorsing a Democratic Representative over a controversial issue.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The headline uses the indicative mood to express a simple statement of fact. The imperative mood is used in the quoted text to convey a command or directive.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text uses the indicative mood to make a simple statement of fact about J Street un-endorsing a Democratic representative. It also uses the imperative mood to issue a command or directive to the reader.""
+}","['indicative', 'imperative']",0,"['indicative', 'imperative']"
+4367,[15],They want to preserve the FBI’s reputation.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact or opinion, indicating that 'they want to preserve the FBI’s reputation.'""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'want' indicates a mood of verbs expressing what is imagined or possible, suggesting that it is a desire or goal to preserve the FBI's reputation.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The usage of 'want' suggests a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact, indicating the mood of the verb as indicative.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'want' expresses what is desired or hypothetical, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'want' expresses what is imagined or desired, indicating the subjunctive mood.""
+}",['subjunctive'],0,['subjunctive']
+4372,[15],Here’s my translation:,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains the use of imperative mood as it includes a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a command or directive, indicating the use of the imperative mood.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a command or directive, indicating the use of the imperative mood.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a command or directive, as it urges someone to focus on a specific issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a command or directive, as it is urging someone to focus on a specific issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a directive or command, indicating the use of the imperative mood.""
+}",['imperative'],1,['imperative']
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The statement uses the indicative mood to express a simple statement of fact ('He mentions the Holy Father's letter to the Buenos Aires bishops'). It also uses the subjunctive mood to express a hypothetical or possible situation ('...the statement of those Argentine bishops can be interpreted in an orthodox way').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text includes the indicative mood to express a simple statement of a fact ('he mentions the Holy Father's letter') and the subjunctive mood to express what is hypothetical or possible ('the statement of those Argentine bishops can be interpreted').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('he mentions the Holy Father's letter') and the subjunctive mood to express what is hypothetical or possible ('the statement of those Argentine bishops can be interpreted in an orthodox way').""
+}","['indicative', 'subjunctive']",True,"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('He mentions the Holy Father's letter'). It also uses the subjunctive mood to express a hypothetical or possible situation ('the statement of those Argentine bishops can be interpreted in an orthodox way').""
+}","['indicative', 'subjunctive']",timeout,[],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('he mentions the Holy Father's letter') and the subjunctive mood to express a hypothetical situation ('the statement of those Argentine bishops can be interpreted in an orthodox way').""
+}","['indicative', 'subjunctive']",1,"['indicative', 'subjunctive']"
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'just sounds' expresses doubt and the hypothetical nature of the statement, indicating a subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'sounds' in the context of expressing doubt and skepticism indicates the use of the subjunctive mood, which expresses what is imagined or hypothetical.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'sounds too good to be true' expresses doubt and hypothetical possibility, which aligns with the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'sounds' indicates a sense of doubt or skepticism, expressing what is imagined or hypothetical.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'sounds' expresses doubt and suggests that the situation is imagined or hypothetical, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'sounds' expresses doubt and suggests that the sweetness and light coming from Pyongyang may not be true, making it hypothetical or possible.""
+}",['subjunctive'],1,['subjunctive']
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'making a lobby of this tendency' expresses a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'is in making', 'so many lobbies' expresses a hypothetical or possible situation, fitting the definition of subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example uses the indicative mood to express a simple statement of fact or opinion about the tendency of making different types of lobbies.""
+}",['indicative'],False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'making' and 'so many lobbies' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The sentence expresses a sense of frustration and exasperation, indicating strong emotion, which aligns with the definition of an exclamatory mood.""
+}",['exclamatory'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'making' and 'so many lobbies' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],0,['subjunctive']
+4430,[16],You really don't need to know anything.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is a directive or command.""
+}",['imperative'],"{
+  ""Properties"": [
+    ""imperative""
+  ],
+  ""Explanation"": ""The statement 'You really don't need to know anything.' contains an imperative mood, as it is giving a command or directive to the listener.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it is giving a command or directive.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it gives a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it is giving a command or directive.""
+}",['imperative'],1,['imperative']
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Mood,['indicative'],['indicative'],['indicative'],True,"['imperative', 'indicative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'suggests' indicates a mood of verbs expressing what is imagined or hypothetical, suggesting the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'suggests' expresses a hypothetical or possible scenario, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of the verb 'suggests' indicates a mood of verbs expressing what is imagined or hypothetical, suggesting the use of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'suggests' indicates a mood of verbs expressing what is imagined or hypothetical, making it subjunctive.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'suggests' indicates a mood of verbs expressing what is imagined or hypothetical, making it subjunctive.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'suggests' indicates a mood of verbs expressing what is imagined or hypothetical, making it subjunctive.""
+}",['subjunctive'],1,['subjunctive']
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The statement contains an imperative mood with the use of the verb 'stand and fight' as a directive or command.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it issues a command or directive for Sen. Bob Corker to 'stand and fight Trump'.""
+}",['imperative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'calling on' and 'while he retires' expresses a hypothetical situation, suggesting a recommendation or suggestion.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it includes a directive or command to 'stand and fight Trump'.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it includes a directive or command to 'stand and fight Trump'.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it includes a directive or command to 'stand and fight Trump'.""
+}",['imperative'],1,['imperative']
+4932,[],Here’s a link for ya to do just that.,Mood,['indicative'],['indicative'],['indicative'],True,['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The example text contains an imperative mood as it includes a command or directive, urging someone to take a specific action.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a directive or command, as it urges Theresa May to focus on a specific issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a directive or command to the recipient.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it includes a directive or command to focus on a specific issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a directive or command, as it urges Theresa May to focus on a specific issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a directive or command, as it urges Theresa May to focus on a specific issue.""
+}",['imperative'],1,['imperative']
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Mood,['indicative'],['indicative'],['indicative'],True,"['imperative', 'indicative']","{
+  ""Properties"": [
+    ""imperative""
+  ],
+  ""Explanation"": ""The sentence contains a directive or command, as the speaker is demanding the opportunity to present testimony to the committee and that Judge and others be subpoenaed to testify.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes the use of the word 'demanding' to convey a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains the imperative mood as it expresses a demand for the opportunity to present testimony and for Judge and others to be subpoenaed to testify.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains the use of imperative mood with the word 'demanding' which expresses a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains the use of imperative mood with the word 'demanding' which expresses a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains the use of the imperative mood with the word 'demanding' to express a command or directive.""
+}",['imperative'],1,['imperative']
+5438,[],I wanted them to know that I listened.”,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive"", ""indicative""],
+  ""Explanation"": ""The expression 'I wanted' implies a hypothetical or desired situation, which aligns with the subjunctive mood. Additionally, the verb 'listened' is in the past tense, expressing a statement of fact or opinion, fitting the indicative mood.""
+}","['subjunctive', 'indicative']","{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'wanted' indicates a desire or wish, suggesting the hypothetical or possible nature of the action.""
+}",['subjunctive'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood as it expresses a command or directive.""
+}",['imperative'],False,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it expresses a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The sentence contains an imperative mood, as it expresses a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'wanted' and 'to know' indicates a hypothetical or imagined situation, expressing a desire or intention.""
+}",['subjunctive'],0,['imperative']
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any mood properties as it is a copyright and distribution information."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""There is no use of any specific Mood properties in the example text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""There are no instances of mood properties present in the example text.""
+}",[],True,"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any of the listed properties of Mood."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any mood properties as it is a copyright notice and distribution information.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any instances of mood properties such as indicative, subjunctive, exclamatory, interrogative, imperative, or optative."" 
+}",[],0,[]
+6331,[],It is impossible to do all this without God’s assistance.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'impossible' and 'without' suggests a hypothetical or possible situation, indicating the use of subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or possible situation, indicating a need for God's assistance.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'impossible' and 'without God’s assistance' expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or imagined situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'impossible' and 'without' indicates a hypothetical or impossible situation, suggesting the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or possible situation, indicating a need for assistance from God.""
+}",['subjunctive'],1,['subjunctive']
+7758,[],Article posted with permission from Robert Spencer,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text expresses a simple statement of fact or opinion, without expressing hypotheticals, suggestions, emotions, commands, wishes, or doubts.""
+}",['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The article includes an imperative sentence: '@Theresa_May, dont focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.' This sentence gives a directive or command.""
+}",['imperative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text expresses a simple statement of fact or opinion about the article being posted with permission from Robert Spencer.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains indicative mood as it expresses a simple statement of fact or opinion. It also contains imperative mood as it includes a directive or command.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a directive or command ('dont focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom').""
+}",['imperative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text contains a simple statement of fact or opinion, without expressing hypotheticals, commands, wishes, or questions.""
+}",['indicative'],0,"['indicative', 'imperative']"
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it is directing the reader to complete the poll.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The example text contains the imperative mood as it is making a directive or command to the reader to complete the poll in order to access updates from Freedom Outpost for free.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it is directing the reader to complete the poll by using the word 'completing,' which indicates a command or directive.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, as it is directing the reader to take a specific action (completing the poll to gain access to updates).""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it is giving a directive or command to the reader to complete the poll in order to gain access to updates.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it is giving a directive or command to the reader to complete the poll in order to gain access to updates.""
+}",['imperative'],1,['imperative']
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' expresses a hypothetical or possible action, indicating the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a verb expressing what is imagined or hypothetical, fitting the definition of subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible scenario, expressing the idea of what NASA would like to do.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible action, making it subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible action, making it an example of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would' indicates a hypothetical or possible action, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+10448,[],Anybody?,Mood,['interrogative'],['interrogative'],['interrogative'],True,['interrogative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative statement, as it includes a command or directive to someone.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a command or directive.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it issues a directive or command to Theresa May.""
+}",['imperative'],True,"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it includes a command or directive, specifically addressing someone to focus on a particular issue.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The use of 'Anybody?' is an imperative form, as it is a command or directive asking for someone to respond.""
+}",['imperative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it includes a command or directive, specifically addressing someone with the phrase 'dont focus on me'.""
+}",['imperative'],1,['imperative']
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of a fact or opinion about the state of the old party's pulse and the Bush-Boehner GOP.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should' and 'may' express a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should probably' and 'may' indicates a sense of hypothetical or possibility, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should probably' and 'may not' indicates a hypothetical or possible situation, suggesting a subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should probably' and 'may not' express hypothetical or possible situations, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should' and 'may' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical situation regarding Judge Kavanaugh's potential deprivation of a Supreme Court seat.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible outcome, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' indicates a hypothetical or possible outcome, suggesting that the statement is expressing what is imagined or hypothetical.""
+}",['subjunctive'],True,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible outcome, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The sentence expresses a hypothetical or possible situation, as it discusses charges that could deprive Judge Kavanaugh of a seat on the Supreme Court.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical or possible outcome, indicating the use of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'possibly' suggests a hypothetical or possible scenario, indicating the use of the subjunctive mood.""
+}",['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text is expressing a simple statement of fact about May's growth being less than that in April and March, indicating the use of the indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The use of 'was' denotes the indicative mood, as it expresses a simple statement of fact. The use of 'possibly' suggests a hypothetical or possible scenario, indicating the subjunctive mood.""
+}","['indicative', 'subjunctive']",False,"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The sentence uses the indicative mood to express a simple statement of fact ('May’s growth was less than that in April and March') and the subjunctive mood to express what is possible or hypothetical ('possibly an emerging trend').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The sentence uses the indicative mood to express a simple statement of fact about May's growth, and the subjunctive mood to express a hypothetical or possible emerging trend.""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact about May's growth being less than that in April and March, indicating the use of the indicative mood.""
+}",['indicative'],0,"['indicative', 'subjunctive']"
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Mood,['indicative'],['indicative'],['indicative'],True,[],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' contains an exclamatory expression of strong emotion or awe.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' is an exclamatory expression as it conveys strong emotion or awe.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' is an exclamatory statement expressing strong emotion about the subject matter of the painting.""
+}",['exclamatory'],True,"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' is an exclamatory statement expressing strong emotion.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' is exclamatory in nature, expressing strong emotion and awe.""
+}",['exclamatory'],"{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The title 'St. Francis in Ecstacy' is exclamatory as it expresses strong emotion or awe.""
+}",['exclamatory'],1,['exclamatory']
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact, indicating the purpose and content of the juridical document.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence is expressing a simple statement of fact, indicating that the document would provide legal criteria and that those failing the test would be closed.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can be considered' expresses a hypothetical or possible situation, indicating the use of the subjunctive mood.""
+}",['subjunctive'],False,"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can be considered' and 'would provide' indicates the use of the subjunctive mood, expressing what is hypothetical or possible.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'can be considered' and 'would provide' indicates the use of the subjunctive mood, expressing what is hypothetical or possible.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'would provide' and 'can be considered' indicates a hypothetical or possible scenario, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],1,['subjunctive']
+14016,[],Other Hondurans are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States against president Trump’s wishes.,Mood,['indicative'],['indicative'],['indicative'],True,['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a statement of fact ('Other Hondurans are leaving the country') using the indicative mood. Additionally, it includes a directive ('against president Trump’s wishes'), which is in the imperative mood.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The text expresses a simple statement of fact, without imagining or hypothesizing, asking a question, giving a command, or expressing a wish. Therefore, the indicative mood is used.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact that some Hondurans are leaving the country to join the caravan of illegal immigrants. There is no hypothetical, imagined, emotional, or imperative expression in this sentence.""
+}",['indicative'],False,"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact ('Other Hondurans are leaving the country to join the caravan of illegal immigrants') and also includes a directive or command ('against president Trump’s wishes').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact ('Other Hondurans are leaving the country to join the caravan of illegal immigrants') and also includes a directive or command ('against president Trump’s wishes').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The sentence expresses a simple statement of fact about the actions of other Hondurans leaving the country to join the caravan, without any hypothetical or imagined scenarios, suggestions, emotions, wishes, commands, or questions.""
+}",['indicative'],0,"['indicative', 'imperative']"

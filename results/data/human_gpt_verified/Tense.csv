@@ -1,0 +1,1011 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Tense,['past'],['past'],['past'],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'told' indicates the past tense, but the verb 'was' is in the present tense, emphasizing the immediacy of the verdict as well as its impact on the speaker."" 
+}",['present'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to express something that already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of the past tense 'was' indicates that the action of 'told' already happened.""
+}",['past'],0,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'told' indicates the present tense, which is often used in news headlines for immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'was' indicates that the action has already happened, placing it in the past tense.""
+}",['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the quote 'the verdict was “horrifying' emphasizes the immediacy and impact of the statement.""
+}",['present'],0,['present'],1,0,,['past']
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Tense,['past'],['past'],['past'],TRUE,[],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the past tense 'described' and 'was told' to express actions that have already happened. It also uses the present tense 'could cause' to emphasize a potential action in the future.""
+}","['present', 'past']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already taken place, such as 'he was told' and 'could cause.'""
+}",['past'],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The sentence contains the use of the past tense ('was told') to indicate that the action of being told by the authorities occurred in the past. It also includes the present tense ('could cause') to emphasize the potential immediate impact of his speaking at Hyde Park.""
+}","['present', 'past']",0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense in 'described' and 'said' to emphasize the immediacy of the actions, and the past tense in 'was told' to indicate that the action already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense 'described' for immediacy effect and the past tense 'was told' to express something that already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense in 'described' and 'said' to emphasize the immediacy of Sellner's actions, and the past tense in 'was told' to indicate that this action already happened.""
+}","['present', 'past']",1,"['present', 'past']",1,0,GPT misinterprets the definition,['past']
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Tense,['present'],['present'],['present'],TRUE,[],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense ('have read', 'find mention', 'exposition', 'find mention') to indicate that these actions have already occurred.""
+}",['past'],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'have read', 'find mention', and 'only find' indicate the presence of both present and past tense in the text.""
+}","['present', 'past']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of past tense 'have read' and 'find mention' indicates that the actions have already happened.""
+}",['past'],0,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'find' and 'mention' indicates that the text is discussing something that has already happened, so the past tense is used.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'find' and 'mention' indicate that the text is discussing something that has already happened, hence the use of the past tense.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'find' and 'mention' indicates that the text is discussing something that has already happened, hence the use of the past tense.""
+}",['past'],1,['past'],0,0,GPT misinterprets the definition,"['present', 'past']"
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Tense,['present'],['present'],['present'],TRUE,[],"{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' in 'before this crisis gets any more out-of-control than it already is' signifies present tense, and 'should also be considered' suggests a future action.""
+}","['present', 'future']","{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'should... be considered' and 'before this crisis gets' indicate the use of future tense to express something that has yet to happen.""
+}",['future'],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'should' and 'before' indicate a future action or possibility.""
+}",['future'],0,"{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' in 'than it already is' indicates present tense, while 'should also be considered' and 'gets' indicate future tense.""
+}","['present', 'future']","{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' in 'before this crisis gets any more out-of-control than it already is' indicates present tense, while 'should also be considered' indicates future tense.""
+}","['present', 'future']","{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'should also be considered' and 'before this crisis gets' indicates a future tense, expressing something that has yet to happen.""
+}",['future'],0,"['present', 'future']",1,0,,['present']
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Tense,['present'],['present'],['present'],TRUE,[],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of present tense ('has written', 'is condoning', 'has said') provides immediacy and emphasizes the actions being taken, while the progression of tenses from 'has written' to 'has said' in the same sentence is used for a rhetorical effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the present tense, creating immediacy. Additionally, the shift from 'has written' to 'has said' in the same sentence creates a tense progression for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [
+    ""present""
+  ],
+  ""Explanation"": ""The use of 'has written', 'urging', and 'has said' indicates the use of present tense for immediacy and emphasis.""
+}",['present'],0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the present tense, which is often used in news for immediacy effect. Additionally, the change from 'has written' to 'has said' in the middle of the sentence creates a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written', 'urging', and 'has said' indicates the use of present tense for immediacy effect. Additionally, the change from 'has written' (present perfect) to 'has said' (present perfect) in the middle of the sentence creates a progression for rhetorical effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the present tense, while the shift from 'has written' to 'has said' creates a tense progression for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",0,0,,"['present', 'past']"
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Tense,['present'],['present'],['present'],TRUE,[],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence begins with 'claims are', using present tense for immediacy effect. Then it switches to past tense with 'important to remember' and 'after virtually every terror attack', creating a progression in tense for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'are intriguing', 'is important', and 'remember' indicate the present tense, while 'would be capable' and 'outright denying' create a progression by changing the tense in the middle of the sentence for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense in 'are intriguing', 'is important', and 'remember' for immediacy and emphasis. It also switches from present tense to past tense in 'express shock' and 'would be capable' for a progression effect.""
+}","['present', 'progression']",1,"{
+  ""Properties"": [""present"", ""progression""]
+}
+
+ 	","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense to emphasize the ongoing nature of the situation, and it also employs tense progression by switching from present to past tense in the middle of the sentence for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense to emphasize the ongoing nature of the situation, and also switches to the present tense in the middle of the sentence ('express' and 'deny') for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",1,0,,['present']
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'pardons' and 'locks up' in the same sentence creates a contrast by using different tenses to highlight the actions of the two presidents. The present tense is used to emphasize the immediacy and current relevance of the actions being described.""
+}",['present'],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The statement uses present tense to describe the current actions of Trump and past tense to describe the actions of Obama, indicating a shift in perspective between the two administrations.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses both present tense ('pardons', 'locks up') and past tense ('pardoned', 'locked up') to compare the actions of Obama and Trump, highlighting the contrast between their approaches.""
+}","['present', 'past']",0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The sentence uses both present tense ('pardons', 'locks up') and past tense ('pardoned', 'locked up') to contrast the actions of Obama and Trump, indicating a mix of present and past actions.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The sentence uses both present and past tense to compare the actions of Obama and Trump, indicating a shift in actions over time.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The sentence uses both present and past tense to compare the actions of Obama and Trump, emphasizing the contrast between their actions.""
+}","['present', 'past']",1,"['present', 'past']",1,1,,"['past', 'present']"
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The example uses the past tense 'refuse' and 'let' to express actions that have already happened.""
+}",['past'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'could refuse' (present tense) and 'let' (infinitive form) for the immediate effect and to emphasize potential actions. Also, the changing tense in the middle of the sentence ('could refuse' to 'let') creates a progression for rhetorical effect.""
+}","['present', 'progression']","{
+  ""Properties"": [
+    ""past"",
+    ""progression""
+  ],
+  ""Explanation"": ""The use of 'could' indicates a past possibility, and the shift from 'could' to 'knew' in the same sentence demonstrates tense progression for rhetorical effect.""
+}","['past', 'progression']",0,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense 'refused' to express something that already happened, and then changes to the present tense 'let' for effect, creating a sense of progression.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'refused' and 'let' to express actions that have already happened. Additionally, it changes tense in the middle of the sentence from 'could refuse' (past) to 'would point' (future) for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense 'refused' and 'released' to indicate actions that have already happened. Additionally, it switches to the past tense 'pointed' in the middle of the sentence for effect, creating a sense of progression.""
+}","['past', 'progression']",1,"['past', 'progression']",1,0,,['past']
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The example uses the past tense to describe actions that have already occurred, such as 'sacks', 'has just removed', and 'have created'.""
+}",['past'],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses present tense 'sacks', 'has just removed' for immediacy effect and past tense 'removed' for expressing something that already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense to emphasize the actions of the Pope, and there is a change in tense from past to present for rhetorical effect.""
+}","['present', 'progression']",0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense to describe ongoing actions ('sacks', 'has just removed') and the past tense to describe actions that have already happened ('removed', 'created').""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense to emphasize the ongoing actions and situations, and also switches to the past tense ('has just removed') in the middle of the sentence for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of present tense in 'sacks', 'has just removed' and 'is' creates immediacy and emphasizes the ongoing nature of the actions. Additionally, the change from past tense 'removed' to present tense 'is' in the middle of the sentence creates a progression effect for rhetorical emphasis.""
+}","['present', 'progression']",0,"['present', 'progression']",0,0,,"['past', 'present']"
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'advocate' and 'condemns' in the present tense emphasizes the ongoing nature of the action. Additionally, the switch from 'advocate' to 'condemns' in the middle of the sentence creates a tense progression for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression"", ""future""],
+  ""Explanation"": ""The passage uses the present tense ('advocate', 'condemns') for immediacy effect and uses a change in tense from present to future ('destroys') for progression and effect.""
+}","['present', 'progression', 'future']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'advocate' and 'destroys' in the same sentence creates a progression in tense, with 'advocate' in present tense and 'destroys' in future tense.""
+}","['present', 'progression']",0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'advocate' and 'condemns' in the present tense creates immediacy and emphasis. The change in tense from 'advocate' to 'condemns' in the middle of the sentence adds a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'advocate' and 'condemns' in the present tense emphasizes the ongoing nature of the action. Additionally, the shift from 'advocate' (present) to 'destroys' (future) creates a sense of progression in the sentence.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'preaching' and 'advocate' in the present tense emphasizes the ongoing nature of the actions. Additionally, the change from 'preaching' (past tense) to 'advocate' (present tense) in the middle of the sentence creates a sense of progression.""
+}","['present', 'progression']",1,"['present', 'progression']",1,0,,['present']
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",Tense,['present'],['present'],['present'],TRUE,['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense to emphasize an ongoing situation, indicating that the Guardian's violation of standards is still relevant.""
+}",['present'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' and 'hatred' indicates a present tense, and the shift from 'being' to 'is' in the sentence creates a progression, emphasizing the point being made.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' and 'hatred' demonstrates the use of present tense for immediacy effect, while the change from 'being' (present progressive) to 'is' (present simple) in the same sentence creates a progression in tense for rhetorical effect.""
+}","['present', 'progression']",0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' in 'the paper’s hatred of Assange is' indicates present tense, and the change from 'being' to 'is' in the middle of the sentence creates a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' in 'the paper’s hatred of Assange is' indicates the present tense, and the change from 'being' to 'is' in the middle of the sentence creates a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' in 'the paper’s hatred of Assange is' indicates the present tense, while the shift from 'being' to 'is' in the sentence demonstrates the use of tense progression for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",1,0,,['past']
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Tense,['past'],['past'],['past'],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'called' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of the past tense 'called' indicates that the action has already taken place.""
+}",['past'],"{
+    ""Properties"": [""past""],
+    ""Explanation"": ""The sentence uses the past tense to describe an action that has already occurred ('called').""
+}",['past'],0,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'called' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'called' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'called' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],1,['present'],1,0,,['past']
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'defended' and 'is' in the present tense emphasizes the immediacy of the action and the statement being made by the Illinois Rep.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'defended' and 'is' indicates the present tense, creating an immediate effect in the headline.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The present tense is used in the headline to emphasize the immediacy of the action being defended by Rep. Danny Davis.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'defended' in the present tense emphasizes the immediacy of the action and its relevance to the current moment.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'defended' in the present tense emphasizes the immediacy of the action and its relevance to the current moment.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'defended' in the present tense emphasizes the immediacy of the action and its relevance to the current moment.""
+}",['present'],1,['present'],1,1,,['present']
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Tense,['present'],['present'],['present'],TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'years of Obama' indicates that the action of 'cleanse' has already happened in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'pardons' and 'history' indicate that the sentence is referring to something that has already happened, so the past tense is used.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'pardons' and 'in the dark years of Obama' indicates a past tense, expressing something that already happened.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'pardons' and 'in the dark years of Obama' indicate that the action has already happened in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense 'cleansed' to express an action that has already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense 'cleansed' to express an action that has already happened.""
+}",['past'],1,['past'],1,0,,['present']
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,['present'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'have' and 'noted' indicate present tense, while changing to past tense with 'attempted' is used for progression.""
+}","['present', 'progression']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'noted' indicates that the action of noting the intelligence findings has already happened, placing the statement in the past."" 
+}",['past'],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'have' indicates the present perfect tense, while 'noted' indicates simple past tense.""
+}","['present', 'past']",0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'have noted' indicates the present perfect tense, while the changing tense in the middle of the sentence from 'have noted' to 'attempted' demonstrates the use of progression.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'have' indicates the present perfect tense, emphasizing the ongoing relevance of the intelligence findings. The progression of tenses from 'have' to 'noted' creates a rhetorical effect by highlighting the repeated nature of the action.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense 'have noted' to emphasize the ongoing relevance of the intelligence findings, and the past tense 'attempted' to indicate that the interference already happened.""
+}","['present', 'past']",0,"['present', 'progression']",0,0,,['past']
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened ('spent', 'selling', 'cutting'), and it employs a change in tense within the sentence for effect ('spent' in past tense vs. 'cutting' in present progressive tense)."" 
+}","['past', 'progression']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses past tense to describe actions that have already happened, indicating the use of the 'past' tense property.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'spent,' 'selling,' and 'cutting' to indicate that these actions have already occurred.""
+}",['past'],0,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened, such as 'Barack Obama spent' and 'cutting quiet deals'.""
+}",['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened ('spent', 'selling', 'cutting'), and also changes tense in the middle of the sentence for effect ('selling' in past tense, 'cutting' in present participle).""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened ('spent', 'selling', 'cutting'), and also changes tense in the middle of the sentence for effect ('spent' - past tense, 'selling' - present participle).""
+}","['past', 'progression']",0,"['past', 'progression']",1,0,,['past']
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to express that the group no longer exists in that form. Additionally, the progression of tenses from 'was' to 'is' is used for rhetorical effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'said' indicates past tense, and the change from 'was' to 'is' in the middle of the sentence creates a sense of progression or contrast.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to describe the group, and then changes to the present tense 'is' to emphasize the current nature of the group as a paper-shuffling exercise.""
+}","['past', 'progression']",1,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to express something that already happened, and changes tense in the middle of the sentence for effect by using the past tense 'was' and the present tense 'is'.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to express something that already happened, and changes tense in the middle of the sentence for effect by using the present tense 'is' in 'is a toothless, paper-shuffling exercise.'""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates the past tense, while the change from 'was' to 'is' in the middle of the sentence creates a progression for effect.""
+}","['past', 'progression']",1,"['past', 'progression']",1,0,,['past']
+2629,[ 8 13],ADVANTAGE AMERICANS,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense to convey immediacy and grab the reader's attention, a common strategy in headlines.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of present tense in the headline 'ADVANTAGE AMERICANS' emphasizes the immediate and ongoing advantage that Americans have in a certain context.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the word 'AMERICANS' in all caps and the absence of any tense markers suggests a present tense command or declaration, commonly used in headlines for immediacy effect.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'AMERICANS' in all caps and without any verb indicates a present tense, often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'ADVANTAGE' in all caps and the absence of any tense markers suggests that the headline is using the present tense for immediacy effect and to emphasize the advantage of Americans.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'ADVANTAGE' in all caps and the absence of any tense markers indicates a present tense, likely used for immediacy and emphasis in a headline.""
+}",['present'],1,['present'],1,0,,[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,"['past', 'present']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'earlier made' indicates past tense, and the switch from 'earlier made' to 'it is now' creates a sense of progression in the sentence.""
+}","['past', 'progression']","{
+  ""Properties"": [
+    ""past"",
+    ""progression""
+  ],
+  ""Explanation"": ""The use of 'earlier made' indicates the past tense, while the shifting from 'earlier made' to 'it is now' in the same sentence reflects progression in tense for rhetorical effect.""
+}","['past', 'progression']","{
+  ""Properties"": [
+    ""past""
+  ],
+  ""Explanation"": ""The use of 'earlier' and 'made' indicate that the action of attempting to balance its shoddier side has already happened in the past, hence indicating the use of past tense.""
+}",['past'],0,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'earlier' indicates past tense, and the shift from 'earlier' to 'it is now' creates a progression in tense within the sentence.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'made' and 'balanced' to describe previous actions, and then switches to the present tense 'is' to describe the current state, creating a sense of progression.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'earlier' indicates past tense, and the shift from 'earlier' to 'it is now' demonstrates a change in tense for effect, indicating progression.""
+}","['past', 'progression']",1,"['past', 'progression']",1,0,,"['past', 'present']"
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Tense,"['future', 'present']","['future', 'present']","['future', 'present']",TRUE,['future'],"{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The sentence uses the future tense 'will be' to express something that has yet to happen, and also changes tense in the middle of the sentence for effect by using the present tense 'scoffs' and 'busies' when describing Faggioli's actions.""
+}","['future', 'progression']","{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The use of 'will be' indicates future tense, and the shift from 'will be' to 'scoffs' and 'defending' demonstrates the progression of tenses for effect.""
+}","['future', 'progression']","{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The use of 'will be' indicates the future tense, and the switch from future 'this will be' to past 'defending' creates a pattern of tense progression for effect.""
+}","['future', 'progression']",1,"{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, and the change from 'will be' to 'defending' and 'describing' in the middle of the sentence creates a progression effect.""
+}","['future', 'progression']","{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, and the change from 'will be' to 'defending' and 'describes' in the middle of the sentence creates a progression effect.""
+}","['future', 'progression']","{
+  ""Properties"": [""future"", ""progression""],
+  ""Explanation"": ""The sentence contains the future tense 'will be' and also changes tense in the middle of the sentence for effect, from 'will be' to 'scoffs' and 'defending'.""
+}","['future', 'progression']",1,"['future', 'progression']",1,0,,"['future', 'present']"
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense in the beginning ('In Alexandra, Virginia') for immediacy effect, and the past tense ('has spent') to express something that already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense 'spends' and the past tense 'tried', indicating the use of present and past tense.""
+}","['present', 'past']","{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'has spent' indicates a present action, implying ongoing efforts by the grand jury.""
+}",['present'],0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense in 'has spent' to emphasize the ongoing nature of the grand jury's actions, and the past tense in 'tried' to indicate that the action of trying to concoct a crime has already taken place.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has spent' in the past perfect tense indicates a present action that started in the past and is still ongoing. Additionally, the change from 'has spent' to 'can be prosecuted' creates a tense progression for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has spent' in the present perfect tense and 'trying' in the present participle form indicates the use of present tense. Additionally, the change from 'has spent' to 'can be prosecuted' in the same sentence demonstrates the use of tense progression for effect.""
+}","['present', 'progression']",0,"['present', 'progression']",0,0,,['past']
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'bringing' and 'is' indicates that the text is using the past tense to express something that already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense ('bringing', 'is'), indicating that the action has already occurred.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'is' indicates a present tense, and 'bringing' indicates a past tense, thus the past tense is used in the example text.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'bringing' to express something that already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'bringing' and 'is' to express something that already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'is' and 'bringing' indicates the past tense, expressing something that already happened.""
+}",['past'],1,['past'],1,0,,['present']
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the use of the present tense to emphasize the current action and immediate relevance of the news.""
+}",['present'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written', 'urging', and 'has said' indicates the use of present tense for immediacy effect. Additionally, the shift from 'has written' to 'has said' in the same sentence creates a tense progression for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense in the first part of the sentence to convey immediacy and emphasizes the action. It then switches to the past tense in the latter part of the sentence for effect, creating a sense of progression and shifting focus to the statement made by the senior Labour MP.""
+}","['present', 'progression']",0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the present tense, while the shift from 'has written' to 'has said' creates a tense progression for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense to emphasize the immediacy of the action, and it also switches to the past tense ('has said') in the middle of the sentence for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'has written' and 'urging' indicates the present tense, while the change from 'has written' to 'has said' creates a tense progression for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",0,0,,['past']
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense ('compared', 'evoked', 'was allied') to express something that has already happened.""
+}",['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates the past tense, while the changing tense in the middle of the sentence ('was' to 'is') creates a progression effect for rhetorical impact.""
+}","['past', 'progression']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The example uses the past tense to express something that has already happened, such as 'when Hungary was allied with Nazi Germany' and 'was more oppressive than Cold War Soviet occupation'.""
+}",['past'],0,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'compared' indicates past tense, and the change from 'evoked' (past tense) to 'is' (present tense) in the middle of the sentence creates a progression for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense to describe events that have already happened, such as Hungary being allied with Nazi Germany and the Cold War Soviet occupation.""
+}",['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'compared' indicates the past tense, and the change from 'evoked' (past tense) to 'is' (present tense) in the middle of the sentence creates a progression for effect.""
+}","['past', 'progression']",0,"['past', 'progression']",1,0,,['past']
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Tense,['present'],['present'],['present'],TRUE,['past'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses present tense to convey immediacy and progression with the changing tense in the middle of the sentence for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'is' in 'is a moving' signifies the present tense, and there is a change in tense from 'is' to 'has already been proven' for rhetorical effect, indicating the use of progression.""
+}","['present', 'progression']","{
+  ""Properties"": [""progression""],
+  ""Explanation"": ""The sentence changes tense in the middle, from 'is' (present) to 'has been' (past perfect) to emphasize the ongoing nature of the issue.""
+}",['progression'],0,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense 'is' for immediacy effect, and then changes to the past tense 'has been' for emphasis and progression.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense in 'is' and 'has', and then switches to the past tense in 'been proven' for a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text uses the present tense in 'is' and 'has', and then changes to the past tense in 'been proven' for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",0,0,,"['past', 'present']"
+3895,[13],Impossible.,Tense,[],[],[],TRUE,[],"{
+    ""Properties"": [""present""],
+    ""Explanation"": ""The use of the present tense 'Impossible' creates immediacy and emphasizes the feeling of impossibility in the current moment.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the word 'impossible' implies present tense as it refers to the current state of things.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense to convey a sense of immediacy and strong emphasis on the action.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the word 'impossible' in the present tense creates an immediate and emphatic effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the headline 'Impossible' creates an immediacy effect and emphasizes the concept of impossibility.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the word 'impossible' creates an immediate and emphatic effect.""
+}",['present'],1,['present'],1,0,,[]
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The passage primarily uses the past tense to describe an event that has already happened ('he was attacked', 'he was coming out', 'he was knocked down'). Additionally, there is a change in tense within the sentence for effect, using the past tense to describe the attack and then switching to present tense ('shouting') to vividly portray the ongoing action."" 
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe events that have already happened. Additionally, it changes tense in the middle of a sentence for effect (e.g., 'was coming' -> 'heading').""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the events that already happened ('was coming', 'was attacked', 'hit him', 'shouting'). It also uses tense progression by switching from past tense to present tense ('he was attacked' to 'shouting') for effect.""
+}","['past', 'progression']",1,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the events that have already happened. Additionally, it changes tense in the middle of the sentence for effect, emphasizing the sequence of actions and creating a vivid description of the attack.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the events that have already happened. Additionally, it switches tenses in the middle of the sentence for effect, creating a sense of progression and immediacy in the description of the attack.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the events that have already happened. Additionally, it switches tenses in the middle of the sentence for effect, creating a sense of immediacy and impact.""
+}","['past', 'progression']",1,"['past', 'progression']",1,0,,['past']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'assassination' suggests immediacy and the headline format emphasizes the action being taken against Judge Kavanaugh.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'Last-Minute' in the headline suggests the immediacy effect associated with the present tense.""
+}",['present'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'assassination' in the present tense in the headline creates immediacy and emphasis. Additionally, the phrase 'Last-Minute Character Assassination' uses a change in tense from past ('Last-Minute') to present ('Character Assassination') for effect, indicating a progression of events.""
+}","['present', 'progression']",0,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'assassination' in the present tense creates an immediacy effect and emphasizes the ongoing nature of the situation.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'assassination' in the present tense in the headline creates an immediacy effect and emphasizes the action.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'Last-Minute' in the headline indicates the immediate relevance of the character assassination, suggesting a present focus.""
+}",['present'],1,['present'],1,0,,[]
+4405,[16],So interesting!,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not exhibit any specific use of tense properties such as present, past, future, or progression.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any clear indications of tense usage."" 
+}",[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense to express immediate interest and engagement.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the response ('is') creates an immediate and engaging effect, which is often seen in headlines for immediacy.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the response ('So interesting!') emphasizes the immediate and current reaction to the information.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense in the response ('is') creates an immediate and engaging effect, which is often seen in headlines or to emphasize an action.""
+}",['present'],1,['present'],1,0,,[]
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Tense,['present'],['present'],['present'],TRUE,"['future', 'present']","{
+  ""Properties"": [""present"", ""future"", ""progression""],
+  ""Explanation"": ""The use of 'is' (present) and 'about to' (future) indicate the present and future tenses. Additionally, the change from 'is' to 'it's about' in the middle of the sentence shows progression for effect.""
+}","['present', 'future', 'progression']","{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The text uses the present tense in 'it looks' to emphasize the immediacy of the situation, and the future tense in 'it's about to get' to express something that has yet to happen.""
+}","['present', 'future']","{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' indicates present tense, while 'about to get' indicates future tense.""
+}","['present', 'future']",0,"{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' and 'about to get' indicate the present and future tenses, respectively.""
+}","['present', 'future']","{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' and 'about to get' indicate the present and future tenses, respectively.""
+}","['present', 'future']","{
+  ""Properties"": [""present"", ""future""],
+  ""Explanation"": ""The use of 'is' indicates present tense, and 'about to get' indicates future tense.""
+}","['present', 'future']",1,"['present', 'future']",0,1,,"['present', 'future']"
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The example uses the past tense 'published' to indicate that the work was previously published by The Guardian.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'published' and 'profited' indicates that the action has already happened, placing the sentence in the past tense.""
+}",['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense in the phrase 'aimed its personal, petty, inhuman and craven attacks' to emphasize the ongoing nature of the action and to convey immediacy and intensity.""
+}",['present'],0,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'aimed' in the present tense emphasizes the immediacy of the action and adds a sense of urgency to the statement.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'aimed' in the present tense emphasizes the immediacy of the action and adds a sense of urgency to the statement.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'aimed' indicates a present action, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],1,['present'],,,,
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",Tense,['present'],['present'],['present'],TRUE,['past'],"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence uses the present tense to emphasize the ongoing nature of Wills' assurances, and then changes to past tense to indicate the specific action of dissolving under close scrutiny. This is an example of progression in tense for rhetorical effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence starts with the present tense 'dissolve' to emphasize the immediate effect of the action, and then switches to the past tense 'contained' for a progression effect, to emphasize the change in time from when the assurances were made to when they were scrutinized.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'assurances' and 'dissolve' suggest present tense, while 'assurances...dissolve' demonstrates a change in tense for effect, indicating the use of the progression property.""
+}","['present', 'progression']",1,"{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence uses the present tense 'dissolve' for immediacy effect, and changes tense in the middle of the sentence from 'assurances' (present) to 'is' (present) to 'say' (present) to 'contains' (present) to 'dissolve' (present) for a progression effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence uses the present tense 'dissolve' to emphasize the ongoing nature of the action. Additionally, there is a change in tense from present to past ('is' to 'say') for effect, demonstrating the use of progression.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The sentence uses the present tense 'dissolve' for immediacy effect, and changes tense in the middle of the sentence from 'assurances' (present) to 'is' (present) to 'say' (present) to 'contains' (present) to 'dissolve' (present) for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",,,,
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'sees' and 'are' in the present tense creates immediacy and emphasizes the ongoing nature of the situation. The change in tense from 'sees' to 'are' in the middle of the sentence adds emphasis and effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The text contains the use of present tense to emphasize the ongoing action, and also a change in tense ('defending' to 'is being cited') for added effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""]
+}","['present', 'progression']",1,"{
+  ""Properties"": [""present"", ""progression""]
+}
+
+ 	","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'sees' and 'are' in the first part of the sentence indicates present tense, while the shift to 'is' and 'does' in the latter part creates a progression in tense for effect.""
+}","['present', 'progression']","{
+  ""Properties"": [""present"", ""progression""],
+  ""Explanation"": ""The use of 'sees' and 'are' in the present tense creates immediacy and emphasizes the ongoing action. Additionally, the change in tense from 'sees' to 'are' in the middle of the sentence creates a progression for effect.""
+}","['present', 'progression']",1,"['present', 'progression']",,,,
+4767,[],- No new deaths -,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of the present tense 'are' in the phrase 'No new deaths' is often used in news updates to convey immediacy and to emphasize the current state of affairs."" 
+}",['present'],"{
+  ""Properties"": [
+    ""present""
+  ],
+  ""Explanation"": ""The use of 'No new deaths' in the present tense emphasizes the current situation, a common technique in news headlines.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'No new deaths' indicates the present state of a situation, often used in news headlines for immediacy effect.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'No new deaths' in the present tense creates an immediacy effect, emphasizing the current state of affairs.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'No new deaths' in the present tense is typical in news headlines to convey immediacy and emphasize the current situation.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'No new deaths' in the present tense emphasizes the current state of affairs, which is a common technique in news headlines.""
+}",['present'],1,['present'],,,,
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a past-tense verb 'tweeted' and refers to a specific date in the past, indicating the use of the past tense.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a link to a news article from July 5, 2018. Since the date is in the past, the usage of past tense is implied in the context of the tweet.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a past tense verb 'July 5, 2018' indicating an event that already occurred.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a past tense verb 'July 5, 2018', indicating that the event or action occurred in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a past tense verb 'July 5, 2018', indicating that the event occurred in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The tweet contains a past tense verb 'July 5, 2018' indicating that the event occurred in the past.""
+}",['past'],1,['past'],,,,
+9396,[],Also on communion between the communities.,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'on' indicates a current or ongoing topic, suggesting the use of present tense for immediacy.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'Also' indicates a current or ongoing topic, suggesting a present focus in the text.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'on' in 'Also on communion between the communities' indicates a present focus or immediate relevance, as in a headline.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'on' indicates a current or ongoing discussion or focus on the topic of communion between communities.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'on' indicates a current or ongoing discussion or focus on the topic of communion between communities.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'on' indicates a current or ongoing discussion or focus on the topic of communion between communities.""
+}",['present'],1,['present'],,,,
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Tense,['past'],['past'],['past'],TRUE,"['past', 'future']","{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense 'was reported', future tense 'would answer' and also changes tense in the middle of the sentence from past 'was reported' to future 'had been completed', for an effect of describing a sequence of events.""
+}","['past', 'future', 'progression']","{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense 'was reported', future tense 'would answer' and changes tense in the middle of the sentence from past to future, which is a progression of tenses for effect.""
+}","['past', 'future', 'progression']","{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense 'was reported', future tense 'would answer', and changes tense in the middle of the sentence for effect with 'had been completed'.""
+}","['past', 'future', 'progression']",1,"{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense 'was reported', future tense 'would answer', and a change in tense in the middle of the sentence for effect, from 'was reported' to 'after an FBI investigation had been completed'.""
+}","['past', 'future', 'progression']","{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense 'was reported', future tense 'would answer', and a change in tense from past to future 'had been completed' for effect.""
+}","['past', 'future', 'progression']","{
+  ""Properties"": [""past"", ""future"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense 'was reported', future tense 'would answer', and changes tense in the middle of the sentence from past to future, creating a progression effect.""
+}","['past', 'future', 'progression']",1,"['past', 'future', 'progression']",,,,
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'wrote' to indicate that Janet Smith already wrote the quoted statement.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'wrote' indicates that the action of writing took place in the past, therefore the past tense is utilized in this sentence.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'wrote' to indicate that Janet Smith already wrote the statement.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'wrote' to indicate that Janet Smith already wrote the statement.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'wrote' to indicate that Janet Smith already wrote the statement.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'wrote' to indicate that Janet Smith already wrote the statement.""
+}",['past'],1,['past'],,,,
+10448,[],Anybody?,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text includes the use of present tense in the headline 'Scientists discover new species' and past tense in the sentence 'The researchers conducted a thorough analysis.'""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The text uses the present tense in the headline 'Eruption shakes city' to emphasize the immediacy of the event. It also uses the past tense in the article body to describe events that have already occurred.""
+}","['present', 'past']","{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The headline uses the present tense 'Guerrilas take Afgan capital' for immediacy effect and to emphasize the action happening currently.""
+}",['present'],0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The example text contains the use of present tense in the headline 'Guerrillas take Afghan capital' for immediacy effect, and past tense in the sentence 'He told reporters' to express something that already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The example text contains the use of present tense in the headline 'Guerrillas take Afgan capital' for immediacy effect, and past tense in the sentence 'He told reporters' to express something that already happened.""
+}","['present', 'past']","{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The example text uses the present tense in the headline 'Guerrillas take Afghan capital' to create immediacy and emphasize the action.""
+}",['present'],0,"['present', 'past']",,,,
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Tense,['past'],['past'],['past'],TRUE,"['past', 'present']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense 'was' to express something that already happened. Additionally, the sentence changes tense in the middle for effect, using the modal 'possibly' and 'an emerging trend' to convey a sense of potentiality and progression.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates past tense, while transitioning to 'is' indicates a change in tense for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to indicate that May's growth already happened.""
+}",['past'],0,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates past tense, and the change from 'was' to 'is' in 'possibly an emerging trend' creates a progression in tense for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates past tense, and the change from 'was' to 'is' in 'is less than' creates a progression in tense for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates the past tense, while the change from 'was' to 'is' in 'possibly an emerging trend' creates a progression for effect.""
+}","['past', 'progression']",1,"['past', 'progression']",,,,
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of past tense '1605' indicates that the painting was created in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The example text uses the past tense to describe the creation of a painting in 1595.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of past tense indicates that the painting 'St. Francis in Ecstacy' was created in 1595, and is already an event that has occurred in the past.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of '1595' indicates that the painting was created in the past, so the past tense is used to describe the artwork.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of '1595' indicates that the painting was created in the past, so the past tense is used to describe the artwork.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of '1595' indicates that the painting was created in the past, and the title 'St. Francis in Ecstacy' also suggests a past event.""
+}",['past'],1,['past'],,,,
+11936,[],America's Immigration Voice.,Tense,[],[],[],TRUE,[],"{
+    ""Properties"": [""present""],
+    ""Explanation"": ""The headline uses the present tense to convey immediacy and to emphasize the importance of the topic.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The headline uses the present tense to create immediacy and emphasize the organization's current role and impact.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The headline uses the present tense to create an immediacy effect and emphasize the importance of the topic.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The headline uses the present tense to create immediacy and emphasize the importance of the topic.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'America's Immigration Voice' in the present tense creates an immediate and impactful effect, often used in headlines.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The headline uses the present tense to create immediacy and emphasize the importance of the topic.""
+}",['present'],1,['present'],,,,
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The sentence uses the past tense 'was' to express that the desire was common to the mentioned voters.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'was' indicates the past tense, expressing something that has already happened.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The text uses the past tense 'was' to express something that already happened.""
+}",['past'],1,"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'was' indicates that the action of having a common desire is in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'was' indicates that the action of having a common desire is in the past.""
+}",['past'],"{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'was' indicates that the action of having a common desire is in the past.""
+}",['past'],1,['past'],,,,
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Tense,['past'],['past'],['past'],TRUE,"['progression', 'past']","{
+  ""Properties"": [""progression""],
+  ""Explanation"": ""The example text uses the progression property by changing tense in the middle of the sentence to emphasize the contrast between the past action (while bombs were falling) and the present action (continued to give tours and lectures).""
+}",['progression'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened, and also changes tense in the middle of a sentence for effect, by switching from past tense 'were falling' to present tense 'continued' for the immediacy effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened ('continued', 'were falling', 'were starving'). Additionally, there is a change in tense within the sentence for effect ('continued' - past tense, 'describing' - present participle).""
+}","['past', 'progression']",0,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened, and also changes tense in the middle of a sentence for effect, emphasizing the contrast between the ongoing actions and the past actions.""
+}","['past', 'progression']","{
+  ""Properties"": [""progression""],
+  ""Explanation"": ""The sentence changes tense in the middle, from 'were falling' (past) to 'continued' (past) to 'describing' (present), creating a sense of immediacy and emphasizing the ongoing action.""
+}",['progression'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe actions that have already happened, and it also changes tense in the middle of the sentence for effect, emphasizing the contrast between the ongoing actions and the past actions.""
+}","['past', 'progression']",0,"['past', 'progression']",,,,
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,Tense,['present'],['present'],['present'],TRUE,"['past', 'present']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The sentence uses the present tense ('mandates') to emphasize the current state of the law, and the past tense ('mandated') to indicate that the waiting period for handgun purchase is already in place.""
+}","['present', 'past']","{
+  ""Properties"": [""past""],
+  ""Explanation"": ""The use of 'already mandates' indicates the past tense, expressing something that has already happened.""
+}",['past'],"{
+  ""Properties"": [""present"", ""past""]
+  ,
+  ""Explanation"": ""The use of 'already mandates' indicates the past tense, while 'can buy' indicates the present tense.""
+}","['present', 'past']",0,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'already' indicates a past action, while 'can buy' indicates a present action.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'already mandates' indicates the past tense, while 'can buy' indicates the present tense.""
+}","['present', 'past']","{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'mandates' and 'can buy' indicates the present tense, while 'already' indicates that the law is already in place, suggesting the past tense.""
+}","['present', 'past']",1,"['present', 'past']",,,,
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The present tense 'set' is used to emphasize an action and create immediacy in the statement.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'set' indicates that the present tense is being used to emphasize Pope Francis' actions in handling the abuse information.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses present tense to emphasize the immediacy and impact of Pope Francis' actions.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'set' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of present tense 'set' in the context of discussing a recent event emphasizes the immediacy and relevance of the action, which is a common feature of present tense usage in news text.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'set' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],1,['present'],,,,
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Tense,['past'],['past'],['past'],TRUE,['active'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'said' in the past tense indicates the presence of the past tense property.""
+}",['present'],"{
+  ""Properties"": [
+    ""present""
+  ],
+  ""Explanation"": ""The use of 'said' in the past tense indicates the past tense property, but 'President Trump said' is in the present tense, indicating the present property. This creates an immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'said' in past tense would imply that the statement was made in the past, but the use of 'President Trump says' gives the immediate effect often used in headlines for immediacy.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'said' in the past tense indicates that the action has already happened, so the tense used is past.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'said' in the past tense indicates that the action has already occurred, so the tense used is the past.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'said' indicates the present tense, which is often used in headlines for immediacy effect or to emphasize an action.""
+}",['present'],1,['present'],,,,
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'going to' indicates a future action in the reported speech.""
+}",['future'],"{
+  ""Properties"": [""past"", ""future""]
+  , ""Explanation"": ""The use of 'told' indicates past tense, while 'was going to' indicates future tense.""
+}","['past', 'future']","{
+  ""Properties"": [
+    ""past"",
+    ""future""
+  ],
+  ""Explanation"": ""The text uses the past tense to describe what Paddock told him before the sale. Additionally, the future tense is used to convey Paddock's plans of going out to the desert."" 
+}","['past', 'future']",0,"{
+  ""Properties"": [""past"", ""future""],
+  ""Explanation"": ""The use of 'told' indicates past tense, while 'going to' indicates future tense.""
+}","['past', 'future']","{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'going to' indicates a future action, suggesting the expression of something that has yet to happen.""
+}",['future'],"{
+  ""Properties"": [""past"", ""future""]
+  ,
+  ""Explanation"": ""The text uses the past tense 'told' to express something that already happened, and the future tense 'going to' to express something that has yet to happen.""
+}","['past', 'future']",0,"['past', 'future']",,,,
+14038,[],And in Russia.,Tense,[],[],[],TRUE,[],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense to emphasize an action or to create an effect of immediacy.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'And' implies a continuation of the ongoing events, suggesting a use of present tense for immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'and' indicates a continuation of current events, suggesting the present tense.""
+}",['present'],1,"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'in Russia' suggests a current or ongoing situation, indicating the use of the present tense for immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'in Russia' suggests a current or ongoing situation, indicating the use of the present tense for immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'in' indicates that the statement is about the current situation, hence the use of present tense for immediacy effect.""
+}",['present'],1,['present'],,,,
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the CIA's actions in 1953, and then switches to the present tense to emphasize the ongoing nature of their specialization in covering up its role in state-sponsored assassinations.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to indicate that the CIA was developing a manual in 1953. Additionally, it switches to the present tense to emphasize the ongoing nature of the CIA's specialization in covering up its role in assassinations.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was' indicates the past tense, and the change from 'was' to 'is' in the middle of the sentence creates a progression for effect.""
+}","['past', 'progression']",1,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the actions of the CIA in 1953. Additionally, it switches to the present tense ('is specializing') to emphasize the ongoing nature of the CIA's activities.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe events that have already happened ('was in the process', 'was specializing'), and also changes tense in the middle of the sentence for effect ('showed' - past tense, 'specializing' - present participle).""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The text uses the past tense to describe the actions of the CIA in 1953. Additionally, it switches to the present tense ('is specializing') to emphasize the ongoing nature of the CIA's activities.""
+}","['past', 'progression']",1,"['past', 'progression']",,,,
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Tense,"['past', 'present']","['past', 'present']","['past', 'present']",TRUE,['past'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of present tense in 'explained' adds immediacy to the statement, which is common in news headlines.""
+}",['present'],"{
+  ""Properties"": [
+    ""present""
+  ],
+  ""Explanation"": ""The use of 'explained' in the present tense in the reported speech creates an immediacy effect.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The text uses the present tense 'is' to emphasize the current and ongoing nature of the statement being made.""
+}",['present'],1,"{
+  ""Properties"": [""present"", ""past""],
+  ""Explanation"": ""The use of 'is' in 'code is speech' indicates the present tense, while 'explained' and 'launched' indicate past tense.""
+}","['present', 'past']","{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'explained' in the present tense indicates the immediate context of the explanation.""
+}",['present'],"{
+  ""Properties"": [""present""],
+  ""Explanation"": ""The use of 'explained' in the present tense indicates the immediacy effect, emphasizing the action as if it is currently happening.""
+}",['present'],0,['present'],,,,
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Tense,['past'],['past'],['past'],TRUE,['past'],"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses past tense to describe the initial reaction to Campos' actions, and then changes to past progressive tense to describe the ongoing action at that time.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was hailed' indicates past tense, while 'was hailed' followed by 'a guard at the Mandalay Bay Resort and Casino' and 'helping guide' creates a progression of tenses within the sentence.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The use of 'was hailed' in the past tense and the shift to the past tense 'helping guide' in the middle of the sentence indicate the use of past tense and tense progression.""
+}","['past', 'progression']",1,"{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense to describe an action that already happened ('was hailed') and then switches to the past progressive tense ('helping guide') for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense to describe an action that already happened ('was hailed') and then changes to the present tense ('helping guide') for effect.""
+}","['past', 'progression']","{
+  ""Properties"": [""past"", ""progression""],
+  ""Explanation"": ""The sentence uses the past tense to describe Campos' initial perception as a hero, and then switches to the past progressive tense to describe his actions at that time.""
+}","['past', 'progression']",1,"['past', 'progression']",,,,

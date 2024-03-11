@@ -1,0 +1,11 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+APP-ELB/*
+annotation-key-pair.pem
+AWS-IAM.rtf
+APP/Archive.zip
+DO_NOT_DISTRIBUTE/*
+**/.ipynb_checkpoints/*

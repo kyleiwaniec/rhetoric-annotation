@@ -1,0 +1,585 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_FT_Maj_gpt3.5_0.0_V3_2,property_FT_Maj_gpt3.5_0.0_V3_2
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'as much' in the sentence indicates the presence of polysyndeton, where conjunctions are used between every item.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'as' between 'the glory,' and 'the greatness of his conquests' creates a polysyndeton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'as' to connect the different motivations ('to acquire that glory' and 'to signalise himself') indicates the presence of polysyndeton in the text.""
+}",['polysyndenton'],True,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'as' between 'to acquire that glory' and 'to signalise himself' indicates the presence of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The text uses the polysyndenton property by using the conjunction 'as' between the listed reasons for Temur's actions.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'as' between 'acquire that glory' and 'to signalise himself' suggests the presence of polysyndenton.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the conjunction 'but' to join clauses and lists the pope’s lie, homosexual activity, and assurance with conjunctions.""
+}",['polysyndenton'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'first place' suggests a gradatio, listing items in a series with an overlapping relationship, implying a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence contains the use of the polysyndenton, with 'but' and 'that' functioning as conjunctions between the listed clauses, indicating the presence of this specific rhetorical device.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'but' between 'it follows his astoundingly brazen lie' and 'we can take the assurance for what it seems to be worth' demonstrates the polysyndenton property.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the conjunction 'but' to connect the two clauses, indicating polysyndeton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without any conjunctions.""
+}",['asyndenton'],0,['polysyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'and' before 'horrifying' is absent so it falls under the category of asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the adjectives 'horrifying.'""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the adjectives 'horrifying'.""
+}",['asyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the adjectives 'horrifying'.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the actions 'told', 'horrifying' without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the adjectives 'horrifying'.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The text uses the 'asyndenton' property, as it lists actions ('cause violence' and 'disrupt community cohesion') without using conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'violence' and 'disrupt' suggests polysyndenton, a listing technique where conjunctions are used between every item.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses the asyndenton property by listing 'cause violence' and 'disrupt community cohesion' without using any conjunctions.""
+}",['asyndenton'],False,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the reasons for being told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the reasons without any conjunctions, creating a sense of urgency and directness.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the reasons without any conjunctions, creating a sense of urgency and directness.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between the items 'appearance,' 'actuality,' and 'elected officials.'""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The text uses asyndenton by listing the items 'violation of the Senate Ethics rules' and 'the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes' without using any conjunctions.""
+}",['asyndenton'],"{
+    ""Properties"": [""polysyndenton""],
+    ""Explanation"": ""The use of the conjunction 'which' to connect the phrases 'appearance' and 'actuality' indicates polysyndeton, using conjunctions between every item.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'which' between 'appearance' and 'actuality' suggests a polysyndeton structure.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'which' between 'the appearance' and 'actuality' suggests polysyndeton in the sentence.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'or' between 'appearance' and 'actuality' qualifies as polysyndeton.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Series,[],[],[],True,[],"{
+  ""Properties"": [
+    ""polysyndenton""
+  ],
+  ""Explanation"": ""The use of the conjunction 'and' in the phrase 'those responsible in the Church' suggests the presence of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The statement implicitly lumps together 'those responsible in the Church' as a single category without explicitly listing them.""
+}",['bracketing'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The use of 'prelate of the authority of Archbishop Carlo Maria Viganò' implicitly lumps together Archbishop Viganò and other prelates, indicating they should be taken seriously by those responsible in the Church.""
+}",['bracketing'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'truth' and 'love' suggests the presence of polysyndenton in the text.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'by' between 'prelate' and 'authority' suggests the use of polysyndenton in the sentence.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'authority' and 'Archbishop' suggests polysyndenton in the statement.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence 'neither notes nor memories' uses asyndeton by omitting conjunctions between the listed items.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing 'neither notes nor memories' and 'contemporaneous notes and later verbal testimony' without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The text uses asyndeton to list the contrasting elements of 'neither notes nor memories', reinforcing the idea of their fallibility.""
+}",['asyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing 'neither notes nor memories' and 'contemporaneous notes and later verbal testimony' without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing two contrasting elements ('neither notes nor memories') without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence 'neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails' uses asyndenton by listing items without using any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Series,['polysyndenton'],['polysyndenton'],['polysyndenton'],True,[],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of repetition of 'thousands' suggests a gradatio as it lists items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [
+    ""polysyndenton""
+  ],
+  ""Explanation"": ""The use of 'and' between each description ('thousands and thousands and thousands and thousands') qualifies the text as an example of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'thousands and thousands and thousands and thousands' suggests gradatio, a list of items with overlapping, implying a chain of causality.""
+}",['gradatio'],False,"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'thousands and thousands and thousands and thousands' suggests a gradatio, a list of items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'thousands and thousands and thousands and thousands' suggests a gradatio, a list of items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'thousands and thousands and thousands and thousands' suggests a gradatio, a list of items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],1,['gradatio'],1.0,0.0,GPT explanation is not logical,['polysyndenton'],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'truth' and 'you know it' creates a polysyndeton, indicating a strong connection between the two ideas.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'the truth' and 'you know it' qualifies as polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'the truth' and 'you know it by her story' qualifies this as polysyndenton.""
+}",['polysyndenton'],True,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'truth', 'you know it', and 'her story' qualifies as polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'the truth', 'love', 'courage', and 'honesty' creates a polysyndeton, indicating a strong emphasis on each individual quality.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'the truth', 'you know it', and 'her story' creates a polysyndeton in the sentence.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The use of 'and' between 'Italian and English' is absent, indicating asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the languages ('Italian and English') without any conjunction between them.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'Italian' and 'English' suggests polysyndeton in the sentence, emphasizing the enumeration of languages for comprehensive understanding.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses a series of items without any conjunctions, as seen in the phrase 'in both Italian and English'.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses a listing structure without any conjunctions, as seen in 'Italian and English'.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses a series of items without any conjunctions, as seen in 'Italian and English'.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The text uses polysyndenton by repeatedly using the conjunction 'and' to list the entities involved in the research, 'a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.'""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The excerpt uses asyndenton by listing items (American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News) without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [
+    ""polysyndenton""
+  ],
+  ""Explanation"": ""The use of 'and' between 'American Institute for Behavioral Research and Technology' suggests polysyndeton.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'American Institute for Behavioral Research and Technology' suggests the presence of polysyndenton in the text.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'American Institute for Behavioral Research and Technology' suggests the presence of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'American Institute for Behavioral Research and Technology' and 'Breitbart News' qualifies as polysyndenton.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Series,[],[],[],True,[],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The speaker uses 'before...gets any more out-of-control than it already is' to suggest a chain of events, indicating a gradatio structure.""
+}",['gradatio'],"{
+  ""Properties"": [""order""],
+  ""Explanation"": ""The use of 'sooner rather than later' implies an increasing order, suggesting that the action should be considered now rather than at a later time.""
+}",['order_(incrementum)'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'before...than' and 'any more...than' suggests a chain of causality, indicating a gradatio structure.""
+}",['gradatio'],False,"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'before' suggests a chain of causality, indicating a gradatio structure.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'before...than' suggests a chain of causality, indicating a gradatio structure.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'unprecedented moment in papal history' and 'unprecedented step' suggests a chain of causality, indicating a progression or escalation of events.""
+}",['gradatio'],1,['gradatio'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' between each adjective ('dark, impenetrable, and irreversible') qualifies this as an example of polysyndeton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses an asyndeton by not using any conjunctions between the listed items ('dark, impenetrable, irreversible').""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' between each adjective ('dark', 'impenetrable', 'irreversible') in the sentence constitutes polysyndeton.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between each item in the list 'dark, impenetrable, and irreversible' indicates the presence of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between each adjective creates a polysyndeton in the list of descriptions.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between each adjective 'dark', 'impenetrable', and 'irreversible' qualifies this sentence as an example of polysyndenton.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,GPT makes stuff up,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The text is using asyndeton, as it lists the actions of Chris Bryant without any conjunctions, creating a sense of urgency and emphasis on each action.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' to link multiple qualities (condoning fascism, not conducive to the public good) in the description of Donald Trump's presence.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'a senior Labour backbencher' and 'a senior Labour MP' qualifies as polysyndenton, as it uses conjunctions between every item in the list.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The text uses asyndeton by listing the reasons for urging an official ban on Donald Trump without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the reasons for urging May to issue an official ban on Donald Trump without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'condoning fascism' and 'his presence is not conducive to the public good' qualifies as polysyndenton.""
+}",['polysyndenton'],0,['asyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'a religion', 'a belief system', and 'mandates warfare against unbelievers' demonstrates the polysyndenton property.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of 'and' between 'religion', 'belief system', and 'mandates warfare' suggests a listing of multiple related items.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'religion', 'belief system', and 'mandates warfare' demonstrates the polysyndenton property.""
+}",['polysyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the components of the belief system, creating an asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'and' is omitted when listing the components of the belief system, creating an asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'religion' and 'belief system' qualifies this sentence as an example of polysyndeton.""
+}",['polysyndenton'],0,['asyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The usage of 'and' between 'Catholics' and 'loss' and 'faith' suggests polysyndenton is used in this sentence.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses the 'I have seen, a veritable chorus of Catholics, declaring' without any conjunctions, indicating a lack of conjunctions when listing items.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of 'and' between 'faith', 'institution', and 'complete' creates a polysyndeton, emphasizing each item in the list and conveying a sense of accumulation or intensity.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between 'Catholics', 'loss of faith', and 'Church'.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between 'faith', 'institution', and 'complete'.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between 'faith', 'institution', and 'complete'.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Series,[],[],[],True,[],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The sentence uses the polysyndeton property by using the conjunction 'and' between the items 'real threat', 'largely immune', and 'attack from the air'.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'one that is largely immune to attack from the air' suggests polysyndeton, indicating a sense of emphasis and urgency.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the repeated conjunction 'and' suggests a connection between 'a very real threat' and 'one that is largely immune to attack from the air.'""
+}",['polysyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses an asyndeton by listing items without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'very' and 'largely' suggests a gradatio, indicating a progression or escalation in the threat's severity and immunity to attack.""
+}",['gradatio'],0,['asyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence lists 'the US' and 'South Korea' without using any conjunctions, making it an example of asyndenton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses a series of items ('the US, South Korea, and the north') without any conjunctions in between.""
+}",['asyndenton'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The mention of 'the US and South Korea' implicitly lumps them together as a unified entity from the perspective of North Korea.""
+}",['bracketing'],False,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing 'the US' and 'South Korea' without any conjunction between them.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence lists 'the US' and 'South Korea' without using any conjunctions, indicating the use of asyndenton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses a listing of items without any conjunctions, creating a sense of urgency and directness.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,GPT makes stuff up,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Series,[],[],[],True,[],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The use of 'the meekest man alive' brackets this description with 'was sent to the face of the Pharaoh to tell him to obey or else', implicitly lumping the description of the meekest man with the action he was sent to perform.""
+}",['bracketing'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The sentence presents a progression of ideas, starting with 'the meekest man alive' and leading to the confrontation with the Pharaoh, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The sentence presents a chain of events, starting with the concept of the meekest man being sent to confront the Pharaoh, implying a progression of escalating events.""
+}",['gradatio'],False,"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'the meekest man alive' and 'the face of the Pharaoh' suggests a chain of causality, implying that even the meekest person was sent to confront the Pharaoh.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'the meekest man alive' and 'the face of the Pharaoh' suggests a chain of causality, indicating a progression from extreme meekness to confronting the powerful Pharaoh.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The use of 'the meekest man alive' and 'the face of the Pharaoh' suggests a chain of causality, implying that the meekest man was sent to the Pharaoh as a result of his meekness.""
+}",['gradatio'],1,['gradatio'],1.0,0.0,GPT explanation is not logical,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'and' between the listed items is omitted, creating an asyndeton: 'undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.'""
+}",['asyndenton'],"{
+  ""Properties"": [
+    ""asyndenton""
+  ],
+  ""Explanation"": ""The use of 'and' is omitted when listing the ways Kavanaugh may potentially undermine the #4thAmendment right, indicating the use of asyndenton.""
+}",['asyndenton'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The sentence presents a chain of ideas, suggesting a progression or escalation: Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, and it will be too late for others to join me.""
+}",['gradatio'],False,"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The mention of 'Supreme Court' implicitly lumps Kavanaugh in with the other members of the court, using bracketing.""
+}",['bracketing'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The mention of 'Supreme Court' implicitly lumps Kavanaugh with the other justices, indicating that his actions will affect the entire court's decisions.""
+}",['bracketing'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The mention of 'our #4thAmendment right against unreasonable searches and seizures' is bracketed with 'Kavanaugh is on the Supreme Court' to imply that his presence on the court will lead to the undermining of this right.""
+}",['bracketing'],1,['bracketing'],1.0,0.0,GPT explanation is not logical,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Series,[],[],[],True,[],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The sentence presents a sequence of events, with a gird failure leading to panic, emphasizing the potential consequences and the need for preparedness.""
+}",['gradatio'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'state of panic' and 'it’s always good to be prepared just in case' demonstrates the polysyndeton property.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without using any conjunctions.""
+}",['asyndenton'],False,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items ('a grid failure', 'fling the United States into a state of panic', 'it's always good to be prepared just in case') without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items ('panic' and 'it’s always good to be prepared') without any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses an asyndeton by listing the organizations without any conjunctions, giving a sense of urgency and directness.""
+}",['asyndenton'],"{
+  ""Properties"": [
+    ""asyndenton""
+  ],
+  ""Explanation"": ""The sentence uses asyndenton by listing two entities without any conjunction in between: 'the U.S. Conference of Catholic Bishops and the hierarchy elsewhere'.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of 'and' between 'the U.S. Conference of Catholic Bishops' and 'the hierarchy elsewhere' demonstrates polysyndenton.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'U.S. Conference of Catholic Bishops' and 'the hierarchy elsewhere' qualifies this as an example of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between 'U.S. Conference of Catholic Bishops' and 'the hierarchy elsewhere as well.'""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' between 'U.S. Conference of Catholic Bishops' and 'the hierarchy elsewhere as well.'""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the actions without any conjunctions, creating a sense of urgency and directness.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses 'and' before the last item, but omits conjunctions before the earlier items, creating an asyndeton structure.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'but' in the sentence indicates the presence of polysyndeton, as it links the contrasting statements about Iran's plans for enrichment and the potential expansion of activities.""
+}",['polysyndenton'],False,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the polysyndenton property by using the conjunction 'and' to connect the phrases 'that it plans only to increase enrichment within limits set by 2015 deal' and 'the announcement came with threats from a top Iranian official that the activities could be quickly expanded.'""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'that' between 'increase enrichment within limits' and 'the announcement came with threats' indicates the presence of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'that' between 'increase enrichment' and 'the announcement' suggests polysyndenton in the sentence.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,GPT makes stuff up,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Series,[],[],[],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence lists items ('CNN anchor Jake Tapper', 'a few others') without using any conjunctions in between, indicating the use of asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [
+    ""polysyndeton""
+  ],
+  ""Explanation"": ""The sentence uses the conjunction 'and' between 'a few others,' 'tweeting out a few quotes,' and 'declared,' creating a polysyndeton structure.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The text uses asyndenton to list the actions taken by CNN anchor Jake Tapper, implying a sense of urgency and directness.""
+}",['asyndenton'],False,"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'a few others' without any conjunctions suggests an asyndeton in the listing of people who began tweeting out quotes from Farrakhan's speech.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing items without using any conjunctions, such as 'and', between them.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'a few others' without any conjunctions suggests an asyndeton in the listing of people who began tweeting out quotes from Farrakhan's speech.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,GPT misinterprets the feature,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Series,['bracketing'],['bracketing'],['bracketing'],True,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'or' without conjunctions between listed items creates an asyndeton structure.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of the conjunction 'or' and the lack of additional conjunctions indicates the use of asyndeton to list opposing entities.""
+}",['asyndenton'],"{
+  ""Properties"": [""bracketing""],
+  ""Explanation"": ""The example uses bracketing to list together BDS, Hamas, blood libels, and those who want to destroy Israel as a collective group, implicitly lumping them into the same category.""
+}",['bracketing'],False,"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing items without any conjunctions, creating a sense of urgency and emphasis on the contrasting choices.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The use of 'or' without any conjunctions between the listed items creates an asyndeton structure.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses an asyndeton by listing items without any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],1.0,0.0,,['bracketing'],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",Series,['asyndenton'],['asyndenton'],['asyndenton'],True,[],"{
+  ""Properties"": [
+    ""gradatio""
+  ],
+  ""Explanation"": ""The phrase 'moral, physical, emotional devastation' forms a list of items with overlapping, suggesting a chain of causality, which is characteristic of gradatio.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The example text employs gradatio by listing different types of devastation (moral, physical, emotional) suffered by the victims in a way that suggests a progression or chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio"", ""asyndenton""],
+  ""Explanation"": ""The use of a litany of lives of total moral, physical, emotional devastation suggests gradatio, as the items in the list build on each other. Additionally, the absence of conjunctions suggests the use of asyndenton.""
+}","['gradatio', 'asyndenton']",False,"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The phrase 'total moral, physical, emotional devastation' suggests a gradatio, a list of items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The phrase 'total moral, physical, emotional devastation' suggests a gradatio, a list of items with overlapping, suggesting a chain of causality.""
+}",['gradatio'],"{
+  ""Properties"": [""gradatio""],
+  ""Explanation"": ""The phrase 'total moral, physical, emotional devastation' suggests a chain of causality, indicating the use of gradatio.""
+}",['gradatio'],1,['gradatio'],1.0,0.0,GPT explanation is not logical,['asyndenton'],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",Series,['bracketing'],[],[],False,[],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The use of the conjunction 'and' between 'the modern world', 'the practitioners of other religions', and 'Bugnini' qualifies the text as an example of polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses 'and' between each of the listed texts, indicating polysyndenton.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndeton""],
+  ""Explanation"": ""The use of the conjunction 'and' to conjoin the listed texts (Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate, and Sacrosanctum Concilium) indicates the presence of polysyndeton in the text.""
+}",['polysyndenton'],True,"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The text uses the polysyndenton property by using the conjunction 'and' between the listed documents and individuals.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The text uses the polysyndenton property by using the conjunction 'and' between the listed documents and individuals.""
+}",['polysyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The text uses polysyndenton by using the conjunction 'and' between the listed documents and individuals, such as 'Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium' and 'the modern world' and 'the practitioners of other religions'.""
+}",['polysyndenton'],1,['polysyndenton'],1.0,0.0,,['bracketing'],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",Series,[],[],['asyndenton'],False,[],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the actions of the leaders of the Islamic Republic of Iran without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the actions of the leaders of the Islamic Republic of Iran without any conjunctions, creating a sense of urgency and directness.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence lists actions (chant, vow) without using any conjunctions between them, which is characteristic of asyndeton.""
+}",['asyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the actions of the leaders of the Islamic Republic of Iran without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the actions of the leaders of the Islamic Republic of Iran without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the actions of the leaders of the Islamic Republic of Iran without using any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],0.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Series,[],['bracketing'],['asyndenton'],False,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence lists items without using any conjunctions, which is an example of asyndeton.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence lists multiple actions without using any conjunctions, indicating a sense of urgency and directness.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence lists actions without using any conjunctions, indicating a rapid succession of events.""
+}",['asyndenton'],True,"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing items without any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],0.0,0.0,,[],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]
+11157,[],"Debra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",Series,[],['bracketing'],[],False,[],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses 'and' repeatedly to list the recipients of the donations without the use of any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""polysyndenton""],
+  ""Explanation"": ""The sentence uses the conjunction 'and' between every person and organization listed, creating a polysyndenton structure.""
+}",['polysyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses an asyndeton to list the recipients of the donations without using any conjunctions.""
+}",['asyndenton'],False,"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the recipients of the donations without using any conjunctions.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndenton""],
+  ""Explanation"": ""The sentence uses asyndenton by listing the recipients of the donations without using any conjunctions between them.""
+}",['asyndenton'],"{
+  ""Properties"": [""asyndeton""],
+  ""Explanation"": ""The sentence uses asyndeton by listing the recipients of the donations without using any conjunctions.""
+}",['asyndenton'],1,['asyndenton'],0.0,0.0,,['bracketing'],"[{'Answer': 'no', 'Property': 'bracketing'}, {'Answer': 'no', 'Property': 'order (incrementum)'}, {'Answer': 'no', 'Property': 'gradatio'}, {'Answer': 'no', 'Property': 'polysyndenton'}, {'Answer': 'no', 'Property': 'asyndenton'}]",[]

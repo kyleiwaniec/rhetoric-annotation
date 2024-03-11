@@ -1,0 +1,476 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_FT_Maj_gpt3.5_0.0_V3_2,property_FT_Maj_gpt3.5_0.0_V3_2
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'blends']",['compounds'],False,['conversions'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'ongoing' is a clipped form of the phrase 'on-going'.""
+}",['clipping'],"{
+  ""Properties"": [""compounds"", ""taboo deformation""],
+  ""Explanation"": ""The text contains compounds like 'leftwing' and 'witch hunt', and a taboo deformation with 'darn' in 'darn it'.""
+}","['compounds', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""analogy""],
+  ""Explanation"": ""The phrase 'witch hunt' is a foreign borrowing from the Old English word 'wicca' and the analogy to the Salem witch trials. The use of 'impair' and 'impede' together is an example of blending to form a compound with a similar meaning.""
+}","['foreign_borrowing', 'clipping', 'analogy']",False,"{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping 'leftwing' from 'left-wing', as well as the compound 'day one' formed by yoking the existing words 'day' and 'one' together.""
+}","['clipping', 'compounds']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains a clipped word 'leftwing' and a compound 'day one'.""
+}","['clipping', 'compounds']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping 'witch' from 'witch hunt' and the compound 'leftwing' formed by yoking the existing words 'left' and 'wing' together.""
+}","['clipping', 'compounds']",1,"['clipping', 'compounds']",0.0,0.0,GPT is only partially correct,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compound words are formed by joining two or more words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the prefixes im- and in- before pair and pede, respectively, which change the meaning of the words to not able to pair and not able to pede.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms are used in the sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the given sentence, as it does not involve the formation of a new word based on the model of another word.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they mean.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation does not apply to the given sentence, as it does not involve the use of less offensive words in place of more offensive counterparts.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]",['prefixes/suffixes']
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,New_words_and_changing_uses,['conversions'],['conversions'],['conversions'],True,[],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The expression 'no evidence — nor was asked for any' features doubling, with the repetition of 'no' and the use of 'nor' to introduce a second negative clause.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The use of 'no evidence' and 'nor was asked for any' results in the doubling of the negative structure.""
+}",['doubling'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The use of 'grave allegations' is an example of a compound word, where two existing words ('grave' and 'allegations') are yoked together to convey a specific meaning.""
+}",['compounds'],False,"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'grave allegations' uses the doubling property, where the same word is repeated for emphasis.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'no evidence — nor was asked for any' contains the doubling property, as it repeats the structure of 'no evidence' with 'nor was asked for any'.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'grave allegations' uses the doubling property, repeating an adjective to emphasize the seriousness of the allegations.""
+}",['doubling'],1,['doubling'],0.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms are used in the sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not utilized in the given sentence. Analogies involve the formation of new words, which is not present in the sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",[]
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],True,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The use of the compound 'sanctimony' and 'incompetence' qualifies as a compound, as they yoke existing words together to create a compound.""
+}",['compounds'],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of 'in' as a prefix in 'incompetence' indicates the addition of a prefix to change the meaning of the word.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""doubling"", ""foreign borrowing""],
+  ""Explanation"": ""The use of 'sanctimony' and 'incompetence' demonstrates doubling, and 'sanctimony' is borrowed from Latin ('sanctimonia').""
+}","['doubling', 'foreign_borrowing']",False,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'sanctimony and incompetence' is a compound, formed by yoking together the existing words 'sanctimony' and 'incompetence'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'sanctimony' and 'incompetence' are yoked together to create the compound 'sanctimony and incompetence'.""
+}",['compounds'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'sanctimony and incompetence' uses the doubling property, where two similar words are used together for emphasis or effect.""
+}",['doubling'],0,['compounds'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['prefixes/suffixes'],"[{'Answer': 'no', 'Explanation': 'no foreign borrowing word is used in the sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'Compound words are formed by joining two or more words together, such as open-minded or political correctness. The sentence provided does not contain any compound words, so the answer is no.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no prefixes or suffixes are used in the given sentence', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not utilized in the given sentence. Analogies involve the formation of new words, which is not present in the sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used in the sentence', 'Property': 'doubling'}]",[]
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],True,"['proper_nouns_to_common_nouns', 'acronyms']","{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym and 'Helms' as a proper noun turned into a common noun by referring to him without his formal title.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym for 'Central Intelligence Agency' and 'Richard Helms' as a reference to a person indicates the use of acronyms and proper nouns as common nouns.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+    ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+    ""Explanation"": ""The text uses the acronym 'CIA', formed from the first letters of 'Central Intelligence Agency'. It also demonstrates the use of the proper noun 'Richard Helms' being turned into a common noun by referring to him without an honorific title or specific context.""
+}","['acronyms', 'proper_nouns_to_common_nouns']",True,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' is an example of an acronym, formed from the first letters of 'Central Intelligence Agency'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym for 'Central Intelligence Agency' and 'Helms' as a proper noun turned into a common noun to refer to the former director.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' in the text is an example of an acronym, formed from the first letters of the words 'Central Intelligence Agency'.""
+}",['acronyms'],0,['acronyms'],1.0,1.0,,['acronyms'],"[{'Answer': 'no', 'Explanation': ' foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no prefixes or suffixes are used in the given sentence', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronym CIA for Central Intelligence Agency.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not relevant to the given sentence, which does not involve the formation of new words based on the model of other words.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]",['acronyms']
+1259,[7],Does Berg and the AMA support our military?,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],True,"['compounds', 'acronyms']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of acronym usage in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of acronym usage in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Berg' and 'AMA' as general terms for organizations rather than specific names suggests the transformation of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],False,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of an acronym in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of an acronym in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is a form of acronym usage in the text.""
+}",['acronyms'],1,['acronyms'],1.0,1.0,,['acronyms'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not relevant to the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no compounds present in the sentence', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no prefixes or suffixes are used in the given sentence', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions present', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms are used in the sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not relevant to the given sentence, so the answer is no.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no taboo deformation is present in the sentence', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",[]
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],True,"['proper_nouns_to_common_nouns', 'acronyms']","{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses the proper nouns 'CIA' and 'Director of National Intelligence Clapper' as general terms, indicating a shift from proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The use of 'protect' (a verb) as a noun 'protection' suggests a conversion of the word from one part of speech to another.""
+}",['conversion'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'CIA' which stands for Central Intelligence Agency.""
+}",['foreign_borrowing'],False,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The use of 'protect' as a verb in 'protect America' is an example of conversion, where a noun is used as a verb.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text does not contain any new words or changing uses. It uses the existing words 'CIA', 'Director', 'Brennan', 'National Intelligence', 'Clapper' and 'America'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties provided.""
+}",['foreign_borrowing'],0,['conversions'],1.0,0.0,GPT explanation does not match classification,['acronyms'],"[{'Answer': 'no', 'Explanation': ' foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compounds are formed by yoking existing words together, such as open house or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes, so the answer is no.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronym CIA for Central Intelligence Agency.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is a concept related to the formation of new words, not the structure or content of existing sentences. Therefore, the given sentence does not utilize analogy.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used in the sentence', 'Property': 'doubling'}]",['acronyms']
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",New_words_and_changing_uses,"['prefixes/suffixes', 'blends']","['compounds', 'prefixes/suffixes']","['prefixes/suffixes', 'acronyms']",False,[''],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawyers' in the context of legal representation may be a foreign borrowing, considering the shift from its conventional use to represent professionals in the legal field.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Ms.' in English is a borrowing from the honorific 'Miss' or 'Mrs.' in French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' could be seen as a foreign borrowing from the legal and political context, where it originated.""
+}",['foreign_borrowing'],True,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' in the context of U.S. politics is a foreign borrowing from the English language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' is a foreign borrowing from English, as it is derived from the word 'law' and the suffix 'maker'."" 
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' is a foreign borrowing from English, as it is derived from the word 'law' and the suffix 'maker' which is borrowed from Old English.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],0.0,0.0,GPT explanation is soup,"['prefixes/suffixes', 'blends']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compounds are formed by yoking existing words together, such as open-minded or political correctness, but the given sentence does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no prefixes or suffixes are used in the given sentence', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not present in the given sentence', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used', 'Property': 'doubling'}]",[]
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a general term to refer to a person, without being used as a specific proper noun, demonstrates the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Soros' is used as a common noun to refer to George Soros and his organizations in a general sense, similar to the use of 'kleenex' for tissue.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to George Soros, a specific individual, is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],True,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to George Soros, turning a proper noun into a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to a general term for a person, in this case, 'public enemy'.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to a category of people or organizations, rather than just the individual George Soros, demonstrates the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],1.0,0.0,GPT makde upo its own property,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing refers to borrowing words from another language, which is not present in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a public enemy. does not utilize compounds. Compound words are formed by joining two or more words together, such as open-minded or political correctness.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not present in the given sentence', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'Proper nouns to common nouns substitution is not used in the given sentence.', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not relevant to the given sentence, which is focused on the influence of George Soros in Hungary and criticism of him as a public enemy.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they represent.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation does not apply in this sentence, as there are no euphemisms or less offensive words used in place of more offensive ones.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used', 'Property': 'doubling'}]",[]
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],True,"['compounds', 'conversions']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'paralyzed' is an example of a conversion, as it is originally an adjective used here as a verb to describe the state of someone being affected.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is being used as a noun (defenseless people) instead of its original adjectival form, which represents a conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'robbed' and 'assaulted' as verbs, rather than nouns, demonstrates the conversion of these words from their original parts of speech.""
+}",['conversions'],True,"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is originally an adjective, but it is used here as a noun to refer to unarmed people, which is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is used as a noun in this context, which is a conversion from its original adjectival form.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is originally an adjective, but in this context, it is used as a noun to refer to unarmed people, which is a conversion of its original part of speech.""
+}",['conversions'],1,['conversions'],1.0,0.0,GPT is wrong about the part of speech,['prefixes/suffixes'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compound words are formed by joining two or more words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the prefix un- in defenseless.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize blends. Blends are combinations of words to create new entities, and the sentence provided does not contain any such combinations.', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms present', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence, which is discussing the frequency of violent crimes against defenseless people.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation involves using less offensive words in place of more offensive ones, such as darn it for damn it. The given sentence does not utilize taboo deformation.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",['prefixes/suffixes']
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']",False,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text uses foreign borrowing with 'Soviet Union', compounds such as 'Cold War', and analogy with 'grand-jury summons' and 'iota of harassment'.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The term 'Cold War' is a foreign borrowing from Russian (холо́дная война, kholódnaya voyna) and 'Red' is a clipping of 'Red Communist'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'defect' from the Latin 'defectus' involves borrowing a word from another language.""
+}",['foreign_borrowing'],False,"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soviet Union' and 'Cold War' are examples of foreign borrowing, as they are borrowed from Russian and German respectively. Additionally, 'Red' is a proper noun (referring to the Communist Party) that has been used as a common noun in this context.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains foreign borrowing with 'Soviet' and 'Moscow' from Russian, compounds with 'Cold War', 'World War II', and 'grand-jury summons', and analogy with 'Red wife' formed by analogy from 'Red Scare'.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text includes foreign borrowing with 'Soviet Union', compounds with 'Cold War' and 'World War II', and analogy with 'Red wife' formed by analogy from 'Red Scare'.""
+}","['foreign_borrowing', 'compounds', 'analogy']",0,"['foreign_borrowing', 'compounds', 'analogy']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,"['compounds', 'acronyms']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes compounds such as U.S., Cold War, World War II, and grand-jury.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not used in the given sentence', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronyms U.S. for United States.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not utilized in the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate natural sounds.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation does not apply in this sentence, as there are no less offensive words used in place of more offensive counterparts.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]","['compounds', 'acronyms']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'acronyms']",['acronyms'],False,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""loanword""],
+  ""Explanation"": ""The use of 'fascism' in the context of banning a political figure from entering the UK is a borrowing from Italian and refers to a political ideology.""
+}",['loanword'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'backbencher' and 'Labour' in the context of UK politics suggests foreign borrowing, as 'backbencher' is borrowed from the UK parliamentary system and 'Labour' refers to the British Labour Party.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'backbencher' is borrowed from the British parliamentary system and is used to refer to a member of parliament who does not hold a ministerial or shadow ministerial post.""
+}",['foreign_borrowing'],False,"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains a foreign borrowing 'fascism' and compounds like 'backbencher' and 'public good'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text includes the foreign borrowing of 'fascism' from Italian and compounds such as 'backbencher' and 'Labour MP'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'backbencher' from the English 'back' and 'bencher', and compounds such as 'backbencher' and 'Labour backbencher'.""
+}","['foreign_borrowing', 'compounds']",1,"['foreign_borrowing', 'compounds']",0.0,0.0,GPT explanation is soup,"['compounds', 'acronyms']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes compounds such as backbencher, official ban, condoning fascism, and public good.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the suffix -ing in condoning and the suffix -ive in conducive, both of which are examples of prefixes/suffixes changing the meaning of the words.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not present in the given sentence', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation does not apply to the given sentence, as it does not involve the use of less offensive words in place of more offensive ones.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]","['compounds', 'prefixes/suffixes']"
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,['doubling'],"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The use of 'smear' as a verb is a conversion, as 'smear' is originally a noun. The formation of 'last-minute' as a compound is an example of analogy, as it follows the model of other compound nouns like 'last-minute decision.'""
+}","['clipping', 'analogy']","{
+  ""Properties"": [""clipping"", ""conversion""],
+  ""Explanation"": ""The text contains a clipped word 'smears' from 'false last-minute smears' and converted the noun 'scare' into a verb 'drive me out'.""
+}","['clipping', 'conversion']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn' as a euphemism to soften the impact of a stronger word, 'damn'.""
+}",['taboo_deformation'],False,"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The text does not contain any foreign borrowings, compounds, prefixes/suffixes, blends, conversions, catachresis, acronyms, proper nouns to common nouns, analogy, fabrication, onomatopoeia, taboo deformation, or doubling. However, the word 'smears' is a foreign borrowing from the English word 'smear' and the word 'last-minute' is a clipped compound of 'last' and 'minute'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The text does not exhibit any of the other properties listed. The word 'smears' is a foreign borrowing from English, and 'last-minute' is a compound word formed by yoking together existing words.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping of 'smears' from 'last-minute smears' and the compound 'last-minute'."" 
+}","['clipping', 'compounds']",0,"['foreign_borrowing', 'clipping']",1.0,0.0,GPT explanation does not match classification,['compounds'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compound words are formed by joining two or more words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the suffix smears which changes the meaning of smear to indicate that they are false and last-minute.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms are used in the given sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not utilized in the given sentence. Analogies involve the formation of new words, which is not present in the sentence provided.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia. Onomatopoeia refers to words that sound like what they mean, such as cock-a-doodle-do and swish, which are not present in the given sentence.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'Taboo deformation involves using less offensive words in place of more offensive ones, which is not applicable in the given sentence.', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",['prefixes/suffixes']
+3895,[13],Impossible.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are present in the given text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are evident in the provided text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are evident in the given text.""
+}",[],True,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of new words or changing uses from the provided properties.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""None of the properties of New words and changing uses are present in the provided text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of new words or changing uses from the provided properties.""
+}",[],0,[],1.0,0.0,,['prefixes/suffixes'],"[{'Answer': 'no', 'Explanation': 'Foreign borrowing refers to borrowing words from another language, and the sentence Impossible does not utilize foreign borrowing.', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'Compound words are formed by joining two or more words together, but the given sentence does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The word impossible contains the prefix im-, which changes the meaning of the base word possible.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': ' impossible is not a clipped word.', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': '', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'Conversion is a specific grammatical concept involving changing a term from one part of speech into another. The sentence Impossible. does not involve any conversions.', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': ' impossible.', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'Acronyms are not utilized in the given sentence.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': '', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is a linguistic concept related to the formation of new words, so the sentence Impossible. does not utilize analogy.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': ' impossible is not a fabricated word, so the answer is no.', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'Impossible is not an onomatopoeic word.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': ' impossible is not a taboo deformation word', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'Impossible.', 'Property': 'doubling'}]",['prefixes/suffixes']
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],True,[],"{
+    ""Properties"": [""foreign borrowing""],
+    ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing as it comes from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing, as it is borrowed from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'Iran' is a foreign borrowing, as it is taken from the name of the country Iran.""
+}",['foreign_borrowing'],True,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing, as it is a word borrowed from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties listed.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties listed.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],1.0,0.0,GPT explanation does not match classification,['acronyms'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronyms US for United States.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply to the given sentence, as it does not involve the formation of a new word based on the model of another word.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",['acronyms']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,['compounds'],"{
+  ""Properties"": [""foreign borrowing"", ""catachresis"", ""taboo deformation""],
+  ""Explanation"": ""The title contains 'Assassination', a foreign borrowing, in a figurative sense, as well as 'character assassination', a catachresis, and potentially a taboo deformation.""
+}","['foreign_borrowing', 'catachresis', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The term 'assassination' comes from the foreign borrowing of the Latin word 'assassinare' and has been clipped to form 'character assassination', showing both properties.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'character assassination' is formed by analogy from the word 'assassination' to convey the idea of severely damaging someone's reputation, especially in the context of Judge Kavanaugh's controversial confirmation process.""
+}",['analogy'],False,"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The title contains the foreign borrowing 'Kavanaugh' from a proper noun, and the clipping 'Last-Minute' from 'last-minute'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The title contains the compound 'Last-Minute', which is a combination of two existing words. Additionally, 'Kavanaugh' is a proper noun being used as a common noun to refer to the judge, which is a form of proper nouns to common nouns.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The title contains 'Kavanaugh', a proper noun, which is used as a general term to refer to Judge Kavanaugh. This is an example of proper nouns to common nouns. Additionally, 'assassination' is a foreign borrowing from the Italian word 'assassinare'. The word 'Kavanaugh' can also be considered a clipping of the full name 'Brett Kavanaugh'.""
+}","['foreign_borrowing', 'clipping']",0,"['foreign_borrowing', 'clipping']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'Compound words are formed by joining two or more words together, such as open-minded or political correctness. The given sentence does not contain any compound words, so the answer is no.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes. The term last-minute is a compound adjective, not a prefix or suffix.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the given sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'Acronyms are formed from the first letters of strings of words, but the given sentence does not contain any acronyms.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in this context, as the sentence does not involve the formation of a new word based on the model of another word.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they mean.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]",[]
+4371,[15],The media is happy to talk about anti-Semitism.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],True,[],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The word 'anti-Semitism' is formed by adding the prefix 'anti-' to the proper noun 'Semitism' to indicate opposition or hostility toward Semitic people.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'anti-Semitism' has been converted from a noun to an adjective in the given text.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'anti-Semitism' is derived from German, where 'Semitismus' referred to the descendants of Shem, one of the sons of Noah. The 'anti' prefix was added to denote opposition or hostility."" 
+}",['foreign_borrowing'],False,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'anti-Semitism' is a foreign borrowing from German, where 'Semitismus' was coined in 1879 by Wilhelm Marr to refer to anti-Jewish sentiments.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'anti-Semitism' is a foreign borrowing from German, where 'Semitismus' was coined in 1879 by German agitator Wilhelm Marr to replace the traditional term Judenhass ('Jew-hatred').""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'anti-Semitism' is a foreign borrowing from German, where 'antisemitismus' was first coined in 1879 by Wilhelm Marr.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],1.0,0.0,GPT is only partially correct,"['prefixes/suffixes','foreign_borrowing']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not used in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'anti-Semitism is not a compound word', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The word anti-Semitism contains the prefix anti-, which changes the meaning of the word Semitism', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'Acronyms are not used in the given sentence.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'Proper nouns to common nouns substitution is not present in the given sentence.', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply to the given sentence, as it does not involve the formation of a new word based on the model of another word.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia. Onomatopoeia refers to words that sound like what they mean, and the sentence provided does not contain any such words.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",['prefixes/suffixes']
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",True,"['foreign_borrowing', 'acronyms']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of VDAWDI is an acronym formed from the first letters of multiple words: 'Vintage Date of the Average Weekly Data for Insured Unemployment'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the words 'Volatility, Downside, Asymmetry, Tail, Risk, and Drawdown Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' indicates the presence of an acronym, formed from the first letters of the string of words 'Veteran Disability Adjusted Wage Index'.""
+}",['acronyms'],True,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the string of words 'Veterans Disability Adjusted Wage Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the string of words 'Veterans and Displaced Worker Database Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of a string of words.""
+}",['acronyms'],1,['acronyms'],1.0,0.0,GPT is only partially correct,"['compounds', 'acronyms']","[{'Answer': 'no', 'Explanation': 'foreign borrowing refers to borrowing words from another language, which is not present in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the compound foreign-born.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the prefix foreign- before born.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize conversions, as it does not involve changing a term from one part of speech into another.', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronym VDAWDI, which is formed from the first letters of a string of words.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not used in the given sentence. Analogies involve the formation of new words, which is not present in the sentence provided.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they represent.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used in the sentence', 'Property': 'doubling'}]","['compounds', 'prefixes/suffixes', 'acronyms']"
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,"['clipping', 'compounds']","{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of the suffix '-ly' to form the adverb 'roughly' indicates the presence of a suffix in the text.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The term 'liberal' is being used as a noun when it is originally an adjective, demonstrating a conversion from an adjective to a noun.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to individuals with a particular political ideology, making it an example of conversion.""
+}",['conversion'],False,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to a person with liberal political views, which is a conversion from adjective to noun.""
+}",['conversions'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to a person with liberal ideologies. This is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of '4-to-4' as an acronym formed from the first letters of the words 'four to four.'""
+}",['acronyms'],0,['conversions'],0.0,0.0,GPT is only partially correct,"['compounds', 'conversions']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not relevant to the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compounds are formed by yoking existing words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'Acronyms are not used in the given sentence.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not used in the given sentence. Analogies involve the formation of new words, so the sentences content is unrelated to analogy.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they mean.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling used in the sentence', 'Property': 'doubling'}]",[]
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],True,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as an analogy to refer to the underlying philosophical concept behind Thomas's point.""
+}",['analogy'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'metaphysics' is originally a noun but has been converted to a verb in the phrase 'a matter of metaphysics'.""
+}",['conversion'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model for the formation of the word 'metapolitics'.""
+}",['analogy'],False,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics' by analogy.""
+}",['analogy'],1,['analogy'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['prefixes/suffixes'],"[{'Answer': 'no', 'Explanation': ' foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no compounds present in the sentence', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes, so the answer is no.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions present', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': ' Acronyms are not used in the given sentence, so the answer is no.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply to the given sentence, as it does not involve the formation of a new word based on the model of another word.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",[]
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,[],"{
+  ""Properties"": [""prefixes/suffixes"", ""conversions""],
+  ""Explanation"": ""The word 'tax cuts' uses the suffix '-s' to indicate plurality and the word 'attacking' is a conversion of the noun 'attack' into a verb.""
+}","['prefixes/suffixes', 'conversions']","{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of the prefix 'opposed' changes the meaning of the base word 'pose' to indicate a contrary action. The suffix '-ing' changes the verb 'attack' to the present participle form.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The term 'opposed' has been converted from a verb to an adjective in the phrase 'opposed tax cuts'.""
+}",['conversion'],False,"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion of the noun 'attack' into the verb 'attacking'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion of the noun 'attack' into the verb 'attacking'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion where 'opposed' is used as a verb instead of its original form as an adjective.""
+}","['compounds', 'conversions']",1,"['compounds', 'conversions']",1.0,1.0,,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compound words are formed by joining two or more words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not present in the given sentence', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]",[]
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",New_words_and_changing_uses,[],"['clipping', 'prefixes/suffixes']",['prefixes/suffixes'],False,['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The use of 'globalization' is a foreign borrowing from English, and 'irrelevancy' is a compound word formed by adding the suffix '-ancy' to the adjective 'irrelevant'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'globalization' is a foreign borrowing as the word originates from the English language, but it has been borrowed and used in the example text, which is not in the language of the Vatican.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""catachresis""],
+  ""Explanation"": ""The text uses the foreign borrowing 'globalization' and the 'catachresis' of 'vocations' to refer to the bringing of new members into the monasteries.""
+}","['foreign_borrowing', 'catachresis']",False,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'globalization' is an example of foreign borrowing, as it is a word borrowed from another language (English) and used in the text.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains foreign borrowing in the form of 'globalization' and 'irrelevancy', both borrowed from English. It also includes compounds such as 'contemplative life', 'vocations', and 'monasteries alive'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains the foreign borrowing 'Vatican' and the compound 'contemplative life'. 'Vatican' is borrowed from Latin, and 'contemplative life' is a compound of 'contemplative' and 'life'.""
+}","['foreign_borrowing', 'compounds']",0,"['foreign_borrowing', 'compounds']",0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compounds are formed by yoking existing words together, such as open house or political correctness, but the sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes/suffixes. Prefixes and suffixes are not present in the sentence, so the answer is no.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize conversions, as it does not involve changing a term from one part of speech into another.', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'catachresis is not used in the given sentence', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize acronyms.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence, which is focused on a warning given by Sr. Enrica Rosanna from the Vatican’s Congregation for Religious.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound of what they mean.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]",[]
+9866,[],But he is now a full-fledged member of the nuclear club.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of an organization or group, as in 'book club' or 'golf club'.""
+}",['analogy'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'full-fledged' is a compound word formed by joining the existing words 'full' and 'fledged'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'full-fledged' is a compound word formed by yoking together the existing words 'full' and 'fledged.'""
+}",['compounds'],False,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'full-fledged' is a compound word, formed by combining 'full' and 'fledged' to create a new entity with a specific meaning.""
+}",['compounds'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of a social club, indicating a group of countries with nuclear capabilities.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of a social club, where members share a common interest or characteristic. In this case, the analogy is used to describe a group of countries with nuclear capabilities.""
+}",['analogy'],0,['analogy'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. The phrase full-fledged is not considered a compound in this context.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The word full-fledged contains the prefix full- which changes the meaning of fledged, making it a compound word with a different meaning.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'Acronyms are not used in the given sentence, so the answer is no.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate the sound they represent.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the sentence', 'Property': 'doubling'}]",['prefixes/suffixes']
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],False,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses 'Slovakia' and 'Germany' as general terms, which are proper nouns used as common nouns. Additionally, 'Slovakia' is a foreign borrowing.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Slovakia' is a foreign borrowing from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The words 'Germany', 'Reinhard Marx', and 'Franz-Josef Bode' are used as general terms rather than specific names.""
+}",['proper_nouns_to_common_nouns'],False,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Slovakia' is a foreign borrowing, as it is a word borrowed from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'Slovakia', which is borrowed from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Slovakia' and 'Germany' in the text indicates the foreign borrowing of these proper nouns as common nouns to refer to the countries.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],0.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'no foreign borrowing word is used in the sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize compounds. Compounds are formed by yoking existing words together, such as open-minded or political correctness. The sentence provided does not contain any compound words.', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize prefixes or suffixes. Prefixes and suffixes are not present in the words February, Slovakia, Germany, Cardinal, Reinhard, Marx, Bishop, Franz-Josef, or Bode.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms are used in the sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not used in the given sentence. Analogies involve the formation of new words, which is not present in the sentence provided.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",[]
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],True,['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'departures' is used in analogy with the term 'questioned', suggesting that the Pope's actions deviate from the expected Catholic teaching in a similar manner to how questions are deviating from the expected course of action.""
+}",['analogy'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'departures' is originally a noun, but it is used here as a verb ('departures from Catholic teaching'), which is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', using the same pattern as 'arrival' to 'arrivals'.""
+}",['analogy'],False,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', indicating a deviation or divergence from a standard or norm, similar to the original word's meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', indicating a deviation from the usual course or standard, similar to how 'departure' indicates leaving or going away.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure'.""
+}",['analogy'],1,['analogy'],1.0,0.0,GPT explanation does not match classification,['compounds'],"[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'compounds'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no clipping is used in the sentence', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no blends are used in the given sentence', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no conversions are used in the given sentence', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'no', 'Explanation': 'no acronyms in the sentence', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy is not relevant to the given sentence, which does not involve the formation of new words based on the model of other words.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize onomatopoeia, as it does not contain any words that imitate natural sounds.', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no doubling is used in the given sentence', 'Property': 'doubling'}]",[]
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",True,['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The text contains the acronym 'CIA', which is formed from the first letters of the organization's full name, Central Intelligence Agency.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' is an acronym formed from the first letters of 'Central Intelligence Agency.'""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms"", ""foreign borrowing""],
+  ""Explanation"": ""The text includes the acronym 'CIA', which is a word formed from the first letters of 'Central Intelligence Agency'. It also features the foreign borrowing of 'assassinations' from the Italian word 'assassinare'.""
+}","['acronyms', 'foreign_borrowing']",False,"{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses the acronym 'CIA' (Central Intelligence Agency) and also demonstrates the use of a proper noun ('CIA') as a common noun to refer to the organization.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms"", ""compounds""],
+  ""Explanation"": ""The text contains the acronym 'CIA' (Central Intelligence Agency) and the compound 'state-sponsored'.""
+}","['acronyms', 'compounds']","{
+  ""Properties"": [""acronyms"", ""compounds""],
+  ""Explanation"": ""The text contains the acronym 'CIA' (Central Intelligence Agency) and the compound 'state-sponsored'.""
+}","['acronyms', 'compounds']",0,"['acronyms', 'compounds']",1.0,1.0,,"['compounds', 'acronyms']","[{'Answer': 'no', 'Explanation': 'foreign borrowing is not utilized in the given sentence', 'Property': 'foreign borrowing'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes compounds such as top-secret, state-sponsored, and covering up.', 'Property': 'compounds'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the suffix -ing to create the word specializing, which is an example of a suffix changing the meaning of the base word specialize.', 'Property': 'prefixes/suffixes'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'clipping'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'blends'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conversions'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'catachresis'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the acronyms CIA.', 'Property': 'acronyms'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'proper nouns to common nouns'}, {'Answer': 'no', 'Explanation': 'Analogy does not apply in the context of the given sentence.', 'Property': 'analogy'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'fabrication'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'onomatopoeia'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'taboo deformation'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'doubling'}]","['compounds', 'prefixes/suffixes', 'acronyms']"

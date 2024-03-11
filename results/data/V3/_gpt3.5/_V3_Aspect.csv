@@ -1,0 +1,689 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_gpt3.5_0.0_V3_2,property_gpt3.5_0.0_V3_2
+320,[ 3 16],There will be no turning back.,Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+    ""Properties"": [""future""],
+    ""Explanation"": ""The use of 'will' indicates a future action, so the aspect property 'future' is present.""
+}",[''],"{
+  ""Properties"": [""future""]
+  ,""Explanation"": ""The use of 'will' indicates a future action, indicating the usage of the future aspect.""
+}",[''],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The phrase 'will be' indicates a future action, suggesting a prediction or a promise. This usage does not fall into any of the specified aspect properties.""
+}",[''],1,"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, suggesting that the turning back has not yet occurred.""
+}",[''],"{
+  ""Properties"": [""future""]
+}",[''],"{
+  ""Properties"": [""future""],
+  ""Explanation"": ""The use of 'will be' indicates a future action, suggesting that the action of 'turning back' has not yet occurred.""
+}",[''],1,[''],1,0,gpt inserted its own property,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence There will be no turning back does not utilize the simple aspect. It uses the future tense with the modal verb will be, indicating a future state of being, which does not align with the simple aspect expressing a simple fact in the present or past. Instead, it suggests a future event or state.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence There will be no turning back does not utilize the perfect aspect. The use of will be indicates future tense, and turning back is a continuous action rather than a completed one. Therefore, it does not express a completed action characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence There will be no turning back does not utilize the progressive aspect. The phrase will be indicates future tense, and turning back is a gerund phrase functioning as a noun, not as a verb in the progressive aspect. Therefore, the sentence does not express an ongoing, habitual, or incomplete action.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence There will be no turning back does not utilize the perfect progressive aspect. The perfect progressive aspect requires the use of has been or have been followed by a present participle (verb form ending in -ing), indicating an ongoing action that started in the past and is still continuing up to the present or a specific point in the past. In the given sentence, will be indicates a future state, and turning is a gerund used as a noun, not a present participle used in the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about growing numbers of Catholics considering something immoral.""
+}",['simple'],"{
+  ""Properties"": [""simple""]
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'growing' indicates an ongoing or increasing action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,gtp mistook adjective for verb (growing),['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence does not utilize the simple aspect. The use of growing indicates an ongoing action, which suggests a continuous or progressive aspect rather than a simple fact. Therefore, the sentence does not express a simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The verb consider is in the present tense, indicating an ongoing or habitual action, rather than a completed action. Therefore, it does not express a completed action characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'yes', 'Explanation': 'The sentence growing numbers of Catholics actually consider it immoral utilizes the progressive aspect. The verb growing indicates an ongoing action, showing that the numbers of Catholics considering something immoral are increasing over time, which aligns with the definition of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral does not utilize the perfect progressive aspect. The verb growing is a present participle used to form a present progressive tense, not a perfect progressive tense. The perfect progressive aspect requires a form of have (e.g., has/have been) followed by a present participle, which is not present in the given sentence.', 'Property': 'perfect progressive'}]",['progressive']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence includes the use of 'were engaged' (progressive) and 'was to elect' (simple) indicating ongoing and completed actions.""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence 'Murillo claiming she and others at Google were engaged' uses the simple aspect to express a simple fact. The phrase 'had been engaged' uses the perfect aspect to express a completed action.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the past events recounted in the email.""
+}",['simple'],0,"{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence contains a simple fact ('Murillo claiming'), a completed action ('admitting'), and an ongoing action ('were engaged').""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""perfect"", ""progressive""],
+  ""Explanation"": ""The sentence contains simple aspect to express a simple fact ('Murillo claiming...') and perfect aspect to express a completed action ('was engaged'). It also contains progressive aspect to express an ongoing action ('using Google products').""
+}","['simple', 'perfect', 'progressive']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence 'Murillo claiming she and others at Google were engaged' uses the simple aspect to express a simple fact. The phrase 'using Google products with official company resources was to elect Clinton over Trump' uses the progressive aspect to express an ongoing action.""
+}","['simple', 'progressive']",0,"['simple', 'perfect', 'progressive']",0,0,the correct answer is simple  (email begins with) and progressinve (admitting),"['simple', 'progressive']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The sentence is complex and includes multiple actions and events happening over time, making use of progressive and perfect aspects. It describes ongoing and completed actions, rather than expressing a simple fact or a single event happening at a specific point in time.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in the past with relevance to the present. The sentence in question does not contain the structure of the perfect aspect, and it does not express a completed action in the same way as the given example Rover has eaten a bone. Instead, it describes ongoing or continuous actions and events in the past.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence describes a series of actions and events that were undertaken in the past, rather than an ongoing, habitual, or incomplete action. The sentence does not focus on the ongoing nature of an action, but rather on the sequence of events and the past actions of the individuals involved.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (e.g., has been, have been) followed by a present participle (verb+ing). In the provided sentence, there is no construction that indicates the ongoing nature of an action leading up to a specific point in time. Instead, the sentence describes a series of actions and events without emphasizing the ongoing nature of any specific action.', 'Property': 'perfect progressive'}]",[]
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Aspect,['perfect'],['perfect'],['perfect'],True,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains both simple aspect, expressing a simple fact ('a West Virginia school has come under fire'), and progressive aspect, expressing an ongoing or incomplete action ('instructing junior high students to write the Islamic profession of faith').""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the action of the school instructing junior high students to write the Islamic profession of faith.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating the completion, ongoing nature, or duration of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the school coming under fire for instructing students to write the Islamic profession of faith.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the school coming under fire for instructing students to write the Islamic profession of faith.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect'],"[{'Answer': 'no', 'Explanation': 'The sentence does not utilize the simple aspect. The use of has come indicates a present perfect tense, which suggests an action that started in the past and has relevance to the present. This tense does not align with the simple aspect, which typically expresses general truths or habitual actions.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The use of has come in the sentence is expressing a present perfect tense, not the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in relation to the present.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the progressive aspect. The verb instructing is in the present participle form, but it does not indicate an ongoing, habitual, or incomplete action. Instead, it describes a specific action that the school has undertaken, making it more of a simple present tense construction rather than a progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect progressive aspect. The sentence describes an ongoing situation or action (the school coming under fire), but it does not express the end of that ongoing action, which is a characteristic of the perfect progressive aspect. Therefore, the sentence does not fit the criteria for perfect progressive aspect usage.', 'Property': 'perfect progressive'}]",[]
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",True,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a basic fact about President Trump's actions against Russia.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The text uses the simple aspect to describe specific actions or facts, such as 'President Trump has approved the sale of offensive weapons.' It also uses the perfect aspect to express completed actions, as in 'President Obama refused to provide serious weapons.'""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The example uses the simple aspect to express a simple fact about specific steps President Trump has taken against Russia.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact about President Trump's actions against Russia.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about President Trump's actions against Russia, without indicating completion, ongoingness, or progressiveness.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about President Trump's actions against Russia, without indicating completion, ongoingness, or habitualness.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']","[{'Answer': 'no', 'Explanation': 'The given sentence does not utilize the simple aspect. The sentence is expressing a comparison of actions taken by President Obama and President Trump, which involves a more complex and ongoing action rather than a simple fact. It involves a comparison of actions over time, indicating a continuous or ongoing aspect rather than a simple one-time event.', 'Property': 'simple'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the perfect aspect. The use of has taken indicates that the action of taking steps against Russia is completed in the context of the statement. This construction emphasizes the completion of the action up to the present moment, aligning with the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the progressive aspect. The sentence describes specific actions taken by President Trump against Russia and President Obamas response. It does not express an ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect. Instead, it focuses on specific events and actions taken in the past.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect is formed with has/have been + the present participle of the verb, indicating an ongoing action that started in the past and is still continuing. The sentence in question does not express an ongoing action that is coming to an end, as required by the perfect progressive aspect. Instead, it describes a series of actions taken by President Trump against Russia, without indicating the ongoing nature of the actions.', 'Property': 'perfect progressive'}]",['perfect']
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",True,['perfect'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence expresses a simple fact and also refers to a completed action ('I've never understood').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact ('I’ve never understood') and the perfect aspect to express a completed action ('have viewed').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, emphasizing the speaker's current state of not understanding.""
+}",['perfect'],0,"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action of not understanding up to the present moment.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, suggesting the perfect aspect.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'I've never understood' indicates a completed action in the past, suggesting the speaker's ongoing lack of understanding up to the present moment.""
+}",['perfect'],1,['perfect'],1,1,,"['simple', 'perfect']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The use of I’ve never understood indicates a continuous or ongoing state of not understanding, which aligns with the continuous aspect rather than the simple aspect. Additionally, the sentence contains a complex expression of thoughts and opinions, which further supports the use of the continuous aspect rather than the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The perfect aspect typically involves a form of the verb have (e.g., have eaten) followed by the past participle of the main verb. In the given sentence, the verb understood is in the present perfect tense, but it does not express a completed action in the same way as Rover has eaten a bone. Instead, it conveys a state that has persisted up to the present moment.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence is expressing a general statement about the speakers past and ongoing understanding, rather than an ongoing, habitual, or incomplete action. The verb understood is in the past tense, indicating a completed action, and does not convey an ongoing or incomplete nature.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the perfect progressive aspect. The perfect progressive aspect is formed with has/have been + the present participle of the main verb. In the provided sentence, the verb understood is in the present perfect tense (Ive never understood), but it does not include the continuous aspect required for the perfect progressive tense.', 'Property': 'perfect progressive'}]",[]
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",True,['simple'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The sentence uses the perfect progressive aspect to express an ongoing action (the translation of 'America First' to 'Americans First').""
+}",['perfect_progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating the completion, ongoing nature, or habitual aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the present situation in the labor market.""
+}",['simple'],0,"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has not translated' indicates a continuous or ongoing action that has not yet been completed, suggesting the use of perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has not translated' indicates an ongoing action that has not yet been completed, suggesting the use of perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'has not translated' indicates a completed action in the past.""
+}",['perfect'],0,['perfect_progressive'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']","[{'Answer': 'no', 'Explanation': 'The sentence does not utilize the simple aspect. The phrase has not translated indicates a continuous or ongoing action, which aligns with the progressive aspect rather than the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The phrase has not translated is in the present perfect tense, but it does not express a completed action. Instead, it indicates an ongoing state of affairs, suggesting that the translation has not yet occurred. Therefore, it does not convey a sense of a completed action, which is characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the progressive aspect. The phrase has not translated is in the present perfect tense, indicating a completed action, rather than the progressive aspect, which expresses ongoing or incomplete actions. Therefore, the sentence does not demonstrate the progressive aspect as defined in the context of Aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence As far as the labor market is concerned, “America First” has not translated to Americans First does not utilize the perfect progressive aspect. The sentence is in the present perfect tense, indicating an action that started in the past and has relevance to the present, but it does not express the ongoing nature of an action that is characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Aspect,"['progressive', 'simple']","['progressive', 'simple']","['progressive', 'simple']",True,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact about the ongoing investigation ('authorities are still hunting') and the progressive aspect to denote an ongoing or incomplete action ('describes').""
+}","['simple', 'progressive']","{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are still hunting' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text contains a simple statement about ongoing or incomplete actions.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the killer's family being known for its anti-Semitism.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing investigation and the description of the killer's family.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.' expresses a simple fact without indicating completion, ongoingness, or a habitual action.""
+}",['simple'],1,['simple'],1,0,gpt missed the part of  sentence,"['progressive', 'simple']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The sentence is complex and involves ongoing actions or states, which are not characteristic of the simple aspect. It describes an ongoing investigation and the continuous action of the authorities hunting for motivation, making it unsuitable for the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in relation to the present. The sentence in question does not contain any form of have or has followed by a past participle, and therefore does not express a completed action in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence describes an ongoing situation, but it does not express an ongoing, habitual, or incomplete action. Instead, it provides a description of the current state of the authorities investigation and the killers family. The use of are still hunting does not indicate an ongoing action in the same way as a progressive aspect would.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the perfect progressive aspect. The sentence describes an ongoing action (the authorities hunting for motivation), but it does not express the end of that action. The perfect progressive aspect typically indicates an action that started in the past, continued up to a certain point, and may still be continuing, but the focus is on the duration and ongoing nature of the action. The sentence provided does not convey the sense of a completed or ending action, which is characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+2629,[ 8 13],ADVANTAGE AMERICANS,Aspect,,,,True,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses simple aspect, expressing a simple fact or statement.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text uses the simple aspect to express a simple fact, without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""There are no explicit aspects used in the text. The text simply presents a phrase without indicating any specific aspect of the action.""
+}",[],1,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any verb forms or actions, so there are no aspects of aspect used in this text.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any verb forms or constructions that indicate aspect."" 
+}",[],1,[],1,1,,[],"[{'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not utilize the simple aspect. The term ADVANTAGE is a noun, and AMERICANS is a noun referring to people. This sentence does not express a simple fact or action; rather, it seems to be a heading or a phrase lacking a verb, and therefore does not convey a simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not utilize the perfect aspect. The perfect aspect typically involves the use of has or have followed by a past participle, indicating a completed action in relation to the present. The sentence provided does not contain any of these elements, and therefore does not express a completed action in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not utilize the progressive aspect. The progressive aspect requires a form of the verb to be (e.g., is, am, are) followed by the present participle of the main verb (-ing form). In the given sentence, there is no form of to be followed by a present participle, so the progressive aspect is not being used.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence ADVANTAGE AMERICANS does not utilize the perfect progressive aspect. The perfect progressive aspect requires a form of have (e.g., has, have) followed by been and a present participle (verb+ing). The sentence provided does not contain any of these elements, and therefore does not express the end of an ongoing action as required by the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Aspect,['simple'],['simple'],['simple'],True,"['progressive', 'simple']","{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing change in the state of being solidly mainstream, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates a current ongoing state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'is now' and 'main stream' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates a current ongoing state, suggesting a progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The use of earlier made attempts and is now solidly indicates a progression of actions or states over time, which aligns more with the progressive aspect rather than the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The use of earlier and now indicates a shift over time, but it does not specifically express a completed action in the way the perfect aspect does. Instead, it describes a change in the nature of something, which is not a characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the progressive aspect. The use of earlier and now indicates a shift in time rather than an ongoing, habitual, or incomplete action. The sentence describes a change in the nature of something rather than an action in progress.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb (e.g., has been eating). In the given sentence, there is no construction using has been or have been followed by a present participle, so it does not express the end of an ongoing action as characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+3249,[9],When Cain complains that being a “vagabond .,Aspect,['simple'],['simple'],['simple'],True,[],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or incomplete action, making it a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Cain complains' expresses a simple fact without indicating if the action is completed, ongoing, or habitual.""
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'being' indicates an ongoing or continuous action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Cain complains' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],0,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The simple aspect typically expresses actions that are habitual, general, or timeless. The sentence given appears to be incomplete, making it difficult to determine the aspect being used. However, based on the fragment provided, it seems to be part of a larger narrative or description, suggesting a different aspect is being used.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The use of complains indicates ongoing or continuous action, rather than a completed action. The perfect aspect typically involves a form of have (e.g., has, have) followed by a past participle, which is not present in the given sentence.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the progressive aspect. The phrase being a vagabond is a gerund phrase functioning as the object of the verb complains. It does not indicate ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect. Therefore, the answer is no.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence When Cain complains that being a vagabond does not utilize the perfect progressive aspect. The sentence does not express the ongoing nature of an action that is being completed or has just been completed. Instead, it seems to be describing a general state or action without reference to its ongoing nature or completion.', 'Property': 'perfect progressive'}]",[]
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Aspect,['perfect'],['perfect'],['perfect'],True,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing actions of those pushing for BDS against Israel.""
+}",['simple'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'have not dispensed' indicates a completed action of not ceasing the campaign of hate.""
+}",['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of those pushing for BDS against Israel, without emphasizing completion or progression of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion or ongoing action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion, ongoingness, or progressiveness of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing campaign of hate against Israel, without indicating completion, ongoing action, or a combination of both.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. It contains a complex structure with multiple clauses and participles, indicating ongoing or continuous actions (suffering, pushing, dispensed). This suggests a continuous or ongoing nature of the actions rather than a simple fact.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The sentence describes ongoing or continuous actions (those pushing for boycotts... have not dispensed) rather than a completed action, which is characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the progressive aspect. The sentence describes ongoing actions, but it does not use the to be verb (is, am, are) in combination with the present participle form of the main verb, which is characteristic of the progressive aspect. Instead, it uses the present perfect tense have not dispensed, which indicates an action that started in the past and continues into the present, but it does not specifically convey ongoing or incomplete action at the time of speaking.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb, indicating an ongoing action that started in the past and is still continuing. In the given sentence, there is no construction using has been or have been followed by a present participle to indicate an ongoing action that is reaching its end.', 'Property': 'perfect progressive'}]",[]
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about Francis's defense of Barros without emphasizing whether the action is completed, ongoing, or habitual.""
+}",['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, making it a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'defends' indicates an ongoing or habitual action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not utilize the simple aspect. The use of defends in this sentence indicates a continuous or ongoing action, which aligns with the continuous aspect rather than the simple aspect. The continuous aspect is used to express actions that are ongoing or incomplete at a certain time, whereas the simple aspect is used to express general truths or habitual actions.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not utilize the perfect aspect. The verb defends is in the present tense, and it does not express a completed action. Instead, it describes an ongoing or habitual action. The sentence does not convey the sense of a completed action typically associated with the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not utilize the progressive aspect. The verb defends is in the simple present tense, indicating a habitual action, rather than the progressive aspect, which would express an ongoing or incomplete action. Therefore, the sentence does not employ the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence The insistence with which Francis defends Barros is mystifying does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (e.g., has been) followed by a present participle (e.g., eating). In the given sentence, there is no form of have followed by a present participle to indicate an ongoing action that has recently ended.', 'Property': 'perfect progressive'}]",[]
+3895,[13],Impossible.,Aspect,,,,True,,"{
+  ""Properties"": [""none""],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a complete sentence or statement."" 
+}",[''],"{
+  ""Properties"": [
+    ""none""
+  ],
+  ""Explanation"": ""The provided text does not contain any aspect properties as defined. Instead, it is an exclamation expressing disbelief or denial. Aspect properties are concerned with the grammatical form of a verb to indicate the nature of an action, which is not applicable in this case.""
+}",[''],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without specifying the completion or progress of an action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Impossible.' expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Impossible.' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence Impossible. does not utilize the simple aspect. The word impossible is an adjective, and the sentence lacks a subject and a verb, which are necessary components for expressing the simple aspect in English. The simple aspect typically involves a clear subject performing an action, which is not present in the given sentence.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Impossible does not utilize the perfect aspect. The word impossible is an adjective indicating that something cannot be done or is not possible. It does not express the completion of an action, as is characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Impossible. does not utilize the progressive aspect. The word impossible is an adjective, not a verb, and therefore does not express an ongoing, habitual, or incomplete action. Progressive aspect is used with verbs to indicate ongoing or incomplete actions, but in this case, the sentence does not contain a verb in the progressive form.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Impossible does not utilize the perfect progressive aspect. The perfect progressive aspect requires a form of the verb to have (e.g., has, have) followed by been and the present participle of the main verb (e.g., eating). Since Impossible does not contain any form of to have or been followed by a present participle, it does not express the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Aspect,['simple'],['simple'],['simple'],True,['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before the verb 'repeated' indicates an ongoing or habitual action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger' indicates an ongoing or incomplete action, suggesting that the concern in Rome is currently existing and continuing.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates an ongoing or incomplete action, suggesting that the emphasis is currently being repeated.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger' indicates the ongoing or incomplete nature of the concern in Rome about the post-conciliar monastic life.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates an ongoing or incomplete action, suggesting that the concern in Rome is currently ongoing or in progress.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' before 'in danger of fizzling out' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not utilize the simple aspect. The sentence is expressing a repeated or ongoing emphasis, indicating a continuous or repeated action rather than a simple fact. It suggests a continuous concern in Rome about the fruitful post-conciliar monastic life, which aligns more with the continuous or repeated aspect rather than the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the perfect aspect. The sentence is expressing a repeated emphasis and a potential concern in Rome about the post-conciliar monastic life. It does not specifically indicate a completed action in the past, which is a characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence describes a repeated emphasis and a potential concern in Rome, but it does not express an ongoing, habitual, or incomplete action. Therefore, it does not fit the criteria for the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The sentence does not express the end of an ongoing action, which is a key characteristic of the perfect progressive aspect. Instead, it describes a repeated emphasis and a potential concern, but it does not indicate the completion of an ongoing action.', 'Property': 'perfect progressive'}]",[]
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Aspect,,,,True,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title expresses a simple fact without any indication of a completed, ongoing, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about the character assassination of Judge Kavanaugh without indicating completeness, ongoingness, or habitualness.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about the character assassination of Judge Kavanaugh.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or progressiveness.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The title 'The Last-Minute Character Assassination of Judge Kavanaugh' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not utilize the simple aspect. The phrase Last-Minute Character Assassination suggests an ongoing or continuous action, which aligns more with the progressive aspect rather than the simple aspect. The use of last-minute implies a specific time frame, indicating a more dynamic or ongoing process rather than a simple fact.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not utilize the perfect aspect. The perfect aspect typically involves the use of has or have followed by a past participle, indicating a completed action in the past with relevance to the present. The given sentence does not contain any form of has or have followed by a past participle, and therefore does not express a completed action in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not utilize the progressive aspect. The progressive aspect typically involves a form of the verb to be followed by the present participle of the main verb, indicating ongoing or incomplete action. In the given sentence, there is no indication of ongoing or incomplete action, so the progressive aspect is not utilized.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence The Last-Minute Character Assassination of Judge Kavanaugh does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (e.g., has, have) followed by been and a present participle (e.g., eating). The given sentence does not contain any form of have been followed by a present participle, so it does not express the end of an ongoing action as characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+4405,[16],So interesting!,Aspect,,,,True,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of aspect as it is not a complete sentence or action.""
+}",[],"{
+  ""Properties"": []
+}
+
+ ",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about a specific action or event.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it does not convey any specific action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about an action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is not a statement about an action or event.""
+}",[],0,[],1,1,,[],"[{'Answer': 'no', 'Explanation': 'The sentence So interesting! does not utilize the simple aspect. The simple aspect typically expresses actions or states that are habitual, general, or factual. In this case, So interesting! is an exclamation expressing a reaction or emotion rather than a simple fact or action.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence So interesting! does not utilize the perfect aspect. The perfect aspect is used to express a completed action, typically formed with has/have + past participle. In this case, So interesting! is a statement expressing an opinion or observation, but it does not indicate a completed action, so it does not employ the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence So interesting! does not utilize the progressive aspect. The progressive aspect is used to express ongoing, habitual, or incomplete actions, typically formed with a form of to be (e.g., is, am, are) followed by the present participle of the main verb. In the given sentence, So interesting! does not indicate an ongoing, habitual, or incomplete action, and it does not follow the structure of a progressive aspect construction.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence So interesting! does not utilize the perfect progressive aspect. The perfect progressive aspect requires a form of have (e.g., has, have) followed by been and a present participle (verb+ing). The sentence So interesting! does not contain any form of have been or a present participle verb, so it does not express the end of an ongoing action in the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+4431,[16],“I had no way to see into his mind.,Aspect,['simple'],['simple'],['simple'],True,['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The sentence 'I had no way to see into his mind' uses the perfect aspect to express a completed action in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there is no longer a way to see into his mind.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates that the action of not having a way to see into his mind is completed before a certain point in the past.""
+}",['perfect'],1,"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'had' indicates a completed action, suggesting that there was no way to see into his mind in the past.""
+}",['perfect'],1,['perfect'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence I had no way to see into his mind does not utilize the simple aspect. It uses the past perfect tense, indicating an action that was completed before a certain point in the past. The use of had and to see in this sentence indicates a more complex aspect, rather than a simple fact.', 'Property': 'simple'}, {'Answer': 'yes', 'Explanation': 'The sentence I had no way to see into his mind utilizes the perfect aspect. The use of had in this sentence indicates that the action of having no way to see into his mind was completed or fully realized in the past. This aligns with the expression of a completed action, which is a characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence I had no way to see into his mind does not utilize the progressive aspect. The verb had is in the past tense, and to see is an infinitive form, indicating a lack of ability in the past rather than an ongoing, habitual, or incomplete action.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence I had no way to see into his mind does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb, indicating an ongoing action that has been happening up to the present moment. In the given sentence, had is the past tense of have, and to see is the infinitive form of the verb, indicating a lack of ability in the past rather than an ongoing action.', 'Property': 'perfect progressive'}]",['perfect']
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Aspect,['progressive'],['progressive'],['progressive'],True,['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without any indication of ongoing, completed, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the media blaming the messenger.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['progressive'],"[{'Answer': 'no', 'Explanation': 'The sentence Once again the media are blaming the messenger instead of dealing with Islamic violence. does not utilize the simple aspect. It is expressing an ongoing or continuous action, which aligns more with the progressive aspect. The use of are blaming indicates an ongoing action rather than a simple fact.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Once again the media are blaming the messenger instead of dealing with Islamic violence does not utilize the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in the past relative to another event. In the given sentence, there is no construction using have or has followed by a past participle to express a completed action.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Once again the media are blaming the messenger instead of dealing with Islamic violence does not utilize the progressive aspect. The verb blaming is in the present progressive tense, but it does not express an ongoing, habitual, or incomplete action. Instead, it describes a current action happening at the time of speaking. The sentence does not convey an ongoing or incomplete nature of the action, so it does not fit the definition of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Once again the media are blaming the messenger instead of dealing with Islamic violence does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb, indicating an ongoing action that started in the past and is still continuing. In the given sentence, there is no construction using has been or have been followed by a present participle to indicate an ongoing action that is reaching a conclusion.', 'Property': 'perfect progressive'}]",[]
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",Aspect,['perfect'],['perfect'],['perfect'],True,['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact and refers to a completed action in the past ('had convened').""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about a past event without indicating any ongoing, habitual, or completed action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about a past event, without emphasizing the completion or ongoing nature of the action.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an event that occurred in the past.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an action that occurred in the past without emphasizing completion, ongoingness, or duration.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about an event that occurred in the past.""
+}",['simple'],1,['simple'],1,0,Seems to be relying on the definition provided in a looser way,['perfect'],"[{'Answer': 'no', 'Explanation': 'The given sentence does not utilize the simple aspect. The use of had convened indicates the past perfect tense, which suggests an action that was completed before another past action. This tense is not characteristic of the simple aspect, which typically expresses general truths, habitual actions, or simple occurrences. Therefore, the sentence does not utilize the simple aspect.', 'Property': 'simple'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the perfect aspect. The use of had convened indicates that the action of convening the meeting occurred before another past action, emphasizing the completion of the action in the past relative to another past event.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence describes a past action that occurred during a specific period (in the last months of his pontificate). It does not express an ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect. Therefore, the sentence does not utilize the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The sentence describes a past action that was completed within a specific time frame (In the last months of his pontificate). It does not express the ongoing nature of an action leading up to a specific point in time, which is a characteristic of the perfect progressive aspect. Therefore, the sentence does not utilize the perfect progressive aspect.', 'Property': 'perfect progressive'}]",['perfect']
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Aspect,['simple'],['simple'],['simple'],True,"['progressive', 'simple']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains the simple aspect as it expresses a simple fact, and the progressive aspect as it describes an ongoing or habitual action.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the subject, without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence contains the simple aspect in 'He generated her in His Blood' to express a simple fact, and the progressive aspect in 'continually revives her with His Spirit' to show an ongoing or habitual action.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoing action, or a combination of the two.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence expresses a simple fact (generation and revival) and also indicates a continuous or ongoing action (continually revives).""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence expresses a simple fact about the continuous action of generating and reviving, indicating a progressive aspect.""
+}","['simple', 'progressive']",0,"['simple', 'progressive']",1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence He generated her in His Blood and continually revives her with His Spirit! does not utilize the simple aspect. It involves the use of the past tense generated and the present tense revives, which indicates actions that are ongoing or continuous, suggesting a continuous or progressive aspect rather than a simple one.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence He generated her in His Blood and continually revives her with His Spirit! does not utilize the perfect aspect. The use of continually revives indicates an ongoing or continuous action, which is not characteristic of the perfect aspect that expresses a completed action. Instead, the continuous nature of the action suggests a different aspect, such as the progressive aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence He generated her in His Blood and continually revives her with His Spirit! does not utilize the progressive aspect. The sentence describes actions that are not ongoing, habitual, or incomplete. Instead, it portrays the actions as completed or regularly occurring, but not necessarily in progress at the time of speaking.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence He generated her in His Blood and continually revives her with His Spirit! does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been followed by a present participle (e.g., has been eating). In the given sentence, there is no form of has been followed by a present participle, so it does not express the end of an ongoing action in the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Aspect,,,,True,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without expressing completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet is a simple declarative statement without any indication of completion, ongoing, or habitual action.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The tweet contains a simple statement without any indication of completed, ongoing, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'yes', 'Explanation': 'The sentence Rover eats bones. utilizes the simple aspect. It expresses a simple, habitual action, which is characteristic of the simple aspect. The verb eats indicates a present tense habitual action, fitting the criteria for the simple aspect.', 'Property': 'simple'}, {'Answer': 'yes', 'Explanation': 'The sentence Rover has eaten a bone utilizes the perfect aspect. The use of has eaten indicates that the action of eating the bone is completed, which aligns with the expression of a completed action characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'yes', 'Explanation': 'The sentence Rover is eating a bone utilizes the progressive aspect. The verb is eating indicates an ongoing action, which aligns with the definition of the progressive aspect as expressing an ongoing or incomplete action.', 'Property': 'progressive'}, {'Answer': 'yes', 'Explanation': 'The sentence Rover has been eating a bone utilizes the perfect progressive aspect. The use of has been eating indicates that the action of eating started in the past and has continued up to the present moment, expressing the ongoing nature of the action and implying its potential continuation into the future.', 'Property': 'perfect progressive'}]","['simple', 'perfect', 'progressive', 'perfect_progressive']"
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",True,['perfect progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates a continuous, ongoing action that has recently ended, which aligns with the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates the completion of an ongoing action, making it a perfect progressive aspect.""
+}",['perfect_progressive'],1,"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been vindicated' indicates a completed ongoing action, suggesting the perfect progressive aspect.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates the completion of an ongoing action, suggesting that Julian's vindication has been ongoing up to the present moment.""
+}",['perfect_progressive'],"{
+  ""Properties"": [""perfect progressive""],
+  ""Explanation"": ""The use of 'has been' indicates the completion of an ongoing action, suggesting that Julian's vindication has been ongoing up to the present moment.""
+}",['perfect_progressive'],1,['perfect_progressive'],1,0,explanation is just wrong,"['simple', 'perfect']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. Instead, it uses the present perfect continuous aspect (has been vindicated) to indicate an action that started in the past, continues into the present, and may continue into the future. This aspect emphasizes the ongoing nature of the action, which is different from the simple aspect that expresses simple, habitual, or general facts.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The phrase has been vindicated is in the present perfect tense, but it does not express a completed action. Instead, it indicates an action that started in the past and has relevance to the present. The use of has been in this context indicates an ongoing state rather than a completed action, so it does not express the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the progressive aspect. The phrase has been vindicated is in the present perfect tense, indicating an action that started in the past and has relevance to the present, but it does not specifically express ongoing, habitual, or incomplete action. Therefore, it does not fit the definition of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect progressive aspect. The verb has been vindicated is in the present perfect tense, indicating that an action was completed in the past with relevance to the present, but it does not express the ongoing nature of an action leading up to the present moment, which is a characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Aspect,"['simple', 'perfect']","['simple', 'perfect']","['simple', 'perfect']",True,['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of clarification, without indicating completion, ongoing action, or an ongoing action with a completed element.""
+}",['simple'],"{
+  ""Properties"": [""perfect""],
+  ""Explanation"": ""The use of 'has now been provided' indicates a completed action, suggesting the perfect aspect.""
+}",['perfect'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification.""
+}",['simple'],0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the provision of papal clarification on a debated issue.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence expresses a simple fact about a completed action, the provision of clarification.""
+}","['simple', 'perfect']",0,['simple'],1,0,Seems to be relying on the definition provided in a looser way,"['simple', 'perfect']","[{'Answer': 'no', 'Explanation': 'The sentence does not utilize the simple aspect. The use of was and has been provided indicates a past action and its ongoing relevance, which aligns with the perfect aspect rather than the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The sentence is written in the past tense and does not express a completed action at a specific point in time. Instead, it describes a past event without emphasizing its completion.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the progressive aspect. The verb was is in the past tense, indicating a completed action, rather than expressing an ongoing, habitual, or incomplete action characteristic of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect is formed with the auxiliary verb has been followed by the present participle of the main verb, indicating an ongoing action that started in the past and is still continuing. In the given sentence, the verb has been provided does not indicate an ongoing action that started in the past and is still continuing, but rather it indicates a completed action in the present perfect tense. Therefore, the sentence does not utilize the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+9396,[],Also on communion between the communities.,Aspect,,,,True,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any aspect properties as it is a general statement without specifying any action or time frame.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoing action, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not express a simple fact. Instead, it seems to be referring to an ongoing or continuous action, which would be more aligned with the continuous aspect. The simple aspect typically conveys a single, completed action, while the continuous aspect indicates ongoing or repeated actions.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not utilize the perfect aspect. The perfect aspect typically involves a form of the verb have (e.g., has, have) followed by the past participle of the main verb. In this sentence, there is no form of have followed by a past participle, so it does not express a completed action in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not utilize the progressive aspect. The sentence does not express an ongoing, habitual, or incomplete action. Instead, it seems to be a statement about communion between communities, lacking the continuous or ongoing nature typically associated with the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Also on communion between the communities does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by a present participle (the -ing form of a verb). In this sentence, there is no indication of an ongoing action that has been happening up to a specific point in time, which is a characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+9866,[],But he is now a full-fledged member of the nuclear club.,Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state of being, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current status, qualifying for the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is' indicates the ongoing nature of the action, suggesting that he has recently become a full-fledged member of the nuclear club.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'is now' indicates an ongoing or current state, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence But he is now a full-fledged member of the nuclear club. does not utilize the simple aspect. It uses the present tense is and the present perfect has been, indicating an ongoing or continuous state rather than a simple fact or action.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence But he is now a full-fledged member of the nuclear club does not utilize the perfect aspect. The sentence describes a current state of being (he is now a full-fledged member), rather than expressing a completed action. The perfect aspect typically indicates an action that has been completed or has a connection to the present, which is not the case in this sentence.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence But he is now a full-fledged member of the nuclear club. does not utilize the progressive aspect. The verb is is a form of the verb to be and now indicates a specific point in time, suggesting a current state rather than an ongoing or incomplete action. Therefore, the sentence does not express an ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence But he is now a full-fledged member of the nuclear club does not utilize the perfect progressive aspect. The perfect progressive aspect is formed with has/have been + the present participle of the verb, indicating an ongoing action that started in the past and is still continuing. In the given sentence, there is no indication of an ongoing action that started in the past and is still continuing. Instead, the sentence describes a current state of being, indicating a completed transition to a full-fledged member of the nuclear club.', 'Property': 'perfect progressive'}]",[]
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Aspect,['simple'],['simple'],['simple'],True,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is asking for an opinion."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is not a statement about an action or event."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of aspect as it is a straightforward question without any reference to actions or events.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""Aspect properties are not applicable in this context as the question is about a subjective opinion and not about an action or event."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any aspect properties as it is a question about opinion and not a statement about an action.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any aspect properties as it is a question seeking an opinion and does not describe any actions or events.""
+}",[],0,[],1,0,do questions not hve an aspect?,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence Whom do you consider to be the most corrupt Democrat Politician? does not utilize the simple aspect. It is a question in the present tense and uses the auxiliary verb do to form the question. The use of do and the question structure indicates that it is not expressing a simple fact, but rather seeking information or opinion.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Whom do you consider to be the most corrupt Democrat Politician? does not utilize the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in the past. In this sentence, there is no indication of a completed action; rather, it is a question seeking an opinion or judgment about a current state of being.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Whom do you consider to be the most corrupt Democrat Politician? does not utilize the progressive aspect. The sentence is a question asking for an opinion or judgment, and it does not express an ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect. Instead, it is seeking a specific identification or evaluation of a person.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Whom do you consider to be the most corrupt Democrat Politician? does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (or has) followed by been and the present participle of a verb (e.g., has been eating). In the given sentence, there is no form of have or has followed by been and a present participle, so it does not express the end of an ongoing action characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+10448,[],Anybody?,Aspect,,,,True,,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual aspect.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text 'Anybody?' expresses a simple fact without indicating completion, progress, or ongoing action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text only contains simple and progressive aspects. There is no expression of completed or perfect ongoing actions.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The example text 'Rover eats bones.' uses the simple aspect to express a simple fact, while 'Rover is eating a bone.' uses the progressive aspect to express an ongoing action.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence 'Anybody?' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text 'Anybody?' expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],0,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence Anybody? does not utilize the simple aspect. The simple aspect typically involves expressing simple, ongoing, or habitual actions. The sentence Anybody? is not expressing an action in the simple aspect; rather, it seems to be a question seeking the attention or response of someone.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Anybody? does not utilize the perfect aspect. The perfect aspect typically involves the use of has or have followed by a past participle, indicating a completed action in the past relative to the present. The sentence Anybody? does not contain any form of has or have followed by a past participle, and it does not express a completed action in the same way as the given example Rover has eaten a bone. Therefore, the sentence does not utilize the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Anybody? does not utilize the progressive aspect. The progressive aspect requires a form of the verb to be followed by the present participle of the main verb, indicating ongoing or incomplete action. In this case, Anybody? is not expressing an ongoing, habitual, or incomplete action, and therefore does not utilize the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Anybody? does not utilize the perfect progressive aspect. The perfect progressive aspect requires the use of has been followed by a present participle (verb form ending in -ing), as in the example Rover has been eating a bone. The sentence Anybody? does not contain the required structure for the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or habitual action, which is an example of the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or habitual action, suggesting the use of the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'could be seen climbing' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],timeout,[],1,['progressive'],0,1,,['progressive'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The use of could be seen climbing indicates a continuous or ongoing action, which aligns with the progressive aspect rather than the simple aspect. The progressive aspect is used to express ongoing or incomplete actions, which is the case in the given sentence.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The sentence describes an ongoing or continuous action of people climbing the fence, rather than a completed action. The perfect aspect is used to indicate actions that have been completed or have a connection to the present, which is not the case in the given sentence.', 'Property': 'perfect'}, {'Answer': 'yes', 'Explanation': 'Yes, the sentence utilizes the progressive aspect. The phrase could be seen climbing indicates an ongoing or continuous action, which aligns with the definition of the progressive aspect. This construction suggests that the action of people climbing the fence was in progress at a specific point in time.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect progressive aspect. The sentence describes an ongoing action in the present, but it does not express the end of that action. The use of could be seen climbing indicates a continuous action in the past, not a completed ongoing action, which is characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",['progressive']
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Aspect,,,,True,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text is a title and artist attribution and does not contain any grammatical aspect to identify."" 
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text provides a simple statement of a fact - the title, artist, and year of the painting. There are no indications of completed, ongoing, habitual, or incomplete actions.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text is a simple fact providing the title, artist, and year of a painting.""
+}",['simple'],1,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text simply provides information about the painting without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The provided text is a simple statement providing a fact about the painting.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The provided text is a simple statement of fact, providing information about the title, artist, and year of a painting.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence St. Francis in Ecstacy, Caravaggio, 1595 does not utilize the simple aspect. The phrase St. Francis in Ecstacy is a title or a label for a piece of art and does not express a simple fact about an action or event happening in the present or past. Therefore, it does not fit the criteria for the simple aspect, which typically expresses simple, ongoing, or habitual actions.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence St. Francis in Ecstacy, Caravaggio, 1595 does not utilize the perfect aspect. The sentence is a title and does not express a completed action. It simply provides information about a painting and its creator, lacking the structure of a sentence that would indicate a completed action.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence St. Francis in Ecstacy, Caravaggio, 1595 does not utilize the progressive aspect. The sentence is a title or caption for a piece of art and does not express an ongoing, habitual, or incomplete action. It simply provides information about the artwork and its creator, rather than describing an action in progress.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence St. Francis in Ecstacy, Caravaggio, 1595 does not utilize the perfect progressive aspect. The sentence is a title and a reference to a painting by Caravaggio, and it does not express an ongoing action that has been happening up to a certain point in time, which is a characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+11936,[],America's Immigration Voice.,Aspect,,,,True,,"{
+    ""Properties"": [""simple""],
+    ""Explanation"": ""The text 'America's Immigration Voice' presents a simple fact or statement without expressing any specific action or tense.""
+}",['simple'],"{
+    ""Properties"": [""simple""],
+    ""Explanation"": ""The text expresses a simple fact without indicating any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The text expresses a simple fact about a group or organization. It also conveys a sense of ongoing or habitual action in advocating for immigration issues.""
+}","['simple', 'progressive']",0,"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The text expresses a simple fact about America's immigration voice without indicating any specific aspect of time or completion.""
+}",['simple'],1,['simple'],1,0,this should be an empty list,[],"[{'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not utilize the simple aspect. The phrase does not express a simple fact or action, but rather seems to refer to an organization or a concept related to immigration advocacy. The simple aspect typically conveys straightforward actions or states, which is not the case in this sentence.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not utilize the perfect aspect. The perfect aspect typically involves the use of has or have followed by a past participle, indicating a completed action in relation to the present. The given sentence does not contain any such construction, and therefore does not express a completed action in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not utilize the progressive aspect. The sentence is a noun phrase and does not express an ongoing, habitual, or incomplete action, which are characteristic of the progressive aspect. Instead, it seems to be a title or a phrase referring to a specific organization or concept related to immigration in America.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence Americas Immigration Voice does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (e.g., has, have) followed by been and a present participle (e.g., eating). The given sentence does not contain any of these elements, so it does not express the end of an ongoing action as characteristic of the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+13573,[],I am not a fan of Donald Trump.,Aspect,['simple'],['simple'],['simple'],True,[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact or statement of opinion without conveying any specific aspect of the action.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any aspect properties as it is a simple statement of opinion and does not describe any action or event.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact without indicating any ongoing or completed action.""
+}",['simple'],1,"{
+  ""Properties"": [],
+  ""Explanation"": ""The sentence does not contain any aspect properties as it simply expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",[],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the speaker's opinion of Donald Trump.""
+}",['simple'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The sentence does not contain any aspect properties as it simply expresses a simple fact without indicating completion, ongoingness, or habitual action.""
+}",[],1,[],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence I am not a fan of Donald Trump does not utilize the simple aspect. The simple aspect typically expresses actions or states that are not ongoing or continuous. In this case, the sentence expresses a personal opinion or attitude, which is not a simple fact or action. It conveys a stance rather than a simple action or state.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence I am not a fan of Donald Trump does not utilize the perfect aspect. The perfect aspect typically involves the use of have or has followed by a past participle, indicating a completed action in the past relative to another point in time. In this sentence, there is no indication of a completed action in the past, so the perfect aspect is not being utilized.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence I am not a fan of Donald Trump does not utilize the progressive aspect. The progressive aspect is used to express ongoing, habitual, or incomplete actions, but the sentence in question expresses a state of being (not a fan) rather than an ongoing or incomplete action.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence I am not a fan of Donald Trump does not utilize the perfect progressive aspect. The perfect progressive aspect is formed with the auxiliary verb have been followed by the present participle of the main verb, indicating a continuous action that started in the past and is still ongoing. In the given sentence, am is the present tense of the verb to be and not negates the statement, but it does not express an ongoing action that started in the past and is still continuing.', 'Property': 'perfect progressive'}]",[]
+14038,[],And in Russia.,Aspect,,,,True,,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text fragment 'And in Russia.' does not include any aspectual properties as it does not relate to a specific action or event.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it is a disconnected fragment without a specific action or tense.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any explicit aspect properties as it does not convey any action or event.""
+}",[],0,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it does not express an action or state in a specific tense or aspect."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it does not express any action or state."" 
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text 'And in Russia.' does not contain any aspect properties as it is not a complete sentence and does not express any specific action or state."" 
+}",[],0,[],1,1,,[],"[{'Answer': 'no', 'Explanation': 'The sentence And in Russia. does not utilize the simple aspect. The simple aspect typically expresses actions or states that are not ongoing or continuous. The sentence provided does not contain a verb or express a specific action or state, so it does not fit the criteria for the simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence And in Russia does not utilize the perfect aspect. The perfect aspect typically involves a form of the verb have (e.g., has, have) followed by the past participle of the main verb. The sentence provided does not contain any verb or express completion of an action, so it does not demonstrate the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence And in Russia does not utilize the progressive aspect. The progressive aspect typically involves a form of the verb to be (e.g., is, am, are) followed by the present participle of the main verb (e.g., eating, running). The sentence And in Russia does not contain a form of to be followed by a present participle, so it does not express an ongoing, habitual, or incomplete action characteristic of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence And in Russia does not utilize the perfect progressive aspect. The perfect progressive aspect requires a form of the verb to have (e.g., has, have) followed by been and the present participle of the main verb (e.g., eating). Since And in Russia does not contain any form of to have followed by been and a present participle, it does not express the end of an ongoing action in the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Aspect,"['progressive', 'simple']","['progressive', 'simple']","['progressive', 'simple']",True,['simple'],"{
+  ""Properties"": [""simple"", ""progressive""],
+  ""Explanation"": ""The sentence 'are going through' indicates a progressive action, while 'are' indicates a simple fact.""
+}","['simple', 'progressive']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing review process without specifying any completed, ongoing, or habitual action.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about the ongoing review process without indicating completion, habituality, or ongoing action.""
+}",['simple'],0,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting a progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'are going through' indicates an ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,,"['progressive', 'simple']","[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. The use of are going through and cant offer indicates ongoing or continuous action, which aligns with the progressive aspect rather than the simple aspect. The sentence describes an ongoing process rather than a simple fact or completed action.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The perfect aspect typically involves a form of the verb have (e.g., has, have) followed by a past participle. In the given sentence, there is no construction using have followed by a past participle to indicate a completed action. Instead, the sentence describes an ongoing process without indicating a completed action, which is not characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'yes', 'Explanation': 'The sentence utilizes the progressive aspect. The verb phrase are going through expresses an ongoing action, indicating that the Justice Department, FBI, and Office of the Director of National Intelligence are currently in the process of conducting a methodical review. This aligns with the definition of the progressive aspect, which denotes ongoing or continuous actions.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves a form of have (e.g., has been, have been) followed by a present participle (the -ing form of a verb). In the given sentence, there is no construction using have been or any similar form to indicate an ongoing action that is reaching completion. Instead, the sentence describes an ongoing review without indicating the actions completion, making it unsuitable for the perfect progressive aspect.', 'Property': 'perfect progressive'}]",['progressive']
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence contains simple aspect as it expresses a simple fact about Haig's employment at Boeing. It also contains perfect aspect as it indicates a completed action of working for Boeing from 2010 to 2013.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work experience at Boeing in the past.""
+}",['simple'],"{
+  ""Properties"": [""simple""],
+  ""Explanation"": ""The sentence expresses a simple fact about Haig's work history at Boeing without indicating any ongoing or completed actions.""
+}",['simple'],0,"{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, and it refers to a completed action within a specific time frame.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, without emphasizing the ongoing or completed nature of the action.""
+}","['simple', 'perfect']","{
+  ""Properties"": [""simple"", ""perfect""],
+  ""Explanation"": ""The sentence describes a simple fact about Haig's work history at Boeing, which is presented as a completed action in the past.""
+}","['simple', 'perfect']",1,"['simple', 'perfect']",1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the simple aspect. It describes an action that occurred over a specific period (from 2010 to 2013), indicating a duration and continuity, which aligns more with the progressive aspect. Therefore, the sentence does not express a simple fact but rather a continuous action or state during a specific time frame.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect aspect. The use of worked in the past tense indicates a completed action, but it does not specifically express the perfect aspect, which would require the auxiliary verb have (or has) followed by the past participle form of the main verb. In this sentence, worked is simply in the past tense, indicating a completed action, but not specifically in the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the progressive aspect. The verb worked is in the past tense, indicating a completed action, rather than expressing an ongoing, habitual, or incomplete action, which is characteristic of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb (e.g., has been eating). In the given sentence, the verb worked is in the simple past tense, indicating a completed action within a specific time frame, rather than expressing the ongoing nature of an action as seen in the perfect progressive aspect.', 'Property': 'perfect progressive'}]",[]
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Aspect,['simple'],['simple'],['simple'],True,['simple'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates an ongoing or incomplete action, which aligns with the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [
+    ""progressive""
+  ],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, so the progressive aspect is present in the sentence.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The sentence 'was hailed' indicates a past ongoing or incomplete action, fitting the progressive aspect.""
+}",['progressive'],1,"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates an ongoing or incomplete action, suggesting the initial perception of Campos as a hero was not a simple fact but rather a process that occurred over a period of time.""
+}",['progressive'],"{
+  ""Properties"": [""progressive""],
+  ""Explanation"": ""The use of 'was hailed' indicates a past ongoing or incomplete action, suggesting the progressive aspect.""
+}",['progressive'],1,['progressive'],1,0,Seems to be relying on the definition provided in a looser way,['simple'],"[{'Answer': 'no', 'Explanation': 'The sentence does not utilize the simple aspect. The use of was hailed indicates a past continuous tense, which suggests ongoing or continuous action in the past, rather than a simple fact. Therefore, the sentence does not express a simple aspect.', 'Property': 'simple'}, {'Answer': 'no', 'Explanation': 'The sentence does not utilize the perfect aspect. The use of was hailed indicates a past action without emphasizing its completion. The sentence describes an ongoing state in the past rather than a completed action, which is characteristic of the perfect aspect.', 'Property': 'perfect'}, {'Answer': 'no', 'Explanation': 'The given sentence does not utilize the progressive aspect. The sentence describes a past action (was hailed) without emphasizing the ongoing, habitual, or incomplete nature of the action. It simply states a past event without focusing on the ongoing nature of the action, which is a key characteristic of the progressive aspect.', 'Property': 'progressive'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not utilize the perfect progressive aspect. The perfect progressive aspect typically involves the use of has been or have been followed by the present participle of a verb, indicating an ongoing action that started in the past and is still continuing. In the given sentence, there is no construction using has been or have been followed by a present participle to express an ongoing action that is now completed.', 'Property': 'perfect progressive'}]",[]

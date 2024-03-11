@@ -1,0 +1,95 @@
+.node {
+	cursor: pointer;
+}
+.leaf_node {
+	cursor: default;
+}
+
+.overlay {
+/*	background-color: #fff;*/
+}
+   
+.node rect {
+	stroke: #666;
+	stroke-width: 1.5px;
+	padding: 10px;
+}
+   
+.node text {
+	font-size: 14px;
+	font-family: sans-serif;
+	fill:#999;
+}
+.node.leaf_node text {
+	fill:#eee !important;
+}
+.link {
+	fill: none;
+	stroke: #666;
+	stroke-width: 1.5px;
+}
+
+#text {
+	width: 100%;
+}
+
+#submit-button, #insertDataButton {
+	cursor: pointer;
+	border: 0;
+	color: white;
+	background-color: darkorange;
+	font-size: 15px;
+	padding: 10px 25px;
+	outline: 0;
+}
+
+
+
+#sentence_container {
+	color:#333;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 18px;
+
+}
+#sentence_container p{
+	padding:10px;
+	background-color: #eee;
+}
+
+#jsonContainer{
+	width:100%;
+/*	height: 100%;*/
+	background: #2d3842; 
+	color:#fff;
+}
+label{
+	vertical-align: top;
+    width: 90%;
+}
+.GPT-response{
+	font-family: monospace;
+}
+
+ol.two-columns {
+    -moz-column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 20px;
+    column-count: 3;
+    column-gap: 20px;
+}
+pre {
+    white-space: pre-wrap;
+    word-break: keep-all;
+}
+
+.small-tooltip{
+	font-size: .8em;
+}
+.highligthing:hover{
+	background-color: #333;
+	color:#fff;
+}

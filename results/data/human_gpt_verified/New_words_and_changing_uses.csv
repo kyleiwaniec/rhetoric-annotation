@@ -1,0 +1,1933 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'immune' is formed according to the model of 'resistant', creating the analogy between 'immune to attack' and 'resistant to attack'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'immume to attack' is an analogy formed according to the model of physical immunity, stating that the threat is resistant to a specific form of attack, similar to how the body is resistant to specific diseases.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'largely' is used as an analogy to mean almost entirely, akin to the word 'mostly'""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'immune' is used in an analogy to convey the idea that the threat is resistant to attack, similar to how the immune system defends against pathogens.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'largely' is formed by analogy from 'large'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'immune' is formed by analogy from the word 'resistant' in the context of being resistant to attack.""
+}",['analogy'],1,['analogy'],,,,,
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of euphemistic language ('I should be killed and I should die') to soften the impact of the violent threat fits the property of taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'screaming' is a conversion from a verb to a noun to describe the action of the woman.""
+}",['conversion'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'screaming' is originally a verb (participle), but here it is used as a noun, indicating a change in part of speech (conversion).""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'reporters' is a clipped form of the original word 'reporters'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'news' has been clipped to 'news conference' in the phrase 'Friday's news conference'.""
+}",['clipping'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'screaming' is a conversion from a verb to a gerund, changing the part of speech from a verb to a noun.""
+}",['conversions'],0,['clipping'],,,,,
+243,[2 6],Women everywhere should be furious.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'furious' in this context could be considered a euphemism for a stronger, potentially taboo, emotion."" 
+}",['taboo_deformation'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'everywhere' is formed by analogy from 'where'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'everywhere' follows the model of 'everyone' or 'everybody' and is formed by analogy from those words.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'everywhere' is formed by analogy from 'where'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'everywhere' is formed by analogy from 'where', indicating a similar meaning and distribution.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'everywhere' is formed by analogy from 'every' to indicate a broad or universal scope.""
+}",['analogy'],1,['analogy'],,,,,
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'nearly' is formed by analogy from 'near', and has a similar meaning.""
+}",['analogy'],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The word 'bless' is used to designate something that is not traditionally blessed by the Church, serving as a catachresis.""
+}",['catachresis'],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'bless nearly everything on the earth' borrows the religious connotation of the word 'bless' to describe the Church's readiness to approve or support a wide range of things.""
+}",['catachresis'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'nearly' is formed by analogy from the word 'near'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'nearly' is formed by analogy from 'near', using the suffix -ly to indicate 'in a nearly manner'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'nearly' is formed by analogy from 'near'.""
+}",['analogy'],1,['analogy'],,,,,
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""borrowing"", ""analogy""],
+  ""Explanation"": ""The phrase 'zero tolerance' is borrowed from English, and the use of 'intervene' and 'impose' follows an analogy with the concept of law enforcement, implying a similar approach to addressing the mentioned behavior.""
+}","['borrowing', 'analogy']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'intervene' is used with the meaning of 'impose', which is formed by analogy to its original meaning of interfering or coming between.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'intervene' is based on the model of 'impose,' creating an analogy between the two words that are close in meaning.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'intervene' is used in an analogy to 'impose zero tolerance', forming a new word 'intervene and impose' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'intervene' is used in an analogy to create the new term 'impose zero tolerance' by modeling the structure of the original word.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'intervene' is used in analogy with 'impose zero tolerance', forming a new word 'impose zero tolerance' by analogy from 'intervene'.""
+}",['analogy'],1,['analogy'],,,,,
+311,[3],"The Vatican presents a choice: the world, or Christ.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'choice' is formed according to the model of 'option', which is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'choice' is formed according to the model of the word 'choose', which is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'Christ' is used to form a new word 'Christian' by analogy.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'world' is used in analogy with 'Christ' to present a choice, forming a new word according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'choice' is formed according to the model of 'Christ', which is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'choice' is formed according to the model of 'Christ', which is close in meaning.""
+}",['analogy'],1,['analogy'],,,,,
+319,[3],It’s not coming back.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'it' as a placeholder for a specific noun is a form of catachresis, borrowing an available word to designate something that lacks a label.""
+}",['catachresis'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'It’s not coming back' uses a euphemism (coming back) to avoid using a more direct or potentially offensive expression.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'it's not coming back' may be a euphemism for a more direct or explicit statement, indicating a taboo deformation.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The phrase 'It's not coming back' uses the word 'back' to designate something that lacks a label, which is a form of catachresis.""
+}",['catachresis'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'it’s' is a clipped form of 'it is'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'It’s' is a clipped form of 'It is'.""
+}",['clipping'],0,['clipping'],,,,,
+320,[ 3 16],There will be no turning back.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The word 'turning' is borrowed to designate a lack of turning back.""
+}",['catachresis'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'turning back' is modified by the addition of 'no' to create the new meaning, forming an analogy to the original phrase.""
+}",['analogy'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no turning back' can be seen as a euphemism for a more direct or potentially negative expression, making it a taboo deformation.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'turning back' is used as a model to form the new word 'turning back' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'turning' is used in a similar way to 'sequel' or 'prequel', forming the new word 'turning back' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'turning' is used to create a new word 'turning back' by analogy to 'coming back' or 'going back'.""
+}",['analogy'],1,['analogy'],,,,,
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'shots fired' instead of 'gunshots' can be considered a euphemism to avoid the graphic nature of the word 'gunshots.'""
+}",['taboo_deformation'],"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The word 'shots' is a clipping of 'gunshots' and 'front' and 'rear' are used in analogy to refer to the location, demonstrating the properties of clipping and analogy.""
+}","['clipping', 'analogy']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The word 'shots' is a clipping of 'gunshots' and 'shots fired' is a compound word.""
+}","['clipping', 'compounds']",FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'front' and 'rear' are used in an analogous way to describe the direction of the shots fired, similar to how they are used to describe the location of a building or vehicle.""
+}",['analogy'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'shot' is originally a noun, but it is used here as a verb, indicating a change in part of speech.""
+}",['conversions'],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'shots fired' to describe gunfire is a form of catachresis, as 'shots' typically refers to alcoholic drinks or attempts in a game, but is borrowed here to designate gunfire.""
+}",['catachresis'],0,['analogy'],,,,,
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing"", ""conversions""],
+  ""Explanation"": ""The text includes 'advocate' which is a foreign borrowing from Latin (advocatus) and 'preaching' converted from a verb to a noun. Therefore, both foreign borrowing and conversion are present in the text.""
+}","['foreign_borrowing', 'conversions']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'preaching' is replaced with 'advocate' by analogy, as both words convey similar concepts related to spreading a message or belief.""
+}",['analogy'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain new words or changing uses that would fit the other properties, but it includes 'advocate', which is borrowed from Latin 'advocatus'.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the other properties listed. However, the use of 'advocate' is a foreign borrowing from Latin 'advocatus'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties listed.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties provided. The words used are standard English vocabulary without any indication of foreign borrowing, compounds, prefixes/suffixes, or any other listed properties.""
+}",['foreign_borrowing'],0,['foreign_borrowing'],,,,,
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'God' as a common noun rather than a specific religious reference is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'destruction' is used in analogy with the biblical reference to 'destruction' in Deuteronomy, suggesting a parallel between the consequences described in the Bible and the current situation in America.""
+}",['analogy'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of euphemisms like 'wicked' and 'wrong' instead of more direct or harsh terms to soften the impact of the message reflects a form of taboo deformation.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'over and over again' and 'tolerance and apathy' suggests the formation of the word 'judging' by analogy from 'judges'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'over and over again' and 'right' and 'wrong' in close proximity suggests the formation of the word 'over and over again' by analogy with 'time and time again'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'over and over again' is an example of analogy, as it is formed according to the model of 'again'.""
+}",['analogy'],1,['analogy'],,,,,
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,New_words_and_changing_uses,['conversions'],['conversions'],['conversions'],TRUE,[],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The expression 'no evidence — nor was asked for any' features doubling, with the repetition of 'no' and the use of 'nor' to introduce a second negative clause.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The use of 'no evidence' and 'nor was asked for any' results in the doubling of the negative structure.""
+}",['doubling'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The use of 'grave allegations' is an example of a compound word, where two existing words ('grave' and 'allegations') are yoked together to convey a specific meaning.""
+}",['compounds'],FALSE,"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'grave allegations' uses the doubling property, where the same word is repeated for emphasis.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'no evidence — nor was asked for any' contains the doubling property, as it repeats the structure of 'no evidence' with 'nor was asked for any'.""
+}",['doubling'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'grave allegations' uses the doubling property, repeating an adjective to emphasize the seriousness of the allegations.""
+}",['doubling'],1,['doubling'],0,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'Fake News' as a derogatory term to discredit the media fits the definition of taboo deformation, as it is a euphemism used to soften the impact of the accusation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains the use of 'fake news', which is a compound word, and the conversion of 'fake' from an adjective to a noun.""
+}","['compounds', 'conversion']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'fake news' as a derogatory term is an example of taboo deformation, a type of euphemism used to soften the impact of the original term, in this case likely 'false news'.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The use of 'Guardian' as a common noun to refer to a type of news story is an example of proper nouns being used as common nouns. Additionally, the compound 'fake news' is formed by yoking existing words together.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'fake' is originally an adjective, but in this context, it is used as a modifier for 'news story', indicating a conversion from an adjective to a noun.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing"", ""conversions""],
+  ""Explanation"": ""The use of 'Guardian' as a common noun to refer to a type of news story is an example of proper nouns being converted to common nouns. Additionally, 'fake news' is a foreign borrowing from the English language to refer to a specific type of news.""
+}","['foreign_borrowing', 'conversions']",0,"['foreign_borrowing', 'compounds']",,,,,
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The witness 'judge' is being used as a verb in this context, showing a conversion from a noun to a verb.""
+}",['conversion'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'judge' is originally a noun, but it has been converted to a verb in 'the witness is having trouble with the question.'""
+}",['conversion'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'witness' is a clipped form of 'eye-witness', where 'eye' has been dropped.""
+}",['clipping'],FALSE,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'judge' is originally a noun, but in this context, it is used as a verb, indicating a conversion from a noun to a verb.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'judge' is originally a noun, but in this context, it is used as a verb to indicate the act of forming an opinion or making a decision.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'judge' is originally a noun, but in this context, it is used as a verb to indicate the act of forming an opinion or making a decision.""
+}",['conversions'],1,['conversions'],,,,,
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The use of the compound 'sanctimony' and 'incompetence' qualifies as a compound, as they yoke existing words together to create a compound.""
+}",['compounds'],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of 'in' as a prefix in 'incompetence' indicates the addition of a prefix to change the meaning of the word.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""doubling"", ""foreign borrowing""],
+  ""Explanation"": ""The use of 'sanctimony' and 'incompetence' demonstrates doubling, and 'sanctimony' is borrowed from Latin ('sanctimonia').""
+}","['doubling', 'foreign_borrowing']",FALSE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'sanctimony and incompetence' is a compound, formed by yoking together the existing words 'sanctimony' and 'incompetence'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'sanctimony' and 'incompetence' are yoked together to create the compound 'sanctimony and incompetence'.""
+}",['compounds'],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'sanctimony and incompetence' uses the doubling property, where two similar words are used together for emphasis or effect.""
+}",['doubling'],0,['compounds'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['prefixes/suffixes'],in-competence
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of 'shameful' or 'shamming'.""
+}",['clipping'],"{
+  ""Properties"": [""compound"", ""conversion""],
+  ""Explanation"": ""The term 'sham' is used as a compound noun, and 'held' is converted from a verb to a past tense verb.""
+}","['compound', 'conversion']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'darn it' is a euphemism for a stronger, taboo word, 'damn it'.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'knew' is a clipped form of 'knew about'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of the original word 'shame'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of the original word 'shame'.""
+}",['clipping'],1,['clipping'],,,,,
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'grandly proclaimed' uses the borrowed foreign word 'proclaimed' from the English language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'peacefully' is formed by analogy from the noun 'peace'.""
+}",['analogy'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'grandly proclaimed' features the foreign borrowing of 'proclaimed' from Latin 'proclamare.'""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'grandly proclaimed' includes the foreign borrowing of the word 'proclaimed' from the French language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'grandly' is formed by analogy from 'grand', using the suffix -ly to create an adverb form.""
+}",['analogy'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'grandly proclaimed' borrows the word 'proclaimed' from English, indicating foreign borrowing.""
+}",['foreign_borrowing'],0,['foreign_borrowing'],,,,,
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing"", ""conversion""],
+  ""Explanation"": ""The term 'interfere' is a foreign borrowing, derived from the Latin 'interferre' and it has been converted from a verb to a noun in this context.""
+}","['foreign_borrowing', 'conversion']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Russians' directly borrows the proper noun 'Russians' and applies it as a general term for the people from Russia.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'intelligence findings' includes the foreign borrowing property as 'intelligence' has roots in Latin (intelligentia) and 'findings' has roots in Old English (findan).""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Russians' is a foreign borrowing, as it is a word borrowed from the Russian language to refer to the people of Russia.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Russians' is a foreign borrowing, as it is a word borrowed from the Russian language to refer to the people of Russia.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'intelligence findings' includes the foreign borrowing of the word 'intelligence' from French, which is commonly used in English to refer to information gathered by government agencies.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],TRUE,"['proper_nouns_to_common_nouns', 'acronyms']","{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses the proper nouns 'CIA' and 'Director of National Intelligence Clapper' as general terms, indicating a shift from proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The use of 'protect' (a verb) as a noun 'protection' suggests a conversion of the word from one part of speech to another.""
+}",['conversion'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'CIA' which stands for Central Intelligence Agency.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The use of 'protect' as a verb in 'protect America' is an example of conversion, where a noun is used as a verb.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text does not contain any new words or changing uses. It uses the existing words 'CIA', 'Director', 'Brennan', 'National Intelligence', 'Clapper' and 'America'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties provided.""
+}",['foreign_borrowing'],0,['conversions'],1,0,GPT explanation does not match classification,['acronyms'],
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to a person in general, rather than as a specific individual, is an example of using a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'home' is originally a noun, but in this sentence, it is used as an adverb after the verb 'bring', which is a type of conversion.""
+}",['conversion'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The name 'Trump' is a proper noun (referring to the former US president), but in this context, it is used as a common noun to refer to a person who made a statement.""
+}",['proper_nouns_to_common_nouns'],FALSE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to a person in general, rather than as a specific individual, is an example of using a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to a person in general, rather than as a specific individual, is an example of using a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to a person in general, rather than as a specific proper noun referring to the individual Donald Trump.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Saucier' is used as a common noun to refer to a young man, indicating a shift in meaning from a specific individual to a general category.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Saucier' is used as a common noun to refer to a young man, indicating that it has been generalized to represent a category of individuals.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Saucier' (referring to a person) is used as a common noun in this sentence to refer to a type of person.""
+}",['proper_nouns_to_common_nouns'],TRUE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Saucier' as a common noun to refer to a young man is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Saucier' as a common noun to refer to a young man is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Saucier' as a common noun to refer to a person rather than a specific individual is an example of using a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+2629,[ 8 13],ADVANTAGE AMERICANS,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The term 'Americans' is a foreign borrowing, as it comes from the English language. The word is also a clipping, as it is a shortened version of the full demonym 'United States citizens'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The text includes the acronym 'AMERICANS' formed from the first letters of the words in the phrase 'ADVANTAGE AMERICANS'.""
+}",['acronyms'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Americans' is a foreign borrowing from the English language. It is derived from the name of the country, America.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'Americans' in all caps suggests that it may be an acronym, although the specific expansion is not provided.""
+}",['acronyms'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Americans' in this context is a foreign borrowing, as it is a word borrowed from the English language to refer to the people of the United States.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Americans' in the phrase 'Advantage Americans' appears to be a foreign borrowing, as it is a word borrowed from the English language to designate people from the United States.""
+}",['foreign_borrowing'],0,['foreign_borrowing'],,,,,
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'Wilt' as a euphemistic deformation of 'will' to avoid directly using the word 'will' in a religious or respectful context.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'righteous' is formed by analogy from the word 'wicked' as it is close in meaning. Both refer to moral or ethical behavior.""
+}",['analogy'],"{
+  ""Properties"": [""proper nouns to common nouns"", ""analogy""],
+  ""Explanation"": ""The use of the proper noun 'Abraham' as a common noun in the sentence is an example of the property 'proper nouns to common nouns'. Additionally, the formation of the word 'righteous' by analogy from the word 'wicked' demonstrates the property 'analogy'.""
+}","['proper_nouns_to_common_nouns', 'analogy']",FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains the foreign borrowing of the name 'Abraham' from Hebrew.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'wicked', which comes from Old English.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The name 'Abraham' is used as a common noun to refer to a person, rather than the specific biblical figure.""
+}",['proper_nouns_to_common_nouns'],0,['foreign_borrowing'],,,,,
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper nouns 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini' are used as general terms to refer to specific individuals.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Ratzinger' as a common noun to refer to an ordinary person in the sentence 'It beggars belief of ordinary people' demonstrates the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns"", ""foreign borrowing""],
+  ""Explanation"": ""The text uses the proper nouns 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini' as common nouns to refer to these individuals, indicating generalization. Additionally, it includes the foreign borrowing of 'Mafia' from Italian.""
+}","['proper_nouns_to_common_nouns', 'foreign_borrowing']",FALSE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Ratzinger' as a common noun to refer to an ordinary person is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Ratzinger' as a common noun to refer to a person (Pope Benedict XVI) is an example of using a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Ratzinger' as a common noun to refer to a person, rather than as a specific proper noun, indicates the use of a proper noun as a common noun.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a general term to refer to a person, without being used as a specific proper noun, demonstrates the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Soros' is used as a common noun to refer to George Soros and his organizations in a general sense, similar to the use of 'kleenex' for tissue.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to George Soros, a specific individual, is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],TRUE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to George Soros, turning a proper noun into a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to a general term for a person, in this case, 'public enemy'.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soros' as a common noun to refer to a category of people or organizations, rather than just the individual George Soros, demonstrates the property of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],1,0,GPT makde upo its own property,['compounds'],
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'mystifying' is formed by analogy from the noun 'mystify'.""
+}",['analogy'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'Barros' is of foreign origin and has been borrowed from another language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'defends' is originally a verb, but in this sentence, it is used as a noun, indicating a change in part of speech, which is a conversion.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Barros' as a proper noun in the sentence indicates a foreign borrowing from a Spanish or Portuguese origin, as it is a common surname in those languages.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'defends' is used in an analogous way to 'defense', forming a new word 'defends' to match the meaning of 'defense'.""
+}",['analogy'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Barros' is a foreign borrowing from a Spanish or Portuguese surname, indicating a borrowing of a word from another language.""
+}",['foreign_borrowing'],0,['foreign_borrowing'],,,,,
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],TRUE,"['compounds', 'conversions']","{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'paralyzed' is an example of a conversion, as it is originally an adjective used here as a verb to describe the state of someone being affected.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is being used as a noun (defenseless people) instead of its original adjectival form, which represents a conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'robbed' and 'assaulted' as verbs, rather than nouns, demonstrates the conversion of these words from their original parts of speech.""
+}",['conversions'],TRUE,"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is originally an adjective, but it is used here as a noun to refer to unarmed people, which is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is used as a noun in this context, which is a conversion from its original adjectival form.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'defenseless' is originally an adjective, but in this context, it is used as a noun to refer to unarmed people, which is a conversion of its original part of speech.""
+}",['conversions'],1,['conversions'],1,0,GPT is wrong about the part of speech,['prefixes/suffixes'],un-armed
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The prefix 're-' in 'reality' changes the meaning of the root word 'ality'. The suffix '-ed' in 'bringing' changes the verb 'bring' to indicate past tense.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of 'Democrat' as a common noun from the proper noun 'Democrats' is an example of analogy, where a new word is formed according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The conversion property is present as the word 'Democrat' (a noun) is converted into 'Democrats' (a plural noun) to refer to the political party.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of 'Democrats' as a general term for a group of people is formed by analogy from the specific political party.""
+}",['analogy'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'Democrats' is being used as a noun, even though it is originally a proper noun referring to a specific political party.""
+}",['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'Democrat' in 'Democrats' is analogous to the formation of other political party names, such as 'Republican'.""
+}",['analogy'],0,['analogy'],,,,,
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'abused' is used to describe the victims' experience, and 'sounding' is used to draw an analogy between Pope Francis' speech and the men who abused them, thus forming a new word 'sounding' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'like' suggests an analogy between Pope Francis and the men who abused them, forming a new word according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'abused' is used analogously to refer to the behavior of Pope Francis sounding similar to the behavior of the men who perpetrated abuse.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'abused' is used to create an analogy with 'Pope Francis', indicating that he is resembling the men who abused them.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'abused' is used to create an analogy with 'Pope Francis', indicating that he is becoming more similar to the men who abused them.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'abused' is used to create an analogy with 'Pope Francis', indicating that he is becoming more similar to the men who abused them.""
+}",['analogy'],1,['analogy'],,,,,
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,['doubling'],"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The use of 'smear' as a verb is a conversion, as 'smear' is originally a noun. The formation of 'last-minute' as a compound is an example of analogy, as it follows the model of other compound nouns like 'last-minute decision.'""
+}","['clipping', 'analogy']","{
+  ""Properties"": [""clipping"", ""conversion""],
+  ""Explanation"": ""The text contains a clipped word 'smears' from 'false last-minute smears' and converted the noun 'scare' into a verb 'drive me out'.""
+}","['clipping', 'conversion']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn' as a euphemism to soften the impact of a stronger word, 'damn'.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The text does not contain any foreign borrowings, compounds, prefixes/suffixes, blends, conversions, catachresis, acronyms, proper nouns to common nouns, analogy, fabrication, onomatopoeia, taboo deformation, or doubling. However, the word 'smears' is a foreign borrowing from the English word 'smear' and the word 'last-minute' is a clipped compound of 'last' and 'minute'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The text does not exhibit any of the other properties listed. The word 'smears' is a foreign borrowing from English, and 'last-minute' is a compound word formed by yoking together existing words.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping of 'smears' from 'last-minute smears' and the compound 'last-minute'."" 
+}","['clipping', 'compounds']",0,"['foreign_borrowing', 'clipping']",1,0,GPT explanation does not match classification,['compounds'],last-minute
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'got rid of' is a conversion, as it transforms the adjective 'rid' into a past participle form of a verb.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'got' is a conversion from a verb to a past participle, as it is used in a verb form but functions as an adjective in this sentence.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'got rid of' is a conversion, as it changes the verb 'rid' into a passive past tense verb phrase.""
+}",['conversions'],TRUE,"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'got rid of' converts the original noun 'rid' into a verb, indicating a change in part of speech.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'got rid of' involves converting the noun 'rid' into a verb, indicating a change in part of speech.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'got rid of' converts the noun 'rid' into a verb, indicating a change in part of speech.""
+}",['conversions'],1,['conversions'],,,,,
+3895,[13],Impossible.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],TRUE,[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are present in the given text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are evident in the provided text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""No new words or changing uses are evident in the given text.""
+}",[],TRUE,"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of new words or changing uses from the provided properties.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""None of the properties of New words and changing uses are present in the provided text.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any examples of new words or changing uses from the provided properties.""
+}",[],0,[],1,0,,['prefixes/suffixes'],
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],TRUE,[],"{
+    ""Properties"": [""foreign borrowing""],
+    ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing as it comes from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing, as it is borrowed from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'Iran' is a foreign borrowing, as it is taken from the name of the country Iran.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Iran' in the sentence is a foreign borrowing, as it is a word borrowed from the Persian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties listed.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the properties listed.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],1,0,GPT explanation does not match classification,['acronyms'],
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The creation of the phrase 'Drain the Swamp' is an example of analogy, as it is formed according to the model of another word that is close in meaning ('clean up corruption').""
+}",['analogy'],"{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains compounds like 'Drain the Swamp' formed by yoking existing words together, and 'an excellent example' formed by analogy from 'a terrible example'.""
+}","['compounds', 'analogy']","{
+  ""Properties"": [""compounds"", ""foreign borrowing""],
+  ""Explanation"": ""The text contains the compound 'Drain the Swamp' and the foreign borrowing 'cafe latte'.""
+}","['compounds', 'foreign_borrowing']",FALSE,"{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains compounds like 'Drain the Swamp' and 'past week', as well as an analogy with 'what on Earth could've made a man promising to Drain the Swamp so popular'.""
+}","['compounds', 'analogy']","{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains compounds like 'Drain the Swamp' and 'past week', as well as an analogy between 'what on Earth' and 'what could've made'.""
+}","['compounds', 'analogy']","{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The use of 'Drain the Swamp' is a compound word and an analogy, as it is formed by combining two existing words and is formed according to the model of 'cleaning up corruption'.""
+}","['compounds', 'analogy']",1,"['compounds', 'analogy']",,,,,
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'heavy attack' is a compound, formed by joining the words 'heavy' and 'attack'.""
+}",['compounds'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Bishop Morlino' as a common noun to refer to a bishop, turning a proper noun into a general term, qualifies as a proper noun to common noun transformation.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'The Remnant' as a general term for a particular group of people or organization ('we') is an example of proper nouns being used as common nouns. The borrowing of 'Remnant' from its original meaning to refer to a specific community or organization is a kind of foreign borrowing.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']",FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'hater' is a foreign borrowing from English, as it is borrowed from the word 'hate' to create a noun form.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'hater' is a foreign borrowing from English, originally derived from the word 'hate'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'heavy attack' and 'Church's teaching', as well as a conversion of the noun 'attack' into the verb 'attack' in 'which prompted us here at The Remnant to join the fight'.""
+}","['compounds', 'conversions']",0,['foreign_borrowing'],,,,,
+4318,[14],Kill the Messenger,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The title 'Kill the Messenger' uses a taboo deformation, euphemistically conveying a message of harm or danger without using explicit language.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' is an example of clipping, where the word 'the' is removed from the original phrase 'Kill the Messenger'.""
+}",['clipping'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' is formed according to the model of other expressions indicating shooting down the bearer of bad news, such as 'don't shoot the messenger.' The new word is formed by analogy from the existing idiom.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' is an analogy formed according to the model of the word 'shoot the messenger', which means to blame or punish the bearer of bad news.""
+}",['analogy'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' is a taboo deformation, as it uses a euphemism ('kill') to soften the impact of the original meaning.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' is an analogy formed according to the model of the word 'shoot the messenger' that is close in meaning.""
+}",['analogy'],0,['analogy'],,,,,
+4329,[14],"Representatives work for us, we do not work for them.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'representatives' according to the model of the word 'workers', forming a new word with a similar meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'representatives' is formed by analogy from the word 'represent' to convey the idea of individuals who represent the public.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'representatives' is by analogy, based on the model of 'workers'.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The new word 'representatives' is formed according to the model of the existing word 'representative' that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'representatives' is based on the model of 'work' and 'us', creating a new word according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the phrase 'work for us' by analogy to 'work for them' demonstrates the use of analogy to create a new word or phrase based on a similar existing concept.""
+}",['analogy'],1,['analogy'],,,,,
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,['compounds'],"{
+  ""Properties"": [""foreign borrowing"", ""catachresis"", ""taboo deformation""],
+  ""Explanation"": ""The title contains 'Assassination', a foreign borrowing, in a figurative sense, as well as 'character assassination', a catachresis, and potentially a taboo deformation.""
+}","['foreign_borrowing', 'catachresis', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The term 'assassination' comes from the foreign borrowing of the Latin word 'assassinare' and has been clipped to form 'character assassination', showing both properties.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'character assassination' is formed by analogy from the word 'assassination' to convey the idea of severely damaging someone's reputation, especially in the context of Judge Kavanaugh's controversial confirmation process.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The title contains the foreign borrowing 'Kavanaugh' from a proper noun, and the clipping 'Last-Minute' from 'last-minute'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The title contains the compound 'Last-Minute', which is a combination of two existing words. Additionally, 'Kavanaugh' is a proper noun being used as a common noun to refer to the judge, which is a form of proper nouns to common nouns.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The title contains 'Kavanaugh', a proper noun, which is used as a general term to refer to Judge Kavanaugh. This is an example of proper nouns to common nouns. Additionally, 'assassination' is a foreign borrowing from the Italian word 'assassinare'. The word 'Kavanaugh' can also be considered a clipping of the full name 'Brett Kavanaugh'.""
+}","['foreign_borrowing', 'clipping']",0,"['foreign_borrowing', 'clipping']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['compounds'],
+4353,[ 7 14],"""For us, Hungary is first.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the country's name, 'Magyarország' in Hungarian.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence is a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence is a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence indicates a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from another language (Hungarian) and used in the English sentence.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+4366,[15],The authorities allowed him to commit the crime.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'commit' in connection with 'crime' is a catachresis, as 'commit' is borrowed from the language of actions and responsibilities to designate something that lacks a label.""
+}",['catachresis'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'commit the crime' uses taboo deformation to soften the impact of the word 'crime' by using a euphemism.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'commit the crime' uses a euphemism (taboo deformation) for a potentially sensitive topic.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'commit the crime' uses a euphemism ('commit') to soften the impact of the taboo word ('crime').""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'allowed' instead of 'permitted' or 'authorized' is a euphemism to soften the impact of the statement.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'commit' is originally a verb, but in this sentence, it is used as a noun, indicating a conversion of the word from one part of speech to another.""
+}",['conversions'],0,['taboo_deformation'],,,,,
+4368,[15],They don’t care to see Trump vindicated.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'vindicated' is borrowed from Latin 'vindico', which means 'to avenge' or 'to punish'""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'vindicated' appears to be clipped from its full form 'vindicate', creating a new form that is used in the context of the sentence.""
+}",['clipping'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'vindicated' is a verb that has been formed from the adjective 'vindicated' by changing its part of speech. It has been converted from an adjective to a verb.""
+}",['conversions'],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'vindicated' is a clipped form of 'vindicate'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'vindicated' is a clipped form of 'vindicate' in this context.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'vindicated' is a clipped form of 'vindicate'.""
+}",['clipping'],1,['clipping'],,,,,
+4370,[15],The media is very interested in racism.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'racism' is formed by analogy from the word 'race' to convey the concept of discrimination based on race.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'racism' may be considered a new word formed by analogy with the word 'sexism' to describe discrimination based on race.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'racism' by analogy from 'sexism' reflects the model of another word that is close in meaning.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'racism' may have been formed by analogy from the word 'racial' to describe discrimination based on race.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'racism' may have been formed by analogy from the word 'race' to describe discrimination based on race.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'racism' may have been formed by analogy from the word 'racial' to denote discrimination based on race.""
+}",['analogy'],1,['analogy'],,,,,
+4371,[15],The media is happy to talk about anti-Semitism.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],TRUE,[],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The word 'anti-Semitism' is formed by adding the prefix 'anti-' to the proper noun 'Semitism' to indicate opposition or hostility toward Semitic people.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'anti-Semitism' has been converted from a noun to an adjective in the given text.""
+}",['conversions'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'anti-Semitism' is derived from German, where 'Semitismus' referred to the descendants of Shem, one of the sons of Noah. The 'anti' prefix was added to denote opposition or hostility."" 
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'anti-Semitism' is a foreign borrowing from German, where 'Semitismus' was coined in 1879 by Wilhelm Marr to refer to anti-Jewish sentiments.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'anti-Semitism' is a foreign borrowing from German, where 'Semitismus' was coined in 1879 by German agitator Wilhelm Marr to replace the traditional term Judenhass ('Jew-hatred').""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'anti-Semitism' is a foreign borrowing from German, where 'antisemitismus' was first coined in 1879 by Wilhelm Marr.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],1,0,GPT is only partially correct,"['prefixes/suffixes','foreign_borrowing']",antisemitism
+4372,[15],Here’s my translation:,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains the foreign borrowing property as the word 'cafe' is borrowed from French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains the term 'cafe latte,' which is a clear example of a foreign borrowing from Italian and French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""clipping""],
+  ""Explanation"": ""The text contains examples of foreign borrowing (from another language), compounds (multiple existing words yoked together), and clipping (shortened versions of words).""
+}","['foreign_borrowing', 'compounds', 'clipping']",FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains the foreign borrowing property as it includes the word 'cafe', which is borrowed from French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains the foreign borrowing property as it includes the word 'cafe', which is borrowed from French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing, as the word 'cafe' is borrowed from French.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [
+    ""analogy""
+  ],
+  ""Explanation"": ""The use of 'cooler and dimmer' is formed by analogy to describe the changing state of the Sun, where 'cooler' and 'dimmer' are used as terms similar in meaning to the Sun's state.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'dimmer' is formed by analogy to 'cooler', using the same pattern to convey the change in brightness.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'cooler and dimmer' is an analogy, where the changing state of the Sun is being compared to something familiar (temperature and brightness) to convey its change over time.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'dimmer' is formed by analogy from the concept of 'cooling' in the context of the Sun's temperature.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'cooler' is used in an analogy to describe the Sun's decreasing temperature, forming a new word according to the model of 'cool' in a similar context.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'cooler and dimmer' is formed by analogy from the concept of temperature and brightness, indicating a decrease in these qualities.""
+}",['analogy'],1,['analogy'],,,,,
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'Lie big, lie often, and when caught, keep lying.' emphasizes the message and adds impact to the statement.""
+}",['repetition'],"{
+  ""Properties"": [""compounds"", ""onomatopoeia"", ""taboo deformation""],
+  ""Explanation"": ""The phrase 'lie big' is a compound, 'keep lying' is a form of conversion (changing 'lie' from a verb to a gerund), and the use of 'lie' in the context of deceit could be seen as a taboo deformation.""
+}","['compounds', 'onomatopoeia', 'taboo_deformation']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The term 'lie big' is a clipping of the phrase 'lie big,' and the phrase 'lie often' and 'keep lying' are compounds formed by yoking existing words together.""
+}","['clipping', 'compounds']",FALSE,"{
+  ""Properties"": [""clipping"", ""analogy""],
+  ""Explanation"": ""The phrase 'lie big' is a clipped form of 'lie big lies' and the use of 'lie often' and 'keep lying' follows an analogy with the structure of 'lie big'.""
+}","['clipping', 'analogy']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'lie big' is a euphemistic deformation of the taboo word 'lie' to soften its impact.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""clipping"", ""doubling""],
+  ""Explanation"": ""The phrase 'lie big' is a clipped form of 'lie often', and the doubling of 'lie' in 'lie often' demonstrates the use of doubling.""
+}","['clipping', 'doubling']",0,"['clipping', 'analogy']",,,,,
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds, as existing words are combined to create new entities, such as 'lobby of misers', 'lobby of politicians', and 'lobby of masons'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text uses the compound 'lobby of', yoking together existing words to create a compound to describe different types of lobbies.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds as existing words ('lobby' and 'misers/politicians/masons') are yoked together to create new compounds ('lobby of misers', 'lobby of politicians', 'lobby of masons').""
+}",['compounds'],TRUE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds, where existing words are yoked together to create new compounds like 'lobby of misers', 'lobby of politicians', and 'lobby of masons'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds, as it combines existing words to create new terms like 'lobby of misers' and 'lobby of politicians'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The text contains compounds, where existing words are yoked together to create new compounds such as 'lobby of misers', 'lobby of politicians', and 'lobby of masons'.""
+}",['compounds'],1,['compounds'],,,,,
+4405,[16],So interesting!,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""fabrication""],
+  ""Explanation"": ""The text does not include any instances of foreign borrowing, compounds, prefixes/suffixes, clipping, blends, conversions, catachresis, acronyms, proper nouns to common nouns, analogy, onomatopoeia, taboo deformation, or doubling. However, the word 'rhetoretician' may be considered a fabricated word, as it is not commonly used and may have been created specifically for the given context.""
+}",['fabrication'],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The usage of 'interesting' does not fit any of the other properties, but it could be considered onomatopoeic as the word sounds like its meaning.""
+}",['onomatopoeia'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not exhibit any of the identified properties of New words and changing uses.""
+}",[],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'fax' is a clipped version of 'facsimile'.""
+}",['clipping'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any of the listed properties of new words and changing uses.""
+}",[],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'interesting' is not an onomatopoeia, but the user's response 'So interesting!' could be interpreted as mimicking the sound of something intriguing, making it an example of onomatopoeia.""
+}",['onomatopoeia'],0,['clipping'],,,,,
+4417,[16],The time for “prudence” is long past.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'prudence' has been used as a model to form a new word, 'imprudence', by analogy.""
+}",['analogy'],"{
+    ""Properties"": [""foreign borrowing""],
+    ""Explanation"": ""The word 'prudence' is derived from Old French and Latin, making it a foreign borrowing.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'prudence' is used here to create a new word 'prudence' by analogy, emphasizing the need for immediate action.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'prudence' is borrowed from Latin ('prudentia').""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'prudence' is used as a model to form the new word 'imprudence' by analogy, as both words are close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'prudence' is used as a model to form the new word 'imprudence' by analogy, as both words are close in meaning.""
+}",['analogy'],0,['analogy'],,,,,
+4427,[16],It is over.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'over' is an onomatopoeic expression imitating the sound of something ending or closing.""
+}",['onomatopoeia'],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The use of 'over' here is an onomatopoeic representation of something ending or reaching a conclusion.""
+}",['onomatopoeia'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'It is over' may be a euphemism for a difficult, unpleasant, or painful situation, indicating the use of taboo deformation.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'over' is an onomatopoeia, as it sounds like the action of something ending or being finished.""
+}",['onomatopoeia'],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'over' is an onomatopoeic representation of a sound indicating finality or completion.""
+}",['onomatopoeia'],"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'over' is an onomatopoeic representation of a sound that signifies finality or completion.""
+}",['onomatopoeia'],1,['onomatopoeia'],,,,,
+4430,[16],You really don't need to know anything.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The term 'fax' is a clipped form of 'facsimile'.""
+}",['clipping'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not exhibit any of the listed properties of New words and changing uses.""
+}",[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The text contains a clipped word 'don't' from 'do not'.""
+}",['clipping'],FALSE,"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any of the listed properties of new words and changing uses.""
+}",[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'don't' is a clipped form of 'do not'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'don't' is a clipped form of 'do not'.""
+}",['clipping'],1,['clipping'],,,,,
+4431,[16],“I had no way to see into his mind.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'mind' has been clipped to create the new word 'mind'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'mind' has been clipped to create the new word 'mind'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The term 'mind' is clipped to create the new word 'mind'.""
+}",['clipping'],TRUE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'mind' has been clipped to create the new word 'mind'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'mind' has been clipped to create the new word 'mind'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'mind' has been clipped to create the new word 'mind'.""
+}",['clipping'],1,['clipping'],,,,,
+4434,[ 8 16],No more games.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no more games' could be a euphemism for ending dishonest or deceitful behavior, making it an example of taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'games' may be a euphemism for something else, suggesting a taboo deformation of the original meaning.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'games' has been clipped to create the new word 'game' in the phrase 'No more games.'""
+}",['clipping'],FALSE,"{
+  ""Properties"": [""onomatopoeia""],
+  ""Explanation"": ""The word 'games' in the context of 'no more games' could be considered onomatopoeic as it mimics the sound of playful or deceptive behavior, which is fitting for the context.""
+}",['onomatopoeia'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no more games' could be considered a euphemism for a more direct or potentially offensive statement, making it an example of taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no more games' uses a euphemism (taboo deformation) to convey a sense of seriousness or frustration without using explicit or potentially offensive language.""
+}",['taboo_deformation'],0,['taboo_deformation'],,,,,
+4436,[16],“So what if this code is a gun?”,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'gun' in an analogy to describe the potential harmful nature of the code.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'gun' in this context is an analogy to emphasize the power or capability of the 'code'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The new word 'codegun' is formed according to the model of 'shotgun', creating an analogy between the two in terms of their potential impact or danger.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'gun' in this context is an analogy, comparing the code to a weapon.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'gun' in this context is an analogy, comparing the code to a weapon.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'gun' in this context is an analogy, comparing the code to a weapon for its potential to cause harm or damage.""
+}",['analogy'],1,['analogy'],,,,,
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn' in place of a stronger expletive is an example of taboo deformation as a form of euphemism.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'criminals' is formed by analogy from the behavior of 'two guys' who were not treated as such.""
+}",['analogy'],"{
+  ""Properties"": [""analogy"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'criminals' to refer to the treatment of the two guys implies a taboo deformation or euphemistic substitution, as they were not necessarily legally declared as criminals. Additionally, the use of 'same thing' may be seen as an analogy to convey a similarity of actions.""
+}","['analogy', 'taboo_deformation']",FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'ship' is used in an analogy to refer to a workplace or environment, similar to how 'ship' refers to a vessel. This creates a new meaning for the word 'ship' in this context.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'ship' is used as an analogy to refer to a workplace or environment, similar to how 'ship' refers to a vessel. This creates a new meaning for 'ship' in the context of the sentence.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'ship' is used in an analogy to refer to a workplace or environment, similar to how 'ship' refers to a vessel. This creates a new meaning for the word 'ship' in the context of the workplace.""
+}",['analogy'],1,['analogy'],,,,,
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The term 'Shapira' is a shortening or clipping of the full name 'Shapira'.""
+}",['clipping'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The creation of 'accuses' from 'accuse' is an example of analogy, where a new word is formed according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'guilty' is being used in the same way as when someone is accused of a crime, but in this case it is meant figuratively. This is an example of analogy, as the word is being used according to the model of its original meaning in the context of accusation.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'accuses' is formed by analogy from the word 'accuse'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'accuses' is used in an analogous way to 'guilty of', forming a new word according to the model of another word that is close in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'Shapira' is a clipped form of the full name 'Shapira'.""
+}",['clipping'],0,['analogy'],,,,,
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""religious terminology""],
+  ""Explanation"": ""The text contains religious terminology, referencing 'Blood' and 'Spirit' in a spiritual context.""
+}",['religious_terminology'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'revives' was likely formed by analogy from the existing word 'revive', given the close relationship in meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'revives' is formed by analogy from 'generate', both words related to the concept of creation and renewal.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'revives' is formed by analogy from the word 'generate', both related to the concept of creation and renewal.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'revives' is formed by analogy from the word 'revive', creating a new word according to the model of an existing word.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'revives' is formed by analogy from the word 'revive', following a similar pattern to 'generate' and 'generation'.""
+}",['analogy'],1,['analogy'],,,,,
+4767,[],- No new deaths -,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'no new deaths' could be considered a catachresis as it borrows the available term 'new' to designate a lack of deaths in a situation.""
+}",['catachresis'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'no new deaths' can be seen as a euphemism to soften the impact of the actual reality of death.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of the phrase 'no new deaths' could be a euphemistic way of addressing a sensitive or taboo topic, such as mortality or public health."" 
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no new deaths' may be considered a euphemism to soften the impact of the topic of death.""
+}",['taboo_deformation'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the defined properties.""
+}",[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'no new deaths' may be considered a euphemism to soften the impact of the topic of death, making it less direct or harsh.""
+}",['taboo_deformation'],1,['taboo_deformation'],,,,,
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",TRUE,"['foreign_borrowing', 'acronyms']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of VDAWDI is an acronym formed from the first letters of multiple words: 'Vintage Date of the Average Weekly Data for Insured Unemployment'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the words 'Volatility, Downside, Asymmetry, Tail, Risk, and Drawdown Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' indicates the presence of an acronym, formed from the first letters of the string of words 'Veteran Disability Adjusted Wage Index'.""
+}",['acronyms'],TRUE,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the string of words 'Veterans Disability Adjusted Wage Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of the string of words 'Veterans and Displaced Worker Database Index'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'VDAWDI' is an acronym formed from the first letters of a string of words.""
+}",['acronyms'],1,['acronyms'],1,0,GPT is only partially correct,"['compounds', 'acronyms']",
+5024,[],The two cities are home to a combined 12 million people.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'combined 12 million' is a compound, formed by yoking together the existing words 'combined' and '12 million'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'combined' is a compound formed by yoking together 'com' and 'bined'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'combined 12 million' is a compound formed by yoking together the existing words 'combined' and '12 million'.""
+}",['compounds'],TRUE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'combined' is a compound word formed by yoking together the existing words 'combine' and 'ed'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'combined' is a compound word formed by yoking together the existing words 'combine' and 'ed'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'combined' is a compound word formed by yoking together the existing words 'combine' and 'ed'.""
+}",['compounds'],1,['compounds'],,,,,
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,"['clipping', 'compounds']","{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of the suffix '-ly' to form the adverb 'roughly' indicates the presence of a suffix in the text.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The term 'liberal' is being used as a noun when it is originally an adjective, demonstrating a conversion from an adjective to a noun.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to individuals with a particular political ideology, making it an example of conversion.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to a person with liberal political views, which is a conversion from adjective to noun.""
+}",['conversions'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'liberal' is originally an adjective, but in this context, it is used as a noun to refer to a person with liberal ideologies. This is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of '4-to-4' as an acronym formed from the first letters of the words 'four to four.'""
+}",['acronyms'],0,['conversions'],0,0,GPT is only partially correct,"['compounds', 'conversions']","liberal: adjective to noun, conservative: adjective to noun"
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy"", ""conversions""],
+  ""Explanation"": ""The use of 'active shooters' is a conversion, as 'shooters' is originally a noun but is used here as a verb. The formation of 'active shooters' relies on an analogy with the concept of multiple individuals involved in shooting incidents, similar to the term 'active volcanoes'.""
+}","['analogy', 'conversions']","{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The conversion property is used as the noun 'shooters' is converted to the verb 'targeting', changing the part of speech.""
+}",['conversion'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of 'multiple active shooters' by analogy with 'multiple shooters'.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'active shooters' is formed by analogy from the term 'shooter' to indicate multiple individuals involved in shooting incidents.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'active shooters' is formed by analogy from the term 'shooter', indicating multiple individuals involved in shooting incidents.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The formation of the word 'multiple' in 'multiple active shooters' is an analogy to the word 'single' in 'single active shooter'.""
+}",['analogy'],1,['analogy'],,,,,
+5438,[],I wanted them to know that I listened.”,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The verb 'listened' is derived from the noun 'listen', indicating a change in part of speech from a noun to a verb.""
+}",['conversion'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'listened' is originally a verb, but it is used here as part of the noun phrase 'that I listened', converting it into a noun.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'listened' is originally a verb, but it is used in this context as a way of expressing understanding, which is a shift from its original part of speech.""
+}",['conversions'],FALSE,"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'listened' is originally a verb, but in this context, it is used as a noun through conversion to convey the act of paying attention.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'listened' is originally a verb, but in this context, it is used as a noun to indicate the act of listening, which is a conversion.""
+}",['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'listened' is originally a verb, but in this context, it is used as a noun through conversion to convey the act of paying attention and understanding.""
+}",['conversions'],1,['conversions'],,,,,
+6125,[],They know that.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""doubling""],
+  ""Explanation"": ""The phrase 'They know that' contains the doubling property as it repeats the word 'know'.""
+}",['doubling'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'know' has been clipped to create 'know' in the context of the response.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'that' has been clipped to create the new word 'that.'""
+}",['clipping'],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'know' has been clipped to create the new word 'know' in the example text.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'know' has been clipped to create the new word 'know'.""
+}",['clipping'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'they know that' could be a euphemism for a more direct or explicit statement, making it an example of taboo deformation.""
+}",['taboo_deformation'],0,['clipping'],,,,,
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'resorting' is a conversion, as it changes the original noun 'resort' into a verb.""
+}",['conversion'],"{
+  ""Properties"": [""conversion"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'resorting' indicates a change from a verb to a noun, constituting a conversion. The phrase 'covering up' is a taboo deformation as it is a euphemism for the action of concealing the body.""
+}","['conversion', 'taboo_deformation']","{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The text contains compounds like 'cover up' and 'too late'. It also involves a conversion of the noun 'cover' into the phrasal verb 'cover up'.""
+}","['compounds', 'conversions']",FALSE,"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'resorting' is a conversion, as it changes the verb 'resort' into a gerund form to fit the sentence structure.""
+}",['conversions'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'resorting' is a conversion, as it changes the verb 'resort' into a gerund form to fit the sentence structure.""
+}",['conversions'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'resorting' is a conversion, as it changes the verb 'resort' into a noun.""
+}",['conversions'],1,['conversions'],,,,,
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy"", ""fabrication""],
+  ""Explanation"": ""The text contains foreign borrowing from Latin (principles, theology) and German (Ratzinger), compounds (Principles of Catholic Theology, razing of the bastions), analogy (razing as a parallel to demolishing), and a fabricated term (razing of the bastions).""
+}","['foreign_borrowing', 'compounds', 'analogy', 'fabrication']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The term 'razing of the bastions' involves foreign borrowing from the French word 'razing' and the use of a compound term. Additionally, the use of 'razing of the bastions' can be seen as forming an analogy based on the notion of dismantling traditional defensive structures, in order to adapt to the modern world.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'razing' in the phrase 'razing of the bastions' is a foreign borrowing from French 'raser', meaning to shave or scrape off. The term 'conseil' (council) is also a foreign borrowing from French.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The phrase 'razing of the bastions' contains foreign borrowing from French ('razing') and compounds ('razing of the bastions'). Additionally, the use of 'bastions' in this context can be seen as an analogy to fortified structures, suggesting a metaphorical meaning.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The phrase 'razing of the bastions' includes the foreign borrowing of 'razing' from the French word 'rasee' and the compound 'bastions' which combines 'bastille' and 'fortress'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains the foreign borrowing of 'razing' from the French word 'rase', compounds like 'Principles of Catholic Theology' and 'razing of the bastions', and an analogy between 'razing of the bastions' and the modern world.""
+}","['foreign_borrowing', 'compounds', 'analogy']",0,"['foreign_borrowing', 'compounds', 'analogy']",,,,,
+7211,[],Then Benedict allowed him to remain a cardinal.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Benedict' is used as a common noun to describe a person in general rather than the specific individual.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Benedict' is used as a common noun to refer to a specific individual.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'cardinal' is originally a noun, but it is used here as a verb in the sentence.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Benedict' is used as a common noun to refer to a specific person.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Benedict' is used as a common noun to refer to a specific person.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Benedict' is used as a common noun to refer to a person in general, rather than the specific individual.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,New_words_and_changing_uses,['prefixes/suffixes'],['prefixes/suffixes'],['prefixes/suffixes'],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as an analogy to refer to the underlying philosophical concept behind Thomas's point.""
+}",['analogy'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'metaphysics' is originally a noun but has been converted to a verb in the phrase 'a matter of metaphysics'.""
+}",['conversion'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model for the formation of the word 'metapolitics'.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics' by analogy.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'metaphysics' is used as a model to form the new word 'metaphysics' by analogy.""
+}",['analogy'],1,['analogy'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['prefixes/suffixes'],meta-physics
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'vindicated' is used analogously to indicate that Julian has been proven right or justified, similar to how it might be used in a legal context.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'vindicated' is formed by analogy to the word 'isolated', as both are related to social and public perception and status.""
+}",['analogy'],"{
+  ""Properties"": [
+    ""analogy""
+  ],
+  ""Explanation"": ""The formation of the word 'vindicated' echoes the structure of 'isolated', suggesting an analogous relationship between the two situations.""
+}",['analogy'],TRUE,"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'vindicated' in this context is a form of catachresis, as it is borrowed to designate Julian's situation of being proven right but still isolated.""
+}",['catachresis'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'vindicated' is formed by analogy from 'vindicate', indicating that Julian has been proven right or justified in some way.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'vindicated' is used in analogy with the word 'isolated' to emphasize the contrast in Julian's situation.""
+}",['analogy'],0,['analogy'],,,,,
+7975,[],Laws are for conservatives.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis"", ""taboo deformation""],
+  ""Explanation"": ""The term 'conservatives' is used in a manner that lacks a label, and the statement may be a euphemism for a taboo or controversial opinion.""
+}","['catachresis', 'taboo_deformation']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'for conservatives' uses taboo deformation to avoid directly mentioning a potentially offensive term (e.g., 'Laws are for Republicans').""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'conservatives' in a derogatory or euphemistic sense as a form of taboo deformation.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The new word 'conservatives' is formed according to the model of 'liberals', creating an analogy between the two political groups.""
+}",['analogy'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'Laws are for conservatives' uses taboo deformation by replacing a potentially offensive word with a milder alternative ('conservatives' instead of a potentially offensive term).""
+}",['taboo_deformation'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The new word 'conservatives' is formed by analogy from the existing word 'conservative'.""
+}",['analogy'],0,['analogy'],,,,,
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'purchase to themselves eternal damnation' is a euphemistic deformation of the phrase 'bring upon themselves eternal damnation'.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'eternal damnation' features a foreign borrowing, where 'damnation' is derived from the Latin 'damnatio'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'purchase' in the context of resisting power and eternal damnation represents a taboo deformation as a euphemism for 'bring upon'.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn' as a euphemism for 'damn' is an example of taboo deformation, where a milder word is substituted for a more offensive one.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the other properties listed. The word 'resisteth' is a foreign borrowing from Old English, which is a borrowing from another language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text does not contain any new words or changing uses that fit the other properties listed. The word 'resisteth' is a foreign borrowing from the King James Bible, which was originally written in Early Modern English."" 
+}",['foreign_borrowing'],0,['foreign_borrowing'],,,,,
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,[],"{
+  ""Properties"": [""prefixes/suffixes"", ""conversions""],
+  ""Explanation"": ""The word 'tax cuts' uses the suffix '-s' to indicate plurality and the word 'attacking' is a conversion of the noun 'attack' into a verb.""
+}","['prefixes/suffixes', 'conversions']","{
+  ""Properties"": [""prefixes/suffixes""],
+  ""Explanation"": ""The use of the prefix 'opposed' changes the meaning of the base word 'pose' to indicate a contrary action. The suffix '-ing' changes the verb 'attack' to the present participle form.""
+}",['prefixes/suffixes'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The term 'opposed' has been converted from a verb to an adjective in the phrase 'opposed tax cuts'.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion of the noun 'attack' into the verb 'attacking'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion of the noun 'attack' into the verb 'attacking'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'tax cuts' and 'Supreme Court', as well as a conversion where 'opposed' is used as a verb instead of its original form as an adjective.""
+}","['compounds', 'conversions']",1,"['compounds', 'conversions']",1,1,,['compounds'],tax cuts
+9235,[],He said he spoke with Trump to make sure that the president wasn’t actually issuing an order.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Trump' is used as a common noun to refer to the president.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The word 'president' is used as a general term to refer to any president, not just a specific individual.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Trump' is used as a general term to refer to the president, a common noun.""
+}",['proper_nouns_to_common_nouns'],TRUE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to the president is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to the president is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Trump' as a common noun to refer to the president is an example of using a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+9329,[],Solemnly professed:,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'solemnly professed' is a compound word where 'solemnly' and 'professed' are yoked together to create a compound with a specific meaning.""
+}",['compounds'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'solemnly professed' is a euphemism, where the use of 'solemnly' softens the directness or harshness of the word 'professed'.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'solemnly professed' is a euphemism, a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something solemn or serious.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'solemnly professed' is a compound word formed by yoking together the existing words 'solemnly' and 'professed'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'solemnly professed' is a compound word formed by yoking together the existing words 'solemnly' and 'professed'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'solemnly professed' is a compound word formed by yoking together the existing words 'solemnly' and 'professed'.""
+}",['compounds'],1,['compounds'],,,,,
+9396,[],Also on communion between the communities.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'communion between the communities' includes the foreign borrowing of the word 'communion' from Latin 'commūniō'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [
+    ""foreign borrowing""
+  ],
+  ""Explanation"": ""The term 'communion' is borrowed from Latin (commūnio) and has been adopted into English.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'communion' in the context of interaction between communities is an example of foreign borrowing, as 'communion' has been borrowed from Latin.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'communion' in this context is a foreign borrowing from Latin, where it originally referred to the sharing of intimate thoughts and feelings. In English, it has been borrowed to refer to the sharing of religious elements, such as the Christian Eucharist."" 
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'communion' is a foreign borrowing from Latin, where 'communio' means 'sharing in common'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'communion' is a foreign borrowing from Latin, where 'communio' means 'sharing in common'.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+9657,[],I don't remember how I got there.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'there' in this context designates an unspecified location or situation, representing a form of catachresis.""
+}",['catachresis'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'I don't remember' is a taboo deformation of 'I don't recall', used as a milder expression to avoid using the word 'recall'.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'remember' could be considered a clipped version of 'remembered', creating a new shortened form of the word.""
+}",['clipping'],FALSE,"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'there' in this context lacks a specific label or designation, so it is borrowed to indicate a vague location or state.""
+}",['catachresis'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'remember' has been clipped to create the new word 'member'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'remember' has been clipped to create the new word 'member'.""
+}",['clipping'],0,['clipping'],,,,,
+9866,[],But he is now a full-fledged member of the nuclear club.,New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of an organization or group, as in 'book club' or 'golf club'.""
+}",['analogy'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'full-fledged' is a compound word formed by joining the existing words 'full' and 'fledged'.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'full-fledged' is a compound word formed by yoking together the existing words 'full' and 'fledged.'""
+}",['compounds'],FALSE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The term 'full-fledged' is a compound word, formed by combining 'full' and 'fledged' to create a new entity with a specific meaning.""
+}",['compounds'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of a social club, indicating a group of countries with nuclear capabilities.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'nuclear club' is formed by analogy from the concept of a social club, where members share a common interest or characteristic. In this case, the analogy is used to describe a group of countries with nuclear capabilities.""
+}",['analogy'],0,['analogy'],1,0,GPT is misinterpreting the property. Using it out of context of grammar.,['compounds'],
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""derivation""],
+  ""Explanation"": ""The example uses derivation through the suffix '-ic' to turn 'bureau' (noun) into 'bureaucratic' (adjective), which is a staple method of word formation in English.""
+}",['derivation'],"{
+  ""Properties"": [""compounds"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text contains compounds like 'Moral Theology', 'Sacred Heart', and 'Major Seminary'. Additionally, the proper noun 'Sacred Heart Major Seminary' is used as a general term for a type of educational institution.""
+}","['compounds', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [
+    ""compounds"",
+    ""proper nouns to common nouns""
+  ],
+  ""Explanation"": ""The phrase 'Moral Theology' combines two existing words to create a compound. The use of 'bishops' as a general term for leaders of a religious organization also demonstrates the use of proper nouns as common nouns.""
+}","['compounds', 'proper_nouns_to_common_nouns']",FALSE,"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'bishops' as a common noun instead of referring to specific individuals indicates the use of a proper noun as a general term.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Sacred Heart Major Seminary' is used as a general term for a type of institution.""
+}",['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The proper noun 'Sacred Heart Major Seminary' is used as a general term for a type of institution, which is a characteristic of proper nouns being used as common nouns.""
+}",['proper_nouns_to_common_nouns'],1,['proper_nouns_to_common_nouns'],,,,,
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds"", ""conversions""],
+  ""Explanation"": ""The term 'loaves of bread' is a compound noun, and the verb 'to make' is converted from a noun.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'loaves of bread' in the context of comparing bakery sizes implies an analogy, where the model of '10,000 loaves of bread' is used to understand the scale needed for making '50,000 loaves of bread'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy"", ""compounds"", ""suffixes""],
+  ""Explanation"": ""The use of 'loaves' is an analogy, where 'loaf' is the model word being used to form 'loaves.' Additionally, the term 'bake' is being used with the suffix '-ery' to create 'bakery,' and the term 'hour' suggests a compound of '50,000 loaves of bread' and 'per hour.'""
+}","['analogy', 'compounds', 'suffixes']",FALSE,"{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The term 'loaves of bread' is a compound word, and the comparison of different bakery sizes for different quantities of bread is made by analogy.""
+}","['compounds', 'analogy']","{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The use of 'loaves of bread' is a compound, and the comparison of making 10,000 loaves to 50,000 loaves an hour is formed by analogy.""
+}","['compounds', 'analogy']","{
+  ""Properties"": [""compounds"", ""analogy""],
+  ""Explanation"": ""The term 'loaves of bread' is a compound word, and the comparison of different quantities of bread production is made using an analogy.""
+}","['compounds', 'analogy']",1,"['compounds', 'analogy']",,,,,
+10448,[],Anybody?,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'app' is a clipped version of 'application'.""
+}",['clipping'],"{
+  ""Properties"": [""conversions"", ""clipping""],
+  ""Explanation"": ""The term 'texted' is a conversion of the noun 'text' into a verb, and 'app' is a clipped version of 'application'.""
+}","['conversions', 'clipping']","{
+  ""Properties"": [""conversions"", ""acronyms""],
+  ""Explanation"": ""The use of 'texted' as a verb and 'LOL' as an acronym qualifies this text as exhibiting conversions and acronyms.""
+}","['conversions', 'acronyms']",FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'app' is a clipped version of 'application' in the example text.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'app' is a clipped version of 'application' in the example text.""
+}",['clipping'],"{
+  ""Properties"": [""clipping"", ""acronyms""],
+  ""Explanation"": ""The text uses the word 'app' as a clipped form of 'application' and 'LOL' as an acronym for 'laugh out loud'.""
+}","['clipping', 'acronyms']",0,['clipping'],,,,,
+10658,[],Assange’s crime is to have broken a silence.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'broken a silence' is formed by analogy to the phrase 'broken a rule', using the same structure to convey a similar concept.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The phrase 'broken a silence' uses an analogy to convey the idea of breaking a rule or standard, similar to breaking a law or breaking a promise.""
+}",['analogy'],"{
+  ""Properties"": [""catachresis""],
+  ""Explanation"": ""The use of 'broken a silence' borrows the word 'broken' to designate the action of breaking a silence, creating a new meaning for the word.""
+}",['catachresis'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'silence' is used in an analogy to refer to the absence of disclosure or revelation, similar to how 'prequel' and 'interquel' were formed by analogy from 'sequel'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'silence' is used in an analogy to refer to the absence of disclosure or revelation, similar to how 'crime' is used in the context of breaking a law.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'silence' is used in an analogy to refer to the absence of disclosure or revelation, similar to how 'silence' refers to the absence of sound. This creates a new meaning for 'silence' by analogy.""
+}",['analogy'],1,['analogy'],,,,,
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds"", ""clipping"", ""analogy""],
+  ""Explanation"": ""The phrase 'emerging trend' is an example of a compound word, created by yoking together existing words to form a new concept. Additionally, 'emerging trend' can be seen as an analogy to the use of the word 'trend' to refer to something that is developing or changing over time. The root word 'emerge' serves as an analogy for the development or appearance of the trend.""
+}","['compounds', 'clipping', 'analogy']","{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'emerging trend' is formed by analogy from the term 'emerge', suggesting a similarity in the development of this trend to the process of emergence.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'emerging' is formed by analogy to related terms like 'growing' and 'developing'.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'possibly an emerging trend' is formed by analogy from the phrase 'emerging trend'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'emerging trend' is formed by analogy from the word 'trend', suggesting a new trend is beginning to appear.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The use of 'possibly an emerging trend' is formed by analogy to the term 'emerging trend', suggesting a new trend is beginning to appear.""
+}",['analogy'],1,['analogy'],,,,,
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",New_words_and_changing_uses,['compounds'],['compounds'],['compounds'],TRUE,['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The term 'departures' is used in analogy with the term 'questioned', suggesting that the Pope's actions deviate from the expected Catholic teaching in a similar manner to how questions are deviating from the expected course of action.""
+}",['analogy'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The word 'departures' is originally a noun, but it is used here as a verb ('departures from Catholic teaching'), which is an example of conversion.""
+}",['conversions'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', using the same pattern as 'arrival' to 'arrivals'.""
+}",['analogy'],FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', indicating a deviation or divergence from a standard or norm, similar to the original word's meaning.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure', indicating a deviation from the usual course or standard, similar to how 'departure' indicates leaving or going away.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'departures' is formed by analogy from the word 'departure'.""
+}",['analogy'],1,['analogy'],1,0,GPT explanation does not match classification,['compounds'],
+12626,[],It did what it is designed to do.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'designed to do' is a compound, as it yokes together the words 'designed' and 'to do' to create a new term with a specific meaning.""
+}",['compounds'],"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'designed to do' is a compound created by yoking together the existing words 'designed' and 'do'.""
+}",['compounds'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The use of 'designed' as a verb indicates a conversion from an adjective to a verb.""
+}",['conversions'],FALSE,"{
+  ""Properties"": [""compounds""],
+  ""Explanation"": ""The phrase 'designed to do' is a compound, formed by yoking together the existing words 'designed' and 'do'.""
+}",['compounds'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'designed' is originally an adjective, but it is used here as a verb, indicating a conversion from one part of speech to another.""
+}",['conversions'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'designed' is originally a verb, but it is used here as an adjective to modify 'it', making it a conversion from a verb to an adjective.""
+}",['conversions'],0,['conversions'],,,,,
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The example text uses a metaphor, comparing the document to a 'chopping block'. However, it does not demonstrate any of the listed properties of new words or changing uses.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The example does not exhibit any of the listed properties of New Words and Changing Uses. The use of the term 'chopping block' is a metaphor, not a result of any of the listed processes for creating new words or changing uses.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'chopping block' is used metaphorically to refer to a place or situation where drastic decisions or actions are taken, such as in this context.""
+}",['metaphor'],TRUE,"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'chopping block' is used metaphorically to refer to a place or situation where decisions are made and actions are taken, rather than its literal meaning of a block used for chopping wood or meat.""
+}",['catachresis'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The example uses a metaphor, comparing the document to a chopping block, but it does not exhibit any of the listed properties of new words or changing uses.""
+}",['catachresis'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'chopping block' is used metaphorically to refer to a situation where something is at risk of being eliminated or destroyed.""
+}",['catachresis'],1,['catachresis'],,,,,
+14038,[],And in Russia.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'in Russia' contains the foreign borrowing property, as 'Russia' is borrowed from the Russian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'in Russia' includes the foreign borrowing of 'Russia' from the Russian language.""
+}",['foreign_borrowing'],"{
+    ""Properties"": [
+        ""foreign borrowing""
+    ],
+    ""Explanation"": ""The use of the word 'Russia' in this context signifies foreign borrowing, as it is a word borrowed from the Russian language.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'in Russia' includes the foreign borrowing property as it involves the use of the word 'Russia' from the Russian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the phrase 'in Russia' involves borrowing the proper noun 'Russia' from the Russian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'in Russia' includes the foreign borrowing property as it borrows the name of a country from the Russian language.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'screaming they want me to die' is a euphemism that deforms the taboo topic of death and threats.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn it' as a euphemism for a stronger expression is an example of taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation"", ""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'screaming' in this context could be seen as a form of euphemism, a type of taboo deformation. Additionally, the phrase 'front door' is a foreign borrowing from French (porte d'entrée).""
+}","['taboo_deformation', 'foreign_borrowing']",FALSE,"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn it' as a euphemism for a stronger expletive indicates taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn it' as a euphemism for 'die' in the context of the quote.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The use of 'darn it' as a euphemism for a stronger expletive indicates taboo deformation.""
+}",['taboo_deformation'],1,['taboo_deformation'],,,,,
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'acronyms']","['compounds', 'acronyms']",TRUE,['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The text contains the acronym 'CIA', which is formed from the first letters of the organization's full name, Central Intelligence Agency.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' is an acronym formed from the first letters of 'Central Intelligence Agency.'""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms"", ""foreign borrowing""],
+  ""Explanation"": ""The text includes the acronym 'CIA', which is a word formed from the first letters of 'Central Intelligence Agency'. It also features the foreign borrowing of 'assassinations' from the Italian word 'assassinare'.""
+}","['acronyms', 'foreign_borrowing']",FALSE,"{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses the acronym 'CIA' (Central Intelligence Agency) and also demonstrates the use of a proper noun ('CIA') as a common noun to refer to the organization.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms"", ""compounds""],
+  ""Explanation"": ""The text contains the acronym 'CIA' (Central Intelligence Agency) and the compound 'state-sponsored'.""
+}","['acronyms', 'compounds']","{
+  ""Properties"": [""acronyms"", ""compounds""],
+  ""Explanation"": ""The text contains the acronym 'CIA' (Central Intelligence Agency) and the compound 'state-sponsored'.""
+}","['acronyms', 'compounds']",0,"['acronyms', 'compounds']",1,1,,"['compounds', 'acronyms']",
+4353,[ 7 14],"""For us, Hungary is first.",New_words_and_changing_uses,[],[],[],,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the country's name, 'Magyarország' in Hungarian.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence is a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence is a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Hungary' in the English sentence indicates a foreign borrowing from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from the Hungarian language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Hungary' is borrowed from another language (Hungarian) and used in the English sentence.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",New_words_and_changing_uses,[],"['compounds', 'prefixes/suffixes']",['prefixes/suffixes'],FALSE,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The text uses 'Slovakia' and 'Germany' as general terms, which are proper nouns used as common nouns. Additionally, 'Slovakia' is a foreign borrowing.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The word 'Slovakia' is a foreign borrowing from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The words 'Germany', 'Reinhard Marx', and 'Franz-Josef Bode' are used as general terms rather than specific names.""
+}",['proper_nouns_to_common_nouns'],FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Slovakia' is a foreign borrowing, as it is a word borrowed from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'Slovakia', which is borrowed from the Slovak language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Slovakia' and 'Germany' in the text indicates the foreign borrowing of these proper nouns as common nouns to refer to the countries.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],0,0,GPT is misinterpreting the property. Using it out of context of grammar.,[],
+9396,[],Also on communion between the communities.,New_words_and_changing_uses,[],[],[],TRUE,[],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The phrase 'communion between the communities' includes the foreign borrowing of the word 'communion' from Latin 'commūniō'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [
+    ""foreign borrowing""
+  ],
+  ""Explanation"": ""The term 'communion' is borrowed from Latin (commūnio) and has been adopted into English.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'communion' in the context of interaction between communities is an example of foreign borrowing, as 'communion' has been borrowed from Latin.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'communion' in this context is a foreign borrowing from Latin, where it originally referred to the sharing of intimate thoughts and feelings. In English, it has been borrowed to refer to the sharing of religious elements, such as the Christian Eucharist."" 
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'communion' is a foreign borrowing from Latin, where 'communio' means 'sharing in common'.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'communion' is a foreign borrowing from Latin, where 'communio' means 'sharing in common'.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],,,,,
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",New_words_and_changing_uses,"['compounds', 'acronyms']","['compounds', 'prefixes/suffixes', 'foreign_borrowing', 'acronyms']","['prefixes/suffixes', 'foreign_borrowing', 'acronyms']",FALSE,"['proper_nouns_to_common_nouns', 'prefixes/suffixes']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text uses foreign borrowing with 'Soviet Union', compounds such as 'Cold War', and analogy with 'grand-jury summons' and 'iota of harassment'.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""clipping""],
+  ""Explanation"": ""The term 'Cold War' is a foreign borrowing from Russian (холо́дная война, kholódnaya voyna) and 'Red' is a clipping of 'Red Communist'.""
+}","['foreign_borrowing', 'clipping']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'defect' from the Latin 'defectus' involves borrowing a word from another language.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Soviet Union' and 'Cold War' are examples of foreign borrowing, as they are borrowed from Russian and German respectively. Additionally, 'Red' is a proper noun (referring to the Communist Party) that has been used as a common noun in this context.""
+}","['foreign_borrowing', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text contains foreign borrowing with 'Soviet' and 'Moscow' from Russian, compounds with 'Cold War', 'World War II', and 'grand-jury summons', and analogy with 'Red wife' formed by analogy from 'Red Scare'.""
+}","['foreign_borrowing', 'compounds', 'analogy']","{
+  ""Properties"": [""foreign borrowing"", ""compounds"", ""analogy""],
+  ""Explanation"": ""The text includes foreign borrowing with 'Soviet Union', compounds with 'Cold War' and 'World War II', and analogy with 'Red wife' formed by analogy from 'Red Scare'.""
+}","['foreign_borrowing', 'compounds', 'analogy']",0,"['foreign_borrowing', 'compounds', 'analogy']",1,0,GPT is misinterpreting the property. Using it out of context of grammar.,"['compounds', 'acronyms']",
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,New_words_and_changing_uses,"['compounds', 'conversions']",['compounds'],[],FALSE,['conversions'],"{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The word 'dark' is being used in a euphemistic way to avoid a more direct or negative description of the Obama administration, making it a taboo deformation.""
+}",['taboo_deformation'],"{
+  ""Properties"": [""foreign borrowing"", ""taboo deformation""],
+  ""Explanation"": ""The term 'Obama' is a foreign borrowing from the name of the former president of the United States and 'dark years' is a taboo deformation used to express a negative viewpoint.""
+}","['foreign_borrowing', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""taboo deformation""],
+  ""Explanation"": ""The use of 'pardon' in the context of political actions is a foreign borrowing from French, and the phrase 'cleanse another stain' is a taboo deformation or euphemism to avoid directly stating the negative actions being pardoned.""
+}","['foreign_borrowing', 'taboo_deformation']",FALSE,"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'dark years' is formed by analogy from the phrase 'dark ages', suggesting a negative period in history.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'dark years' is formed by analogy to describe a period of time with negative connotations, similar to the word 'stain'.""
+}",['analogy'],"{
+  ""Properties"": [""analogy""],
+  ""Explanation"": ""The word 'dark years' is formed by analogy to other phrases like 'golden years' or 'glory years'.""
+}",['analogy'],1,['analogy'],,,,,
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",New_words_and_changing_uses,[],"['clipping', 'prefixes/suffixes']",['prefixes/suffixes'],FALSE,['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The use of 'globalization' is a foreign borrowing from English, and 'irrelevancy' is a compound word formed by adding the suffix '-ancy' to the adjective 'irrelevant'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'globalization' is a foreign borrowing as the word originates from the English language, but it has been borrowed and used in the example text, which is not in the language of the Vatican.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""catachresis""],
+  ""Explanation"": ""The text uses the foreign borrowing 'globalization' and the 'catachresis' of 'vocations' to refer to the bringing of new members into the monasteries.""
+}","['foreign_borrowing', 'catachresis']",FALSE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'globalization' is an example of foreign borrowing, as it is a word borrowed from another language (English) and used in the text.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains foreign borrowing in the form of 'globalization' and 'irrelevancy', both borrowed from English. It also includes compounds such as 'contemplative life', 'vocations', and 'monasteries alive'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains the foreign borrowing 'Vatican' and the compound 'contemplative life'. 'Vatican' is borrowed from Latin, and 'contemplative life' is a compound of 'contemplative' and 'life'.""
+}","['foreign_borrowing', 'compounds']",0,"['foreign_borrowing', 'compounds']",0,0,,[],
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],TRUE,"['proper_nouns_to_common_nouns', 'acronyms']","{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym and 'Helms' as a proper noun turned into a common noun by referring to him without his formal title.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym for 'Central Intelligence Agency' and 'Richard Helms' as a reference to a person indicates the use of acronyms and proper nouns as common nouns.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+    ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+    ""Explanation"": ""The text uses the acronym 'CIA', formed from the first letters of 'Central Intelligence Agency'. It also demonstrates the use of the proper noun 'Richard Helms' being turned into a common noun by referring to him without an honorific title or specific context.""
+}","['acronyms', 'proper_nouns_to_common_nouns']",TRUE,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' is an example of an acronym, formed from the first letters of 'Central Intelligence Agency'.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms"", ""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'CIA' as an acronym for 'Central Intelligence Agency' and 'Helms' as a proper noun turned into a common noun to refer to the former director.""
+}","['acronyms', 'proper_nouns_to_common_nouns']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'CIA' in the text is an example of an acronym, formed from the first letters of the words 'Central Intelligence Agency'.""
+}",['acronyms'],0,['acronyms'],1,1,,['acronyms'],
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,New_words_and_changing_uses,['foreign_borrowing'],"['compounds', 'blends']",['compounds'],FALSE,['conversions'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'ongoing' is a clipped form of the phrase 'on-going'.""
+}",['clipping'],"{
+  ""Properties"": [""compounds"", ""taboo deformation""],
+  ""Explanation"": ""The text contains compounds like 'leftwing' and 'witch hunt', and a taboo deformation with 'darn' in 'darn it'.""
+}","['compounds', 'taboo_deformation']","{
+  ""Properties"": [""foreign borrowing"", ""clipping"", ""analogy""],
+  ""Explanation"": ""The phrase 'witch hunt' is a foreign borrowing from the Old English word 'wicca' and the analogy to the Salem witch trials. The use of 'impair' and 'impede' together is an example of blending to form a compound with a similar meaning.""
+}","['foreign_borrowing', 'clipping', 'analogy']",FALSE,"{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping 'leftwing' from 'left-wing', as well as the compound 'day one' formed by yoking the existing words 'day' and 'one' together.""
+}","['clipping', 'compounds']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains a clipped word 'leftwing' and a compound 'day one'.""
+}","['clipping', 'compounds']","{
+  ""Properties"": [""clipping"", ""compounds""],
+  ""Explanation"": ""The text contains the clipping 'witch' from 'witch hunt' and the compound 'leftwing' formed by yoking the existing words 'left' and 'wing' together.""
+}","['clipping', 'compounds']",1,"['clipping', 'compounds']",0,0,GPT is only partially correct,['compounds'],
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",New_words_and_changing_uses,"['prefixes/suffixes', 'blends']","['compounds', 'prefixes/suffixes']","['prefixes/suffixes', 'acronyms']",FALSE,[''],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawyers' in the context of legal representation may be a foreign borrowing, considering the shift from its conventional use to represent professionals in the legal field.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'Ms.' in English is a borrowing from the honorific 'Miss' or 'Mrs.' in French.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' could be seen as a foreign borrowing from the legal and political context, where it originated.""
+}",['foreign_borrowing'],TRUE,"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' in the context of U.S. politics is a foreign borrowing from the English language.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' is a foreign borrowing from English, as it is derived from the word 'law' and the suffix 'maker'."" 
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of the word 'lawmakers' is a foreign borrowing from English, as it is derived from the word 'law' and the suffix 'maker' which is borrowed from Old English.""
+}",['foreign_borrowing'],1,['foreign_borrowing'],0,0,GPT explanation is soup,"['prefixes/suffixes', 'blends']",
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",New_words_and_changing_uses,"['compounds', 'foreign_borrowing', 'acronyms']","['foreign_borrowing', 'acronyms']",['acronyms'],FALSE,['proper_nouns_to_common_nouns'],"{
+  ""Properties"": [""loanword""],
+  ""Explanation"": ""The use of 'fascism' in the context of banning a political figure from entering the UK is a borrowing from Italian and refers to a political ideology.""
+}",['loanword'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The use of 'backbencher' and 'Labour' in the context of UK politics suggests foreign borrowing, as 'backbencher' is borrowed from the UK parliamentary system and 'Labour' refers to the British Labour Party.""
+}",['foreign_borrowing'],"{
+  ""Properties"": [""foreign borrowing""],
+  ""Explanation"": ""The term 'backbencher' is borrowed from the British parliamentary system and is used to refer to a member of parliament who does not hold a ministerial or shadow ministerial post.""
+}",['foreign_borrowing'],FALSE,"{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains a foreign borrowing 'fascism' and compounds like 'backbencher' and 'public good'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text includes the foreign borrowing of 'fascism' from Italian and compounds such as 'backbencher' and 'Labour MP'.""
+}","['foreign_borrowing', 'compounds']","{
+  ""Properties"": [""foreign borrowing"", ""compounds""],
+  ""Explanation"": ""The text contains a foreign borrowing in the form of 'backbencher' from the English 'back' and 'bencher', and compounds such as 'backbencher' and 'Labour backbencher'.""
+}","['foreign_borrowing', 'compounds']",1,"['foreign_borrowing', 'compounds']",0,0,GPT explanation is soup,"['compounds', 'acronyms']",
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",New_words_and_changing_uses,['conversions'],"['compounds', 'conversions']",[],FALSE,['conversions'],"{
+  ""Properties"": [""conversions""],
+  ""Explanation"": ""The term 'open' has been converted from an adjective to a verb in the sentence.""
+}",['conversions'],"{
+    ""Properties"": [""clipping""],
+    ""Explanation"": ""The word 'Democrat' has been clipped to 'Democrat' to create the term 'Democrat Senators'.""
+}",['clipping'],"{
+  ""Properties"": [""conversion""],
+  ""Explanation"": ""The word 'blast' is originally a noun, but in this context, it is used as a verb, making it an example of conversion.""
+}",['conversion'],FALSE,"{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'Democrat Senators' and '2020', as well as a conversion of the noun 'blast' into a verb 'blasted'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'Democrat Senators' and '2020', as well as a conversion of the noun 'blast' into a verb 'blasted'.""
+}","['compounds', 'conversions']","{
+  ""Properties"": [""compounds"", ""conversion""],
+  ""Explanation"": ""The text contains compounds like 'seat open' and 'Democrat Senators', as well as a conversion of the noun 'seat' into a verb.""
+}","['compounds', 'conversions']",1,"['compounds', 'conversions']",,,,,
+1259,[7],Does Berg and the AMA support our military?,New_words_and_changing_uses,['acronyms'],['acronyms'],['acronyms'],TRUE,"['compounds', 'acronyms']","{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of acronym usage in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of acronym usage in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""proper nouns to common nouns""],
+  ""Explanation"": ""The use of 'Berg' and 'AMA' as general terms for organizations rather than specific names suggests the transformation of proper nouns to common nouns.""
+}",['proper_nouns_to_common_nouns'],FALSE,"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of an acronym in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is an example of an acronym in the text.""
+}",['acronyms'],"{
+  ""Properties"": [""acronyms""],
+  ""Explanation"": ""The use of 'AMA' as an acronym for the American Medical Association is a form of acronym usage in the text.""
+}",['acronyms'],1,['acronyms'],1,1,,['acronyms'],
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",New_words_and_changing_uses,[],[],[],,[],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of 'shameful' or 'shamming'.""
+}",['clipping'],"{
+  ""Properties"": [""compound"", ""conversion""],
+  ""Explanation"": ""The term 'sham' is used as a compound noun, and 'held' is converted from a verb to a past tense verb.""
+}","['compound', 'conversion']","{
+  ""Properties"": [""taboo deformation""],
+  ""Explanation"": ""The phrase 'darn it' is a euphemism for a stronger, taboo word, 'damn it'.""
+}",['taboo_deformation'],FALSE,"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'knew' is a clipped form of 'knew about'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of the original word 'shame'.""
+}",['clipping'],"{
+  ""Properties"": [""clipping""],
+  ""Explanation"": ""The word 'sham' is a clipped version of the original word 'shame'.""
+}",['clipping'],1,['clipping'],,,,,

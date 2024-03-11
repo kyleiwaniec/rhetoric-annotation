@@ -1,0 +1,689 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,res1,gpt_props1,res2,gpt_props2,res3,gpt_props3,props_a_majority,props_gpt_majority,ann_gpt_agreemnt,props_gpt4_majority
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, as there is no expression of doubt, wish, command, or hypothetical scenario.""
+}",['indicative'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, as Muhammad is advising something according to the tradition of the Muslim doctors.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact or opinion, as it describes the advice of Muhammad and the actions of Temur.""
+}",['indicative'],['indicative'],['indicative'],1,[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",Mood,['indicative'],['exclamatory'],['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains statements of fact ('we are asked to take the pope’s word for it') as well as expressions of possibility and doubt ('we can take the assurance for what it seems to be worth').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The example text contains indicative mood in the statement 'we can take the assurance for what it seems to be worth' and subjunctive mood in the phrase 'but given that it follows his astoundingly brazen lie that there was no evidence'.""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains both indicative mood to express a simple statement of fact or opinion ('we are simply asked to take the pope’s word for it') and subjunctive mood to express a hypothetical situation ('we can take the assurance for what it seems to be worth').""
+}","['indicative', 'subjunctive']",['indicative'],"['indicative', 'subjunctive']",0,[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The text expresses a simple statement of fact (indicative) and also conveys strong emotion (exclamatory) about the verdict being 'horrifying.'""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The text expresses a simple statement of fact ('verdict was 'horrifying') and also expresses strong emotion or surprise ('horrifying').""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The text expresses a simple statement of fact (indicative) and conveys strong emotion (exclamatory) with the use of 'horrifying'.""
+}","['indicative', 'exclamatory']",['indicative'],"['indicative', 'exclamatory']",0,[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Mood,['indicative'],['indicative'],['indicative'],timeout,[],"``` 
+{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'could' expresses a hypothetical situation, indicating the use of subjunctive mood. Additionally, the directive 'could cause violence' represents the imperative mood.""
+}
+```","['subjunctive', 'imperative']","{
+    ""Properties"": [""indicative""],
+    ""Explanation"": ""The example text expresses a simple statement of fact as reported by Breitbart.""
+}",['indicative'],['indicative'],"['subjunctive', 'imperative']",-1,[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Mood,"['indicative', 'exclamatory']",['indicative'],['indicative'],timeout,[],"```{
+  ""Properties"": [
+    ""indicative"",
+    ""interrogative""
+  ],
+  ""Explanation"": ""The example text contains a statement of fact ('This is a clear violation...') using the indicative mood, as well as a question ('Whom do you consider to be the most corrupt Democrat Politician?') using the interrogative mood.""
+}```","['indicative', 'interrogative']","{
+  ""Properties"": [""indicative"", ""subjunctive"", ""exclamatory""],
+  ""Explanation"": ""The example text contains indicative mood as it expresses a simple statement of a fact. It also contains subjunctive mood as it expresses a hypothetical situation. Additionally, the text is exclamatory, expressing strong emotion.""
+}","['indicative', 'subjunctive', 'exclamatory']",['indicative'],"['indicative', 'interrogative']",0,[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains a statement of fact ('Cardinal Raymond Burke’s statement declares') and a command ('must be totally taken to heart by those responsible in the Church.').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text includes a simple statement of fact (indicative) and a directive or command (imperative) to take the declarations to heart.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text uses the indicative mood as it expresses a simple statement of fact or opinion.""
+}",['indicative'],['indicative'],"['indicative', 'imperative']",0,[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains indicative mood as it expresses a simple statement of fact or opinion, and imperative mood as it includes a command or directive.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains indicative mood in the form of a simple statement of fact. It also contains subjunctive mood in the form of expressing what is imagined or hypothetical.""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The example text uses both indicative mood to express a simple statement of fact and imperative mood to give a directive.""
+}","['indicative', 'imperative']",['indicative'],"['indicative', 'imperative']",0,[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""exclamatory"", ""imperative""],
+  ""Explanation"": ""The example text contains a statement of fact ('he emphasized later'), expresses strong emotion ('I don’t regard Louis Farrakhan as an aberration'), and includes a directive ('I don’t regard Louis Farrakhan as an aberration')."" 
+}","['indicative', 'exclamatory', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact or opinion, and the imperative mood to give a command or directive.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains both a statement of fact ('I don't regard Louis Farrakhan as an aberration') and a directive ('I regard him as an outstanding human being').""
+}","['indicative', 'imperative']",['indicative'],"['indicative', 'imperative']",0,[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact or opinion.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact, using the indicative mood of the verb 'said'.""
+}",['indicative'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The example text uses indicative mood to express a simple statement of fact.""
+}",['indicative'],['indicative'],['indicative'],1,[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Mood,['indicative'],['indicative'],['indicative'],timeout,[],"{
+  ""Properties"": [""indicative"", ""subjunctive"", ""exclamatory""],
+  ""Explanation"": ""The text contains indicative mood to express a simple statement of fact or opinion, subjunctive mood to express what is imagined or hypothetical, and exclamatory mood to express strong emotion.""
+}","['indicative', 'subjunctive', 'exclamatory']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text is expressing a simple statement of belief, so it is using the indicative mood.""
+}",['indicative'],['indicative'],"['indicative', 'subjunctive', 'exclamatory']",0,[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Mood,['indicative'],['indicative'],['indicative'],"``` 
+{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact or opinion.""
+}
+```",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, thus using the indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact or opinion ('I have read...'). It also uses the subjunctive mood to express a hypothetical situation ('I only find mention...').""
+}","['indicative', 'subjunctive']",['indicative'],['indicative'],1,[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact, presenting information as it is.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, without hypothetical or emotional elements.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, indicating that the information is being reported as true.""
+}",['indicative'],['indicative'],['indicative'],1,[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""optative"", ""subjunctive""],
+  ""Explanation"": ""The use of 'perhaps' expresses a wish or hope, indicating the use of optative mood. The phrase 'should also be considered' expresses a hypothetical or possible action, indicating the use of subjunctive mood.""
+}","['optative', 'subjunctive']","{
+  ""Properties"": [""optative"", ""subjunctive""],
+  ""Explanation"": ""The text expresses a wish for an unprecedented step to be considered (optative) and discusses a hypothetical situation of recalling Benedict XVI to the Chair of St. Peter (subjunctive).""
+}","['optative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains indicative mood to express facts, subjunctive mood to express hypothetical situations, and imperative mood to give a command or directive.""
+}","['indicative', 'subjunctive', 'imperative']",['indicative'],"['optative', 'subjunctive']",-1,[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Mood,['indicative'],['exclamatory'],[],"{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The example text expresses a simple statement of a fact or opinion and also conveys strong emotion, qualifying it as both indicative and exclamatory.""
+}","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""optative""],
+  ""Explanation"": ""The text expresses a statement of fact (indicative) and also expresses a wish (optative) for the situation to be different.""
+}","['indicative', 'optative']","{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The example text contains an exclamation, expressing strong emotion and foreboding.""
+}",['exclamatory'],['indicative'],"['indicative', 'exclamatory']",0,[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a directive or command, urging May to issue an official ban on Donald Trump from entering the UK.""
+}",['imperative'],"{
+  ""Properties"": [""imperative"", ""optative""],
+  ""Explanation"": ""The text contains a directive urging May to issue an official ban on Donald Trump, which is an imperative mood. It also expresses a wish for the ban to be issued, indicating an optative mood.""
+}","['imperative', 'optative']","{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains a subjunctive mood expressing a hypothetical situation ('urging her to go further, and issue an official ban on Donald Trump'). It also contains an imperative mood with a command or directive ('urging her to go further').""
+}","['subjunctive', 'imperative']",['indicative'],['imperative'],-1,[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Mood,['indicative'],['indicative'],['indicative'],"```{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The example text contains both indicative mood, as it expresses a simple statement of fact, and subjunctive mood, as it expresses a hypothetical scenario.""
+}```","['indicative', 'subjunctive']","```JSON
+        {
+            ""Properties"": [""indicative"", ""exclamatory""],
+            ""Explanation"": ""The text contains a statement of fact ('the letter to me from the UK Home Office said...') and also expresses strong emotion ('note well:').""
+        }
+```","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""exclamatory"", ""interrogative""],
+  ""Explanation"": ""The example text contains indicative mood to make a simple statement of fact, exclamatory mood to express strong emotion, and interrogative mood to ask a question.""
+}","['indicative', 'exclamatory', 'interrogative']",['indicative'],"['indicative', 'subjunctive']",0,[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Mood,['indicative'],['indicative'],[],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, indicating the use of the indicative mood.""
+}",['indicative'],"{
+  ""Properties"": [
+    ""indicative""
+  ],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact or opinion.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion, therefore it uses the indicative mood.""
+}",['indicative'],['indicative'],['indicative'],1,[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [
+    ""indicative"",
+    ""imperative""
+  ],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('has always been gun confiscation'). It also uses the imperative mood to give a directive ('dont focus on me').""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text expresses a simple statement of fact (indicative) and includes a directive or command (imperative) to Theresa May.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion about the ultimate goal of gun control extremists."" 
+}",['indicative'],['indicative'],"['indicative', 'imperative']",0,[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Mood,['indicative'],['indicative'],['indicative'],"``` 
+{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact about a threat, so it uses the indicative mood.""
+}
+```",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact.""
+}",['indicative'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact.""
+}",['indicative'],['indicative'],['indicative'],1,[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Mood,['subjunctive'],['indicative'],['indicative'],"```json
+        {
+            ""Properties"": [""subjunctive""],
+            ""Explanation"": ""The example text expresses a hypothetical or possible situation, using 'should' to indicate the subjunctive mood.""
+        }
+```",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should' indicates the subjunctive mood expressing a hypothetical or possible situation.""
+}",['subjunctive'],"{
+  ""Properties"": [""subjunctive""],
+  ""Explanation"": ""The use of 'should' indicates a hypothetical or possible situation, fitting the definition of the subjunctive mood.""
+}",['subjunctive'],['indicative'],['subjunctive'],-1,[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Mood,['indicative'],['indicative'],['indicative'],"{
+    ""Properties"": [""indicative"", ""imperative""],
+    ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact ('the meekest man alive was sent') and the imperative mood to give a command ('to obey or else').""
+}","['indicative', 'imperative']",timeout,[],"{
+  ""Properties"": [""imperative"", ""indicative""],
+  ""Explanation"": ""The text contains an imperative mood in the phrase 'to obey' and indicative mood in the phrase 'the meekest man alive was sent'.""
+}","['imperative', 'indicative']",['indicative'],"['indicative', 'imperative']",0,[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The use of 'when' in the sentence indicates a hypothetical situation, qualifying it as subjunctive. The statement also contains a directive or command, making it imperative.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The text expresses a hypothetical situation or possibility of Kavanaugh being on the Supreme Court and its consequences.""
+}",['subjunctive'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative command to join the speaker before Kavanaugh is confirmed to the Supreme Court.""
+}",['imperative'],['indicative'],"['subjunctive', 'imperative']",-1,[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Mood,['indicative'],['indicative'],['indicative'],"```{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text uses the indicative mood to express a simple statement of fact ('A grid failure would almost immediately fling the United States into a state of panic') and the subjunctive mood to express a hypothetical situation ('it's always good to be prepared just in case').""
+}```","['indicative', 'subjunctive']","{
+  ""Properties"": [
+    ""indicative"",
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The text expresses a fact ('A gird failure would almost immediately fling the United States into a state of panic') using the indicative mood, and also discusses a hypothetical or possible situation ('it’s always good to be prepared just in case') using the subjunctive mood.""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood, as it includes a command or directive to be prepared.""
+}",['imperative'],['indicative'],"['indicative', 'subjunctive']",0,[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Mood,['indicative'],['indicative'],['indicative'],"```{
+  ""Properties"": [""indicative"", ""exclamatory""],
+  ""Explanation"": ""The text expresses a strong opinion and emotion, making statements of fact ('It has become a superdogma in the Catholic Church') as well as expressing strong emotion ('if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced')""
+}```","['indicative', 'exclamatory']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text contains both indicative mood in the simple statement of a fact ('It has become a superdogma in the Catholic Church') and subjunctive mood in expressing what is hypothetical or possible ('if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well').""
+}","['indicative', 'subjunctive']","{
+  ""Properties"": [""indicative"", ""subjunctive""],
+  ""Explanation"": ""The text expresses a simple statement of fact ('It has become a superdogma in the Catholic Church') as well as a hypothetical scenario ('if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced').""
+}","['indicative', 'subjunctive']",['indicative'],"['indicative', 'subjunctive']",0,[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text expresses a simple statement of fact ('he told reporters at Friday's news conference') using the indicative mood, and it also includes a command or directive ('I should be killed and I should die') using the imperative mood.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The example text contains the indicative mood with the statement 'he told reporters' and the imperative mood with the command 'I should be killed and I should die.'""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact, and the imperative mood to give a command or directive.""
+}","['indicative', 'imperative']",['indicative'],"['indicative', 'imperative']",0,[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Mood,['indicative'],['indicative'],['indicative'],timeout,[],"{
+  ""Properties"": [""indicative"", ""subjunctive"", ""exclamatory"", ""imperative""],
+  ""Explanation"": ""The example text contains indicative mood in expressing a simple statement of fact, subjunctive mood in expressing a hypothetical situation, exclamatory mood in expressing strong emotion, and imperative mood in giving a directive.""
+}","['indicative', 'subjunctive', 'exclamatory', 'imperative']","{
+  ""Properties"": [""indicative"", ""interrogative""],
+  ""Explanation"": ""The example text uses the indicative mood to express a simple statement of fact in the reporting of Farrakhan's speech. It also uses the interrogative mood to ask a question in the quoted text from CNN anchor Jake Tapper.""
+}","['indicative', 'interrogative']",['indicative'],"['indicative', 'subjunctive', 'exclamatory', 'imperative']",0,[]
+243,[2 6],Women everywhere should be furious.,Mood,['optative'],['indicative'],['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains an imperative mood as it gives a command or directive, expressing the speaker's strong emotion.""
+}",['imperative'],"{
+  ""Properties"": [""imperative"", ""exclamatory""],
+  ""Explanation"": ""The text contains an imperative command ('should be furious') and an exclamatory expression ('be furious').""
+}","['imperative', 'exclamatory']","{
+  ""Properties"": [""imperative"", ""indicative""],
+  ""Explanation"": ""The text contains an imperative mood with the command 'should be furious'. It also contains an indicative mood with the verb 'should be' expressing a simple statement of fact or opinion.""
+}","['imperative', 'indicative']",['indicative'],['imperative'],-1,[]
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",Mood,['interrogative'],['interrogative'],['interrogative'],"```{
+  ""Properties"": [""interrogative""],
+  ""Explanation"": ""The example text contains an interrogative mood, as it is asking a question.""
+}```",['interrogative'],"{
+  ""Properties"": [
+    ""subjunctive"",
+    ""interrogative""
+  ],
+  ""Explanation"": ""The text contains a hypothetical or possible situation (subjunctive) and asks a question (interrogative)."" 
+}","['subjunctive', 'interrogative']","{
+  ""Properties"": [""subjunctive"", ""interrogative""],
+  ""Explanation"": ""The example text contains a hypothetical or possible suggestion ('one could say') and asks a question ('Why not').""
+}","['subjunctive', 'interrogative']",['interrogative'],"['subjunctive', 'interrogative']",0,[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",Mood,['indicative'],['indicative'],['subjunctive'],"{
+  ""Properties"": [""indicative""],
+  ""Explanation"": ""The example text expresses a simple statement of fact or opinion.""
+}",['indicative'],"{
+  ""Properties"": [""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains a subjunctive mood when discussing hypothetical or possible scenarios, and it also contains an imperative mood in the form of a directive or command.""
+}","['subjunctive', 'imperative']","{
+  ""Properties"": [""exclamatory""],
+  ""Explanation"": ""The example text expresses strong emotion and uncertainty, making it an exclamatory statement.""
+}",['exclamatory'],['indicative'],['indicative'],1,[]
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The text contains a command or directive, expressing a demand or suggestion.""
+}",['imperative'],"```{
+  ""Properties"": [""indicative"", ""subjunctive"", ""imperative""],
+  ""Explanation"": ""The text contains indicative verbs expressing a simple statement of fact, subjunctive verbs expressing a hypothetical situation, and an imperative command.""
+}```","['indicative', 'subjunctive', 'imperative']","```json
+{
+  ""Properties"": [""subjunctive"", ""interrogative""],
+  ""Explanation"": ""The text contains a hypothetical scenario (subjunctive) and asks a question (interrogative).""
+}
+```","['subjunctive', 'interrogative']",['indicative'],['imperative'],-1,[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""subjunctive"", ""interrogative""],
+  ""Explanation"": ""The text contains statements of fact ('it is important to remember'), hypothetical scenarios ('that the culprit would be capable'), and a question ('is it possible').""
+}","['indicative', 'subjunctive', 'interrogative']","{
+  ""Properties"": [
+    ""indicative"",
+    ""subjunctive""
+  ],
+  ""Explanation"": ""The example text contains both indicative mood to express simple statements of fact or opinion, and subjunctive mood to express what is hypothetical or possible.""
+}","['indicative', 'subjunctive']","``` 
+        {
+            ""Properties"": [""indicative"", ""subjunctive""],
+            ""Explanation"": ""The text contains statements of fact and opinions (indicative) as well as expressions of what is hypothetical or possible (subjunctive).""
+        }
+```","['indicative', 'subjunctive']",['indicative'],"['indicative', 'subjunctive']",0,[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Mood,['indicative'],['indicative'],['indicative'],"``` 
+        {
+            ""Properties"": [""imperative"", ""exclamatory""],
+            ""Explanation"": ""The example text contains an imperative statement ('they can go whine') and an exclamatory expression ('whine to the New York Times').""
+        }
+```","['imperative', 'exclamatory']","{
+  ""Properties"": [""imperative"", ""indicative""],
+  ""Explanation"": ""The text contains an imperative command (go whine) and an indicative statement of fact (the Jewish community won't let them burn crosses on their lawn).""
+}","['imperative', 'indicative']",timeout,[],['indicative'],"['imperative', 'exclamatory']",-1,[]
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",Mood,['indicative'],['indicative'],['indicative'],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text expresses a simple statement of fact or opinion about the American Medical Association, and also contains a directive or command to the AMA to consider changing their name.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""imperative""],
+  ""Explanation"": ""The example text includes an imperative mood with the use of the word 'should' to convey a command or directive to the American Medical Association.""
+}",['imperative'],"{
+    ""Properties"": [
+        ""indicative"",
+        ""imperative""
+    ],
+    ""Explanation"": ""The text uses indicative mood to express a simple statement of fact or opinion, and imperative mood to give a directive or command.""
+}","['indicative', 'imperative']",['indicative'],"['indicative', 'imperative']",0,[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Mood,['indicative'],['indicative'],['indicative'],timeout,[],"{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains statements of fact and an imperative command.""
+}","['indicative', 'imperative']","{
+  ""Properties"": [""indicative"", ""imperative""],
+  ""Explanation"": ""The text contains statements of fact and opinion ('Obama pardoned drug dealers', 'Trump pardons ranchers') and a directive ('locks up drug dealers').""
+}","['indicative', 'imperative']",['indicative'],"['indicative', 'imperative']",0,[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Mood,['indicative'],[],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+311,[3],"The Vatican presents a choice: the world, or Christ.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+319,[3],It’s not coming back.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+320,[ 3 16],There will be no turning back.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+325,[3],A caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a “set-up”.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",Mood,['subjunctive'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'subjunctive']",0,"['indicative', 'subjunctive']"
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Mood,['indicative'],['indicative'],[],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+407,[4 8],Faggioli has no answer because what he is really arguing—the final beachhead of the neo-Catholic defense of their disintegrating regime—is that homosexuals in the hierarchy must remain in authority as an indispensable seawall against a “neo-traditionalist” storm surge.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+476,[4],The former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'optative']",0,"['indicative', 'optative']"
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+751,[5 9],"The Guardian has painted social media chiefly as a platform overrun by Russian trolls, arguing that this should justify ever-tighter restrictions that have so far curbed critical voices of the dissident left more than the right.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+804,[5],"Las Vegas police said Friday that the gunman who opened fire on a country music festival far below his hotel suite did not shoot a security guard six minutes before that rampage, contradicting a timeline they had offered earlier this week….",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+863,[5],Capitol Police didn’t make arrests despite numerous red flags and then ‘inadvertently’ gave evidence to defense attorneys that was supposed to go to prosecutors,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Mood,"['imperative', 'indicative']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1234,[7],"He was treated very unfairly by our government!""",Mood,['indicative'],['exclamatory'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'exclamatory']",0,"['indicative', 'exclamatory']"
+1259,[7],Does Berg and the AMA support our military?,Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Mood,['optative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Mood,['subjunctive'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Mood,['indicative'],['exclamatory'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'exclamatory']",0,"['indicative', 'exclamatory']"
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2198,[16  6  8],"That’s all,” when he stated in his sworn account that Nuncio Pietro Sambi conveyed to McCarrick at the Nunciature in Washington the sanctions that had been imposed on him by Pope Benedict—sanctions Bergoglio ignored for five years until forced to act by a worldwide storm of outrage.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2472,[8],"Ricki Seidman, a Democratic operative and former Clinton White House official who is now an advisor to Mrs. Ford, said in July (at roughly the same time as the letter was submitted) that she predicted a ""strategy"" forming to destroy Brett Kavanaugh.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2584,[0 8],"In remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: “If a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2629,[ 8 13],ADVANTAGE AMERICANS,Mood,['indicative'],['indicative'],['exclamatory'],,[],,[],,[],['indicative'],[],-1,[]
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2897,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+2900,[13  8 13],Another student told my daughter that she and the first student and her adult friends are going to kill me and carve a satanic star in my chest and rip out my organs.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Mood,['interrogative'],"['interrogative', 'indicative']",['interrogative'],,[],,[],,[],['interrogative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Mood,"['interrogative', 'indicative']","['interrogative', 'indicative']",['interrogative'],,[],,[],,[],"['interrogative', 'indicative']","['interrogative', 'indicative', 'subjunctive']",0,"['interrogative', 'indicative', 'subjunctive']"
+3090,[9 9 8],This provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3249,[9],When Cain complains that being a “vagabond .,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Mood,['indicative'],['subjunctive'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'subjunctive']",0,"['indicative', 'subjunctive']"
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+3407,[9],"Among the earliest indications Catholics had that the new pope had no intention of getting to the bottom of the priest-abuser problem was his appointment of the notorious homosexual, Monsignor Battista Ricca, as head of the Vatican Bank and the man in charge of his own residence, the Casa Santa Martha.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3784,[10],Allahu Akbar usually means motive unknown.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+3790,[10],Over-excitement is a serious problem in the Muslim world.,Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3791,[10],"“This is contrary to Divine Revelation,” Schneider further told LifeSite, adding that the “beautiful explanations” that are being presented to clergy and faithful as “discernment” and “pastoral accompaniment,” or a “change of paradigm” and “discovery of the subjective part of the truth,” when translated into “common sense language,” are tantamount to an allowance to sin.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3794,[11],"Awan told people Wasserman Schultz chose the name for his daughter, Leza — a Jewish name — and that the Florida congresswoman’s daughter regularly rode a horse that Awan kept at a boarding facility, sources with knowledge of the relationship told TheDCNF.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+3798,[ 6  4 11],"In other words, unlike Lee Harvey Oswald, who had absolutely no motive to kill President Kennedy, the national security establishment did have motive, a powerful motive, the same motive that motivated the CIA and Pentagon to target other political leaders for regime change or assassination around that time, such as Mohamad Mossadegh, Jacobo Arbenz, Patrice Lumumba (who Kennedy admired), Fidel Castro, and Salvador Allende.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Mood,['optative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative', 'optative']",0,"['imperative', 'indicative', 'optative']"
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+3805,[11 13],"And Shapira, who “enjoys writing about people who have served in the military and intelligence communities” had an ethical duty to point out Helms’ proclivity for lying in his article.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3806,[11  8],"The Guardian, reputedly once a great liberal newspaper, conducted a vendetta against Julian Assange.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3809,[12],The demonic forces we know are the driving force behind this supreme moment of heresy and destruction aren’t really looking at the undermining of marriage as their primary goal; they want to get at the Eucharist.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3811,[ 9 12],"John Pilger — one of the few journalists to speak out on Julian Assange’s behalf, labels journalists who fail to stand in solidarity with Assange in exposing the behavior of the Establishment, “Vichy journalists — after the Vichy government that served ad enabled the German occupation of France.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3817,[12],"Soros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3827,[12],"An enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3828,[12],There could be only one answer: communists.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Mood,"['interrogative', 'indicative']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Mood,['interrogative'],['interrogative'],['indicative'],,[],,[],,[],['interrogative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+3895,[13],Impossible.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['exclamatory'],-1,['exclamatory']
+3937,[ 9  9 13],"Of course this would be of little interest to secular journalists, who have paid no mind to his habit of rewriting Catholicism, but the sex abuse crisis is something secular journalists are very interested in, a fact Bergoglio seems not to have understood.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3988,[ 8 13],They make sure that the Islamic instruction in these textbooks presents a picture of Islam that is so pristine and whitewashed that it sometimes crosses the boundary from mere pro-Muslim bias into outright Islamic proselytizing.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4019,[13],"Anti-jihadist activist Pamela Geller praised Orban for his honesty and wrote, ""At last, a politician who speaks the truth about the Muslim invasion of Europe.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4236,[13  1],They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4263,[ 9 14  9],"With the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours’ Day 2018 Address in which he told an approving audience that ""powerful Jews are my enemy,"" and ""white folks are going down,"" according to The Washington Examiner.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4267,[14],“If someone can get me this young man’s information I’ll get him a new #maga hat… SIGNED by #potus!!,Mood,"['exclamatory', 'subjunctive']",['exclamatory'],['indicative'],,[],,[],,[],"['exclamatory', 'subjunctive']","['imperative', 'subjunctive']",0,"['imperative', 'subjunctive']"
+4270,[14],Long live the Fifth Estate!”,Mood,"['optative', 'exclamatory']",['exclamatory'],['exclamatory'],,[],,[],,[],['exclamatory'],"['optative', 'exclamatory']",0,"['optative', 'exclamatory']"
+4278,[14],"In the months leading up to the vote, there had been other anti-Semitic incidents, including a tweet by Igor Sadikov, an elected representative of students in McGill’s faculty of arts, saying: “punch a zionist.”",Mood,['imperative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Mood,['subjunctive'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",Mood,"['imperative', 'subjunctive']",['imperative'],['indicative'],,[],,[],,[],"['imperative', 'subjunctive']","['imperative', 'indicative', 'subjunctive']",0,"['imperative', 'indicative', 'subjunctive']"
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",Mood,['indicative'],['indicative'],[],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+4296,[14],"J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4302,[13 14],A Texas mother’s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4318,[14],Kill the Messenger,Mood,['imperative'],['imperative'],['imperative'],,[],,[],,[],['imperative'],['imperative'],1,['imperative']
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4329,[14],"Representatives work for us, we do not work for them.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",Mood,['subjunctive'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4353,[ 7 14],"""For us, Hungary is first.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'subjunctive']",0,"['indicative', 'subjunctive']"
+4366,[15],The authorities allowed him to commit the crime.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4367,[15],They want to preserve the FBI’s reputation.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4368,[15],They don’t care to see Trump vindicated.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4370,[15],The media is very interested in racism.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4371,[15],The media is happy to talk about anti-Semitism.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4372,[15],Here’s my translation:,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4384,[16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",Mood,['indicative'],['indicative'],['imperative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4400,[ 6 16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4405,[16],So interesting!,Mood,['exclamatory'],['exclamatory'],['exclamatory'],,[],,[],,[],['exclamatory'],['exclamatory'],1,['exclamatory']
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4417,[16],The time for “prudence” is long past.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4427,[16],It is over.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4430,[16],You really don't need to know anything.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4431,[16],“I had no way to see into his mind.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4434,[ 8 16],No more games.,Mood,['indicative'],['imperative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+4436,[16],“So what if this code is a gun?”,Mood,"['interrogative', 'subjunctive']",['interrogative'],['exclamatory'],,[],,[],,[],"['interrogative', 'subjunctive']",['interrogative'],0,['interrogative']
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4448,[17],"@Theresa_May, don’t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",Mood,['imperative'],['imperative'],['imperative'],,[],,[],,[],['imperative'],['imperative'],1,['imperative']
+4452,[17],"Juanita Broaddrick, who accused Bill Clinton of rape — and who’s never ever recanted her story, in all the years she’s made the accusation — had a blunt message for Sen. Dianna Feinstein about the supposed “due process” that needs to be given to Brett Kavanaugh’s accuser, and it’s one that goes like this: Where was mine?",Mood,"['interrogative', 'indicative']","['interrogative', 'indicative']",['indicative'],,[],,[],,[],"['interrogative', 'indicative']","['interrogative', 'indicative']",1,"['interrogative', 'indicative']"
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Mood,"['interrogative', 'indicative']",['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4477,[17],"Seemingly heedless of these hard facts, President Trump – who himself avoided national military service in the 1960’s – keeps beating the war drums over North Korea and needling its thin-skinned regime with naval exercises, over-flights, and intensifying bombast.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Mood,['exclamatory'],['exclamatory'],['indicative'],,[],,[],,[],['exclamatory'],"['indicative', 'exclamatory']",0,"['indicative', 'exclamatory']"
+4767,[],- No new deaths -,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+4932,[],Here’s a link for ya to do just that.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['imperative'],-1,['imperative']
+5024,[],The two cities are home to a combined 12 million people.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],[],-1,[]
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5438,[],I wanted them to know that I listened.”,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],[],-1,[]
+6125,[],They know that.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6215,[],"The new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6331,[],It is impossible to do all this without God’s assistance.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6745,[],"O’Malley was not only a member of the pope’s “G9” group of close advisors; he was also the man who sought to clean up the abuse scandal in Boston after the departure of his predecessor, Cardinal Bernard Law, whose shifting of predator priests to new posts was exposed by the Boston Globe and chronicled in the movie “Spotlight.”",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",Mood,"['interrogative', 'indicative']",['indicative'],['indicative'],,[],,[],,[],['indicative'],"['interrogative', 'indicative']",0,"['interrogative', 'indicative']"
+7211,[],Then Benedict allowed him to remain a cardinal.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7408,[],"Looking carefully at the infamous “Who am I to judge” comment, this was clear early on.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7758,[],Article posted with permission from Robert Spencer,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,Mood,['indicative'],['subjunctive'],['indicative'],,[],,[],,[],['indicative'],"['indicative', 'subjunctive']",0,"['indicative', 'subjunctive']"
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7818,[],But really it comes down to the British government.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+7975,[],Laws are for conservatives.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9235,[],He said he spoke with Trump to make sure that the president wasn’t actually issuing an order.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9329,[],Solemnly professed:,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9396,[],Also on communion between the communities.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9657,[],I don't remember how I got there.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",Mood,['interrogative'],['indicative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9712,[],His life before joining the caliphate was unremarkable.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9827,[],It will be addressed quickly and justly.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9866,[],But he is now a full-fledged member of the nuclear club.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",Mood,"['interrogative', 'subjunctive']",['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+10448,[],Anybody?,Mood,['interrogative'],['interrogative'],['interrogative'],,[],,[],,[],['interrogative'],['interrogative'],1,['interrogative']
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10658,[],Assange’s crime is to have broken a silence.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+11157,[],"Debra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",Mood,['indicative'],['exclamatory'],['exclamatory'],,[],,[],,[],['exclamatory'],"['indicative', 'exclamatory']",0,"['indicative', 'exclamatory']"
+11361,[],Email This field is for validation purposes and should be left unchanged.,Mood,['indicative'],['imperative'],['imperative'],,[],,[],,[],['imperative'],['imperative'],1,['imperative']
+11544,[],As to matters of purely ecclesiastical law such as this one the Church has always allowed for departures from traditional practice in cases of emergency or grave necessity.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,Mood,['indicative'],['indicative'],['imperative'],,[],,[],,[],['indicative'],"['imperative', 'indicative']",0,"['imperative', 'indicative']"
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],[],-1,[]
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+11936,[],America's Immigration Voice.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12371,[],The ever growing global list of Bishops and Cardinals that have preyed on /and or covered up the sexual abuse of minors and seminarians over the last 60 years continues to enrage the laity.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Mood,"['indicative', 'subjunctive']",['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12626,[],It did what it is designed to do.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12935,[],"An organization that hands out the Emma Lazarus Award, named after a passionate Zionist, at its posh dinners is hosting attacks on the existence of Israel.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+12977,[],And yet it’s inescapable.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13225,[],"It is the Federation that now has the power to monitor for compliance with the rules, to report non-compliance to the Holy See, to make new foundations and, apparently, to “encourage” individual monasteries to “communicate” their goods.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13573,[],I am not a fan of Donald Trump.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+13660,[],"It is to wonder what this man would make of a comment by the great Dom Paul Delatte, the second abbot of Solesmes and successor to the refounder, Dom Gueranger, who wrote in his commentary on the Rule of St. Benedict:",Mood,[],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14016,[],Other Hondurans are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States against president Trump’s wishes.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14038,[],And in Russia.,Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Mood,['indicative'],['indicative'],['indicative'],,[],,[],,[],['indicative'],['indicative'],1,['indicative']

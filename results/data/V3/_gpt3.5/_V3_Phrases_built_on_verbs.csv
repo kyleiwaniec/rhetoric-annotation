@@ -1,0 +1,574 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_gpt3.5_0.0_V3_2,property_gpt3.5_0.0_V3_2
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases. However, it does contain a participial phrase 'conservative Ben Shapiro,' which is an adjective describing the subject of the sentence.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases, but it does contain a participial phrase 'conservative Ben Shapiro told', where 'told' is a past participle, modifying 'Ben Shapiro'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'Conservative Ben Shapiro told Fox news' which is built on the verb 'told.'""
+}",['participial_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'told Fox news the verdict was horrifying' contains a participal phrase 'told Fox news', where 'told' is a past participle and 'Fox news' is the direct object.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases, but it does contain a participial phrase 'conservative Ben Shapiro told Fox news', where 'told' is a past participle.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'told Fox news the verdict was “horrifying' contains a participial phrase 'told Fox news', where 'told' is a past participle modifying 'Ben Shapiro'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence Conservative Ben Shapiro told Fox news the verdict was “horrifying does not contain any participial phrases. A participial phrase typically includes a participle (a verb form used as an adjective) and any complements or modifiers, but the given sentence does not contain a phrase that fits this structure. Instead, it is a simple sentence with a subject, verb, and object, lacking the structure of a participial phrase.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence Conservative Ben Shapiro told Fox news the verdict was horrifying does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the provided example. The sentence in question does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'described the detention centre as looking akin to a typical American prison' which modifies the subject 'Sellner'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'described the detention centre as looking akin to a typical American prison', which modifies the subject 'Sellner'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'described the detention centre as looking akin to a typical American prison,' which modifies 'Sellner' and provides additional information about his actions and beliefs.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'described the detention centre as looking akin to a typical American prison', which modifies the subject 'Sellner'. This participial phrase provides additional information about Sellner and his actions.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'described the detention centre as looking akin to a typical American prison', which modifies the subject 'Sellner'. This participial phrase provides additional information about Sellner's actions and beliefs.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'described the detention centre as looking akin to a typical American prison', which modifies the subject 'Sellner'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers, and it functions as an adjective. In the given sentence, there are no phrases that fit this description. Instead, the sentence contains a relative clause (who described the detention centre as looking akin to a typical American prison) and a noun clause (that his speaking at Hyde Park could cause violence and disrupt community cohesion).', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain any infinitive phrases. An infinitive phrase typically starts with the word to followed by a verb, such as to sell, to speak, to run, etc. In the given sentence, there are no phrases that fit this structure, so there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Phrases_built_on_verbs,[],[],['inifinitive_phrases'],False,[],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to delay this vote until after the midterms' modifies the verb 'want' and explains the purpose or reason for the Democrats' desire.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to delay this vote until after the midterms' functions as an adverb, indicating the purpose or reason for the action 'want'.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""inifinitive phrases""],
+  ""Explanation"": ""The use of 'to delay' indicates the intention or purpose of the Democrats in wanting this vote postponed.""
+}",['inifinitive_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'want to delay this vote until after the midterms', which is a verb phrase functioning as an adjective to describe the reason for the Democrats' belief.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'want to delay this vote until after the midterms', which is a verb phrase functioning as a noun. It is headed by the infinitive 'to delay' and includes the direct object 'this vote'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to delay this vote until after the midterms' functions as an adverb, telling us why the Democrats want to delay the vote.""
+}",['inifinitive_phrases'],0,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. Participial phrases are formed with a participle (a verb form used as an adjective) and any complements or modifiers, and they function as adjectives. In the provided sentence, there are no phrases that fit this structure. The sentence consists of a main clause and a subordinate clause, but neither contains a participial phrase.', 'Property': 'participal phrases'}, {'Answer': 'Yes', 'Explanation': 'The sentence contains an infinitive phrase to delay this vote until after the midterms which expresses the purpose or intention of the Democrats. Additionally, to retake the Senate as well as the House is another infinitive phrase that also expresses purpose or intention. Both of these infinitive phrases function as adverbials, directing the interpretation of the actions want and believe in the sentence.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",Phrases_built_on_verbs,['inifinitive_phrases'],[],['inifinitive_phrases'],False,['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example contains a participial phrase 'proven, time and time again', which modifies the noun phrase 'the official story'. This phrase functions as an adjective to provide additional information about the story.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'proven, time and time again' modifying the noun phrase 'the official story', which functions as an adjective phrase.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'proven, time and time again', which modifies the subject 'the official story'. This participial phrase presents additional information about the nature of the official story.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'proven, time and time again', which modifies the noun phrase 'the official story'. This participial phrase provides additional information about the nature of the official story.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'proven, time and time again, to be absolutely false', which modifies the noun phrase 'the official story'. This participial phrase provides additional information about the official story and its status, changing the relation of the action to the agent.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'proven, time and time again, to be absolutely false', which modifies the noun phrase 'the official story'. This participial phrase provides additional information about the official story.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains complex clauses and phrases, but none that function as participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the provided example. However, the sentence in question does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Phrases_built_on_verbs,['participal_phrases'],['participal_phrases'],['participal_phrases'],True,['participal_phrases'],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'maligning Assange' modifying the noun 'story'.""
+}",['participial_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'maligning Assange' is a participal phrase, indicating the action of 'maligning' and its relation to the subject of the sentence.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'maligning Assange' which modifies the noun 'story'. This participal phrase adds descriptive information about the story.""
+}",['participal_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'maligning Assange' which modifies the noun 'story'. This participial phrase provides additional information about the story and its content.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The participal phrase 'maligning Assange' modifies the noun 'story' and provides additional information about the story.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'maligning Assange' is a participal phrase, as it is headed by the participle 'maligning' and functions as an adjective to modify the noun 'story'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase is a phrase headed by a participle, which functions as an adjective. In the provided sentence, there are no phrases that fit this description. Instead, the sentence contains a complex sentence structure with multiple clauses and a direct quotation.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example given. The sentence in question does not contain any such construction, and therefore does not include an infinitive phrase.', 'Property': 'inifinitive phrases'}]",[]
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Phrases_built_on_verbs,['participal_phrases'],['participal_phrases'],['participal_phrases'],True,['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participal phrase, modifying the noun 'comfort'. It indicates the state or condition of Judge Kavanaugh's comfort.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participial phrase which describes Judge Kavanaugh's comfort.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participial phrase, expressing the state of Judge Kavanaugh's comfort in a specific situation.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participial phrase modifying 'comfort'. It describes the state of Judge Kavanaugh during the process.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participial phrase modifying 'comfort'. It describes the state in which Judge Kavanaugh is comfortable.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'being put through the ringer without a shred of evidence' is a participial phrase modifying 'comfort'. It describes the state or condition of Judge Kavanaugh.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers. In the provided sentence, in being put through the ringer without a shred of evidence is a gerund phrase, not a participial phrase. It functions as the object of the preposition in and does not modify a noun in the sentence. Therefore, it does not qualify as a participial phrase.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send a letter. The sentence provided does not contain any such construction, and therefore, it does not include an infinitive phrase.', 'Property': 'inifinitive phrases'}]",[]
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Phrases_built_on_verbs,['inifinitive_phrases'],['inifinitive_phrases'],['inifinitive_phrases'],True,['inifinitive_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists' is a participal phrase, using the participle 'calling' to describe the action taken by the subject."" 
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists and parade their moral superiority' functions as a participial phrase, modifying the subject of the sentence.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists' is a participal phrase, as it starts with the infinitive 'to call' followed by a direct object 'them nativists'. It describes the action of the subject.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists and parade their moral superiority' is a participal phrase, as it is headed by the participle 'calling' and 'parading' and functions as an adjective to describe the subject of the sentence.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists and parade their moral superiority' is a participial phrase, as it is headed by the participle 'calling' and 'parading', and functions as an adjective to describe the subject.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'To call them nativists and parade their moral superiority' is a participial phrase, as it is headed by the participle 'parade' and describes the action of the subject.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase consists of a participle (a verb form used as an adjective) and any complements or modifiers. In the given sentence, to call them nativists and parade their moral superiority does not contain a participle acting as an adjective. Instead, it contains an infinitive (to call) and a noun phrase (them nativists) followed by a coordinating conjunction (and) and another verb (parade). Therefore, it does not meet the criteria for a participial phrase.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to call, to go, to eat, etc. In the provided sentence, to call is followed by them nativists and parade their moral superiority, which does not form a complete infinitive phrase. Therefore, the sentence does not contain any infinitive phrases.', 'Property': 'inifinitive phrases'}]",[]
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The participial phrase 'called it' conveys the idea of something being described or characterized, and it changes the relation of that action to the agent (Julian Assange). It is an adjective phrase headed by the participle 'called'.""
+}",['participial_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'called it' includes a participial phrase 'a hack job in the purest sense of the term', which describes the action of the subject 'Julian Assange'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'a hack job in the purest sense of the term' is a participal phrase as it is describing the nature of the hack job, with 'a hack job' being the subject and 'in the purest sense of the term' being the participal phrase.""
+}",['participal_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'a hack job in the purest sense of the term' is a participial phrase, as it is headed by the participle 'hack' and functions as an adjective to describe the noun 'job'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'a hack job in the purest sense of the term' is a participial phrase, as it is headed by the participle 'hack' and functions as an adjective describing the noun 'job'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'a hack job in the purest sense of the term' is a participial phrase, as it is headed by the participle 'hack' and functions as an adjective to describe the noun 'job'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The sentence Julian Assange called it a hack job in the purest sense of the term does not contain any participial phrases. Participial phrases are formed with a participle (a verb form used as an adjective) and any complements or modifiers, and they function as adjectives. In the given sentence, there are no phrases expressing being something or having done something using a participle. Instead, the sentence contains a simple verb phrase called it and a noun phrase a hack job in the purest sense of the term.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence Julian Assange called it a hack job in the purest sense of the term does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. In the given sentence, there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'defended Nation of Islam leader Louis Farrakhan' in which 'defended' is a participle.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'defended Nation of Islam leader Louis Farrakhan' which modifies the subject 'Democratic Illinois Rep. Danny Davis'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain infinitive phrases. However, it does contain a participial phrase 'defended Nation of Islam leader Louis Farrakhan', where 'defended' is a past participle acting as a verb phrase.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'defended Nation of Islam leader Louis Farrakhan' which modifies the subject 'Democratic Illinois Rep. Danny Davis'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'defended Nation of Islam leader Louis Farrakhan' which modifies the subject 'Democratic Illinois Rep. Danny Davis'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'defended Nation of Islam leader Louis Farrakhan' which modifies the subject 'Democratic Illinois Rep. Danny Davis'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (an -ing or -ed form of a verb) and any complements or modifiers. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains a simple verb form (defended) and a noun phrase (Democratic Illinois Rep. Danny Davis) followed by a direct object (Nation of Islam leader Louis Farrakhan).', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. The sentence in question does not contain any such construction, so it does not include an infinitive phrase.', 'Property': 'inifinitive phrases'}]",[]
+1234,[7],"He was treated very unfairly by our government!""",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases, but it does contain a participial phrase 'treated very unfairly', which modifies the subject 'He'. This phrase presents the action as having been done to the subject without specifying the agent of the action.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""]
+  ,
+  ""Explanation"": ""The sentence contains a participial phrase 'treated very unfairly' which functions as an adjective to describe 'He'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain an infinitive phrase. However, it does include a participal phrase 'treated very unfairly' which acts as an adjective modifying the pronoun 'He'.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'treated very unfairly' which describes the action 'was treated'. This participial phrase modifies the subject 'He' and provides additional information about the action.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases, but it does contain a participial phrase 'treated very unfairly' which modifies the subject 'he'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'treated very unfairly' which describes the action 'was' in the main clause.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The sentence He was treated very unfairly by our government does not contain any participial phrases. A participial phrase typically includes a participle (a verb form ending in -ing, -ed, -en, -t, or -n) and functions as an adjective. In the given sentence, treated is a past participle, but it is not used in a participial phrase. Instead, it is part of the passive voice construction was treated, where was is the auxiliary verb and treated is the past participle of the main verb treat. Therefore, the sentence does not contain a participial phrase.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence He was treated very unfairly by our government does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. In the given sentence, there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1259,[7],Does Berg and the AMA support our military?,Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'supporting our military', where 'supporting' is the present participle of the verb 'support'. This phrase modifies the subject of the sentence, indicating the action taken by Berg and the AMA.""
+}",['participal_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to support our military' which functions as the direct object of the verb 'support'. The AMA is directing the interpretation of the action 'support' by indicating whom or what they support.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to support our military' which functions as the direct object of the verb 'support'. This infinitive phrase tells us the purpose or reason for the support.""
+}",['infinitive_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'supporting our military', which modifies the noun 'Berg and the AMA'. This participial phrase indicates that Berg and the AMA are involved in supporting our military.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The question contains a participial phrase 'supporting our military', which indicates the action of supporting the military. This participial phrase modifies the subject 'Berg and the AMA'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The question contains a participial phrase 'supporting our military', which is a present participle phrase modifying the noun 'Berg and the AMA'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The sentence Does Berg and the AMA support our military? does not contain any participial phrases. Participial phrases are formed using a participle (a verb form functioning as an adjective) and any complements or modifiers. In the given sentence, there are no phrases that express being something or having done something using a participle. Instead, the sentence is a question inquiring about the support for the military by Berg and the AMA.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence Does Berg and the AMA support our military? does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to support. In this sentence, there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see through this sham' modifying the verb 'hope'. The infinitive phrase tells us why the speaker hopes the American people can do something.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see through this sham' which functions as an adverb, indicating the hope or purpose of the action 'can see'.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""inifinitive phrases""],
+  ""Explanation"": ""The example contains an infinitive phrase 'to see through this sham' which functions as an adverb, telling us the purpose or intention behind the hope of the American people.""
+}",['inifinitive_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'knowing about it and holding it', which modifies the pronoun 'you'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'knowing about it and holding it', which modifies the pronoun 'you'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see through this sham' which functions as the object of the verb 'hope'. It tells us why the speaker hopes the American people can do something.""
+}",['inifinitive_phrases'],0,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participal phrases. A participal phrase is an adjective phrase headed by a participle, and it expresses being something or having done something. In the provided sentence, there are no phrases that fit this description. The sentence mainly consists of coordinated clauses and does not contain any participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence I hope the American people can see through this sham, that you knew about it and you held it. does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb (e.g., to see, to know). In the given sentence, there are no phrases that fit this structure, so there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'freedom-loving' is a participal phrase, as it is headed by the participle 'loving' and modifies the noun 'American.'""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The text contains a participial phrase 'freedom-loving American' modifying the noun 'you'. This participial phrase describes the characteristic of the person mentioned.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence includes a participial phrase 'freedom-loving American', which describes the type of person being addressed.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'freedom-loving American' which modifies the subject 'you'. This phrase is built on the participle 'loving' and functions as an adjective to describe the type of American being referred to.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'freedom-loving American' which modifies the subject 'you'. This participial phrase provides additional information about the type of American being referred to.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'freedom-loving American' which modifies the subject 'you'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains a complex noun phrase (a freedom-loving American who values your liberties and the God-given right to defend them) and a negated adjective phrase (happy is NOT what you should be feeling right now).', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. The sentence in question does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to concern every American' which explains why the action of concern is occurring.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""inifinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to concern every American' which functions as an adverb to tell us why the concern should occur.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to concern every American' functions as an adverb, telling us why the action 'should concern' occurred.""
+}",['infinitive_phrases'],False,"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to concern every American' functions as an adverb, telling us why the action 'is happening' in the sentence.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to concern every American' functions as an adverb, telling us why the action 'is happening' occurred.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to concern every American' functions as an adverb, telling us why the action 'is happening' in the sentence.""
+}",['inifinitive_phrases'],1,['inifinitive_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participal phrases. A participal phrase typically includes a participle (a verb form used as an adjective) and any complements or modifiers. In the provided sentence, What is happening in the Brett Kavanaugh nomination process is a gerund phrase, not a participal phrase. It functions as the subject of the sentence, and is happening is a present progressive verb form, not a participle.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence What is happening in the Brett Kavanaugh nomination process should concern every American does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. In the given sentence, there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Phrases_built_on_verbs,[],[],[],True,[],"{
+    ""Properties"": [""participal phrases""],
+    ""Explanation"": ""The participal phrase 'in the dark years of Obama' modifies the noun 'history'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'in the dark years of Obama' which modifies the noun 'history', indicating when the stain occurred.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'in the dark years of Obama' acts as a participal phrase modifying the noun 'stain'. It uses the participle 'in' to describe the characteristic of the stain and its relation to the noun.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'in the dark years of Obama' functions as a participial phrase, modifying the noun 'stain'. It describes the stain as being associated with the dark years of Obama.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'in the dark years of Obama' functions as a participial phrase, modifying the noun 'stain'. It describes the stain as being associated with the dark years of Obama.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'in the dark years of Obama' is a participial phrase modifying the noun 'stain'. It is expressing the state of the stain during the specified time period.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participal phrases. A participal phrase is an adjective phrase headed by a participle, and it expresses being something or having done something. In the provided sentence, These pardons cleanse another stain from our nations history in the dark years of Obama, there are no phrases expressing an action as a participle modifying a noun. Instead, the sentence contains a verb cleanse and a prepositional phrase in the dark years of Obama, but no participal phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence These pardons cleanse another stain from our nations history in the dark years of Obama does not contain any infinitive phrases. An infinitive phrase typically starts with the word to followed by a verb, such as to send in the example provided. The sentence in question does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The participial phrase 'As far as the labor market is concerned' functions as an adverbial phrase modifying the entire sentence, indicating the context or scope of the statement.""
+}",['participial_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'translated to Americans First' contains a participal phrase 'translated to', which modifies the verb 'has' and provides additional information about the action.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'being concerned', which modifies the noun 'labor market'. The participal phrase alters the relationship of the action to the noun, showing that the labor market is concerned, rather than explicitly stating who is concerned about the labor market.""
+}",['participal_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'concerned' which modifies the noun 'labor market'. This participial phrase functions as an adjective to provide additional information about the labor market.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'concerned', which modifies 'labor market'. The phrase 'concerned' acts as an adjective to provide more information about the labor market.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'America First' is used as a participle phrase to modify the verb 'translated', indicating the action associated with 'America First'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The sentence As far as the labor market is concerned, “America First” has not translated to Americans First does not contain any participial phrases. Participial phrases are formed with a participle (a verb form functioning as an adjective) and any complements or modifiers. In the given sentence, there are no phrases that fit this structure. Instead, the sentence contains a prepositional phrase As far as the labor market is concerned and a verb phrase has not translated to Americans First.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence As far as the labor market is concerned, “America First” has not translated to Americans First. does not contain any infinitive phrases. The phrase to Americans First is not an infinitive phrase, as it does not follow the structure of to + verb. Instead, Americans First is a noun phrase used as a complement to the verb translated.', 'Property': 'inifinitive phrases'}]",[]
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'forced to bear the economic and social costs', which is an adjective phrase headed by the participle 'forced'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to bear the economic and social costs' which modifies the noun 'Americans'. This participal phrase describes the action in a way that changes the relation of that action to the agent.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence does not contain any infinitive phrases, but it does include a participal phrase 'forcing Americans to bear the economic and social costs.' The participal phrase 'forcing Americans' is used to describe the resistance caused by the 'open borders' policy.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to bear the economic and social costs' which modifies 'Americans'. This participial phrase presents the action in a way that changes the relation of the action to the agent.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to bear the economic and social costs', which modifies the noun 'Americans'. This participial phrase provides additional information about the Americans and their situation.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to bear the economic and social costs', which modifies the noun 'Americans'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains a complex subject and verb structure, but no participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. The sentence in question does not contain any such construction, and therefore does not include an infinitive phrase.', 'Property': 'inifinitive phrases'}]",[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'not just in West Virginia' acts as a participle phrase modifying the verb 'is'. It indicates the location of the problem.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'not just in West Virginia' modifying the noun 'problem'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases"", ""inifinitive phrases""],
+  ""Explanation"": ""The sentence does not contain any participal or infinitive phrases.""
+}","['participal_phrases', 'inifinitive_phrases']",False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'not just in West Virginia', which modifies the noun 'problem'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'not just in West Virginia', which modifies the noun 'problem'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'not just in West Virginia', which modifies the noun 'problem'.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence And it’s a problem not just in West Virginia – it’s a national problem. does not contain any participial phrases. Participial phrases typically consist of a participle (a verb form functioning as an adjective) and any complements or modifiers, and they function as adjectives in a sentence. In the given sentence, there are no phrases that fit this description. Instead, the sentence contains a compound sentence structure with a dash used to indicate a contrast or shift in focus.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence And it’s a problem not just in West Virginia – it’s a national problem. does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send a letter. In the given sentence, there are no phrases that fit this structure, so there are no infinitive phrases present.', 'Property': 'inifinitive phrases'}]",[]
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",Phrases_built_on_verbs,[],[],[],True,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The participial phrase 'reading of this document' is present in the sentence, modifying the noun 'acceptance'. It describes the action associated with the noun.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The participal phrase 'reading of this document' is used to describe the acceptance, changing the relation of the action to an agent.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The phrase 'reading of this document' is a participial phrase, as it is using the present participle 'reading' to modify 'acceptance'.""
+}",['participial_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'reading of this document' which modifies 'acceptance'. This phrase functions as an adjective phrase headed by a participle.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'reading of this document' which modifies the noun 'acceptance'. This phrase functions as an adjective to provide more information about the acceptance.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'reading of this document' which modifies 'acceptance'. This phrase functions as an adjective to provide more information about the acceptance.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participal phrases. Participial phrases are formed with a present or past participle and function as adjectives. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains prepositional phrases (from the reading of this document, of the Church’s orthodox eucharistic doctrine, in part on Pope Paul’s gracious and beautiful exposition, in part on the sheer radical, mad unlikeliness of it) and a compound predicate (was based).', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send in the example provided. The sentence given does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Phrases_built_on_verbs,['inifinitive_phrases'],['participal_phrases'],[],False,['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains the participal phrase 'in typical neo-Catholic style,' which describes the manner in which Faggioli imperiously scoffs at the notion.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'in typical neo-Catholic style' which describes the action of imperiously scoffing.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The sentence contains the participial phrase 'such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages”'. This phrase serves as an adjective phrase modifying 'their apologists'.""
+}",['participial_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The text contains a participial phrase 'defending an unsalvageable mass of corruption' which modifies the subject 'Faggioli'. This phrase functions as an adjective to provide more information about Faggioli.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'defending an unsalvageable mass of corruption' which modifies the subject 'Faggioli'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'in typical neo-Catholic style' which modifies the action of scoffs, changing the relation of that action to an agent.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase is an adjective phrase headed by a participle, and it expresses being something or having done something. In the provided sentence, there are no phrases that fit this description. Instead, the sentence contains complex clauses and descriptive language, but no participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to send a letter. However, the sentence provided does not contain any such construction. Instead, it consists of complex clauses and descriptive language, but no infinitive phrases as described in the context.', 'Property': 'inifinitive phrases'}]",[]
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Phrases_built_on_verbs,['inifinitive_phrases'],['inifinitive_phrases'],['inifinitive_phrases'],True,['inifinitive_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The text contains a participial phrase 'having an extramarital affair at the time,' which describes the action of Lisa Page and modifies 'she'. This helps to provide additional information about the circumstances of the private text message.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'having an extramarital affair' describing the action of FBI lawyer Lisa Page.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'having an extramarital affair at the time' is a participle phrase, describing the state of Lisa Page at a specific time.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'having an extramarital affair at the time', which modifies the noun 'Lisa Page'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'having an extramarital affair at the time' which modifies the noun 'Lisa Page'. This participial phrase provides additional information about Lisa Page's actions and situation.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'having an extramarital affair at the time' which modifies the subject 'Lisa Page'. This participial phrase provides additional information about Lisa Page's actions and relationships.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participal phrases. Participial phrases are formed with a present or past participle and function as adjectives. In the provided sentence, there are no phrases that express being something or having done something in the form of a participle. The sentence mainly consists of clauses and prepositional phrases, but it does not contain any participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence contains an infinitive phrase to know everything we’re doing. This phrase expresses the means by which Obama wanted something to be accomplished, indicating the purpose or intention behind his desire to know everything. The phrase to know everything we’re doing functions as an adverbial infinitive, directing the interpretation of Obamas desire to know.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+3811,[ 9 12],"John Pilger — one of the few journalists to speak out on Julian Assange’s behalf, labels journalists who fail to stand in solidarity with Assange in exposing the behavior of the Establishment, “Vichy journalists — after the Vichy government that served ad enabled the German occupation of France.”",Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'exposing the behavior of the Establishment' is a participal phrase, as it uses the participle 'exposing' to describe the action in relation to the agent, journalists.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence includes a participal phrase 'to speak out on Julian Assange’s behalf,' which modifies the noun 'journalists.' This participial phrase presents the action in a descriptive manner, indicating that John Pilger is a journalist who spoke out on Julian Assange’s behalf.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'exposing the behavior of the Establishment' is a participal phrase headed by the participle 'exposing'. It provides additional information about the action of the verb 'stand' and 'fail'.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'exposing the behavior of the Establishment' is a participal phrase, as it is headed by the participle 'exposing' and functions as an adjective to modify 'journalists'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'exposing the behavior of the Establishment' is a participal phrase, as it describes the action of the journalists and functions as an adjective in the sentence.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'exposing the behavior of the Establishment' which modifies the action of 'stand in solidarity with Assange'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form used as an adjective) and any complements or modifiers, but the sentence in question does not contain a phrase structured in this way. Instead, it contains a complex noun phrase (one of the few journalists to speak out on Julian Assange’s behalf) and a relative clause (who fail to stand in solidarity with Assange in exposing the behavior of the Establishment).', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence contains an infinitive phrase to speak out on Julian Assange’s behalf which functions as an adverbial infinitive, directing the interpretation of the action labels. This phrase tells us why John Pilger labels journalists who fail to stand in solidarity with Assange.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Phrases_built_on_verbs,['inifinitive_phrases'],['participal_phrases'],[],False,['participal_phrases'],"{
+  ""Properties"": [""participal phrases""], 
+  ""Explanation"": ""The text contains a participial phrase 'condoning fascism and his presence is 'not conducive to the public good', which describes the grounds for urging the ban.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participal phrase 'condoning fascism' which modifies the noun 'grounds'. This participal phrase functions as an adjective phrase to provide additional information about the grounds for urging the ban on Donald Trump.""
+}",['participal_phrases'],"{
+  ""Properties"": [
+    ""participial phrases""
+  ],
+  ""Explanation"": ""The example contains a participial phrase 'condoning fascism and his presence is not conducive to the public good', modifying the grounds for urging May to issue an official ban on Donald Trump.""
+}",['participial_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'condoning fascism and his presence is 'not conducive to the public good'' is a participial phrase modifying the grounds for urging May to issue an official ban on Donald Trump.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'condoning fascism and his presence is not conducive to the public good', which modifies the grounds for urging the ban.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'condoning fascism and his presence is not conducive to the public good', which modifies the grounds for urging the ban.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically consists of a participle (a verb form functioning as an adjective) and any complements or modifiers. In the provided sentence, there are no phrases that fit this structure. Instead, the sentence contains a series of descriptive clauses and phrases, but none of them function as participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to go or to issue. The sentence in question does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains the participial phrase 'forcing students to watch videos that proselytized for Islam', where 'forcing' functions as a participle describing the action associated with the parents' complaint.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participial phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forcing students to watch videos that proselytized for Islam', which modifies the noun 'parents'.""
+}",['participial_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'forcing students to watch videos that proselytized for Islam' is a participal phrase as it describes the action of the parents in the past ('forced students to watch videos that proselytized for Islam').""
+}",['participal_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forcing students to watch videos that proselytized for Islam', which modifies the noun 'complaint'. This participial phrase describes the action taken by the parents.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'forcing students to watch videos that proselytized for Islam' is a participial phrase, as it describes the action of the parents and functions as an adjective modifying the noun 'complaint'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forcing students to watch videos that proselytized for Islam', which modifies the noun 'parents'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase typically includes a participle (a verb form functioning as an adjective) and any complements or modifiers. In the provided sentence, there are no phrases that express being something or having done something using a participle. Instead, the sentence contains a complex noun phrase a federal complaint against Chatham Middle School in Chatham, New Jersey and a relative clause that proselytized for Islam.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to watch or to proselytize. However, the sentence provided does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+4431,[16],“I had no way to see into his mind.,Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,[],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see into his mind', which functions as an adverb explaining the reason for not having a way to do something.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see into his mind', which functions as an adverb telling us why the speaker had no way.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see into his mind', which functions as an adverb and explains why the speaker had no way to do something.""
+}",['infinitive_phrases'],True,"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see into his mind' which functions as the object of the verb 'had'. This infinitive phrase tells us the purpose or reason for not having a way.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The presence of the infinitive phrase 'to see into his mind' indicates the use of an adverbial infinitive, which tells us why the speaker had no way.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to see into his mind' which functions as the object of the verb 'had'. This infinitive phrase tells us the purpose or reason for not having a way.""
+}",['inifinitive_phrases'],1,['inifinitive_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence I had no way to see into his mind does not contain any participial phrases. A participial phrase typically includes a participle (a verb form functioning as an adjective) and its modifiers and complements. In the given sentence, to see is an infinitive phrase, not a participial phrase. Therefore, the sentence does not contain any participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence I had no way to see into his mind contains the infinitive phrase to see into his mind, which functions as an adverbial infinitive. It expresses the means by which the action had no way is accomplished, indicating the purpose or reason for the lack of a way.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+4932,[],Here’s a link for ya to do just that.,Phrases_built_on_verbs,['inifinitive_phrases'],['inifinitive_phrases'],['inifinitive_phrases'],True,['inifinitive_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The text provided contains a participal phrase 'waving a flag' in the sentence 'Waving a flag, John blows the whistle.'""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participal phrase 'waving a flag' which functions as an adjective phrase to modify the subject 'John'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participal phrase 'waving a flag', expressing an action as a participle rather than a verb.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participial phrase 'waving a flag', which modifies the subject 'John'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participial phrase 'waving a flag', which modifies the subject 'John' and provides additional information about the action.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example text contains a participal phrase 'to do just that', which functions as an adjective phrase modifying the noun 'link'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The given sentence Here’s a link for ya to do just that does not contain any participial phrases. A participial phrase typically includes a participle (a verb form functioning as an adjective) and any complements or modifiers, but the sentence provided does not contain a construction that fits this description.', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence Here’s a link for ya to do just that contains an infinitive phrase to do just that, which functions as an adverbial infinitive. It expresses the purpose or reason for the action indicated in the sentence, thus qualifying as an infinitive phrase.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example contains a participal phrase 'demanding the opportunity to present testimony' which modifies the subject 'we.'""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example contains a participial phrase 'we will be demanding', which expresses the action of demanding in a progressive form.""
+}",['participal_phrases'],"{
+  ""Properties"": [""inifinitive phrases""],
+  ""Explanation"": ""The sentence includes the infinitive phrases 'to present testimony' and 'to testify', which function as adverbials to explain the purpose or reason for demanding.""
+}",['inifinitive_phrases'],False,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'demanding the opportunity to present testimony to the committee' which modifies the subject 'we'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'demanding the opportunity to present testimony to the committee' which modifies the subject 'we'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'demanding the opportunity to present testimony to the committee' which modifies the subject 'we'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. A participial phrase is a phrase that functions as an adjective and is headed by a participle. In the provided sentence, there are no phrases that fit this description. The sentence mainly consists of future tense verbs and does not contain any phrases expressing being or having done something using participles.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The given sentence does not contain any infinitive phrases. An infinitive phrase typically includes the word to followed by a verb, such as to present or to testify. The sentence provided does not contain any such construction.', 'Property': 'inifinitive phrases'}]",[]
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Phrases_built_on_verbs,['inifinitive_phrases'],[],[],False,[],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'having been forced to prioritize patients, ration services, and forgo elective surgeries', describing the state of the hospitals. It uses the past participle 'forced' to show the action of forcing the hospitals to prioritize patients, ration services, and forgo elective surgeries.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to prioritize patients, ration services, and forgo elective surgeries' which describes the action taken by the hospitals.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence includes a participial phrase 'having been forced to prioritize patients, ration services, and forgo elective surgeries', expressing the state of the hospitals as a result of being forced to do these actions.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'having been forced to prioritize patients, ration services, and forgo elective surgeries', which modifies the subject 'hospitals'. This participial phrase describes the state or condition of the hospitals.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'forced to prioritize patients, ration services, and forgo elective surgeries', which describes the action taken by the hospitals.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'having been forced to prioritize patients, ration services, and forgo elective surgeries', which modifies the subject 'hospitals'.""
+}",['participal_phrases'],1,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The given sentence does not contain any participial phrases. Participial phrases are formed with a participle (a verb form used as an adjective) and any complements or modifiers, and they function as adjectives. In the provided sentence, forced to prioritize patients, ration services, and forgo elective surgeries are not functioning as adjectives modifying a noun, but rather as part of a series of actions that hospitals have been forced to undertake.', 'Property': 'participal phrases'}, {'Answer': 'no', 'Explanation': 'The sentence Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries does not contain any infinitive phrases. An infinitive phrase typically starts with the word to followed by a verb, such as to prioritize, to ration, or to forgo. In the given sentence, the verbs prioritize, ration, and forgo are used in their base form without the to particle, so they are not functioning as infinitive phrases.', 'Property': 'inifinitive phrases'}]",[]
+12626,[],It did what it is designed to do.,Phrases_built_on_verbs,['inifinitive_phrases'],[],['inifinitive_phrases'],False,['inifinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to do' which serves as an adverb, explaining the purpose or reason for the action of the main verb 'did'.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The infinitive phrase 'to do' functions as an adverb, explaining the purpose or reason for the action.""
+}",['infinitive_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to do' which functions as an adverb, explaining the purpose or reason for the action.""
+}",['infinitive_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'designed to do', which modifies the pronoun 'it'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""infinitive phrases""],
+  ""Explanation"": ""The sentence contains an infinitive phrase 'to do' which functions as an adverb, explaining the purpose or reason for the action.""
+}",['inifinitive_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The phrase 'designed to do' is a participial phrase, as it describes the purpose or nature of the 'it' in the sentence.""
+}",['participal_phrases'],0,['participal_phrases'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence It did what it is designed to do does not contain any participial phrases. A participial phrase typically includes a participle (a verb form functioning as an adjective) and any complements or modifiers, but the given sentence does not contain such a construction. Instead, it consists of a subject (It), a verb (did), and a noun clause (what it is designed to do). Therefore, it does not contain any participial phrases.', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence It did what it is designed to do contains an infinitive phrase to do which functions as an adverbial infinitive. In this case, the infinitive phrase to do expresses the purpose or the intended action of what it is designed for.', 'Property': 'inifinitive phrases'}]",['inifinitive_phrases']
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Phrases_built_on_verbs,"['inifinitive_phrases', 'participal_phrases']","['inifinitive_phrases', 'participal_phrases']",['inifinitive_phrases'],False,"['inifinitive_phrases', 'participal_phrases']","{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The example contains a participial phrase 'describing perfectly the artworks that had been removed' which functions as an adjective phrase modifying 'tours and lectures'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participal phrase 'describing perfectly the artworks that had been removed' which functions as an adjective phrase modifying 'tours and lectures'.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'describing perfectly the artworks that had been removed' which describes the action of the museum staff.""
+}",['participal_phrases'],True,"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'describing perfectly the artworks that had been removed', which modifies the noun 'staff'. This participial phrase functions as an adjective phrase, providing additional information about the museum staff.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'describing perfectly the artworks that had been removed', which modifies the noun 'staff'. This participial phrase provides additional information about the actions of the museum staff.""
+}",['participal_phrases'],"{
+  ""Properties"": [""participal phrases""],
+  ""Explanation"": ""The sentence contains a participial phrase 'describing perfectly the artworks that had been removed', which modifies the noun 'staff'. This participial phrase provides additional information about the actions of the museum staff.""
+}",['participal_phrases'],1,['participal_phrases'],1.0,0.0,,"['inifinitive_phrases', 'participal_phrases']","[{'Answer': 'yes', 'Explanation': 'The given sentence contains a participial phrase describing perfectly the artworks that had been removed. This phrase is a participle phrase as it is headed by the participle describing and functions as an adjective phrase, modifying tours and lectures.', 'Property': 'participal phrases'}, {'Answer': 'yes', 'Explanation': 'The sentence contains an infinitive phrase to keep up everyone’s morale, which expresses the purpose or reason for the action of the museum staff continuing to give tours and lectures.', 'Property': 'inifinitive phrases'}]","['participal_phrases', 'inifinitive_phrases']"

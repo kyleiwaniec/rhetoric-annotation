@@ -1,0 +1,1784 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,res1,gpt_props1,res2,gpt_props2,res3,gpt_props3,props_a_majority,props_gpt_majority,ann_gpt_agreemnt,props_gpt4_majority
+4,[0 8 9],"Muhammad advises the same thing, according to the tradition of the Muslim doctors: wherefore the great Temur always strove to exterminate the infidels, as much to acquire that glory, as to signalise himself by the greatness of his conquests.”",Tropes,['simile'],[],"['hyperbole', 'metaphor']","{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The text contains a metaphor comparing the act of exterminating infidels to acquiring glory and signaling oneself through conquests. It also includes the euphemism 'exterminate' instead of a more direct and offensive term.""
+}","['metaphor', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'great Temur' to refer to Temur the Great using a term associated with his greatness and power.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Temur' as a substitution for 'Timur the Great' based on his reputation and accomplishment.""
+}",['metonymy'],['simile'],['metonymy'],-1,[]
+11,[0 8],"We are simply asked to take the pope’s word for it, but given that it follows his astoundingly brazen lie that there was no evidence for Ricca’s homosexual activity in the first place, we can take the assurance for what it seems to be worth.",Tropes,"['irony', 'hyperbole', 'paradox']",['irony'],"['hyperbole', 'metaphor']","{
+  ""Properties"": [""metaphor"", ""irony"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'brazen lie' as a metaphor, the ironic use of 'simply asked' and 'assurance for what it seems to be worth', hyperbolic 'astoundingly brazen lie', and the euphemistic 'homosexual activity' instead of a more blunt phrase.""
+}","['metaphor', 'irony', 'hyperbole', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""irony"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The text uses metaphor to compare the pope's word to an assurance, irony in the statement about taking the pope's word for it, hyperbole with the description of the pope's lie as 'astoundingly brazen', and euphemism with the phrase 'homosexual activity' instead of a more graphic description.""
+}","['metaphor', 'irony', 'hyperbole', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""irony"", ""euphemism""],
+  ""Explanation"": ""The text contains metaphors such as 'pope’s word', use of irony in 'astoundingly brazen lie', and euphemism in 'homosexual activity'.""
+}","['metaphor', 'irony', 'euphemism']","['irony', 'hyperbole', 'paradox']","['metaphor', 'irony', 'hyperbole', 'euphemism']",0,[]
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Tropes,['metonymy'],[],['metaphor'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Fox news' to represent the organization as a whole.""
+}
+```",['metonymy'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The word 'horrifying' is being used in an ironic manner, as conservative Ben Shapiro is likely expressing satisfaction with the verdict.""
+}",['irony'],"{
+  ""Properties"": [""metaphor"", ""irony""],
+  ""Explanation"": ""The use of the metaphor 'horrifying' to describe the verdict, and the irony of a conservative being horrified by the verdict""
+}","['metaphor', 'irony']",['metonymy'],['metonymy'],1,[]
+16,[0],"According to Breitbart, “Sellner, who described the detention centre as looking akin to a typical American prison, said he was told by authorities that his speaking at Hyde Park could cause violence and disrupt community cohesion.”",Tropes,"['simile', 'euphemism']",['simile'],['simile'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'authorities' as a substitution for the specific people in charge demonstrates the property of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'authorities' as a substitute for the specific group or individuals who told Sellner that his speaking at Hyde Park could cause violence and disrupt community cohesion.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'detention centre' instead of 'prison' is a metonymy, and 'could cause violence and disrupt community cohesion' is a euphemism for potential unrest and conflict.""
+}","['metonymy', 'euphemism']",['simile'],['metonymy'],-1,[]
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Tropes,"['allegory', 'euphemism']",['antonomasia'],['metaphor'],"{
+  ""Properties"": [
+    ""antonomasia"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'elected officials' is a descriptive label characterizing while renaming. The use of 'safeguard against the appearance or actuality' is a euphemism to minimize the gravity of the situation.""
+}","['antonomasia', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'cashing in' as a metonymy for 'exploiting their official position for personal gain' and the euphemistic phrase 'safeguard against the appearance or actuality' both appear in the text.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'cashing in' is a euphemism for profiting or exploiting their official position.""
+}",['euphemism'],"['allegory', 'euphemism']","['antonomasia', 'euphemism']",0,[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Tropes,"['metonymy', 'synecdoche', 'metaphor']",[],"['metonymy', 'metaphor']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'a prelate of the authority of Archbishop Carlo Maria Viganò' is a metonymy, as it substitutes a specific person for the broader category of prelate with authority. The term 'taken to heart' is a euphemism for 'seriously considered'.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The term 'prelate' is used as a metonymy for Cardinal Raymond Burke, and the phrase 'taken to heart' is a euphemism for 'seriously considered'.""
+}","['metonymy', 'euphemism']","```json
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'prelate' as a substitution for Archbishop Carlo Maria Viganò according to their association with the Church""
+}
+```",['metonymy'],"['metonymy', 'synecdoche', 'metaphor']","['metonymy', 'euphemism']",0,[]
+43,[0],"As a former trial lawyer, I can tell you that while neither notes nor memories are infallible, in a contest between contemporaneous notes and later verbal testimony about those notes, the content of the written notes usually prevails.",Tropes,[],[],['litotes'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'contemporaneous notes' as a substitution for 'written notes' based on their temporal association.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'notes' as a substitution for written records is an example of metonymy. The phrase 'let go' instead of 'fired' is an example of euphemism.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'notes' to stand for the actual written records in the example text is an example of metonymy.""
+}",['metonymy'],[],['metonymy'],-1,[]
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Tropes,"['hyperbole', 'metaphor']",['hyperbole'],['hyperbole'],"{
+  ""Properties"": [""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'individuals' as a substitute for 'followers', the exaggerated repetition of 'thousands', and the euphemistic phrase 'plays a big role' instead of 'exerts a significant influence'."" 
+}","['metonymy', 'hyperbole', 'euphemism']","```json
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The speaker uses euphemistic language to describe Louis Farrakhan, minimizing any negative connotations by emphasizing his positive qualities.""
+}
+```",['euphemism'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The speaker uses euphemism by referring to Louis Farrakhan as an 'outstanding human being' instead of using a more neutral or negative term.""
+}",['euphemism'],['hyperbole'],['euphemism'],-1,[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Tropes,['antonomasia'],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'John Hancock' as a substitution for the person himself, based on his association with his famous signature.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'John Hancock' is used as a metonymy to refer to a signature, based on the association with his large, prominent signature on the Declaration of Independence.""
+}",['metonymy'],"{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The use of 'John Hancock' to refer to the first signer of the Declaration of Independence is an example of antonomasia.""
+}",['antonomasia'],[],['metonymy'],-1,[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Tropes,[],[],[],"```{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Ms. Ford' instead of her full name is a metonymy, and the use of 'telling the truth' instead of stating the alleged event directly is a euphemism.""
+}```","['metonymy', 'euphemism']","{
+  ""Properties"": [""antonomasia"", ""metaphor""],
+  ""Explanation"": ""The use of 'Ms. Ford' as a descriptive label instead of the proper name is an example of antonomasia. The phrase 'her story' is a metaphor for Ms. Ford's account of what happened."" 
+}","['antonomasia', 'metaphor']","{
+  ""Properties"": [
+    ""antonomasia""
+  ],
+  ""Explanation"": ""The use of 'Ms. Ford' as a descriptive label characterizes and renames the person being referred to.""
+}",['antonomasia'],[],"['metonymy', 'euphemism']",-1,[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Tropes,[],[],[],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the Cardinal' as a substitution for 'the Cardinal's exposition' is an example of metonymy.""
+}
+```",['metonymy'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'the Cardinal's exposition' refers to the Cardinal's entire body of work or teachings, not just a specific exposition.""
+}",['synecdoche'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'the Cardinal' is used as a substitution for the specific individual's name, representing a group of people associated with the Cardinal.""
+}",['metonymy'],[],['metonymy'],-1,[]
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Tropes,['synecdoche'],[],[],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'search engines like Google' is a metonymy for the company Google. Additionally, the mention of 'inserting negative search suggestions' is a euphemism for manipulating search results.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [
+    ""metonymy"",
+    ""hyperbole""
+  ],
+  ""Explanation"": ""The term 'Breitbart report' is used as a substitution for the actual author's name, and the statement about search engines shifting opinions by up to 43.4 percent is an exaggerated claim, constituting hyperbole.""
+}","['metonymy', 'hyperbole']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The substitution of 'Breitbart report' for 'report by Allum Bokhari' is an example of metonymy. The phrase 'shift the opinions of undecided voters' is a euphemism for manipulate or influence the opinions of undecided voters.""
+}","['metonymy', 'euphemism']",[],"['metonymy', 'euphemism']",-1,[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Tropes,['hyperbole'],[],"['hyperbole', 'metaphor']","{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'the Chair of St. Peter' as a substitute for the papacy is an example of metonymy. The phrase 'before this crisis gets any more out-of-control than it already is' contains hyperbolic language, exaggerating the severity of the crisis.""
+}","['metonymy', 'hyperbole']","{
+  ""Properties"": [""hyperbole"", ""irony""],
+  ""Explanation"": ""The use of 'unprecedented' to describe both the papal situation and the potential step of recalling Benedict XVI is hyperbolic, and the suggestion to consider this action 'sooner rather than later' is ironic given the gravity of the situation.""
+}","['hyperbole', 'irony']","{
+  ""Properties"": [""synecdoche"", ""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'Chair of St. Peter' as a metonymy for the papacy, 'this crisis gets any more out-of-control than it already is' as hyperbole, and 'before this crisis gets any more out-of-control than it already is' as a euphemism to soften the gravity of the situation.""
+}","['synecdoche', 'metonymy', 'hyperbole', 'euphemism']",['hyperbole'],"['metonymy', 'hyperbole']",0,[]
+83,[1],"A dark, impenetrable and “irreversible” winter of persecution of the faithful by their own shepherds will fall.",Tropes,['metaphor'],['metaphor'],['metaphor'],"{
+  ""Properties"": [""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The example text contains the metaphor 'dark, impenetrable and irreversible winter' to convey the severity of the persecution. It also uses hyperbole to exaggerate the extent of the persecution.""
+}","['metaphor', 'hyperbole']","```json
+{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The text uses metaphor by comparing the persecution of the faithful to a dark and impenetrable winter. It also uses euphemism by describing the persecution as 'irreversible', a milder phrase than the actual severity of the situation.""
+}
+```","['metaphor', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The text uses metaphor to compare persecution to a dark and impenetrable winter. It also uses hyperbole to exaggerate the severity of the persecution. Additionally, the phrase 'irreversible' is a euphemism for permanent or unchangeable.""
+}","['metaphor', 'hyperbole', 'euphemism']",['metaphor'],"['metaphor', 'hyperbole']",0,[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Tropes,[],['antonomasia'],['antonomasia'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'a senior Labour backbencher' is used as a substitute for Chris Bryant, using a recoverable association.""
+}
+```",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""Metonymy is used with 'May' representing the Prime Minister Theresa May. Euphemism is used with 'not conducive to the public good' instead of a more direct statement of his potential harm.""
+}","['metonymy', 'euphemism']","``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'May' is used to refer to Theresa May, the Prime Minister of the UK. This is a substitution that follows a recoverable association.""
+}
+```",['metonymy'],['antonomasia'],['metonymy'],-1,[]
+118,[1],"In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”",Tropes,['synecdoche'],[],"['irony', 'metonymy', 'paradox']","{
+  ""Properties"": [""irony"", ""paralepsis/praeteritio""],
+  ""Explanation"": ""The speaker denies making a statement while simultaneously making it, creating irony and using paralepsis/praeteritio.""
+}","['irony', 'paralepsis/praeteritio']","{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of the phrase 'note well' instead of 'pay attention' could be seen as a mild or polite substitution.""
+}",['euphemism'],"```In any case, note well: the letter to me from the UK Home Office said that I was banned for saying that “[Islam] is a religion and is a belief system that mandates warfare against unbelievers…”```
+
+{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'the letter' is a metonymy, representing the authority and decision of the UK Home Office. The phrase 'banned for saying' is a euphemism for the action taken against the speaker.""
+}",[''],['synecdoche'],"['irony', 'paralepsis/praeteritio']",-1,[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Tropes,"['synecdoche', 'metaphor']",['hyperbole'],"['hyperbole', 'metonymy', 'metaphor']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Catholics' is substituted with the term 'chorus' based on the association of a group of people singing in unison.""
+}",['metonymy'],"{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'veritable chorus' is a metaphor, 'loss of faith' is hyperbole, and 'canonised' is a euphemism for the process of being officially declared a saint.""
+}","['metaphor', 'hyperbole', 'euphemism']","```{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Paul VI' as a substitution for the Catholic Church or its leadership, based on a recoverable association.""
+}```",['metonymy'],"['synecdoche', 'metaphor']",['metonymy'],-1,[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Tropes,['antonomasia'],['antonomasia'],"['hyperbole', 'antonomasia']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The term 'gun control extremists' is used as a substitution for specific individuals such as Chuck Schumer, Nancy Pelosi, and Dianne Feinstein, based on their association with advocating for gun control."" 
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The term 'gun owners' is used as a substitution to represent a specific group of individuals who own guns, demonstrating the use of metonymy.""
+}",['metonymy'],"``` 
+{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'gun control extremists' is a metonymy for Chuck Schumer, Nancy Pelosi, Dianne Feinstein, and others who support gun control. The statement 'ultimate goal of gun control extremists...has always been gun confiscation' is an example of hyperbole.""
+}
+```","['metonymy', 'hyperbole']",['antonomasia'],['metonymy'],-1,[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Tropes,['metaphor'],[],"['hyperbole', 'metaphor']","{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'immune to attack' is a metaphor, bringing the term 'immune' from a biological context to describe the threat's resistance to air attacks""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The phrase 'largely immune to attack from the air' is a metaphor, as it brings a term from the 'immune' semantic field to describe the threat. Additionally, the phrase 'largely immune to attack from the air' is a euphemism for a threat that is difficult to defend against."" 
+}","['metaphor', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The use of 'immune to attack from the air' is a metaphor to describe the seriousness of the threat. It is also a hyperbole as it exaggerates the extent to which the threat is immune to attack.""
+}","['metaphor', 'hyperbole']",['metaphor'],['metaphor'],1,[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Tropes,[],[],['euphemism'],timeout,[],"{
+    ""Properties"": [
+        ""metonymy""
+    ],
+    ""Explanation"": ""The use of 'the north' to refer to North Korea is an example of metonymy, as it substitutes the name of a country with a term associated with it.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the north' to represent North Korea is an example of metonymy, where a term is substituted with a related term based on a recoverable association.""
+}",['metonymy'],[],['metonymy'],-1,[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Tropes,['metaphor'],['hyperbole'],"['hyperbole', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Pharaoh' is used to represent the whole Egyptian ruling authority.""
+}",['metonymy'],"{
+  ""Properties"": [""antonomasia"", ""metaphor""],
+  ""Explanation"": ""The phrase 'the meekest man alive' is an example of antonomasia, as it uses a descriptive label to characterize while renaming. The use of 'the face of the Pharaoh' is a metaphor, as it brings a term from an 'alien' semantic field to create a novel pairing that expresses a point trenchantly.""
+}","['antonomasia', 'metaphor']","{
+  ""Properties"": [""metonymy"", ""irony""],
+  ""Explanation"": ""The use of 'the meekest man alive' is a metonymy, substituting 'the meekest man alive' for Moses. The irony is present in the contradiction between being meek and being sent to confront the Pharaoh.""
+}","['metonymy', 'irony']",['metaphor'],['metonymy'],-1,[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Tropes,[],[],"['hyperbole', 'synecdoche']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The substitution of 'Kavanaugh' for the Supreme Court justice is chosen according to the recoverable association between Kavanaugh and his role on the Supreme Court.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Kavanaugh' as a substitute for the Supreme Court, chosen according to the recoverable association of him being a current justice.""
+}",['metonymy'],"```json
+        {
+          ""Properties"": [""metaphor"", ""euphemism""],
+          ""Explanation"": ""The use of 'it will be too late for others to join me' is a metaphor to convey a sense of urgency, while the phrase 'undermining our #4thAmendment right' is a euphemism for potential violation of rights.""
+        }
+```","['metaphor', 'euphemism']",[],['metonymy'],-1,[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Tropes,['hyperbole'],[],['hyperbole'],"{
+  ""Properties"": [""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The phrase 'a gird failure' is a metaphor, as it brings a term from an 'alien' semantic field (gird) to express a point trenchantly. The use of 'almost immediately fling the United States into a state of panic' is hyperbole, as it is an exaggerated statement not meant to be taken literally.""
+}","['metaphor', 'hyperbole']","{
+  ""Properties"": [""hyperbole""],
+  ""Explanation"": ""The phrase 'fling the United States into a state of panic' is an exaggerated statement meant to emphasize the potential severity of a grid failure.""
+}",['hyperbole'],"{
+  ""Properties"": [""hyperbole""],
+  ""Explanation"": ""The use of 'immediately fling the United States into a state of panic' is an exaggerated overstatement meant to emphasize the potential severity of the situation.""
+}",['hyperbole'],['hyperbole'],['hyperbole'],1,[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Tropes,['metaphor'],[],['hyperbole'],"{
+  ""Properties"": [
+    ""irony""
+  ],
+  ""Explanation"": ""The statement 'if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well' is ironic because it presents the Catholic Church, an organization associated with peace and goodwill, as being ruthless and silencing."" 
+}",['irony'],"{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The text uses irony as it presents a contradictory statement about the Catholic Church's stance on Islam. It also uses euphemism by referring to the Catholic Church's strictness as 'ruthlessly harassed and silenced' instead of using more direct language."" 
+}","['irony', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'superdogma' is a metaphor, exaggerating the importance of the belief. The phrase 'ruthlessly harassed and silenced' is hyperbolic. The term 'Religion of Peace' is a euphemism for Islam.""
+}","['metaphor', 'hyperbole', 'euphemism']",['metaphor'],['irony'],-1,[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'reporters' is used to refer to the group of people present at the news conference, substituting their profession for their actual presence.""
+}",['metonymy'],"```json
+        {
+          ""Properties"": [""metonymy""],
+          ""Explanation"": ""The use of 'my door' is a substitution with a recoverable, specifiable principle, representing the whole concept of the person's home.""
+        }
+        ```",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Friday's news conference' instead of the specific location or event is a substitution based on a recoverable association.""
+}",['metonymy'],[],['metonymy'],-1,[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Tropes,['metonymy'],[],"['metonymy', 'synecdoche']",,[],,[],,[],['metonymy'],['metonymy'],1,['metonymy']
+241,[9 2],"After Farrakhan's speech Sunday, CNN anchor Jake Tapper, among a few others, began tweeting out a few quotes from it, and declared that Farrakhan was more dangerous than other ""alt-reich"" leaders because he “has a much larger following and elected officials meet with him openly.”",Tropes,[],[],"['hyperbole', 'metonymy', 'synecdoche', 'metaphor']","{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'alt-reich' as a substitution based on association is an example of metonymy. The statement about Farrakhan having a 'much larger following' is an overstatement and serves as a hyperbole.""
+}","['metonymy', 'hyperbole']","``` 
+{
+  ""Properties"": [""metonymy"", ""irony"", ""hyperbole""],
+  ""Explanation"": ""Metonymy is present in the use of 'alt-reich' as a substitution for 'alt-right' based on association. Irony is present in Jake Tapper's statement, as he is saying one thing but implying the opposite. Hyperbole is present in the statement about Farrakhan having a 'much larger following', which is an exaggerated overstatement.""
+}
+```","['metonymy', 'irony', 'hyperbole']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'alt-reich' as a substitution for 'alt-right' based on a recoverable association.""
+}",['metonymy'],[],"['metonymy', 'hyperbole']",-1,[]
+243,[2 6],Women everywhere should be furious.,Tropes,[],[],['hyperbole'],"``` 
+{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'women' to represent all women everywhere.""
+}
+```",['synecdoche'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'women' is used to represent the broader concept of female gender, making it an example of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'Women everywhere should be furious' uses the metaphor of 'women' representing the broader concept of gender inequality and injustice, expressing a strong emotion."" 
+}",['metaphor'],[],['synecdoche'],-1,[]
+244,[2],"Why not, one could say, since the Church is ready to bless nearly everything on the earth?",Tropes,"['synecdoche', 'metaphor']",['hyperbole'],"['irony', 'hyperbole']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the Church' to represent the people within the Church, based on the association of the institution with its members.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the Church' to represent the religious institution is an example of metonymy, as it substitutes a term chosen according to a recoverable association.""
+}",['metonymy'],"{
+  ""Properties"": [""euphemism"", ""rhetorical question""],
+  ""Explanation"": ""The use of 'one could say' is a form of euphemism to soften the statement, and the question 'Why not' is a rhetorical question to emphasize the point.""
+}","['euphemism', '']","['synecdoche', 'metaphor']",['metonymy'],-1,[]
+245,[2],"I am sure there are many many others, too, who think alike, but whom I do not know.",Tropes,[],[],[],"{
+  ""Properties"": [""none""],
+  ""Explanation"": ""The example text does not contain any tropes or figurative language, it is a straightforward statement.""
+}",['irony'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'too' to soften the suggestion that there are other people who think alike but the speaker does not know them.""
+}",['euphemism'],"{
+  ""Properties"": [""hyperbole"", ""litotes""],
+  ""Explanation"": ""The use of the phrase 'many many others' is an example of hyperbole, as it exaggerates the number of people who think alike. The phrase 'whom I do not know' is an example of litotes, as it understates the number of people the speaker does not know.""
+}","['hyperbole', 'litotes']",[],['irony'],-1,[]
+247,[13  2],"“But it is extremely dangerous as the head of the Catholic Church — you know, the last appeal — that this is the kind of behavior that is going to be mimicked around the world by bishops, [who will say] ‘Well if the Pope is not going to intervene and impose zero tolerance, why should I?’”",Tropes,['antonomasia'],[],"['hyperbole', 'metonymy']","``` 
+{
+  ""Properties"": [""synecdoche"", ""metonymy""],
+  ""Explanation"": ""The use of 'the head of the Catholic Church' represents the whole institution, and 'bishops' is used as a substitute for the entire hierarchy of the Church.""
+}
+```","['synecdoche', 'metonymy']","``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The usage of 'the head of the Catholic Church' to refer to the Pope is a substitution based on a recoverable association.""
+}
+```",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'the Pope' to refer to the head of the Catholic Church is a substitution based on a specifiable association.""
+}",['metonymy'],['antonomasia'],['metonymy'],-1,[]
+249,[2],"Although the claims are intriguing, it is important to remember that after virtually every terror attack and mass shooting, friends and neighbors express shock that the culprit would be capable of carrying out such horrors, with some outright denying it to be possible.",Tropes,[],[],"['hyperbole', 'euphemism']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The statement 'friends and neighbors express shock' is ironic because it is often expected after such events. The use of 'express shock' is a euphemism for the actual reaction.""
+}","['irony', 'euphemism']","```json
+{
+  ""Properties"": [""euphemism"", ""irony"", ""metonymy""],
+  ""Explanation"": ""The use of 'express shock' and 'outright denying' are examples of euphemism. The statement 'friends and neighbors express shock that the culprit would be capable of carrying out such horrors' contains irony. The term 'the culprit' is a metonymy, representing the person responsible for the terror attack or mass shooting.""
+}
+```","['euphemism', 'irony', 'metonymy']","{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The text consists of a contradiction between the shocking events and the common response of denial and surprise, making it an example of irony.""
+}",['irony'],[],"['irony', 'euphemism']",-1,[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Tropes,"['synecdoche', 'metaphor']",['irony'],"['irony', 'synecdoche']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The statement 'the Jewish community won't let them burn crosses on their lawn' is meant to be understood ironically, as the Jewish community would not permit such a hateful act. The use of 'whine' is a euphemistic substitution for 'complain'.""
+}","['irony', 'euphemism']","{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The speaker is expressing sarcasm and mocking the idea of the Jewish community allowing the burning of crosses on their lawn. It is meant to be understood as the opposite of what is actually being said.""
+}",['irony'],"{
+  ""Properties"": [
+    ""irony""
+  ],
+  ""Explanation"": ""The speaker is saying one thing (that the Jewish community won't let them burn crosses on their lawn) while implying another (that the Jewish community wouldn't allow such a hateful act)""
+}",['irony'],"['synecdoche', 'metaphor']",['irony'],-1,[]
+258,[3 7],"The American Medical Association (AMA) should seriously consider changing their names since they are about as anti-American as it comes in their new demands for gun confiscation measures, which include guns and ammunition confiscation, as well as universal gun registration.",Tropes,['synecdoche'],['hyperbole'],"['irony', 'euphemism']","``` 
+{
+  ""Properties"": [""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'AMA' as a substitution for the American Medical Association is an example of metonymy. The phrase 'about as anti-American as it comes' is a hyperbolic overstatement. The term 'gun confiscation measures' is a euphemism for specific regulations.""
+}
+```","['metonymy', 'hyperbole', 'euphemism']","{
+  ""Properties"": [""irony"", ""metonymy"", ""euphemism""],
+  ""Explanation"": ""The text uses irony to sarcastically suggest the American Medical Association is 'anti-American', metonymy by using 'AMA' as a substitute for the organization, and euphemism by using 'changing their names' instead of 'changing their name' to soften the suggestion of rebranding the organization.""
+}","['irony', 'metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""Metonymy is used with 'The American Medical Association (AMA)' to refer to the organization by its name. Hyperbole is used with 'about as anti-American as it comes' to exaggerate the AMA's stance. Euphemism is used with 'changing their names' instead of 'reconsidering their identity.'""
+}","['metonymy', 'hyperbole', 'euphemism']",['synecdoche'],"['metonymy', 'hyperbole', 'euphemism']",-1,[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Tropes,['paradox'],['irony'],['metonymy'],"```JSON
+{
+  ""Properties"": [""antonomasia"", ""irony""],
+  ""Explanation"": ""The use of 'Obama' and 'Trump' as descriptive labels instead of proper names demonstrates antonomasia. The statement also uses irony as it says one thing but means another, highlighting the perceived reversal of actions between the two presidents.""
+}
+```","['antonomasia', 'irony']","{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The use of 'Obama' and 'Trump' as descriptive labels instead of their proper names.""
+}",['antonomasia'],"{
+  ""Properties"": [""antonomasia"", ""irony""],
+  ""Explanation"": ""The use of 'Obama' and 'Trump' as labels to characterize their respective actions qualifies as antonomasia. The statement also contains irony, as it says one thing (pardoning drug dealers and locking up ranchers) while actually meaning the opposite (pardoning ranchers and locking up drug dealers).""
+}","['antonomasia', 'irony']",['paradox'],"['antonomasia', 'irony']",-1,[]
+265,[3],"No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.",Tropes,[],[],['paradox'],"```No Catholic, whether or not he consults a priest, can declare for himself that his marriage in the Church was invalid, especially when—indeed because—he lacks canonical proof of invalidity.```
+
+{
+  ""Properties"": [""euphemism"", ""antonomasia""],
+  ""Explanation"": ""The use of 'he consults a priest' instead of 'they consult a priest' is a euphemism to avoid gendered language. The use of 'No Catholic' and 'marriage in the Church' are examples of antonomasia, referring to specific individuals and institutions using descriptive labels.""
+}","['euphemism', 'antonomasia']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'consults a priest' to refer to the sacrament of confession, which involves seeking guidance from a priest.""
+}",['metonymy'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'No Catholic' to refer to all Catholics, representing a part (individual Catholics) for the whole (all Catholics).""
+}",['synecdoche'],[],"['euphemism', 'antonomasia']",-1,[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Tropes,[],['hyperbole'],"['irony', 'metaphor']",,[],,[],,[],[],['metonymy'],-1,['metonymy']
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Tropes,['synecdoche'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Tropes,['metaphor'],['hyperbole'],[],,[],,[],,[],['metaphor'],['antonomasia'],-1,['antonomasia']
+296,[3],"There is only one Magisterium, he said, and bishops' conferences can only decide about pastoral questions.",Tropes,[],[],[],"```{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Magisterium' to refer to the teaching authority of the Roman Catholic Church.""
+}```",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Magisterium' to represent the Catholic Church as a whole is an example of metonymy, where a term is substituted with a related term based on a recoverable principle or association.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Magisterium' to refer to the Catholic Church's teaching authority.""
+}",['metonymy'],[],['metonymy'],-1,[]
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Tropes,['irony'],[],['metaphor'],,[],,[],,[],['irony'],"['irony', 'paradox', 'metaphor']",0,"['irony', 'paradox', 'metaphor']"
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""antonomasia"", ""hyperbole""],
+  ""Explanation"": ""The use of 'Jews' as a descriptive label for Jewish people is an example of antonomasia. The use of 'destroy Israel' is hyperbolic and exaggerated.""
+}","['antonomasia', 'hyperbole']","```json
+{
+  ""Properties"": [""metonymy"", ""antonomasia""],
+  ""Explanation"": ""The use of 'BDS' and 'Hamas' as metonyms for groups that want to destroy Israel, and the use of 'Jews' as an antonomasia to represent those who support Israel.""
+}
+```","['metonymy', 'antonomasia']","{
+  ""Properties"": [""metaphor"", ""antonomasia""],
+  ""Explanation"": ""The use of 'blood libels' is a metaphor, bringing a term from an 'alien' semantic field to express a point trenchantly. 'Jews' is used as an antonomasia, replacing a proper name with a descriptive label.""
+}","['metaphor', 'antonomasia']",[],"['antonomasia', 'hyperbole']",-1,[]
+311,[3],"The Vatican presents a choice: the world, or Christ.",Tropes,['synecdoche'],"['hyperbole', 'metonymy']",['metonymy'],,[],,[],,[],['synecdoche'],['metonymy'],-1,['metonymy']
+313,[3],"“The Prologue set this choice before us, the world or Our Lord, as mutually exclusive alternatives; we cannot remain neutral, but must belong wholly to the one or wholly to the other.”",Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+319,[3],It’s not coming back.,Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'It's not coming back' is a mild way of saying 'it's gone forever', serving as a euphemism to soften the impact of the statement.""
+}",['euphemism'],"```json
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'It’s not coming back' is a euphemism for something being lost or gone, minimizing the gravity of the situation.""
+}
+```",['euphemism'],"```json
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'It’s not coming back' is a euphemism for 'It's lost forever.'""
+}
+```",['euphemism'],[],['euphemism'],-1,[]
+320,[ 3 16],There will be no turning back.,Tropes,[],[],[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'turning back' is used to represent the idea of reversing a decision or action, making it a metaphor.""
+}",['metaphor'],timeout,[],timeout,[],[],['metaphor'],-1,[]
+325,[3],A caller to the Michael Savage radio show who says he was neighbors with Las Vegas gunman Stephen Paddock asserts that Paddock could not have carried out the massacre and that it was actually a “set-up”.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Las Vegas gunman Stephen Paddock' to refer to the person responsible for the Las Vegas massacre is a substitution based on recoverable association.""
+}
+```",['metonymy'],"```JSON
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Las Vegas gunman' as a substitution for Stephen Paddock fits the definition of metonymy.""
+}
+```",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""irony"", ""euphemism""],
+  ""Explanation"": ""The use of 'Las Vegas gunman' as a substitution for Stephen Paddock's name is a metonymy. The claim that the massacre was a 'set-up' is ironic in the context of the news report. The use of 'carried out the massacre' as a euphemism for committing the massacre.""
+}","['metonymy', 'irony', 'euphemism']",[],['metonymy'],-1,[]
+349,[4],"Recently, a video clip of anti-Semitic pastor Steve Anderson – making the claim that Jews have experienced such abuse because they have somehow been cursed – wound up on the personal Facebook page of South Florida Muslim leader Sofian Zakkout.",Tropes,[],[],"['hyperbole', 'metaphor']","``` 
+{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'anti-Semitic pastor' and 'Muslim leader' are metonymies, where the terms are chosen based on association. The phrase 'experienced such abuse' can be considered a euphemism, substituting a milder phrase for a more offensive one.""
+}
+```","['metonymy', 'euphemism']",timeout,[],"```{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'pastor' to refer to Steve Anderson is a substitution based on his role or association.""
+}```",['metonymy'],[],"['metonymy', 'euphemism']",-1,[]
+363,[4 9],Murdering infidels thus doesn’t contradict the spirit of Ramadan; it embodies it.,Tropes,['paradox'],['paradox'],[],,[],,[],,[],['paradox'],['paradox'],1,['paradox']
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Tropes,['metaphor'],['hyperbole'],['metaphor'],,[],,[],,[],['metaphor'],['irony'],-1,['irony']
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Tropes,['metaphor'],[],[],,[],,[],,[],[],['metaphor'],-1,['metaphor']
+370,[4],"If one considers and weighs this matter, one knows: one may not bless a union of two homosexual men or of lesbian women.",Tropes,[],[],['litotes'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'union' is a euphemism for marriage in this context.""
+}",['euphemism'],"``` 
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of the milder phrase 'union of two homosexual men or of lesbian women' is a euphemism for same-sex marriage.""
+}
+```",['euphemism'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of the phrase 'bless a union' instead of 'marry' is a euphemism to minimize the gravity of the topic of same-sex marriage.""
+}",['euphemism'],[],['euphemism'],-1,[]
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Tropes,['metaphor'],[],[],,[],,[],,[],[],[],1,[]
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Tropes,[],['metonymy'],[],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+392,[ 9 13  4],"“Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,” Carlson said Monday night, describing Google’s official response to his requests for comment, before challenging the company’s response: “But of course they were both.",Tropes,[],[],[],"{
+  ""Properties"": [""antonomasia"", ""irony""],
+  ""Explanation"": ""The use of 'Carlson' as a descriptive label for Tucker Carlson is an example of antonomasia. The statement 'Their only defense was that the activities they described were either non-partisan or were not officially taken by the company,' followed by 'But of course they were both,' reflects the use of irony.""
+}","['antonomasia', 'irony']","{
+  ""Properties"": [""metonymy"", ""irony""],
+  ""Explanation"": ""The use of 'the company' as a substitution for Google is an example of metonymy, and the contradiction between the official response and the actual activities described is an example of irony.""
+}","['metonymy', 'irony']","{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The quote from Carlson's statement demonstrates irony, as he highlights the contradiction between Google's official response and the reality of the situation.""
+}",['irony'],[],"['antonomasia', 'irony']",-1,[]
+396,[4],Democrats want to delay this vote until after the midterms because they believe they have a chance to retake the Senate as well as the House.,Tropes,['synecdoche'],[],[],,[],,[],,[],[],[],1,[]
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Tropes,['irony'],['irony'],['hyperbole'],,[],,[],,[],['irony'],['irony'],1,['irony']
+407,[4 8],Faggioli has no answer because what he is really arguing—the final beachhead of the neo-Catholic defense of their disintegrating regime—is that homosexuals in the hierarchy must remain in authority as an indispensable seawall against a “neo-traditionalist” storm surge.,Tropes,['metaphor'],['metaphor'],"['metonymy', 'metaphor']",,[],,[],,[],['metaphor'],"['allegory', 'metaphor']",0,"['allegory', 'metaphor']"
+417,[4],That’s why they had shots fired from the front and placed Oswald in the rear.,Tropes,['irony'],[],[],,[],,[],,[],[],['metonymy'],-1,['metonymy']
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Tropes,['antonomasia'],"['antonomasia', 'metaphor']",['simile'],,[],,[],,[],['antonomasia'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+446,[4],"To eradicate these, Muslims are required to wage war until there exists none of it in the world, and the only religion is that of Allah.",Tropes,['metaphor'],['hyperbole'],['hyperbole'],,[],,[],,[],['hyperbole'],"['synecdoche', 'metaphor']",-1,"['synecdoche', 'metaphor']"
+474,[4 9],This leftwing witch hunt has been ongoing since day one of Trump’s presidency in order to impair and impede his ability to get the job done.,Tropes,['metaphor'],['metaphor'],"['hyperbole', 'metaphor']",,[],,[],,[],['metaphor'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+476,[4],The former recognizes that an armed populace is a threat to any tyrant and pushes for gun control out of self-preservation.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The substitution of 'former' for 'tyrant' is chosen based on the recoverable association that a former tyrant would recognize the threat of an armed populace.""
+}
+```",['metonymy'],"```json
+{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'former' to refer to 'armed populace' is an example of synecdoche, where a part of something is used to represent the whole.""
+}
+```",['synecdoche'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'former' to refer to 'a threat to any tyrant' is a substitution based on the association of being previously mentioned.""
+}",['metonymy'],[],['metonymy'],-1,[]
+514,[5 7],"Instead of preaching out against sin, they advocate for that which God clearly condemns, thereby making war against God (Micah 3:5), which at length destroys our government, our country and our families.",Tropes,['hyperbole'],['metaphor'],['hyperbole'],,[],,[],,[],['hyperbole'],['metaphor'],-1,['metaphor']
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Tropes,['metaphor'],"['allegory', 'metaphor']",['allegory'],,[],,[],,[],['metaphor'],"['allegory', 'synecdoche', 'metaphor']",0,"['allegory', 'synecdoche', 'metaphor']"
+532,[5 8],"While we may never know what actually happened during the Las Vegas Massacre, the fact remains that the official story has been proven, time and time again, to be absolutely false and in fact nothing more than a pathetic attempt at a cover-up.",Tropes,['hyperbole'],[],['litotes'],,[],,[],,[],['hyperbole'],"['irony', 'hyperbole']",0,"['irony', 'hyperbole']"
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Tropes,"['irony', 'euphemism']","['irony', 'euphemism']",['irony'],,[],,[],,[],"['irony', 'euphemism']",['antonomasia'],-1,['antonomasia']
+595,[9 5],The four page email begins with Murillo claiming she and others at Google were engaged in non-partisan activities not designed to help any one candidate or another—only to undercut her own commentary in later passages in the emails by openly admitting the entire effort to boost Latino turnout using Google products with official company resources was to elect Clinton over Trump.,Tropes,[],[],['paralepsis/praeteritio'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The text contains irony as the speaker starts by claiming non-partisan activities but later admits to the true partisan nature of the efforts.""
+}",['irony'],"```json
+{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The text uses irony when claiming to be non-partisan while admitting to boosting Latino turnout to elect Clinton. It also uses euphemism with phrases like 'non-partisan activities' to downplay the actual political agenda.""
+}
+```","['irony', 'euphemism']","```JSON
+{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The use of euphemism is seen in the phrase 'boost Latino turnout' instead of 'support Clinton'. The irony is present in the contradiction between the initial claim of non-partisan activities and the later admission of the goal to elect Clinton over Trump.""
+}
+```","['irony', 'euphemism']",[],"['irony', 'euphemism']",-1,[]
+650,[5 8],She offered no evidence — nor was asked for any — to back her grave allegations.,Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""litotes""],
+  ""Explanation"": ""The use of 'nor was asked for any' downplays the seriousness of the situation.""
+}",['litotes'],"{
+  ""Properties"": [""litotes""],
+  ""Explanation"": ""The use of 'nor was asked for any' is an understatement to emphasize the lack of evidence.""
+}",['litotes'],"{
+  ""Properties"": [
+    ""litotes""
+  ],
+  ""Explanation"": ""The use of 'nor was asked for any' is an example of litotes, which is an understatement to emphasize the seriousness of the allegations.""
+}",['litotes'],[],['litotes'],-1,[]
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Tropes,[],[],['litotes'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of the phrase 'did not have confidence' instead of 'we doubted' is a mild substitution to soften the statement.""
+}",['euphemism'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Weiner laptop' as a substitution for the more direct 'laptop containing inappropriate material' is an example of metonymy. Additionally, the phrase 'did not have confidence' is a euphemism for 'doubted'.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'did not have confidence' is a euphemism for doubting or distrusting Strzok's decision.""
+}",['euphemism'],[],['euphemism'],-1,[]
+747,[9 5],"And finally, in a bizarre tweet, Greenwald opined, “I hope the story [maligning Assange] turns out true” – apparently because maintenance of the Guardian’s reputation is more important than Assange’s fate and the right of journalists to dig up embarrassing secrets without fear of being imprisoned.",Tropes,['metaphor'],['irony'],['metaphor'],,[],,[],,[],['metaphor'],['irony'],-1,['irony']
+748,[5 9],"Rather than being the reason for the Guardian violating basic journalistic standards and ethics, the paper’s hatred of Assange is a symptom of a deeper malaise in the Guardian and the wider corporate media.",Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],"['synecdoche', 'metaphor']",0,"['synecdoche', 'metaphor']"
+751,[5 9],"The Guardian has painted social media chiefly as a platform overrun by Russian trolls, arguing that this should justify ever-tighter restrictions that have so far curbed critical voices of the dissident left more than the right.",Tropes,['metaphor'],"['simile', 'metaphor']",['metaphor'],,[],,[],,[],['metaphor'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+804,[5],"Las Vegas police said Friday that the gunman who opened fire on a country music festival far below his hotel suite did not shoot a security guard six minutes before that rampage, contradicting a timeline they had offered earlier this week….",Tropes,['synecdoche'],[],['euphemism'],,[],,[],,[],['synecdoche'],['synecdoche'],1,['synecdoche']
+812,[5],This Guardian Fake News Story Proves That The Media Can't Be Trusted,Tropes,[],[],"['hyperbole', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The use of 'Fake News' as a metaphor to describe a biased or untrustworthy news story, and the hyperbolic statement 'The Media Can't Be Trusted'""
+}","['metaphor', 'hyperbole']","{
+  ""Properties"": [""metaphor"", ""irony"", ""euphemism""],
+  ""Explanation"": ""The use of 'Fake News' as a metaphor for false or misleading information, the irony of stating 'The Media Can't Be Trusted' in a news headline, and the euphemism of 'Fake News' instead of explicitly stating 'false information' or 'lies'.""
+}","['metaphor', 'irony', 'euphemism']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The use of 'Fake News' in the headline is ironic as it is commonly used to discredit legitimate news sources, and 'Can't Be Trusted' is a euphemism for 'unreliable'.""
+}","['irony', 'euphemism']",[],"['metaphor', 'hyperbole']",-1,[]
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Tropes,[],['irony'],"['euphemism', 'metaphor']",,[],,[],,[],[],[],1,[]
+852,[5],"On top of that, we have questions as to whether the body was even that of Stephen Paddock, given the fact that certain elements of the Paddock in the preliminary police report, which mentioned the autopsy, are apparently at odds with the Paddock of other documentation.",Tropes,['paradox'],[],[],,[],,[],,[],[],"['metonymy', 'paradox']",-1,"['metonymy', 'paradox']"
+863,[5],Capitol Police didn’t make arrests despite numerous red flags and then ‘inadvertently’ gave evidence to defense attorneys that was supposed to go to prosecutors,Tropes,['irony'],['irony'],[],,[],,[],,[],['irony'],['irony'],1,['irony']
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Tropes,['metonymy'],['irony'],[],,[],,[],,[],['metonymy'],['metonymy'],1,['metonymy']
+900,[6 9],His warning against making the resistance to jihad a “battle between us and the entire religion” is odd.,Tropes,[],['hyperbole'],"['hyperbole', 'metaphor']",,[],,[],,[],[],['irony'],-1,['irony']
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Tropes,['hyperbole'],"['irony', 'hyperbole']",['metaphor'],,[],,[],,[],['hyperbole'],"['irony', 'hyperbole']",0,"['irony', 'hyperbole']"
+953,[6],"And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”",Tropes,[],[],['hyperbole'],timeout,[],"```And it gets even worse: “The investigation, published Wednesday by the House Permanent Subcommittee on Investigations, further discloses secret efforts by top Obama administration officials to assure European countries they would receive a pass from U.S. sanctions if they engaged in business with Iran.”```
+
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'receive a pass from U.S. sanctions' is a euphemism for being exempt from U.S. sanctions.""
+}",['euphemism'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'top Obama administration officials' is a metonymy for specific individuals within the administration. The phrase 'receive a pass from U.S. sanctions' is a euphemism for bypassing or being exempt from the sanctions.""
+}","['metonymy', 'euphemism']",[],['euphemism'],-1,[]
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Tropes,[],['irony'],['euphemism'],,[],,[],,[],[],['irony'],-1,['irony']
+963,[6],"An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.",Tropes,[],[],[],"``` 
+        ""Properties"": [""synecdoche""],
+        ""Explanation"": ""The use of 'man' to represent an individual person.""
+```",['synecdoche'],"```An Arizona man who sold ammunition to the gunman in the deadliest mass shooting in modern U.S. history was disturbed that he didn't spot any suspicious signs about his one-time customer, the man's lawyer said Wednesday.```
+
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the gunman' to refer to the perpetrator of the mass shooting is a substitution with a term chosen based on a recoverable association.""
+}",['metonymy'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'man' to represent a person in general.""
+}",['synecdoche'],[],['synecdoche'],-1,[]
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Tropes,['hyperbole'],['hyperbole'],"['euphemism', 'metaphor']",,[],,[],,[],['hyperbole'],"['hyperbole', 'synecdoche']",0,"['hyperbole', 'synecdoche']"
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Tropes,[],[],[],"{
+  ""Properties"": [""irony"", ""metaphor""],
+  ""Explanation"": ""The speaker's statement is ironic as they express confusion over chaos and anarchy in a country known for discipline and the rule of law. The use of 'best example of discipline and the rule of law' is a metaphor to describe Germany.""
+}","['irony', 'metaphor']","{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The comparison of chaos, anarchy, and illegal border crossings to something viewed as good in Germany is a metaphor, creating a novel pairing to express a point trenchantly.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor"", ""irony""],
+  ""Explanation"": ""The use of 'chaos, anarchy, and illegal border crossings' to describe something being viewed as good in a country viewed as having discipline and the rule of law is a metaphor. The irony lies in the contradiction between the described chaos and anarchy and the perceived discipline and rule of law in Germany.""
+}","['metaphor', 'irony']",[],"['irony', 'metaphor']",-1,[]
+1040,[5 6 8],"The telling details of Archbishop Viganò’s testimony concerning Bergoglio’s friendly relations with McCarrick before he finally had to cut him loose—details conveniently ignored by Winters, Allen and Shea—are utterly devastating to any defense of Bergoglio.",Tropes,['euphemism'],['euphemism'],"['metonymy', 'euphemism', 'metaphor']",,[],,[],,[],['euphemism'],['euphemism'],1,['euphemism']
+1042,[6],Any purge would empty parishes and religious orders of the thousands of priests and bishops who lead healthy lives of service and faithful lives of celibacy.”,Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""synecdoche"", ""metonymy""],
+  ""Explanation"": ""The use of 'parishes' and 'religious orders' as parts to represent the whole of the church, and 'priests and bishops' as representatives of the clergy, reflects the properties of synecdoche and metonymy.""
+}","['synecdoche', 'metonymy']","{
+  ""Properties"": [
+    ""synecdoche"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'parishes and religious orders' to represent the entirety of the Catholic Church and the substitution of 'empty' for a more direct term like 'remove' or 'dismiss' qualifies as synecdoche and euphemism, respectively.""
+}","['synecdoche', 'euphemism']","{
+  ""Properties"": [
+    ""synecdoche"",
+    ""hyperbole"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'parishes and religious orders' to refer to the entire church, the exaggeration of 'thousands' of priests and bishops, and the use of 'lead healthy lives of service and faithful lives of celibacy' as a euphemism for their commitment to their church duties and celibate lifestyle.""
+}","['synecdoche', 'hyperbole', 'euphemism']",[],"['synecdoche', 'metonymy']",-1,[]
+1060,[5 6],That’s because he failed to conclude his article with one great big important point about former CIA Director Richard Helms.,Tropes,[],[],['hyperbole'],"{
+    ""Properties"": [""metonymy""],
+    ""Explanation"": ""The use of 'former CIA Director' as a substitution for the name 'Richard Helms' is an example of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The use of 'former CIA Director Richard Helms' to refer to a specific individual by a descriptive label""
+}",['antonomasia'],"```json
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'former CIA Director Richard Helms' as a substitution for the person himself, chosen according to his role or association.""
+}
+```",['metonymy'],[],['metonymy'],-1,[]
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'KBO' to refer to 'Kuiper Belt Object' is an example of metonymy, where a term is substituted with a related one based on a specific association.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'mission team' is used as a substitution for the specific individuals on the team and is chosen based on their association with the mission.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'mission team' to refer to the individuals guiding the mission is an example of metonymy, as it substitutes a specific term with a related one.""
+}",['metonymy'],[],['metonymy'],-1,[]
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Tropes,['antonomasia'],"['antonomasia', 'metaphor']",['metaphor'],,[],,[],,[],['antonomasia'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'parade their moral superiority' is a euphemism for 'display their moral superiority'.""
+}",['euphemism'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The term 'nativists' is used as a substitute for a more direct term like 'racists', making it an example of metonymy. The phrase 'parade their moral superiority' is a euphemism for 'show off their moral superiority'.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'nativists' is a euphemism for a group that is being described negatively.""
+}",['euphemism'],[],['euphemism'],-1,[]
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Tropes,[],[],"['hyperbole', 'metaphor']","{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The expression 'hack job' is used as a metaphor to describe the nature of the action, and 'purest sense of the term' is a euphemism to soften the severity of the situation.""
+}","['metaphor', 'euphemism']","{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'hack job' is a metaphor, 'purest sense of the term' is hyperbolic, and the phrase is a euphemism for a highly critical assessment.""
+}","['metaphor', 'hyperbole', 'euphemism']","{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'hack job' in this context is a metaphor, comparing the quality of the work to a crude and unskilled hacking job.""
+}",['metaphor'],[],"['metaphor', 'euphemism']",-1,[]
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Tropes,['hyperbole'],['hyperbole'],['hyperbole'],,[],,[],,[],['hyperbole'],['hyperbole'],1,['hyperbole']
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Tropes,[],['simile'],['hyperbole'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+1234,[7],"He was treated very unfairly by our government!""",Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'treated very unfairly' is a euphemism for some form of mistreatment or injustice.""
+}",['euphemism'],"{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'very unfairly' as a milder way to describe the mistreatment.""
+}",['euphemism'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'very unfairly' as a euphemism for 'unjustly' or 'badly'.""
+}",['euphemism'],[],['euphemism'],-1,[]
+1259,[7],Does Berg and the AMA support our military?,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Berg' as a substitution for 'Berghoff' and 'AMA' as a substitution for 'American Medical Association' are examples of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Berg' and 'the AMA' as substitutions for specific individuals or organizations who may support the military.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'the AMA' is used as a substitution for 'American Medical Association' based on an associated principle.""
+}",['metonymy'],[],['metonymy'],-1,[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The use of 'sham' and 'held it' can be seen as ironic, given the context of the statement. The term 'sham' is also a mild or polite phrase used to describe something deceitful or fraudulent, making it a euphemism for the situation.""
+}","['irony', 'euphemism']","{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The speaker is likely being sarcastic, as they seem to be accusing someone of knowing and holding onto the truth, while simultaneously expressing hope that the American people will see through the deception.""
+}",['irony'],"{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The speaker is expressing disbelief and sarcasm towards the situation, using irony to convey the opposite of what is meant. The use of 'held it' is a euphemism for 'covered it up'.""
+}","['irony', 'euphemism']",[],"['irony', 'euphemism']",-1,[]
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Tropes,[],[],['irony'],"``` 
+Properties: [""antonomasia"", ""hyperbole"", ""litotes""]
+Explanation: The use of ""freedom-loving American"" as a descriptive label for the reader is an example of antonomasia. The phrase ""happy is NOT what you should be feeling right now"" is a hyperbolic statement, and the use of ""NOT"" also creates litotes. 
+```","['antonomasia', 'hyperbole', 'litotes']","{
+  ""Properties"": [""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'freedom-loving American' substitutes for a specific group of people, 'happy is NOT what you should be feeling' is an overstatement, and the phrase 'defend them' serves as a euphemism for 'use force to protect them'.""
+}","['metonymy', 'hyperbole', 'euphemism']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The statement 'happy is NOT what you should be feeling right now' is an example of irony, as the speaker is expressing the opposite of what is expected. Additionally, the use of the euphemism 'happy' to downplay the gravity of the situation implies the use of euphemism.""
+}","['irony', 'euphemism']",[],"['antonomasia', 'hyperbole', 'litotes']",-1,[]
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Tropes,['antonomasia'],['antonomasia'],"['hyperbole', 'metaphor']",,[],,[],,[],['antonomasia'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Brett Kavanaugh nomination process' is a metonymy, as it substitutes a specific event for a larger concept. The phrase 'should concern every American' is a euphemism, as it minimizes the urgency of the situation.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Brett Kavanaugh' to refer to the entire nomination process is a form of metonymy, substituting the individual for the whole process.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The term 'Brett Kavanaugh nomination process' is used as a substitution for the broader concept of Supreme Court confirmation hearings, representing a specific part of the whole. Additionally, the use of 'should concern every American' is an exaggerated overstatement, indicating hyperbole.""
+}","['metonymy', 'hyperbole']",[],"['metonymy', 'euphemism']",-1,[]
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Tropes,['hyperbole'],[],['hyperbole'],,[],,[],,[],['hyperbole'],"['irony', 'hyperbole']",0,"['irony', 'hyperbole']"
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Tropes,['euphemism'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],"['euphemism', 'metaphor']",0,"['euphemism', 'metaphor']"
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Tropes,[],[],['metaphor'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'America’s mayors' as a substitute for local government leaders, based on a recoverable association.""
+}
+```",['metonymy'],"```json
+{
+  ""Properties"": [""metonymy"", ""irony""],
+  ""Explanation"": ""The term 'NRA priorities' is a metonymy, substituting the organization for the actual priorities or values it represents. The statement also uses irony, as it implies that the NRA prioritizes something other than public safety.""
+}
+```","['metonymy', 'irony']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The substitution of 'NRA priorities' for the actual people and groups opposing gun control.""
+}",['metonymy'],[],['metonymy'],-1,[]
+1350,[7],"As far as the labor market is concerned, “America First” has not translated to Americans First.",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'attempted to interfere' is a euphemism for 'interfered' in order to soften the statement.""
+}",['euphemism'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Russians' as a substitution for the Russian government or entities representing the Russian government.""
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'Russians' as a substitute for the Russian government or intelligence agencies is an example of metonymy. Additionally, the phrase 'interfere in our elections' is a euphemism for 'meddle in our elections'.""
+}","['metonymy', 'euphemism']",[],['euphemism'],-1,[]
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The term 'former CIA Director' and 'former Director of National Intelligence' are used as descriptive labels instead of their proper names, characterizing while renaming.""
+}",['antonomasia'],"```{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'former CIA Director Brennan' and 'former Director of National Intelligence Clapper' as substitutions for the individuals themselves is metonymy. The statement that their behavior is an attempt to distract attention from their failure to protect America is hyperbolic, as it is an exaggerated overstatement.""
+}```","['metonymy', 'hyperbole']","```json
+{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'former CIA Director Brennan' and 'former Director of National Intelligence Clapper' in the text are examples of metonymy, where specific individuals are represented by their titles. The phrase 'an attempt to distract attention from their failure to protect America' uses hyperbole to exaggerate the intensity and nastiness of Brennan and Clapper as a distraction tactic.""
+}
+```","['metonymy', 'hyperbole']",[],"['metonymy', 'hyperbole']",-1,[]
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Tropes,"['synecdoche', 'metaphor']","['irony', 'metaphor']",['metaphor'],,[],,[],,[],"['synecdoche', 'metaphor']","['synecdoche', 'metaphor']",1,"['synecdoche', 'metaphor']"
+1371,[7],"Bush-Obama ""open borders"" brought in tens of millions of Third World peoples, legally and illegally, to rising resistance from Americans forced to bear the economic and social costs.",Tropes,"['hyperbole', 'synecdoche']",[],"['hyperbole', 'metaphor']",,[],,[],,[],"['hyperbole', 'synecdoche']","['hyperbole', 'metonymy']",0,"['hyperbole', 'metonymy']"
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Tropes,"['euphemism', 'metaphor']",['antonomasia'],['metaphor'],,[],,[],,[],"['euphemism', 'metaphor']","['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",Tropes,[],[],['metaphor'],"```json
+{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'bring our soldiers back home' is a euphemism for withdrawing troops.""
+}
+```",['euphemism'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'soldiers' to represent the whole military force."" 
+}",['synecdoche'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'soldiers' to refer to all military personnel.""
+}",['synecdoche'],[],['synecdoche'],-1,[]
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Tropes,[],[],['hyperbole'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'West Virginia' to represent a larger geographic area or population brings to mind the specific location as a symbol for a broader issue.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'West Virginia' is used to represent a larger entity, which is the United States.""
+}",['metonymy'],"```And it’s a problem not just in West Virginia – it’s a national problem.```
+
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'West Virginia' is substituted for the larger entity of the United States, representing a national problem.""
+}",['metonymy'],[],['metonymy'],-1,[]
+1487,[8],"My acceptance from the reading of this document of the Church’s orthodox eucharistic doctrine was based in part on Pope Paul’s gracious and beautiful exposition, and in part on the sheer radical, mad unlikeliness of it.",Tropes,['hyperbole'],[],['metaphor'],,[],,[],,[],['hyperbole'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+1535,[8 8 5],This stunning tower audio once again provides proof that the entire narrative that claims that Stephen Paddock operated alone from the 32nd floor of the Mandalay Bay Hotel is complete nonsense and that authorities are actually actively covering up what really happened on that fateful night.,Tropes,['hyperbole'],[],['metaphor'],,[],,[],,[],['hyperbole'],['hyperbole'],1,['hyperbole']
+1589,[8 6],"In the tragic comedy of denial that every Islamic terrorism investigation inevitably becomes, the authorities are still hunting around for his motiv Yonathan Halimi, Sarah Lucy’s son, describes the killer’s family as being known for its anti-Semitism.",Tropes,['irony'],['paradox'],['irony'],,[],,[],,[],['irony'],"['irony', 'metaphor']",0,"['irony', 'metaphor']"
+1699,[8],"He said the group was a toothless, paper-shuffling exercise.",Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+2116,[8],The case of the Netherlands is downright bizarre; sisters so old that even the federation structures are breaking down.,Tropes,[],"['hyperbole', 'metaphor']","['hyperbole', 'metaphor']",,[],,[],,[],"['hyperbole', 'metaphor']","['hyperbole', 'metaphor']",1,"['hyperbole', 'metaphor']"
+2128,[8],"A litany of lives of total moral, physical, emotional devastation suffered by victims of homosexual clerics.",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""metaphor""
+  ],
+  ""Explanation"": ""The phrase 'total moral, physical, emotional devastation' uses metaphor to convey the severity of the suffering experienced by the victims.""
+}",['metaphor'],"{
+  ""Properties"": [
+    ""metaphor""
+  ],
+  ""Explanation"": ""The phrase 'litany of lives' is a metaphor comparing the extensive suffering to a recitation of religious prayers.""
+}",['metaphor'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'homosexual clerics' as a substitution for the Catholic Church, indicating a specific association between the two terms.""
+}",['metonymy'],[],['metaphor'],-1,[]
+2198,[16  6  8],"That’s all,” when he stated in his sworn account that Nuncio Pietro Sambi conveyed to McCarrick at the Nunciature in Washington the sanctions that had been imposed on him by Pope Benedict—sanctions Bergoglio ignored for five years until forced to act by a worldwide storm of outrage.",Tropes,['metaphor'],['metaphor'],"['hyperbole', 'metaphor']",,[],,[],,[],['metaphor'],['antonomasia'],-1,['antonomasia']
+2241,[8],"Because in those texts—above all Gaudium et Spes, Dignitatis Humanae, Unitatis Redintegratio, Nostra Aetate and Sacrosanctum Concilium—the Council verbally prostrated itself before “the modern world” and the practitioners of other religions while authorizing Bugnini (Secretary of the liturgical Preparatory Commission that drafted what would become Sacrosanctum Concilium) to begin demolition of the sacred liturgy that was the very foundation Catholic of orthodoxy and orthopraxis.",Tropes,['synecdoche'],['irony'],['metaphor'],,[],,[],,[],['synecdoche'],"['hyperbole', 'metaphor']",-1,"['hyperbole', 'metaphor']"
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'NASA' is used to represent the organization and the people involved in releasing the photograph.""
+}",['metonymy'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'NASA' to represent the organization as a whole.""
+}",['synecdoche'],"```{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of the phrase 'record-breaking' to describe a photograph taken from a great distance is a metaphor, as the photograph itself is not breaking any records.""
+}```",['metaphor'],[],['metonymy'],-1,[]
+2472,[8],"Ricki Seidman, a Democratic operative and former Clinton White House official who is now an advisor to Mrs. Ford, said in July (at roughly the same time as the letter was submitted) that she predicted a ""strategy"" forming to destroy Brett Kavanaugh.",Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Mrs. Ford' as a substitution for Christine Blasey Ford, chosen because of the association with her husband's last name.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Mrs. Ford' as a substitution for Christine Blasey Ford, using a term associated with her family role to refer to her.""
+}",['metonymy'],"{
+  ""Properties"": [""metaphor"", ""metonymy""],
+  ""Explanation"": ""The use of the term 'strategy' to refer to the plan to destroy Brett Kavanaugh is a metaphor, as well as a metonymy for the actual plan or actions being taken.""
+}","['metaphor', 'metonymy']",[],['metonymy'],-1,[]
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Tropes,[],[],['litotes'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'very young man' is a euphemism to minimize the gravity of the situation.""
+}",['euphemism'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'foolish mistake' is a euphemism for a more severe action."" 
+}",['euphemism'],"{
+  ""Properties"": [
+    ""euphemism""
+  ],
+  ""Explanation"": ""The phrase 'foolish mistake' is a euphemism for a more direct statement that the mistake was illegal or criminal.""
+}",['euphemism'],[],['euphemism'],-1,[]
+2584,[0 8],"In remarks after his address, reported by the German Catholic newspaper Die Tagespost, the cardinal made it clear what he thinks about the recently presented German idea of blessing homosexual unions, even if only in individual cases: “If a priest blesses a homosexual couple, then this is an atrocity at a holy site, namely, to approve of something that God does not approve of.”",Tropes,[],['hyperbole'],"['litotes', 'metaphor']",,[],,[],,[],[],['metaphor'],-1,['metaphor']
+2629,[ 8 13],ADVANTAGE AMERICANS,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The phrase 'Americans' is used to represent the entire country of America, making it an example of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""synecdoche"", ""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Americans' is a synecdoche for the entire American population, 'Americans' is also a metonymy for the people of America, and the phrase 'ADVANTAGE AMERICANS' can be seen as a euphemism for promoting American interests or values.""
+}","['synecdoche', 'metonymy', 'euphemism']","{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'ADVANTAGE AMERICANS' is a euphemism used to express support or preference for Americans without being confrontational or offensive.""
+}",['euphemism'],[],['metonymy'],-1,[]
+2670,[5 9 8 8],"“They [Guardian editors] knew that publishing this story would cause partisan warriors to excitedly spread the story, and that cable news outlets would hyperventilate over it, and that they’d reap the rewards regardless of whether the story turned out to be true or false.”",Tropes,"['metonymy', 'synecdoche']",[],"['metonymy', 'metaphor']",,[],,[],,[],"['metonymy', 'synecdoche']","['hyperbole', 'synecdoche', 'metonymy']",0,"['hyperbole', 'synecdoche', 'metonymy']"
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Tropes,['euphemism'],[],['metonymy'],,[],,[],,[],['euphemism'],['euphemism'],1,['euphemism']
+2897,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Tropes,['hyperbole'],['hyperbole'],['hyperbole'],,[],,[],,[],['hyperbole'],['hyperbole'],1,['hyperbole']
+2900,[13  8 13],Another student told my daughter that she and the first student and her adult friends are going to kill me and carve a satanic star in my chest and rip out my organs.,Tropes,['hyperbole'],[],[],,[],,[],,[],[],"['hyperbole', 'metaphor']",-1,"['hyperbole', 'metaphor']"
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'destroy the righteous with the wicked' is a metaphor, bringing the term 'destroy' into an alien semantic field to create a novel pairing that expresses a point trenchantly.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The use of 'destroy' in reference to the fate of the righteous is metaphorical, as it is not meant literally. Additionally, the term 'destroy' is a euphemism for the concept of punishment or harm."" 
+}","['metaphor', 'euphemism']","{
+  ""Properties"": [
+    ""metaphor""
+  ],
+  ""Explanation"": ""The text contains the metaphor 'destroy the righteous with the wicked', bringing together the abstract concept of destruction with the specific groups of people (the righteous and the wicked).""
+}",['metaphor'],[],['metaphor'],-1,[]
+3062,[ 9  9 13  9  9],"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",Tropes,[],[],['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The text contains a metaphor comparing the action of slaying the righteous with the wicked to the righteousness of the Judge of all the earth.""
+}",['metaphor'],"{
+  ""Properties"": [
+    ""metaphor"",
+    ""litotes""
+  ],
+  ""Explanation"": ""The use of 'the righteous should be as the wicked' is a metaphor, and the phrase 'far from thee' is an example of litotes as it understates the seriousness of the action.""
+}","['metaphor', 'litotes']","{
+  ""Properties"": [""metaphor"", ""rhetorical question""],
+  ""Explanation"": ""The use of 'righteous' and 'wicked' in a metaphorical sense, and the use of a rhetorical question to make a point.""
+}","['metaphor', '']",[],['metaphor'],-1,[]
+3090,[9 9 8],This provocation was the first of two major spring military exercises planned by the US and its reluctant South Korean satrap.,Tropes,['metaphor'],['metonymy'],"['metonymy', 'euphemism']",,[],,[],,[],['metaphor'],['metonymy'],-1,['metonymy']
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Tropes,['antonomasia'],"['irony', 'antonomasia']","['euphemism', 'metaphor']",,[],,[],,[],['antonomasia'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Tropes,"['antonomasia', 'synecdoche']",['metaphor'],"['hyperbole', 'metaphor']",,[],,[],,[],"['antonomasia', 'synecdoche']","['hyperbole', 'antonomasia', 'synecdoche']",0,"['hyperbole', 'antonomasia', 'synecdoche']"
+3249,[9],When Cain complains that being a “vagabond .,Tropes,[],[],['irony'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The text contains a metaphor by describing Cain as a 'vagabond', which represents his wandering and unsettled nature.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'vagabond' is used metaphorically to describe Cain as a wanderer or someone without a permanent home.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The text contains a metaphor in the phrase 'vagabond', comparing Cain to a wanderer.""
+}",['metaphor'],[],['metaphor'],-1,[]
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",Tropes,[],[],[],"``` 
+{
+  ""Properties"": [""antonomasia"", ""euphemism""],
+  ""Explanation"": ""The use of 'Ralston tweet' as a descriptive label for an event or action, and 'partisan motives' as a mild phrase for potentially more direct and offensive language, indicate the presence of antonomasia and euphemism in the text.""
+}
+```","['antonomasia', 'euphemism']","```json
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Ralston tweet' to represent the larger concept of Ralston's public statement.""
+}
+```",['metonymy'],timeout,[],[],"['antonomasia', 'euphemism']",-1,[]
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Tropes,['hyperbole'],[],['metaphor'],,[],,[],,[],['hyperbole'],['hyperbole'],1,['hyperbole']
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+3374,[4 9],"For Faggioli, not only would Bergoglio’s resignation be unthinkable, so also would a purge of the homosexual and pro-homosexual prelates Bergoglio and his Vatican henchmen have systematically enabled.",Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],"['synecdoche', 'metaphor']",0,"['synecdoche', 'metaphor']"
+3387,[ 8  9 13  8  9],"This will be a final victory over the enemies within and their apologists, such as Faggioli, who, in typical neo-Catholic style, imperiously scoffs at the notion of “a young clergy marked by personal sanctity but also by a fascination for a mythical Middle Ages” and busies himself defending an unsalvageable mass of corruption he dares to describe as “a Church-world relationship based on a principle of reality.”",Tropes,['metaphor'],['irony'],['hyperbole'],,[],,[],,[],['metaphor'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Tropes,['paradox'],[],[],,[],,[],,[],[],['irony'],-1,['irony']
+3407,[9],"Among the earliest indications Catholics had that the new pope had no intention of getting to the bottom of the priest-abuser problem was his appointment of the notorious homosexual, Monsignor Battista Ricca, as head of the Vatican Bank and the man in charge of his own residence, the Casa Santa Martha.",Tropes,['synecdoche'],['antonomasia'],['metaphor'],,[],,[],,[],['synecdoche'],['antonomasia'],-1,['antonomasia']
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Tropes,[],['euphemism'],['euphemism'],,[],,[],,[],['euphemism'],['euphemism'],1,['euphemism']
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Tropes,['hyperbole'],['irony'],['metaphor'],,[],,[],,[],['hyperbole'],"['irony', 'antonomasia', 'metaphor']",-1,"['irony', 'antonomasia', 'metaphor']"
+3436,[9],"Orban has seen the influence of George Soros and his organizations in Hungary and has openly criticized it and Soros, calling Soros a ""public enemy.""",Tropes,[],[],['hyperbole'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",Tropes,['allegory'],[],[],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+3611,[9],"Certainly not Corbyn or Assange, who threaten to disrupt the entrenched neoliberal order that is hurtling us towards climate breakdown and economic collapse.",Tropes,[],[],[],timeout,[],"{
+  ""Properties"": [""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The metaphor of 'hurtling us towards climate breakdown and economic collapse' creates a novel pairing to express the urgency of the situation. The use of 'threaten to disrupt' is hyperbolic as it exaggerates the potential impact of Corbyn and Assange.""
+}","['metaphor', 'hyperbole']","{
+  ""Properties"": [""metonymy"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'Corbyn' and 'Assange' as substitutes for their policies, the exaggerated language of 'hurtling us towards climate breakdown and economic collapse' and the use of 'disrupt' as a euphemism for potentially unwelcome change.""
+}","['metonymy', 'hyperbole', 'euphemism']",[],"['metaphor', 'hyperbole']",-1,[]
+3784,[10],Allahu Akbar usually means motive unknown.,Tropes,[],['irony'],"['irony', 'metonymy']",,[],,[],,[],[],['irony'],-1,['irony']
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Tropes,[],[],['hyperbole'],,[],,[],,[],[],['amphiboly'],-1,['amphiboly']
+3787,[10],“The insistence with which Francis defends Barros is mystifying.,Tropes,[],[],['hyperbole'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Tropes,['metonymy'],[],"['metonymy', 'metaphor']",,[],,[],,[],['metonymy'],"['antonomasia', 'synecdoche', 'paralepsis/praeteritio']",-1,"['antonomasia', 'synecdoche', 'paralepsis/praeteritio']"
+3790,[10],Over-excitement is a serious problem in the Muslim world.,Tropes,[],[],[],"{
+  ""Properties"": [""antonomasia"", ""hyperbole""],
+  ""Explanation"": ""The phrase 'the Muslim world' uses antonomasia to rename and characterize, and 'serious problem' uses hyperbole as an overstatement.""
+}","['antonomasia', 'hyperbole']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Muslim world' is substituted with 'serious problem', chosen according to the association of over-excitement as a problem within the Muslim world.""
+}",['metonymy'],"{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The phrase 'Over-excitement is a serious problem in the Muslim world' uses a metaphor by comparing over-excitement to a serious problem, employs hyperbole by exaggerating the seriousness of the issue, and is a euphemism for potentially more sensitive or controversial language."" 
+}","['metaphor', 'hyperbole', 'euphemism']",[],"['antonomasia', 'hyperbole']",-1,[]
+3791,[10],"“This is contrary to Divine Revelation,” Schneider further told LifeSite, adding that the “beautiful explanations” that are being presented to clergy and faithful as “discernment” and “pastoral accompaniment,” or a “change of paradigm” and “discovery of the subjective part of the truth,” when translated into “common sense language,” are tantamount to an allowance to sin.",Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Tropes,[],[],[],"```JSON
+        {
+            ""Properties"": [""metonymy""],
+            ""Explanation"": ""The term 'Obama' is used to represent the whole Obama administration or government.""
+        }
+```",['metonymy'],"```JSON
+{
+    ""Properties"": [""antonomasia"", ""euphemism""],
+    ""Explanation"": ""The use of 'Obama' as a descriptive label and the substitution of 'having an extramarital affair' for 'cheating' both demonstrate the properties of antonomasia and euphemism, respectively.""
+}
+```","['antonomasia', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Obama' as a substitution for the full administration, and the use of 'extramarital affair' instead of a more explicit phrase, qualify this text as having metonymy and euphemism.""
+}","['metonymy', 'euphemism']",[],['metonymy'],-1,[]
+3793,[11],"Personally, I trust very, very few politicians no matter the party that they claim.",Tropes,[],[],['litotes'],,[],,[],,[],[],['hyperbole'],-1,['hyperbole']
+3794,[11],"Awan told people Wasserman Schultz chose the name for his daughter, Leza — a Jewish name — and that the Florida congresswoman’s daughter regularly rode a horse that Awan kept at a boarding facility, sources with knowledge of the relationship told TheDCNF.",Tropes,[],['metaphor'],[],,[],,[],,[],[],"['synecdoche', 'metaphor']",-1,"['synecdoche', 'metaphor']"
+3795,[11],"The jury of six men and six women, including three immigrants, found the Mexican national not guilty of all murder and manslaughter charges and guilty only of felony possession of a firearm.",Tropes,[],['synecdoche'],['synecdoche'],,[],,[],,[],['synecdoche'],['synecdoche'],1,['synecdoche']
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Tropes,[],['irony'],['paralepsis/praeteritio'],,[],,[],,[],[],['paralepsis/praeteritio'],-1,['paralepsis/praeteritio']
+3797,[11],"How many defenseless (unarmed) people are robbed, assaulted, accosted, beaten up, raped, wounded, paralyzed, or killed in a year’s time?",Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'defenseless' as a euphemism for 'unarmed'""
+}",['euphemism'],"{
+  ""Properties"": [""synecdoche"", ""euphemism""],
+  ""Explanation"": ""The use of 'defenseless (unarmed)' is a synecdoche, representing the whole of 'defenseless people.' Additionally, 'Let go' instead of 'fired' is a euphemism.""
+}","['synecdoche', 'euphemism']","```{
+  ""Properties"": [""synecdoche"", ""euphemism""],
+  ""Explanation"": ""The use of 'defenseless' to refer to unarmed people is an example of synecdoche, where a part ('unarmed') is used to represent the whole. Additionally, the word 'robbed' is used as a euphemism for other violent actions, such as assault, rape, and murder.""
+}```","['synecdoche', 'euphemism']",[],"['synecdoche', 'euphemism']",-1,[]
+3798,[ 6  4 11],"In other words, unlike Lee Harvey Oswald, who had absolutely no motive to kill President Kennedy, the national security establishment did have motive, a powerful motive, the same motive that motivated the CIA and Pentagon to target other political leaders for regime change or assassination around that time, such as Mohamad Mossadegh, Jacobo Arbenz, Patrice Lumumba (who Kennedy admired), Fidel Castro, and Salvador Allende.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'national security establishment' as a substitute for specific government agencies is an example of metonymy. Also, the phrase 'regime change or assassination' is a euphemism for political coups and murders.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The term 'national security establishment' is used to substitute for the CIA and Pentagon, and the phrase 'target for regime change or assassination' is a euphemism for the actions taken against political leaders.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'Lee Harvey Oswald' to refer to the act of killing President Kennedy.""
+}",['synecdoche'],[],"['metonymy', 'euphemism']",-1,[]
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",Tropes,"['hyperbole', 'synecdoche']","['hyperbole', 'metonymy']",['irony'],,[],,[],,[],"['hyperbole', 'synecdoche']","['hyperbole', 'synecdoche']",1,"['hyperbole', 'synecdoche']"
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+3803,[ 8 11],"Of course, the reality is that bringing something like this up more than 30 years later is ridiculous, but this is the Democrats for you.",Tropes,[],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+3804,[ 6 11],"What is that great big important point that Shapira, who, according to his tagline on his article, “enjoys writing about people who have served in the military and intelligence communities,” left out of his article?",Tropes,['irony'],['irony'],[],,[],,[],,[],['irony'],"['irony', 'antonomasia']",0,"['irony', 'antonomasia']"
+3805,[11 13],"And Shapira, who “enjoys writing about people who have served in the military and intelligence communities” had an ethical duty to point out Helms’ proclivity for lying in his article.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Shapira' as a substitution for 'Shapiro' is a metonymy, as it substitutes a term chosen according to a recoverable association. The mention of 'served in the military and intelligence communities' is a euphemism for secret military operations that may not be publicly known."" 
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""synecdoche"", ""metaphor"", ""euphemism""],
+  ""Explanation"": ""The use of 'people who have served in the military and intelligence communities' represents a synecdoche, the comparison of writing to 'enjoying' is a metaphor, and the mention of 'point out' instead of 'expose' is a euphemism.""
+}","['synecdoche', 'metaphor', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'military' and 'intelligence communities' to represent the whole of people who have served in those fields is an example of metonymy.""
+}",['metonymy'],[],"['metonymy', 'euphemism']",-1,[]
+3806,[11  8],"The Guardian, reputedly once a great liberal newspaper, conducted a vendetta against Julian Assange.",Tropes,['metonymy'],[],"['antonomasia', 'metaphor']",,[],,[],,[],['metonymy'],['antonomasia'],-1,['antonomasia']
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",Tropes,[],['hyperbole'],['irony'],,[],,[],,[],[],['irony'],-1,['irony']
+3809,[12],The demonic forces we know are the driving force behind this supreme moment of heresy and destruction aren’t really looking at the undermining of marriage as their primary goal; they want to get at the Eucharist.,Tropes,['metaphor'],"['hyperbole', 'metaphor']","['hyperbole', 'metaphor']",,[],,[],,[],"['hyperbole', 'metaphor']","['hyperbole', 'metaphor']",1,"['hyperbole', 'metaphor']"
+3811,[ 9 12],"John Pilger — one of the few journalists to speak out on Julian Assange’s behalf, labels journalists who fail to stand in solidarity with Assange in exposing the behavior of the Establishment, “Vichy journalists — after the Vichy government that served ad enabled the German occupation of France.”",Tropes,"['metonymy', 'metaphor']",['antonomasia'],['metaphor'],,[],,[],,[],"['metonymy', 'metaphor']","['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+3814,[12],"It’s as if the U.S. Army stopped to interrogate every German soldier who crashed through the Ardennes Forest at the beginning of the Battle of the Bulge in 1944, to see if each one’s actions had anything to do with the German Army and Adolf Hitler’s war aims.",Tropes,['simile'],"['irony', 'simile']",['simile'],,[],,[],,[],['simile'],"['metonymy', 'simile']",0,"['metonymy', 'simile']"
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",Tropes,[],[],"['hyperbole', 'synecdoche']",,[],,[],,[],[],"['antonomasia', 'synecdoche']",-1,"['antonomasia', 'synecdoche']"
+3817,[12],"Soros, for his part, compared Orban unfavourably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930's -- when Hungary was allied with Nazi Germany -- and was more oppressive than Cold War Soviet occupation.",Tropes,['metaphor'],['hyperbole'],['metaphor'],,[],,[],,[],['metaphor'],"['hyperbole', 'simile']",-1,"['hyperbole', 'simile']"
+3819,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Tropes,[],[],['euphemism'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Tropes,[],[],"['hyperbole', 'euphemism']",,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Tropes,['metaphor'],['metaphor'],"['euphemism', 'metaphor']",,[],,[],,[],['metaphor'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+3824,[ 7 12],"This “I’m offended” or “his gun scares me” complaint is nothing but cover for little Nazis to try and deny another person their Natural, God-given liberty.",Tropes,"['hyperbole', 'metaphor']",['hyperbole'],['litotes'],,[],,[],,[],"['hyperbole', 'metaphor']","['hyperbole', 'metaphor']",1,"['hyperbole', 'metaphor']"
+3827,[12],"An enlightened, progressive school was suddenly transformed into something harking back to the days of Nazi Germany and the Nuremberg Laws.",Tropes,['hyperbole'],[],['metaphor'],,[],,[],,[],['hyperbole'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+3828,[12],There could be only one answer: communists.,Tropes,[],['hyperbole'],[],,[],,[],,[],[],[],1,[]
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,Tropes,['metaphor'],['metaphor'],[],,[],,[],,[],['metaphor'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+3832,[12],"Soros, for his part, compared Orban unfavorably to both the Nazis and the Communists, saying his rule evoked dark tones from the 1930’s — when Hungary was allied with Nazi Germany — and was more oppressive than Cold War Soviet occupation.",Tropes,['metaphor'],['hyperbole'],['metaphor'],,[],,[],,[],['metaphor'],"['simile', 'metaphor']",0,"['simile', 'metaphor']"
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Tropes,['irony'],"['irony', 'simile']",['simile'],,[],,[],,[],['irony'],"['irony', 'antonomasia', 'metaphor']",0,"['irony', 'antonomasia', 'metaphor']"
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,Tropes,[],['simile'],"['irony', 'simile']",,[],,[],,[],[],['metaphor'],-1,['metaphor']
+3837,[12  9],Exactly what this “special need” is that can constitute a Gestapo like police state surveilling its own citizens is a moving target that has already been proven to be abused over and over again.,Tropes,[],"['hyperbole', 'simile']",['metaphor'],,[],,[],,[],[],"['hyperbole', 'metaphor']",-1,"['hyperbole', 'metaphor']"
+3840,[12],"It is not an insignificant quirk of modern history, and one that tells us much about the nature of the current pontificate, that houses of contemplatives are always attacked by secularist regimes, from Henry VIII to the Soviet Union.",Tropes,"['litotes', 'metaphor']",['litotes'],['metaphor'],,[],,[],,[],"['litotes', 'metaphor']",['litotes'],0,['litotes']
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,Tropes,"['metonymy', 'simile']",['simile'],['simile'],,[],,[],,[],['simile'],"['simile', 'full_analogies']",0,"['simile', 'full_analogies']"
+3855,[13  8],"And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.",Tropes,[],[],[],"{
+  ""Properties"": [""metaphor"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The use of 'smears' as a metaphor for false accusations, 'long series' as hyperbolic language, and 'scare me and drive me out' as a euphemism for intimidation and coercion.""
+}","['metaphor', 'hyperbole', 'euphemism']","```And then, and then as no doubt was expected, if not planned, came a long series of false last-minute smears designed to scare me and drive me out of the process before any hearing occurred.```
+
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'smears' as a euphemism for untrue accusations or attacks.""
+}",['euphemism'],"```json
+{
+  ""Properties"": [""metaphor"", ""irony"", ""hyperbole"", ""euphemism""],
+  ""Explanation"": ""The text contains metaphors ('long series of false last-minute smears'), irony (false last-minute smears designed to scare me), hyperbole (designed to scare me and drive me out of the process), and euphemism (last-minute smears)""
+}
+```","['metaphor', 'irony', 'hyperbole', 'euphemism']",[],"['metaphor', 'hyperbole', 'euphemism']",-1,[]
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",Tropes,['euphemism'],[],['euphemism'],,[],,[],,[],['euphemism'],['euphemism'],1,['euphemism']
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Tropes,[],['euphemism'],['litotes'],,[],,[],,[],[],['euphemism'],-1,['euphemism']
+3895,[13],Impossible.,Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The word 'impossible' could be seen as a euphemism for a more direct and harsh statement, such as 'not going to happen'""
+}",['euphemism'],"{
+  ""Properties"": [""hyperbole""],
+  ""Explanation"": ""The use of the word 'impossible' is an exaggerated statement that is not meant to be taken literally.""
+}",['hyperbole'],"{
+  ""Properties"": [""hyperbole""],
+  ""Explanation"": ""The use of the word 'impossible' is an overstatement or exaggerated claim not meant to be taken literally.""
+}",['hyperbole'],[],['hyperbole'],-1,[]
+3937,[ 9  9 13],"Of course this would be of little interest to secular journalists, who have paid no mind to his habit of rewriting Catholicism, but the sex abuse crisis is something secular journalists are very interested in, a fact Bergoglio seems not to have understood.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""irony"", ""euphemism""],
+  ""Explanation"": ""Metonymy is used with 'secular journalists' to refer to journalists in general. Irony is present in the contrast between the lack of interest in rewriting Catholicism and the interest in the sex abuse crisis. Euphemism is present in the phrase 'paid no mind to his habit of rewriting Catholicism' instead of 'ignored'.""
+}","['metonymy', 'irony', 'euphemism']","{
+  ""Properties"": [""synecdoche"", ""irony"", ""euphemism""],
+  ""Explanation"": ""The use of 'secular journalists' to represent all journalists, the ironic statement about their lack of interest in rewriting Catholicism, and the euphemistic phrase 'paid no mind' indicate the use of these tropes.""
+}","['synecdoche', 'irony', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""irony""],
+  ""Explanation"": ""The use of 'secular journalists' as a substitution for the broader secular world or society is an example of metonymy. The irony is present in the contrast between the lack of interest in rewriting Catholicism and the immense interest in the sex abuse crisis."" 
+}","['metonymy', 'irony']",[],"['metonymy', 'irony', 'euphemism']",-1,[]
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Tropes,['metaphor'],['simile'],['hyperbole'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Iranian parties' is used to refer to the entire country of Iran, representing the whole.""
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Iranian parties' is a substitution with a recoverable association to represent the whole of Iran.""
+}",['metonymy'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Iranian parties' is substituted for the broader concept of Iran as a whole, based on a recoverable or specifiable association.""
+}
+```",['metonymy'],[],['metonymy'],-1,[]
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Tropes,['synecdoche'],[],[],,[],,[],,[],[],[],1,[]
+3988,[ 8 13],They make sure that the Islamic instruction in these textbooks presents a picture of Islam that is so pristine and whitewashed that it sometimes crosses the boundary from mere pro-Muslim bias into outright Islamic proselytizing.,Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Tropes,[],[],['hyperbole'],,[],,[],,[],[],[],1,[]
+4019,[13],"Anti-jihadist activist Pamela Geller praised Orban for his honesty and wrote, ""At last, a politician who speaks the truth about the Muslim invasion of Europe.",Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Tropes,['euphemism'],[],['irony'],,[],,[],,[],['euphemism'],['irony'],-1,['irony']
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",Tropes,['hyperbole'],"['irony', 'antonomasia']",['irony'],,[],,[],,[],['hyperbole'],"['irony', 'synecdoche']",-1,"['irony', 'synecdoche']"
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",Tropes,['hyperbole'],['irony'],[],,[],,[],,[],['hyperbole'],['euphemism'],-1,['euphemism']
+4169,[13],This emphasis is repeated so often one might almost think there is a concern in Rome that the “fruitful” post-conciliar monastic life is in danger of fizzling out… for… some reason…,Tropes,['synecdoche'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+4205,[13],"While the 69-year-old Jewish man (wearing a kippah on his head) was coming out of the synagogue, heading for a bakery near 17 rue Pelleport in Paris 20 th, he was attacked by a 19-year-old man, of North African descent, who hit him on the body and on the head, knocked down, pulled by the hair and beaten while shouting ""Allah Akbar"".",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""synecdoche"",
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'the head' and 'the body' to represent the person being attacked can be considered a synecdoche, while the 'wearing a kippah on his head' and 'of North African descent' can be considered metonymy.""
+}","['synecdoche', 'metonymy']","{
+  ""Properties"": [
+    ""synecdoche"",
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'head', 'body', and 'hair' as parts representing the whole person is an example of synecdoche. The use of 'North African descent' and 'Allah Akbar' to represent the attacker is an example of metonymy.""
+}","['synecdoche', 'metonymy']","{
+  ""Properties"": [""metonymy"", ""antonomasia""],
+  ""Explanation"": ""The use of 'Jewish man' and 'wearing a kippah' to represent the victim's religious identity is an example of metonymy. The description of the attacker as 'of North African descent' is an example of antonomasia, as it replaces a proper name with a descriptive label.""
+}","['metonymy', 'antonomasia']",[],"['synecdoche', 'metonymy']",-1,[]
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Tropes,[],[],[],"```json
+{
+  ""Properties"": [
+    ""synecdoche"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'Muslim terrorist' represents a larger group of extremists, and the euphemism 'stabbed' is a substitution for the more violent act of 'attacked with a knife'.""
+}
+```","['synecdoche', 'euphemism']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Muslim terrorist' is a metonymy, as the term 'terrorist' is chosen according to the association with the action of stabbing. The phrase 'stabbed four people' is a euphemism for the violent act.""
+}","['metonymy', 'euphemism']","```json
+{
+  ""Properties"": [""synecdoche"", ""metaphor"", ""irony""],
+  ""Explanation"": ""The use of 'Muslim terrorist' to represent the whole group of Muslims, 'Allahu Akbar' as a metaphor for the action being an act of terrorism, and the irony of the situation being described as a 'terrorist' attack.""
+}
+```","['synecdoche', 'metaphor', 'irony']",[],"['synecdoche', 'euphemism']",-1,[]
+4236,[13  1],They then threatened to hang my 3-year-old and 1-year-old and kidnap my 14-year-old.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [
+    ""hyperbole"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'threatened to hang' and 'kidnap' are hyperbolic statements, exaggerating the severity of the threats. Additionally, the phrase 'hang my 3-year-old and 1-year-old' uses euphemism to substitute a milder phrase for a more offensive one.""
+}
+```","['hyperbole', 'euphemism']","``` 
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'hang' instead of 'kill' is a euphemism used to minimize the gravity of the situation.""
+} 
+```",['euphemism'],"```json
+{
+  ""Properties"": [""hyperbole"", ""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'threatened to hang' is hyperbolic, the term 'kidnap' is a metonymy for abduct, and the phrase 'let go' is a euphemism for being fired.""
+}
+```","['hyperbole', 'metonymy', 'euphemism']",[],"['hyperbole', 'euphemism']",-1,[]
+4263,[ 9 14  9],"With the leftist media entirely focused on the push to ban AR-15s and repeal the Second Amendment, practically no one noticed Louis Farrakhan's Saviours’ Day 2018 Address in which he told an approving audience that ""powerful Jews are my enemy,"" and ""white folks are going down,"" according to The Washington Examiner.",Tropes,['metonymy'],[],['hyperbole'],,[],,[],,[],['metonymy'],"['metonymy', 'antonomasia']",0,"['metonymy', 'antonomasia']"
+4267,[14],“If someone can get me this young man’s information I’ll get him a new #maga hat… SIGNED by #potus!!,Tropes,['metonymy'],['antonomasia'],[],,[],,[],,[],['metonymy'],['metonymy'],1,['metonymy']
+4270,[14],Long live the Fifth Estate!”,Tropes,"['irony', 'synecdoche']",['antonomasia'],[],,[],,[],,[],"['irony', 'synecdoche']",['antonomasia'],-1,['antonomasia']
+4278,[14],"In the months leading up to the vote, there had been other anti-Semitic incidents, including a tweet by Igor Sadikov, an elected representative of students in McGill’s faculty of arts, saying: “punch a zionist.”",Tropes,[],[],[],"```json
+{
+    ""Properties"": [""metonymy"", ""euphemism""],
+    ""Explanation"": ""The use of 'Zionist' as a substitution for 'Jewish person' is an example of metonymy. The phrase 'punch a zionist' is a euphemism for violence against Jewish people.""
+}
+```","['metonymy', 'euphemism']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Zionist' to represent the whole concept of Jewish people or supporters of Israel is an example of metonymy.""
+}",['metonymy'],timeout,[],[],"['metonymy', 'euphemism']",-1,[]
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Tropes,['hyperbole'],"['hyperbole', 'metaphor']",['hyperbole'],,[],,[],,[],['hyperbole'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+4287,[ 8  9 14],"If you don’t like President Trump and can’t understand how anyone could, look no further than the past week for an excellent example of what on Earth could’ve made a man promising to Drain the Swamp so popular.",Tropes,"['antonomasia', 'metaphor']","['antonomasia', 'metaphor']",['metaphor'],,[],,[],,[],"['antonomasia', 'metaphor']","['antonomasia', 'metaphor']",1,"['antonomasia', 'metaphor']"
+4292,[14],"The leaders of the Islamic Republic of Iran order their people to chant “Death to America” in mosques every Friday, and repeatedly vow that they will ultimately destroy the United States of America and the state of Israel.",Tropes,['hyperbole'],[],['hyperbole'],,[],,[],,[],['hyperbole'],"['hyperbole', 'metonymy']",0,"['hyperbole', 'metonymy']"
+4296,[14],"J Street ""Kapos"" May Un-Endorse Dem Rep Over ""Jewish Question""",Tropes,['irony'],[],['irony'],,[],,[],,[],['irony'],['antonomasia'],-1,['antonomasia']
+4302,[13 14],A Texas mother’s teenage son was allegedly attacked at a Whataburger for wearing a MAGA (Make America Great Again) hat.,Tropes,[],[],['metonymy'],,[],,[],,[],[],[],1,[]
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Tropes,"['allegory', 'irony']",['metaphor'],"['hyperbole', 'metaphor']",,[],,[],,[],"['allegory', 'irony']",['metaphor'],-1,['metaphor']
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Tropes,[],[],['irony'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+4315,[ 9 14],"Bishop Morlino does this in a moment when he is under heavy attack as a “hater” for defending the Church’s teaching on marriage—an attack, by the way, which prompted us here at The Remnant to join the fight to DEFEND BISHOP MORLINO last year.",Tropes,[],[],['metaphor'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+4318,[14],Kill the Messenger,Tropes,[],['amphiboly'],['metaphor'],,[],,[],,[],[],[],1,[]
+4320,[14],"Among the signs held by protesters in Chile last week were those reading, “Ni zurdos, ni tontos,” (Neither lefties nor stupid).",Tropes,['irony'],['irony'],['paradox'],,[],,[],,[],['irony'],['irony'],1,['irony']
+4329,[14],"Representatives work for us, we do not work for them.",Tropes,['metonymy'],[],[],,[],,[],,[],[],[],1,[]
+4334,[14],"Such circular “reasoning” would be amusing if it were not so emblematic of what one writer called “Kavanaugh Derangement Syndrome.""",Tropes,['irony'],"['irony', 'metaphor']",['irony'],,[],,[],,[],['irony'],['antonomasia'],-1,['antonomasia']
+4349,[14],The Last-Minute Character Assassination of Judge Kavanaugh,Tropes,['metaphor'],['metaphor'],"['hyperbole', 'metaphor']",,[],,[],,[],['metaphor'],['antonomasia'],-1,['antonomasia']
+4353,[ 7 14],"""For us, Hungary is first.",Tropes,[],[],[],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'Hungary' to represent its people or government, emphasizing the importance of the country."" 
+}",['synecdoche'],"{
+  ""Properties"": [""antonomasia"", ""euphemism""],
+  ""Explanation"": ""The phrase 'For us, Hungary is first' uses antonomasia by using the term 'Hungary' to stand in for the government or leadership of Hungary. It also uses euphemism by using the word 'first' to downplay the significance of Hungary in their priorities.""
+}","['antonomasia', 'euphemism']","{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The phrase 'For us, Hungary is first' replaces the proper name of a country (Hungary) with a descriptive label that characterizes while renaming.""
+}",['antonomasia'],[],['synecdoche'],-1,[]
+4359,[14],"JP: It could but I don’t believe it would be, because power respects power.",Tropes,[],[],['paradox'],,[],,[],,[],[],['metaphor'],-1,['metaphor']
+4366,[15],The authorities allowed him to commit the crime.,Tropes,[],[],['paradox'],,[],,[],,[],[],[],1,[]
+4367,[15],They want to preserve the FBI’s reputation.,Tropes,['metonymy'],[],[],,[],,[],,[],[],[],1,[]
+4368,[15],They don’t care to see Trump vindicated.,Tropes,[],[],[],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement 'They don’t care to see Trump vindicated' may be ironic depending on the context, as it could imply that the speaker doesn't want Trump to be vindicated even though they are saying that others don't care about it.""
+}",['irony'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement seems straightforward, but the speaker subtly implies that there are people who would actually like to see Trump vindicated.""
+}",['irony'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement 'They don't care to see Trump vindicated' is ironic because the speaker implies that Trump will not be vindicated, while the actual meaning is that they do not want to see him vindicated.""
+}",['irony'],[],['irony'],-1,[]
+4370,[15],The media is very interested in racism.,Tropes,['hyperbole'],[],[],,[],,[],,[],[],[],1,[]
+4371,[15],The media is happy to talk about anti-Semitism.,Tropes,['metonymy'],[],[],,[],,[],,[],[],['paralepsis/praeteritio'],-1,['paralepsis/praeteritio']
+4372,[15],Here’s my translation:,Tropes,[],[],[],"{
+  ""Properties"": [""amphiboly"", ""euphemism""],
+  ""Explanation"": ""The phrase 'Here's my translation' could be interpreted as either 'I am providing a translation' or 'This is my interpretation', demonstrating amphiboly. Additionally, the use of 'translation' can be seen as a euphemism for 'interpretation' to soften the statement.""
+}","['amphiboly', 'euphemism']","{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'translation' may be a softer way of saying 'interpretation', which can be seen as a euphemism.""
+}",['euphemism'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The example text uses a metaphor by comparing the act of translation to the speaker's own interpretation or understanding.""
+}",['metaphor'],[],"['amphiboly', 'euphemism']",-1,[]
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Tropes,"['metonymy', 'antonomasia']",['metonymy'],[],,[],,[],,[],"['metonymy', 'antonomasia']","['metonymy', 'antonomasia']",1,"['metonymy', 'antonomasia']"
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",Tropes,['irony'],"['irony', 'simile']",['metaphor'],,[],,[],,[],['irony'],['metonymy'],-1,['metonymy']
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Tropes,[],[],['paradox'],,[],,[],,[],[],['metaphor'],-1,['metaphor']
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",Tropes,['hyperbole'],"['hyperbole', 'simile']","['hyperbole', 'simile']",,[],,[],,[],"['hyperbole', 'simile']","['hyperbole', 'simile']",1,"['hyperbole', 'simile']"
+4384,[16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Tropes,[],[],['hyperbole'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Tropes,"['irony', 'hyperbole', 'metaphor']","['irony', 'metaphor']",['hyperbole'],,[],,[],,[],"['irony', 'hyperbole', 'metaphor']",['irony'],0,['irony']
+4392,[16],"“No evidence…” Lie big, lie often, and when caught, keep lying.",Tropes,"['irony', 'hyperbole']",[],"['irony', 'hyperbole']",,[],,[],,[],"['irony', 'hyperbole']","['irony', 'hyperbole']",1,"['irony', 'hyperbole']"
+4395,[16],"The problem is in making a lobby of this tendency: a lobby of misers, a lobby of politicians, a lobby of masons, so many lobbies.",Tropes,[],['irony'],['metonymy'],,[],,[],,[],[],['metonymy'],-1,['metonymy']
+4400,[ 6 16],The world is so much bigger than Farrakhan and the Jewish question and his position on that and so forth.,Tropes,[],[],[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'the world' to represent a broader, more complex set of issues and topics.""
+}",['metaphor'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Farrakhan and the Jewish question' to represent larger concepts and issues is an example of metonymy, as specific terms are substituted for broader concepts or associations.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Farrakhan' as a substitute for the larger group or movement he represents.""
+}",['metonymy'],[],['metonymy'],-1,[]
+4401,[ 8 16  8],"Given the fallen human condition, such injustices are bound to occur in any judicial system, and everyone agrees that they should be ruthlessly remedied.",Tropes,['irony'],[],['euphemism'],,[],,[],,[],['irony'],['metaphor'],-1,['metaphor']
+4405,[16],So interesting!,Tropes,[],[],[],"{
+  ""Properties"": [
+    ""exclamation"",
+    ""hyperbole""
+  ],
+  ""Explanation"": ""The use of 'so' and the exclamation mark indicate an exaggerated statement not meant to be taken literally.""
+}","['metonymy', 'hyperbole']","```json
+{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The text appears positive on the surface, but the speaker may actually be uninterested or sarcastic, making it ironic. Additionally, the exclamation 'interesting' could be a euphemism used to politely convey disinterest.""
+}
+```","['irony', 'euphemism']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""The speaker says 'So interesting!' but the actual meaning may be the opposite, making it ironic. This could also be a euphemism for something the speaker finds uninteresting.""
+}","['irony', 'euphemism']",[],"['irony', 'euphemism']",-1,[]
+4408,[ 1 16],"This is more of the same old, same old going on, and it looks like it’s about to get a lot worse.",Tropes,['hyperbole'],[],[],,[],,[],,[],[],['hyperbole'],-1,['hyperbole']
+4417,[16],The time for “prudence” is long past.,Tropes,[],"['irony', 'euphemism']",['hyperbole'],,[],,[],,[],[],['metaphor'],-1,['metaphor']
+4419,[16],"Meanwhile, Democrat election officials are marking ballots themselves and “finding” boxes of them everywhere to try to get him to victory, and when confronted about that, Gillum says, “Every vote must be counted.”",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['hyperbole'],-1,['hyperbole']
+4427,[16],It is over.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement 'It is over' may be interpreted as a situation where the speaker is actually relieved or happy about the end of something, while the literal meaning may suggest sadness or finality.""
+}
+```",['irony'],"```json
+{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any of the listed tropes. It is a straightforward statement with no use of figurative language or rhetorical devices.""
+}
+```",[],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement 'It is over' may be an example of irony if the actual situation is not over or if the speaker means something different than the literal meaning of the words.""
+}",['irony'],[],['irony'],-1,[]
+4430,[16],You really don't need to know anything.,Tropes,['paradox'],[],[],,[],,[],,[],[],['paradox'],-1,['paradox']
+4431,[16],“I had no way to see into his mind.,Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],[],-1,[]
+4434,[ 8 16],No more games.,Tropes,[],['metaphor'],[],,[],,[],,[],[],[],1,[]
+4436,[16],“So what if this code is a gun?”,Tropes,[],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,Tropes,['simile'],[],[],,[],,[],,[],[],[],1,[]
+4440,[17],Once again the media are blaming the messenger instead of dealing with Islamic violence.,Tropes,[],['metaphor'],['metonymy'],,[],,[],,[],[],['metonymy'],-1,['metonymy']
+4448,[17],"@Theresa_May, don’t focus on me, focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The substitution of 'Radical Islamic Terrorism' for broader issues within the United Kingdom is an example of metonymy. The exaggeration of the phrase 'destructive Radical Islamic Terrorism' using the word 'destructive' is an example of hyperbole.""
+}","['metonymy', 'hyperbole']","``` 
+{
+  ""Properties"": [""metaphor"", ""metonymy""],
+  ""Explanation"": ""The use of 'Radical Islamic Terrorism' is a metaphorical representation of a larger problem, and 'Radical Islamic Terrorism' is a metonym for the larger issue.""
+}
+```","['metaphor', 'metonymy']","``` 
+{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Radical Islamic Terrorism' as a substitution for a more specific and potentially offensive term falls under metonymy, while the substitution of 'taking place' for a more direct verb like 'occuring' is a euphemism.""
+}
+```","['metonymy', 'euphemism']",[],"['metonymy', 'hyperbole']",-1,[]
+4452,[17],"Juanita Broaddrick, who accused Bill Clinton of rape — and who’s never ever recanted her story, in all the years she’s made the accusation — had a blunt message for Sen. Dianna Feinstein about the supposed “due process” that needs to be given to Brett Kavanaugh’s accuser, and it’s one that goes like this: Where was mine?",Tropes,['irony'],['irony'],[],,[],,[],,[],['irony'],"['rhetorical_question', 'paralepsis/praeteritio']",-1,"['rhetorical_question', 'paralepsis/praeteritio']"
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Tropes,['simile'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Tropes,['hyperbole'],['metaphor'],"['hyperbole', 'synecdoche']",,[],,[],,[],['hyperbole'],"['irony', 'hyperbole', 'synecdoche']",0,"['irony', 'hyperbole', 'synecdoche']"
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+4473,[ 8 17  8],"Like a spurned lover, the Guardian aimed its personal, petty, inhuman and craven attacks at a man whose work it once published and profited from.",Tropes,"['hyperbole', 'simile', 'metaphor']","['antonomasia', 'simile']","['synecdoche', 'simile']",,[],,[],,[],"['hyperbole', 'simile', 'metaphor']","['metonymy', 'simile']",0,"['metonymy', 'simile']"
+4477,[17],"Seemingly heedless of these hard facts, President Trump – who himself avoided national military service in the 1960’s – keeps beating the war drums over North Korea and needling its thin-skinned regime with naval exercises, over-flights, and intensifying bombast.",Tropes,"['irony', 'metaphor']","['irony', 'metaphor']","['irony', 'metaphor']",,[],,[],,[],"['irony', 'metaphor']","['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Tropes,[],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+4482,[ 9 17],"Throughout his book, Wills’ assurances that the Qur’an is not really as bad as “right-wing Islamophobes” say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny.",Tropes,['irony'],"['metaphor', 'paralepsis/praeteritio']","['hyperbole', 'metaphor']",,[],,[],,[],['irony'],['paralepsis/praeteritio'],-1,['paralepsis/praeteritio']
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,Tropes,['metaphor'],"['irony', 'metaphor']",['metaphor'],,[],,[],,[],['metaphor'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+4487,[ 8 17],"Irony of ironies, the latter-day Pharisees and legalists Francis sees around every corner are hard at work defending Amoris Laetitia at the very moment it is being cited by bishop after bishop as their sole authority for admitting public adulterers to Holy Communion---while Francis does nothing but approve.",Tropes,"['irony', 'hyperbole', 'paradox', 'paralepsis/praeteritio']",['irony'],"['irony', 'metaphor']",,[],,[],,[],"['irony', 'hyperbole', 'paradox', 'paralepsis/praeteritio']","['irony', 'antonomasia']",0,"['irony', 'antonomasia']"
+4650,[],"In the last months of his pontificate, Pope Benedict XVI had convened a meeting of all the apostolic nuncios in Rome, as Paul VI and St. John Paul II had done on several occasions.",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""synecdoche"",
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'apostolic nuncios' to refer to the whole group of individuals and the use of 'Rome' as a substitute for the Vatican are examples of synecdoche and metonymy.""
+}","['synecdoche', 'metonymy']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'the apostolic nuncios' as a substitute to refer to the entire diplomatic corps of the Catholic Church.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Pope Benedict XVI' is used as a substitute for the entire office of the Pope, following a recoverable association.""
+}",['metonymy'],[],['metonymy'],-1,[]
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+4767,[],- No new deaths -,Tropes,['litotes'],[],[],,[],,[],,[],[],['litotes'],-1,['litotes']
+4898,[],"From January 2009 through May 2011 the New VDAWDI, calculated using foreign-born and native-born employment figures, grew by 5.5%.",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'foreign-born and native-born employment figures' as a substitution to refer to the overall immigrant and native workforce.""
+}",['metonymy'],"```{
+  ""Properties"": [
+    ""synecdoche"",
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'foreign-born and native-born employment figures' represents a larger concept of overall employment growth, using parts to represent the whole (synecdoche) and substituting specific terms according to a recoverable principle (metonymy).""
+}```","['synecdoche', 'metonymy']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'foreign-born and native-born' to represent immigrants and citizens, respectively, is an example of metonymy.""
+}",['metonymy'],[],['metonymy'],-1,[]
+4932,[],Here’s a link for ya to do just that.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'link' is used to represent the concept of 'information' or 'resource', making it a metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'ya' as a substitution for 'you' is an example of metonymy, as it is a term chosen according to some recoverable association. Additionally, 'link for ya to do just that' is a euphemism for a task or assignment.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'ya' as a substitute for 'you' based on a recoverable association.""
+}",['metonymy'],[],['metonymy'],-1,[]
+5024,[],The two cities are home to a combined 12 million people.,Tropes,['metaphor'],[],[],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""litotes""],
+  ""Explanation"": ""The use of 'attorneys representing other clients' is a metonymy, as it substitutes 'attorneys' with a term chosen based on their association with their clients. The phrase 'have not had cooperation' is an example of litotes, as it understates the lack of cooperation.""
+}","['metonymy', 'litotes']","{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'attorneys representing other clients' instead of explicitly stating the names of the attorneys is an example of metonymy. The phrase 'cooperation from attorneys' is a euphemism for 'cooperation from the opposing side's legal representatives'.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"" : [""litotes""],
+  ""Explanation"" : ""The use of 'have not had cooperation' implies a lack of effort on the part of the attorneys, but is actually an understatement for the lack of cooperation.""
+}",['litotes'],[],"['metonymy', 'litotes']",-1,[]
+5223,[],Roughly speaking there is a 4-to-4 liberal to conservative ideological split on the court.,Tropes,[],[],['metaphor'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Tropes,[],[],[],"``` 
+{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Judge' as a substitution for a specific judge's name is an example of metonymy. Additionally, the phrase 'Let go' instead of 'fired' is a euphemism.""
+}
+```","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The substitution of 'Judge' for a specific judge's name based on a recoverable association or principle.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Judge' as a substitution for a specific judge's name represents metonymy. Additionally, the use of 'demanding' instead of a more forceful phrase like 'insisting' demonstrates euphemism.""
+}","['metonymy', 'euphemism']",[],"['metonymy', 'euphemism']",-1,[]
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Tropes,[],[],[],"{
+  ""Properties"": [""euphemism"", ""metaphor"", ""hyperbole""],
+  ""Explanation"": ""The use of the phrase 'Let go' instead of 'fired' is a euphemism. The metaphor 'All the world's a stage' is used to convey a message. The statement 'I'm so hungry, I could eat a horse' is an example of hyperbole.""
+}","['euphemism', 'metaphor', 'hyperbole']","{
+  ""Properties"": [""irony"", ""euphemism""],
+  ""Explanation"": ""Irony is present as the Tweet is using 'Happy 4th of July' while the content may not actually align with a typical celebration. Euphemism is present as the phrase 'great country' could be a polite substitution for a more contentious term like 'divided country'.""
+}","['irony', 'euphemism']","{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The tweet uses the metaphor 'racist terrorism' to compare and emphasize the severity of the situation."" 
+}",['metaphor'],[],"['euphemism', 'metaphor', 'hyperbole']",-1,[]
+5383,[],Jeff begins the interview by making clear his belief that there were multiple active shooters targeting different places in Las Vegas on the night of the attack.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'shooters' to represent the people who were shooting at different places in Las Vegas""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'shooters' is used to represent the individuals carrying out the shootings.""
+}",['metonymy'],"```{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'shooters' in place of the actual individuals involved in the shooting is an example of metonymy.""
+}```",['metonymy'],[],['metonymy'],-1,[]
+5438,[],I wanted them to know that I listened.”,Tropes,[],[],[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'I listened' as a metaphor for paying attention or acknowledging someone's feelings or needs.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'I listened' is used metaphorically to indicate understanding and empathy.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The use of 'I listened' is a metaphor for understanding or acknowledging, and the phrase 'I wanted them to know' is a euphemism for expressing concern or caring."" 
+}","['metaphor', 'euphemism']",[],['metaphor'],-1,[]
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Tropes,[],[],['metaphor'],,[],,[],,[],[],['irony'],-1,['irony']
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'The Atlanta Journal-Constitution' as a substitution for the people who write for the newspaper.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The use of 'Tribune Content Agency, LLC' as a metonym for the content being distributed, and the use of 'Distributed' as a euphemism for the process of publication.""
+}","['metonymy', 'euphemism']","{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'The Atlanta Journal-Constitution' as a substitute for the organization or editorial staff.""
+}",['metonymy'],[],['metonymy'],-1,[]
+6125,[],They know that.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'They' as a substitute for a specific group or organization aligns with the principle of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'They' as a substitute for a specific group or entity represents metonymy, where a term is chosen according to a recoverable association.""
+}",['metonymy'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'They know that' is a euphemism for a more direct statement, potentially to avoid offense or confrontation.""
+}",['euphemism'],[],['metonymy'],-1,[]
+6215,[],"The new nominees of bishops and many auxiliary bishops are, approximately, communist, Marxist, and socialist.",Tropes,['irony'],[],[],,[],,[],,[],[],['irony'],-1,['irony']
+6331,[],It is impossible to do all this without God’s assistance.,Tropes,[],[],['hyperbole'],,[],,[],,[],[],['paradox'],-1,['paradox']
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",Tropes,[],[],[],,[],,[],,[],[],[],1,[]
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Tropes,[],[],['hyperbole'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+6745,[],"O’Malley was not only a member of the pope’s “G9” group of close advisors; he was also the man who sought to clean up the abuse scandal in Boston after the departure of his predecessor, Cardinal Bernard Law, whose shifting of predator priests to new posts was exposed by the Boston Globe and chronicled in the movie “Spotlight.”",Tropes,['metonymy'],[],['metaphor'],,[],,[],,[],['metonymy'],"['antonomasia', 'synecdoche']",-1,"['antonomasia', 'synecdoche']"
+6799,[],"The footage goes how to show two men attempt to help a victim who had apparently been shot, eventually resorting to covering up the body after they realized it was simply too late.",Tropes,[],[],['metaphor'],,[],,[],,[],[],['euphemism'],-1,['euphemism']
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""metaphor""],
+  ""Explanation"": ""The use of 'the organization created by the same man who made the Clinton Foundation happen' is metonymy, as it substitutes the name of the man with a description. The use of 'heads up' is a metaphor, as it brings a term from a different semantic field to create a novel pairing.""
+}","['metonymy', 'metaphor']","{
+  ""Properties"": [""metonymy"", ""synecdoche""],
+  ""Explanation"": ""The use of 'Teneo Strategy' to represent the whole organization, and 'her ex-husband' to represent the individual who leads the organization, demonstrate metonymy and synecdoche respectively.""
+}","['metonymy', 'synecdoche']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Teneo Strategy' to refer to Doug Band, the man who created it, is a substitution based on a specific association.""
+}",['metonymy'],[],"['metonymy', 'metaphor']",-1,[]
+7167,[],"In his book Principles of Catholic Theology, Ratzinger proposed the question, “Should the Council be revoked?” and in response recommended the “razing of the bastions” of the Catholic Church in relation to the modern world:",Tropes,"['irony', 'metaphor']",['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],"['paradox', 'metaphor']",0,"['paradox', 'metaphor']"
+7211,[],Then Benedict allowed him to remain a cardinal.,Tropes,[],[],[],"``` 
+        {
+          ""Properties"": [""antonomasia""],
+          ""Explanation"": ""The use of 'Benedict' as a substitute for Pope Benedict XVI is an example of antonomasia.""
+        }
+```",['antonomasia'],"{
+  ""Properties"": [
+    ""antonomasia""
+  ],
+  ""Explanation"": ""The use of 'Benedict' as a substitute for 'Pope Benedict XVI' is an example of antonomasia.""
+}",['antonomasia'],"```{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The term 'cardinal' is substituted for 'clergy member' based on a recoverable association with the Catholic church.""
+}```",['metonymy'],[],['antonomasia'],-1,[]
+7402,[],"In 2006, then-Archbishop Bergoglio complained of a “media campaign” and claimed that the Grassi case was “different” from other accusations.",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+7408,[],"Looking carefully at the infamous “Who am I to judge” comment, this was clear early on.",Tropes,['irony'],[],['irony'],,[],,[],,[],['irony'],[],-1,[]
+7447,[],But Thomas makes the point that it is first a matter of metaphysics.,Tropes,[],[],[],"``` 
+{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The text uses the metaphor of 'metaphysics' to describe the nature of the point being made.""
+}
+```",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The text uses the metaphor 'metaphysics' to imply that the issue is deeply philosophical.""
+}",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'first a matter of metaphysics' is a metaphor, bringing a term from a different semantic field (metaphysics) to make a point about the nature of the situation.""
+}",['metaphor'],[],['metaphor'],-1,[]
+7758,[],Article posted with permission from Robert Spencer,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Robert Spencer' as a substitution for the article's author is an example of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The text uses 'Robert Spencer' to represent the whole article, as he is its author and his name is used to indicate permission for its posting.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The substitution of 'Robert Spencer' with 'author' is chosen according to the recoverable association of the article being posted with Robert Spencer's permission.""
+}",['metonymy'],[],['metonymy'],-1,[]
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,Tropes,[],[],[],"{
+  ""Properties"": [""metaphor"", ""euphemism""],
+  ""Explanation"": ""The use of the phrase 'go back that far' in reference to investigating Ford's allegations employs metaphorical language to convey the idea of going back in time. Additionally, the use of 'go back that far' can be seen as a euphemism for a thorough investigation."" 
+}","['metaphor', 'euphemism']",timeout,[],"{
+  ""Properties"": [""paralepsis/praeteritio"", ""metaphor""],
+  ""Explanation"": ""The use of special characters in place of actual words indicates that something is being communicated while denying saying it, which is a form of paralepsis. Additionally, the mention of the FBI 'going back' uses a metaphor to convey the idea of investigating events from the past.""
+}","['paralepsis/praeteritio', 'metaphor']",[],"['metaphor', 'euphemism']",-1,[]
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Tropes,[],['hyperbole'],['hyperbole'],,[],,[],,[],['hyperbole'],['irony'],-1,['irony']
+7818,[],But really it comes down to the British government.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'British government' is used as a substitute for the actual individuals or entities making decisions within the government.""
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The term 'British government' is substituted for the whole of the British governing body.""
+}",['metonymy'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'British government' is used to represent the whole entity of the government of the UK.""
+}
+```",['metonymy'],[],['metonymy'],-1,[]
+7975,[],Laws are for conservatives.,Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Tropes,[],[],['metaphor'],,[],,[],,[],[],[],1,[]
+8515,[],"I don't know that I would go quite that far, after all, the settlement does state that ""the government expressly acknowledges that non-automatic firearms up to .50-caliber – including modern semi-auto sporting rifles such as the popular AR-15 and similar firearms – are not inherently military.""",Tropes,['paralepsis/praeteritio'],[],['litotes'],,[],,[],,[],['paralepsis/praeteritio'],"['paradox', 'euphemism']",-1,"['paradox', 'euphemism']"
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Tropes,[],['allegory'],['allegory'],,[],,[],,[],['allegory'],"['allegory', 'metaphor']",0,"['allegory', 'metaphor']"
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],"['hyperbole', 'metaphor']",0,"['hyperbole', 'metaphor']"
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",Tropes,[],[],['metonymy'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+8743,[],"If papal clarification was ever needed on the long-debated issue of the intended meaning of Amoris Laetitia chapter VIII, such clarification has now been provided for the Church at large.",Tropes,['metonymy'],[],['metonymy'],,[],,[],,[],['metonymy'],['synecdoche'],-1,['synecdoche']
+9077,[],The president also pointed out that Donnelly had opposed tax cuts and joined with his fellow Democrats in attacking and voting against Justice Brett Kavanaugh's confirmation to the Supreme Court.,Tropes,[],[],['antonomasia'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+9235,[],He said he spoke with Trump to make sure that the president wasn’t actually issuing an order.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Trump' is used as a substitution for the president of the United States, according to the recoverable association between the term and the person."" 
+}",['metonymy'],"{
+   ""Properties"": [
+      ""metonymy""
+   ],
+   ""Explanation"": ""The term 'Trump' is being used as a substitution for the entire administration or government, based on the association with the president's name.""
+}",['metonymy'],"```{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Trump' to represent the whole of the presidency.""
+}```",['metonymy'],[],['metonymy'],-1,[]
+9329,[],Solemnly professed:,Tropes,[],[],[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'solemnly professed' creates a novel pairing that expresses a deep and serious commitment, using terms from an 'alien' semantic field.""
+}",['metaphor'],"{
+  ""Properties"": [""antonomasia""],
+  ""Explanation"": ""The text uses antonomasia by replacing a proper name with a descriptive label, 'Solemnly professed', to characterize while renaming.""
+}",['antonomasia'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'Solemnly professed' is a euphemism for taking vows or oaths, used to minimize the gravity of the commitment being made.""
+}",['euphemism'],[],['metaphor'],-1,[]
+9396,[],Also on communion between the communities.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'communion' is used to represent the interaction and connection between different communities.""
+}",['metonymy'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'communion between the communities' represents the relationship between the communities as a whole, using the term 'communion' to refer to the entire interaction.""
+}",['synecdoche'],timeout,[],[],['metonymy'],-1,[]
+9437,[],"Sr. Enrica Rosanna, the representative of the Vatican’s Congregation for Religious told them that the “two great challenges to our contemplative life” are “the challenge of globalization and the challenge of irrelevancy.” She warned the nuns against bringing vocations from other countries to keep their monasteries alive, dropping a hint about what now seems to be a particular obsession of the Congregation.",Tropes,[],[],['metonymy'],,[],,[],,[],[],['metonymy'],-1,['metonymy']
+9657,[],I don't remember how I got there.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [""amphiboly""],
+  ""Explanation"": ""The phrase 'I shot a burglar in my pyjamas' can be interpreted in two different ways, creating ambiguity in grammar.""
+}
+```",['amphiboly'],"{
+  ""Properties"": [""amphiboly""],
+  ""Explanation"": ""The phrase 'I shot a burglar in my pyjamas' can genuinely be construed to have two meanings, creating ambiguity in grammar.""
+}",['amphiboly'],"```json
+{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'got there' metaphorically implies reaching a certain state or situation without explicitly stating it.""
+}
+```",['metaphor'],[],['amphiboly'],-1,[]
+9674,[],"Hannity asks, ""Why are people willing to throw out due process, equal justice under the law and the presumption of innocence?""",Tropes,[],[],[],"{
+  ""Properties"": [""rhetorical question""],
+  ""Explanation"": ""The use of a rhetorical question is a common rhetorical device in news text, prompting the reader to consider the underlying message and engage with the topic.""
+}",[''],"{
+  ""Properties"": [""rhetorical question""],
+  ""Explanation"": ""The use of a rhetorical question to make a point or persuade the audience.""
+}",[''],"{
+  ""Properties"": [""rhetorical question""],
+  ""Explanation"": ""The question is asked not to receive an answer, but to make a point or create an effect.""
+}",[''],[],[''],-1,[]
+9681,[],"First, it was reported that Ford would answer questions, but only at a closed hearing and only after an FBI investigation had been completed.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy"", ""euphemism"", ""paralepsis/praeteritio""],
+  ""Explanation"": ""The use of 'Ford' as a reference to Christine Blasey Ford, the person in question, is a metonymy. The phrase 'closed hearing' and 'FBI investigation' are euphemisms to describe the sensitive nature of the situation. The use of 'it was reported' while denying direct attribution is an example of paralepsis/praeteritio.""
+}","['metonymy', 'euphemism', 'paralepsis/praeteritio']","{
+  ""Properties"": [""synecdoche"", ""euphemism""],
+  ""Explanation"": ""The use of 'Ford' to refer to Christine Blasey Ford is an example of synecdoche. The phrase 'only after an FBI investigation had been completed' is a euphemism for delaying the questioning.""
+}","['synecdoche', 'euphemism']","{
+    ""Properties"": [
+        ""metonymy""
+    ],
+    ""Explanation"": ""The use of 'Ford' as a substitution for the person's full name or title is an example of metonymy.""
+}",['metonymy'],[],"['metonymy', 'euphemism', 'paralepsis/praeteritio']",-1,[]
+9712,[],His life before joining the caliphate was unremarkable.,Tropes,[],[],[],"```{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The phrase 'joining the caliphate' is used metaphorically to represent a significant change in the person's life, likening it to joining a powerful and influential group.""
+}```",['metaphor'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'joining the caliphate' as a metaphor for a significant change in the person's life.""
+}",['metaphor'],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'caliphate' represents a larger entity, in this case ISIS, as a part of the whole."" 
+}",['synecdoche'],[],['metaphor'],-1,[]
+9827,[],It will be addressed quickly and justly.,Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'addressed quickly and justly' is a euphemism for 'punished' in this context, minimizing the gravity of the action.""
+}",['euphemism'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'addressed quickly and justly' is a euphemism for some form of punishment or retribution.""
+}",['euphemism'],"```  
+{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'addressed quickly and justly' is a euphemism for 'punished swiftly and fairly'.""
+}
+```",['euphemism'],[],['euphemism'],-1,[]
+9866,[],But he is now a full-fledged member of the nuclear club.,Tropes,[],['metaphor'],[],,[],,[],,[],[],['metaphor'],-1,['metaphor']
+9939,[],"Janet Smith, Professor of Moral Theology at the Sacred Heart Major Seminary in Detroit, recently wrote: “The problem of clergy abuse cannot be resolved simply by the resignation of some bishops, and even less so by bureaucratic directives.",Tropes,[],['synecdoche'],[],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+9995,[],"The Pontifical Commission for the Protection of Minors lapsed in December, when its members’ terms expired, prompting concerns that the advisory body could be disbanded.",Tropes,[],[],['metonymy'],,[],,[],,[],[],"['synecdoche', 'metaphor']",-1,"['synecdoche', 'metaphor']"
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Tropes,['synecdoche'],[],['metonymy'],,[],,[],,[],['synecdoche'],['synecdoche'],1,['synecdoche']
+10086,[],"The region is an area NASA would also like to visit, preferably with a robot that would bring souvenir rock home to Earth for scientists to analyze directly in the laboratory.",Tropes,[],[],['metonymy'],,[],,[],,[],[],['synecdoche'],-1,['synecdoche']
+10124,[],"A spokesperson for Feinstein declined Fox News’ request to elaborate on the lawmaker’s statement, but there has been much speculation that she is referring to a secret letter that has been the subject of intrigue on Capitol Hill over the last few days.",Tropes,['metonymy'],['antonomasia'],[],,[],,[],,[],['metonymy'],['synecdoche'],-1,['synecdoche']
+10425,[],Whom do you consider to be the most corrupt Democrat Politician?,Tropes,[],[],['antonomasia'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+10442,[],"What size of bakery would you need to make 10,000 loaves of bread?… What if you wanted to make 50,000 loaves of bread an hour?",Tropes,['hyperbole'],['metaphor'],[],,[],,[],,[],['hyperbole'],['hyperbole'],1,['hyperbole']
+10448,[],Anybody?,Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The use of 'Anybody?' could be a euphemism for 'Does anyone have a question?'""
+}",['euphemism'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The literal meaning is asking if anyone is present, but the implied meaning is that nobody is actually there to respond.""
+}",['irony'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'Anybody?' could be a euphemism for 'Does anybody have a question?'""
+}",['euphemism'],[],['euphemism'],-1,[]
+10497,[],SAN DIEGO -- People on the Mexican side of the border could be seen climbing the fence near Border Field State Park Tuesday afternoon after part of the Central American migrant caravan arrived in Tijuana.,Tropes,[],[],['metonymy'],,[],,[],,[],[],"['metonymy', 'synecdoche']",-1,"['metonymy', 'synecdoche']"
+10658,[],Assange’s crime is to have broken a silence.,Tropes,['metaphor'],[],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Tropes,"['irony', 'metonymy']",['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],"['antonomasia', 'metaphor']",0,"['antonomasia', 'metaphor']"
+11157,[],"Debra Katz, the lawyer representing the woman accusing Brett Kavanaugh of sexual assault, has donated thousands of dollars to Obama, Hillary and the DNC!",Tropes,[],[],['irony'],,[],,[],,[],[],['irony'],-1,['irony']
+11361,[],Email This field is for validation purposes and should be left unchanged.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'email' is used to represent electronic communication as a whole.""
+}",['metonymy'],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'left unchanged' is a euphemism for 'not edited' or 'not filled in'""
+}",['euphemism'],"{
+  ""Properties"": [
+    ""metonymy"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The term 'Email' is used as a substitution for a broader concept of communication. Additionally, the phrase 'for validation purposes' is a euphemism for spam prevention.""
+}","['metonymy', 'euphemism']",[],['metonymy'],-1,[]
+11544,[],As to matters of purely ecclesiastical law such as this one the Church has always allowed for departures from traditional practice in cases of emergency or grave necessity.,Tropes,['metonymy'],"['simile', 'metaphor']",['synecdoche'],,[],,[],,[],['metonymy'],"['euphemism', 'synecdoche']",-1,"['euphemism', 'synecdoche']"
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'this site's Privacy Policy' as a substitution for the site itself is an example of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The use of 'agree' in relation to a non-literal concept, like a policy, creates a novel pairing that expresses a point trenchantly.""
+}",['metaphor'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The term 'this site' is used as a substitute for the specific name of the site, making it an example of metonymy. Additionally, 'Privacy Policy and Terms of Use' is a euphemism for the legal documentation that users must agree to.""
+}","['metonymy', 'euphemism']",[],['metonymy'],-1,[]
+11668,[],Judge Kavanaugh is being subjected to charges of a criminal nature that could not only deprive him of a seat on the Supreme Court for which he is otherwise eminently qualified.,Tropes,['irony'],[],[],,[],,[],,[],[],['hyperbole'],-1,['hyperbole']
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Tropes,['litotes'],[],[],,[],,[],,[],[],['litotes'],-1,['litotes']
+11846,[],"""St. Francis in Ecstacy"", Caravaggio, 1595",Tropes,[],[],[],"{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'St. Francis' to refer to the entire painting, where the part represents the whole.""
+}",['synecdoche'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text is a simple title and artist attribution, with no use of rhetorical tropes.""
+}",[],"{
+  ""Properties"": [""metaphor""],
+  ""Explanation"": ""The title of the painting uses a metaphor, comparing St. Francis to a state of ecstasy.""
+}",['metaphor'],[],['synecdoche'],-1,[]
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'SpaceX' is substituted for the full name 'Space Exploration Technologies Corp.' according to a recoverable association.""
+}",['metonymy'],"``` 
+""Properties"": [""synecdoche""],
+""Explanation"": ""The use of 'Cape Canaveral' to refer to the entire space launch facility.""
+```",['synecdoche'],"{
+  ""Properties"": [""metonymy"", ""euphemism""],
+  ""Explanation"": ""The term 'SpaceX' is used to represent the organization 'Space Exploration Technologies Corp', which is a form of metonymy. Additionally, the phrase 'launched a new sensor' is a euphemism for 'sent a new sensor into space'.""
+}","['metonymy', 'euphemism']",[],['metonymy'],-1,[]
+11936,[],America's Immigration Voice.,Tropes,[],['synecdoche'],['synecdoche'],,[],,[],,[],['synecdoche'],['synecdoche'],1,['synecdoche']
+12042,[],"The remarks, made in a February 6 talk in Slovakia, indirectly respond to new initiatives coming from Germany, especially from Cardinal Reinhard Marx and Bishop Franz-Josef Bode.",Tropes,[],[],[],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Germany' as a substitution for the German government or people, and 'Cardinal Reinhard Marx' and 'Bishop Franz-Josef Bode' as substitutions for the Catholic Church in Germany, demonstrates the use of metonymy.""
+}
+```",['metonymy'],"```{
+    ""Properties"": [""metonymy""],
+    ""Explanation"": ""The terms 'Germany', 'Cardinal Reinhard Marx', and 'Bishop Franz-Josef Bode' are used to represent the larger entities or concepts they are associated with.""
+}```",['metonymy'],"``` 
+{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Germany' to represent the new initiatives coming from the people mentioned""
+}
+```",['metonymy'],[],['metonymy'],-1,[]
+12244,[],"And the Pope is almost certain to ignore this heartfelt appeal, as he has ignored others who have respectfully questioned his departures from Catholic teaching.",Tropes,['irony'],['irony'],['irony'],,[],,[],,[],['irony'],['irony'],1,['irony']
+12371,[],The ever growing global list of Bishops and Cardinals that have preyed on /and or covered up the sexual abuse of minors and seminarians over the last 60 years continues to enrage the laity.,Tropes,['metonymy'],[],['synecdoche'],,[],,[],,[],['metonymy'],"['synecdoche', 'metaphor']",-1,"['synecdoche', 'metaphor']"
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Tropes,[],[],['metaphor'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+12475,[],"For though unpleasant, it is not unfair to say that if there was one desire common to Bernie Sanders, Ted Cruz and Donald Trump voters, it was be rid of the regime resting on top of all of us.",Tropes,['metaphor'],"['metaphor', 'paralepsis/praeteritio']",['metaphor'],,[],,[],,[],['metaphor'],"['synecdoche', 'metaphor', 'paralepsis/praeteritio']",0,"['synecdoche', 'metaphor', 'paralepsis/praeteritio']"
+12626,[],It did what it is designed to do.,Tropes,[],[],[],"{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'it did what it is designed to do' is a euphemism for 'it worked as intended'.""
+}",['euphemism'],"{
+  ""Properties"": [""synecdoche"", ""euphemism""],
+  ""Explanation"": ""The use of 'it' to represent a specific thing, and the use of 'designed to do' as a mild phrase instead of 'meant to do' indicates the presence of synecdoche and euphemism in the text.""
+}","['synecdoche', 'euphemism']","{
+  ""Properties"": [""euphemism""],
+  ""Explanation"": ""The phrase 'it did what it is designed to do' could be a euphemism for 'it failed' or 'it did not meet expectations'.""
+}",['euphemism'],[],['euphemism'],-1,[]
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Tropes,['irony'],[],[],,[],,[],,[],[],"['hyperbole', 'synecdoche']",-1,"['hyperbole', 'synecdoche']"
+12847,[],"He was formally indicted by a grand jury on Wednesday on 34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder.",Tropes,[],[],[],"{
+  ""Properties"": [""synecdoche"", ""metonymy""],
+  ""Explanation"": ""The use of '17 counts' to represent the larger charges of murder and attempted murder is an example of synecdoche. The use of 'indicted' and 'grand jury' to represent the legal process and authorities involved is an example of metonymy.""
+}","['synecdoche', 'metonymy']","{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'grand jury' and 'Wednesday' as substitutes for the larger concepts they represent (legal system and a specific point in time) fits the definition of metonymy.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy"", ""hyperbole""],
+  ""Explanation"": ""The use of 'formally indicted' is a metonymy as it substitutes the formal legal process for the actual legal charges. The use of '34 counts, including 17 counts of premeditated first-degree murder and 17 counts of attempted first-degree murder' is hyperbolic as it exaggerates the severity of the charges.""
+}","['metonymy', 'hyperbole']",[],"['synecdoche', 'metonymy']",-1,[]
+12857,[],Florida law already mandates a three-day waiting period for the purchase of a handgun but a person as young as 18 can buy a rifle with no waiting period.,Tropes,[],[],[],"{
+  ""Properties"": [
+    ""synecdoche"",
+    ""euphemism"",
+    ""irony""
+  ],
+  ""Explanation"": ""The use of 'handgun' and 'rifle' as representative of all firearms is a form of synecdoche. The mention of a 'waiting period' for purchasing a handgun can be seen as a euphemism for gun control measures. The statement also contains irony, as it highlights the inconsistency of the law regarding the age and waiting period for purchasing different types of firearms."" 
+}","['synecdoche', 'euphemism', 'irony']","{
+  ""Properties"": [""synecdoche""],
+  ""Explanation"": ""The use of 'handgun' and 'rifle' to represent the broader category of firearms.""
+}",['synecdoche'],"{
+  ""Properties"": [
+    ""metonymy"",
+    ""euphemism""
+  ],
+  ""Explanation"": ""The use of 'rifle' as a substitution for 'firearm' is an example of metonymy. Additionally, the use of 'waiting period' as a more mild and polite phrase for the potentially more direct 'cooling off period' can be seen as a euphemism.""
+}","['metonymy', 'euphemism']",[],"['synecdoche', 'euphemism', 'irony']",-1,[]
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Tropes,[],[],['hyperbole'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+12935,[],"An organization that hands out the Emma Lazarus Award, named after a passionate Zionist, at its posh dinners is hosting attacks on the existence of Israel.",Tropes,[],['irony'],['metonymy'],,[],,[],,[],[],"['irony', 'antonomasia']",-1,"['irony', 'antonomasia']"
+12977,[],And yet it’s inescapable.,Tropes,[],[],[],"```json
+{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The speaker indicates that something is inescapable, but the use of 'and yet' suggests a contradiction, implying irony.""
+}
+```",['irony'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The statement 'And yet it's inescapable' suggests a contradiction between the literal and intended meaning.""
+}",['irony'],"{
+  ""Properties"": [""irony""],
+  ""Explanation"": ""The speaker is expressing a contradictory sentiment, stating that something is inescapable while also implying that it should be escapable.""
+}",['irony'],[],['irony'],-1,[]
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Tropes,[],[],[],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The term 'President Trump' is used as a substitution for the president himself, chosen according to association.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'President Trump' is used as a substitution for the President's full name, according to the recoverable association between the term and the person it represents.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'President Trump' is substituted with 'the right things,' which is chosen according to the association of him saying the right things in his tweets.""
+}",['metonymy'],[],['metonymy'],-1,[]
+13196,[],"As we shall see, the document is what I’ve called above a “chopping block”.",Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+13197,[],"Vultum dei quaerere made it clear that this juridical document would provide a set of legal criteria by which a monastery can be considered viable, religious life worthy of life, so to speak, and that those considered to have failed the test would be closed.",Tropes,['metaphor'],[],[],,[],,[],,[],[],"['synecdoche', 'metaphor']",-1,"['synecdoche', 'metaphor']"
+13225,[],"It is the Federation that now has the power to monitor for compliance with the rules, to report non-compliance to the Holy See, to make new foundations and, apparently, to “encourage” individual monasteries to “communicate” their goods.",Tropes,"['irony', 'metonymy']",['irony'],['metonymy'],,[],,[],,[],"['irony', 'metonymy']",['metonymy'],0,['metonymy']
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Tropes,['metaphor'],['metaphor'],['metaphor'],,[],,[],,[],['metaphor'],['metaphor'],1,['metaphor']
+13573,[],I am not a fan of Donald Trump.,Tropes,[],['euphemism'],[],,[],,[],,[],[],[],1,[]
+13660,[],"It is to wonder what this man would make of a comment by the great Dom Paul Delatte, the second abbot of Solesmes and successor to the refounder, Dom Gueranger, who wrote in his commentary on the Rule of St. Benedict:",Tropes,[],[],['paralepsis/praeteritio'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']
+14016,[],Other Hondurans are leaving the country to join the caravan of illegal immigrants attempting to illegally enter the United States against president Trump’s wishes.,Tropes,[],[],['metaphor'],,[],,[],,[],[],['irony'],-1,['irony']
+14038,[],And in Russia.,Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The term 'Russia' is used as a substitution for the people or government of Russia, chosen according to a recoverable association.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Russia' to represent the government or leadership of the country, as the term is often used in this way in news and political discourse.""
+}",['metonymy'],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Russia' to represent the government or people of Russia.""
+}",['metonymy'],[],['metonymy'],-1,[]
+14356,[],"The Justice Department, FBI and Office of the Director of National Intelligence are going through a methodical review and can’t offer a timeline for finishing, said the people, who weren’t authorized to speak publicly about the sensitive matter.",Tropes,['metonymy'],[],['metonymy'],,[],,[],,[],['metonymy'],['metonymy'],1,['metonymy']
+14484,[],"They noted Haig's LinkedIn page, which says he worked for Boeing in Mesa as a senior liaison engineer in their unmanned helicopter division from 2010 to 2013.",Tropes,[],[],[],"{
+  ""Properties"": [""metonymy""],
+  ""Explanation"": ""The use of 'Boeing' as a substitute for the company that Haig worked for represents metonymy, as it is chosen based on the specific association with his work.""
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Boeing' as a substitution for the company he worked for, according to a specifiable association.""
+}",['metonymy'],"{
+  ""Properties"": [
+    ""metonymy""
+  ],
+  ""Explanation"": ""The use of 'Boeing' as a substitute for the company is an example of metonymy.""
+}",['metonymy'],[],['metonymy'],-1,[]
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Tropes,[],[],['hyperbole'],,[],,[],,[],[],['hyperbole'],-1,['hyperbole']
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Tropes,"['irony', 'metonymy', 'paradox']",[],"['metonymy', 'metaphor']",,[],,[],,[],"['irony', 'metonymy', 'paradox']","['middle', 'forcefulness', 'clarity', 'correctness']",-1,"['middle', 'forcefulness', 'clarity', 'correctness']"
+15168,[],"“If code is speech, the constitutional contradictions are evident,” Wilson explained to WIRED when he first launched the lawsuit in 2015.",Tropes,"['irony', 'metaphor']",[],['metaphor'],,[],,[],,[],"['irony', 'metaphor']","['paradox', 'metaphor']",0,"['paradox', 'metaphor']"
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Tropes,[],[],['metaphor'],,[],,[],,[],[],['antonomasia'],-1,['antonomasia']

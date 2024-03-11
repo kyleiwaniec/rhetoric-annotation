@@ -1,0 +1,961 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_FT_Maj_gpt3.5_0.0_V3_2,property_FT_Maj_gpt3.5_0.0_V3_2
+47,[0],"â€œI donâ€™t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,â€ he emphasized later.",Modifying_clauses,['adjective'],['adjective'],['adjective'],True,[],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The sentence contains an adjective clause 'who commands a following of individuals who are learned and articulate' providing additional detail about Louis Farrakhan. It also includes a subordinate clause 'he emphasized later' which gives contextual information about when the statement was emphasized.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""]
+}
+  
+ 	","['adjective', 'subordinate']",False,"{
+  ""Properties"": [""adjective"", ""subordinate""]
+}
+
+ 	","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""subordinate""]
+}
+
+ 	","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The sentence contains a relative clause 'who commands a following of individuals' (adjective) and a subordinate clause 'he emphasized later' which suggests a causal connection.""
+}","['adjective', 'subordinate']",1,"['adjective', 'subordinate']",1.0,0.0,gpt picked up the second clause but did not assing the right porperty,"['adjective','noun']","[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': ' Adjective clauses are relative clauses using who, whom, that, which, and the given sentence contains such a clause using who twice.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence contains a relative clause 'in both Italian and English' that provides additional detail about the Cardinal's exposition.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence includes a relative clause using 'in both Italian and English', which functions as an adjective phrase modifying 'exposition'.""
+}",['adjective'],"{
+  ""Properties"": [""comparitive"", ""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a comparative clause ('in both Italian and English') and a subordinate clause ('I only find mention of the help of the sacraments in certain cases'). Additionally, it includes an adjective clause ('in certain cases').""
+}","['comparitive', 'subordinate', 'adjective']",False,"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a subordinate clause ('in both Italian and English') that suggests a causal connection, and an adjective clause ('in certain cases') providing additional detail.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The presence of the comparative clause 'in both Italian and English' indicates a comparison between the two languages.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The presence of the comparative clause 'in both Italian and English' indicates a comparison between the two versions of the Cardinal's exposition.""
+}",['comparitive'],0,['comparitive'],0.0,0.0,"gpt identifies wrong propety, and gpt attributes characteristics to sentence which are incorrect",['subordinate'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+83,[1],"A dark, impenetrable and â€œirreversibleâ€ winter of persecution of the faithful by their own shepherds will fall.",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'dark, impenetrable and \\"" 	, ""irreversible\"""" 	: [] 	, ""winter of persecution' uses a relative clause with adjectives ('dark', 'impenetrable', 'irreversible') to describe the 'winter of persecution'."" 	: 	{} 	}
+   ",['adjective'],"{
+  ""Properties"": [""adjective"", ""conditional""],
+  ""Explanation"": ""The clause 'irreversible' functions as an adjective modifying 'winter', and the entire sentence presents a conditional situation using the conditional adjective 'irreversible'.""
+}","['adjective', 'conditional']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'dark, impenetrable and irrevisible' functions as a relative clause using 'and' to connect multiple adjectives to describe the winter of persecution.""
+}",['adjective'],False,"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'of persecution of the faithful by their own shepherds' is a relative clause using the relative pronoun 'who'. It provides additional information about the noun 'winter'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The phrase 'of persecution of the faithful by their own shepherds' is a relative clause using the relative pronoun 'who'. It provides additional information about the noun 'winter'.""
+}",['adjective'],1,['adjective'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+199,[1],"â€œWhen Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.â€",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],True,[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'when' indicates that this is a modifying clause, suggesting a conditional relationship between the appointment of Kavanaugh to the Supreme Court and the consequence of it being too late for others to join the speaker.""
+}",['subordinate'],"{
+  ""Properties"": [""conditional"", ""subordinate""],
+  ""Explanation"": ""The clause 'When Kavanaugh is on the Supreme Court' is a subordinate clause indicating a temporal relationship. The clause 'it will be too late for others to join me' is a conditional clause, starting with 'it'.""
+}","['conditional', 'subordinate']","{
+  ""Properties"": [""conditional"", ""subordinate""],
+  ""Explanation"": ""The clause 'when Kavanaugh is on the Supreme Court' is a subordinate clause suggesting a causal connection, while the clause 'it will be too late for others to join me' is a conditional clause beginning with 'it'.""
+}","['conditional', 'subordinate']",False,"{
+  ""Properties"": [""subordinate"", ""adjective""]
+  ,
+  ""Explanation"": ""The sentence contains a subordinate clause 'when Kavanaugh is on the Supreme Court' suggesting a causal connection, and an adjective clause 'undermining our #4thAmendment right against unreasonable searches and seizures' providing additional detail about Kavanaugh.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'when Kavanaugh is on the Supreme Court' suggests a causal connection and uses the subordinating conjunction 'when'.""
+}",['subordinate'],"{
+  ""Properties"": [""conditional"", ""adjective""],
+  ""Explanation"": ""The sentence contains a conditional clause 'When Kavanaugh is on the Supreme Court' and an adjective clause 'undermining our #4thAmendment right against unreasonable searches and seizures.'""
+}","['conditional', 'adjective']",0,"['subordinate', 'adjective']",1.0,0.0,gpt got it right once,['subordinate'],"[{'Answer': 'yes', 'Explanation': ' The sentence contains the subordinating conjunction when, which introduces the subordinate clause When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures. Therefore, the sentence contains a subordinate clause.', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['subordinate']
+243,[2 6],Women everywhere should be furious.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""]
+}
+
+  											
+  	
+ 	
+ 											
+ 	   
+       
+       
+    
+  
+  ",['adjective'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any modifying clauses."" 
+}",[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence contains an adjective clause 'everywhere' that describes the location of women who should be furious.""
+}",['adjective'],False,"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence contains a relative clause 'everywhere' modifying the noun 'women'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence contains a modifying clause 'everywhere' which functions as an adjective modifying the noun 'women'.""
+}",['adjective'],1,['adjective'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no adjectives clauses', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],True,[],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause 'if the Jewish community won't let them burn crosses on their lawn.'""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The example contains a conditional clause starting with 'if': 'if they can go whine to the New York Times...'""
+}",['conditional'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The use of 'or' in the sentence sets up a comparison between two options, making it a comparative clause.""
+}",['comparitive'],False,"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause starting with 'if': 'if they can go whine to the New York Times some more'.""
+}",['conditional'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using 'than' to compare the proximity of two locations: 'as close to Saigon as Balimore is to Washington.'""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The clause 'they can go whine to the New York Times some more' uses the comparative conjunction 'more' to compare the action to a previous or hypothetical level of whining.""
+}",['comparitive'],0,['comparitive'],0.0,1.0,gpt is just completely wrong. It's made a soup of the sentence and property definitions,"['comparitive','subordinate']","[{'Answer': 'yes', 'Explanation': 'Explanation: The sentence contains the subordinating conjunction because, indicating a causal connection and making the clause subordinate.', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['subordinate']
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Modifying_clauses,['adjective'],['adjective'],['adjective'],True,['adjective'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'which are not explicitly ordained for hunting or for legitimate self-defense' suggests a causal explanation for why certain things cannot be consecrated or blessed.""
+}",['subordinate'],"{
+  ""Properties"": [""conditional""]
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause beginning with 'if' ('if...one could not consecrate a brothel'), indicating a conditional relationship.""
+}",['conditional'],False,"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause beginning with 'one could not' and 'which are not explicitly ordained'.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause starting with 'one could not' followed by 'unless' which suggests a condition for consecrating a brothel, blessing a concentration camp, or weapons not explicitly ordained for certain purposes.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause starting with 'one could not' indicating a hypothetical situation.""
+}",['conditional'],1,['conditional'],0.0,0.0,gpt finding things which aren't there,"['noun','adjective']","[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': 'Explanation: The sentence contains the adjective clause which are not explicitly ordained for hunting or for legitimate self-defense.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Modifying_clauses,['adjective'],['adjective'],['adjective'],True,['adjective'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'who'. It compares women who go against a Republican to women who go against a Democrat.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""]
+}",['comparitive'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence includes a relative clause 'who goes against a Republican' and 'who goes against a Democrat', making use of adjective clauses.""
+}",['adjective'],False,"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'who'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'who'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'who'.""
+}",['comparitive'],1,['comparitive'],1.0,0.0,gpt is just completely wrong. It's made a soup of the sentence and property definitions,['adjective'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': ' The sentence contains the phrase who goes against a Republican and who goes against a Democrat, which are examples of adjective clauses, so the answer is yes.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+311,[3],"The Vatican presents a choice: the world, or Christ.",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'or'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause with the conjunction 'or', comparing 'the world' and 'Christ'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The statement uses a comparative clause with the conjunction 'or' to present a choice between 'the world' and 'Christ'.""
+}",['comparitive'],True,"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'or', which presents a choice between 'the world' and 'Christ'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'or' to present a choice between 'the world' and 'Christ'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'or'.""
+}",['comparitive'],1,['comparitive'],1.0,0.0,gpt misinterprets the property,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+319,[3],Itâ€™s not coming back.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'than'.""
+}",['comparitive'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause with 'if' implied: 'If it's not coming back, then...'""
+}",['conditional'],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The clause 'It's not coming back' is a noun clause, used for indirect speech, paraphrasing, or incorporating detail.""
+}",['noun'],False,"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The statement 'It's not coming back' does not contain any modifying clauses."" 
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The statement 'It's not coming back' does not contain any modifying clauses."" 
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The statement 'It's not coming back' suggests a causal connection or subordination to a previous event or situation, indicating that something will not return as a result of something else.""
+}",['subordinate'],1,['subordinate'],1.0,0.0,gpt misaligned between property it assigns and explanation it gives.,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+320,[ 3 16],There will be no turning back.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The statement 'There will be no turning back' suggests a conditional clause with the implied condition 'if we take this action'.""
+}",['conditional'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example does not contain any modifying clauses. It is a standalone sentence without any subordinating, conditional, comparative, adjective, or noun clauses.""
+}",[],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The use of 'will' and 'be' indicates a conditional clause suggesting a consequence depending on a particular condition, in this case, the absence of turning back.""
+}",['conditional'],False,"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause with the use of 'will be' and 'no turning back', indicating a potential condition and its consequence.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause with the use of 'will be' and 'no turning back', indicating a potential condition and its consequence.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The sentence contains a conditional clause with the use of 'will be' and 'no turning back' indicating a potential condition and its consequence.""
+}",['conditional'],1,['conditional'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+363,[4 9],Murdering infidels thus doesnâ€™t contradict the spirit of Ramadan; it embodies it.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparitive clause using the conjunction 'as' to make a comparison between 'murdering infidels' and the spirit of Ramadan.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The use of 'as' in the clause 'it embodies it' creates a comparative relationship, suggesting that murdering infidels is equivalent to embodying the spirit of Ramadan.""
+}",['comparitive'],"{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The presence of 'it embodies it' indicates a comparative clause using the conjunction 'it.'"" 
+}",['comparative'],False,"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'it embodies it.'""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'it embodies it.'""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'it embodies it.'""
+}",['comparitive'],1,['comparitive'],1.0,0.0,gpt misinterprets the property,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heartâ€”a modern-day Athanasius standing against something so much worse than Liberius.,Modifying_clauses,['adjective'],['adjective'],['adjective'],True,['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The sentence contains a comparative clause ('so much worse than Liberius') and an adjective clause ('who has only the good of the Church in his heart').""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example contains a relative clause ('who has only the good of the Church in his heart') using the relative pronoun 'who', which makes it an adjective clause modifying the noun 'man'.""
+}",['adjective'],False,"{
+  ""Properties"": [""comparitive"", ""adjective""]
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}","['comparitive', 'adjective']",1,"['comparitive', 'adjective']",0.0,0.0,gpt doesn't provide explanation,"['adjective','noun']","[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': ' Adjective clauses are relative clauses using who, whom, that, which, and the given sentence contains the phrase who has only the good of the Church in his heart, which is an adjective clause.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+515,[5 8 4],"Wicked men in the sight of God are those who have the knowledge of what to do when it comes to the right, but over and over again, they turn their shoulders and choose the wrong, through tolerance and apathy Americans are bringing upon themselves destruction (Deuteronomy 30:19) that will not be reversed, which leaves no alternative as to why God judges and is judging America today (Deuteronomy 28:63).",Modifying_clauses,['adjective'],['adjective'],['adjective'],True,"['noun', 'subordinate', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective""]
+}
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ ","['subordinate', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}
+
+   ","['comparitive', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The text contains subordinate clauses with the use of subordinating conjunctions ('through', 'when', 'that'), adjective clauses ('that will not be reversed'), and noun clauses ('what to do when it comes to the right', 'why God judges and is judging America today').""
+}","['subordinate', 'adjective', 'noun']",False,"{
+  ""Properties"": [""subordinate"", ""adjective""]
+}
+
+ 	","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective""]
+}
+
+ 	","['subordinate', 'adjective']","{
+  ""Properties"": [""subordinate"", ""adjective"", ""noun""],
+  ""Explanation"": ""The text contains subordinate clauses with causal connections using 'when' and 'because', adjective clauses using 'which', and noun clauses for indirect speech using 'that'.""
+}","['subordinate', 'adjective', 'noun']",0,"['subordinate', 'adjective']",0.0,0.0,gpt misaligned between property it assigns and explanation it gives.,['subordinate'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': 'The sentence contains adjective clauses using who and which, so the answer is yes.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+659,[5],"â€œUnder these circumstances, we did not have confidence that Strzokâ€™s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,â€ the report said.",Modifying_clauses,['adjective'],['adjective'],['adjective'],True,"['noun', 'adjective']","{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'over' to compare two actions: prioritizing the Russia investigation over following up on the investigative lead.""
+}",['comparative'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'that' suggests a causal connection, making it a subordinate clause.""
+}",['subordinate'],"{
+  ""Properties"": [""comparative"", ""subordinate""],
+  ""Explanation"": ""The sentence contains a comparative clause 'over following up on the Midyear-related investigative lead discovered on the Weiner laptop' and a subordinate clause 'that Strzokâ€™s decision to prioritize the Russia investigation'.""
+}","['comparative', 'subordinate']",False,"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'that' suggests a causal connection between the two clauses, making it a subordinate clause.""
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'that' suggests a causal connection between the two clauses, making it a subordinate clause.""
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The sentence contains a subordinate clause ('that Strzokâ€™s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias') which suggests a causal connection between the circumstances and the lack of confidence.""
+}",['subordinate'],1,['subordinate'],0.0,1.0,gpt explanation is wrong,"['adjective','subordinate']","[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+848,[5],Judge: I donâ€™t understand why the witness is having such trouble with the question.,Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],True,['subordinate'],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a subordinate clause 'why the witness is having such trouble with the question', indicating a causal connection. It also includes an adjective clause 'who the witness is having such trouble with the question', providing more information about the witness.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""]
+  ,
+  ""Explanation"": ""The sentence contains an adjective clause 'why the witness is having such trouble with the question', which provides additional detail about the witness.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'the witness is having such trouble with the question' is a relative clause using the relative pronoun 'who' to provide additional information about 'the witness'.""
+}",['adjective'],False,"{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The sentence contains a noun clause ('why the witness is having such trouble with the question') used to paraphrase or incorporate detail.""
+}","['subordinate', 'noun']","{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The sentence contains a subordinate clause with the subordinating conjunction 'why', suggesting a causal connection. It also contains a noun clause used for indirect speech ('the witness is having such trouble with the question').""
+}","['subordinate', 'noun']","{
+  ""Properties"": [""subordinate"", ""noun""],
+  ""Explanation"": ""The sentence contains a subordinate clause ('why the witness is having such trouble with the question') which suggests a causal connection, and a noun clause ('the witness is having such trouble with the question') used for indirect speech.""
+}","['subordinate', 'noun']",1,"['subordinate', 'noun']",0.0,1.0,gpt explanation is correct,"['subordinate', 'noun']","[{'Answer': 'yes', 'Explanation': ' The sentence contains the subordinating conjunction why, indicating a causal connection, so it contains a subordinate clause.', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['subordinate']
+866,[6],A West Virginia school has come under fire for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The conditional property is present in the dependent clause 'for instructing junior high students to write the Islamic profession of faith ostensibly to practice calligraphy', which begins with the subordinating conjunction 'for.'""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The presence of the conditional clause 'to write the Islamic profession of faith ostensibly to practice calligraphy' is an example of a modifying clause indicating a conditional relationship.""
+}",['conditional'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of the subordinating conjunction 'for' suggests a causal connection, making this a modifying subordinate clause.""
+}",['subordinate'],False,"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The presence of the conditional clause 'to write the Islamic profession of faith ostensibly to practice calligraphy' indicates a conditional relationship, as it presents a hypothetical condition ('if instructed to write the Islamic profession of faith') and its potential outcome ('to practice calligraphy').""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The use of 'to' in 'to write' suggests a conditional clause, indicating that the action of writing the Islamic profession of faith is contingent on the purpose of practicing calligraphy.""
+}",['conditional'],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The use of 'for' suggests a conditional clause, indicating the purpose or reason for the action of instructing junior high students to write the Islamic profession of faith.""
+}",['conditional'],1,['conditional'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+900,[6 9],His warning against making the resistance to jihad a â€œbattle between us and the entire religionâ€ is odd.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The sentence includes a comparative clause using the conjunction 'against' and an adjective clause 'against making the resistance to jihad a battle between us and the entire religion'.""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the word 'against' to compare the warning against making the resistance to jihad to a 'battle between us and the entire religion'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The clause 'against making the resistance to jihad a 'battle between us and the entire religion'' uses a comparitive conjunction 'against' to compare the warning to the action of making the resistance to jihad a 'battle between us and the entire religion'.""
+}",['comparitive'],False,"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'against'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'against'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'against' to compare the warning against making the resistance to jihad to a 'battle between us and the entire religion'.""
+}",['comparitive'],1,['comparitive'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+929,[13  6],"Beyond pressuring our allies, consider these specific steps President Trump has taken against Russia: Where President Obama refused to provide serious weapons to the Ukrainians to help them defend themselves (his response was weakness on a pathetic scale), President Trump has approved the sale of offensive weapons to enable the Ukrainians to increase the cost of Russian aggression.",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],True,"['subordinate', 'adjective']","{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause with the conjunction 'where' to compare the actions of President Obama and President Trump.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The example contains a comparative clause using the conjunction 'where', comparing the actions of President Obama and President Trump in regard to their approach to arming the Ukrainians.""
+}",['comparitive'],"{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The text includes a comparative clause using the conjunction 'where' to draw a comparison between President Obama's actions and President Trump's actions.""
+}",['comparative'],False,"{
+  ""Properties"": [""comparitive"", ""adjective""]
+}
+
+ 	","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}
+
+ 	","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}
+
+ 	","['comparitive', 'adjective']",1,"['comparitive', 'adjective']",0.0,0.0,gpt doesn't provide explanation,['comparitive'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+956,[6],Nothing good can be said about his four years of sanctimony and incompetence.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparitive clause using the conjunction 'about' to compare 'his four years' with something else, suggesting a lack of positive attributes.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The comparative clause 'more than' is used to compare his four years to something else, suggesting a negative evaluation.""
+}",['comparitive'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The sentence contains a relative clause 'of sanctimony and incompetence' using the relative pronoun 'his' to modify 'four years'.""
+}",['adjective'],False,"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}
+
+  ",['adjective'],1,['adjective'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The presence of the conditional clause 'if' in 'if a shred of evidence' indicates a conditional relationship, suggesting a hypothetical situation that is dependent on certain conditions being met.""
+}",['conditional'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'without a shred of evidence' suggests a causal connection, indicating the reason for Judge Kavanaugh's comfort in being put through the ringer.""
+}",['subordinate'],"{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The clause 'without a shred of evidence' is a comparative clause using the conjunction 'without' to compare the lack of evidence to being put through the ringer.""
+}",['comparative'],False,"{
+  ""Properties"": [""conditional""],
+  ""Explanation"": ""The conditional clause 'if' is used in the question: 'if a shred of evidence'.""
+}",['conditional'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'in being put through the ringer without a shred of evidence' is a relative clause using 'being put through the ringer' to provide additional detail about 'Judge Kavanaugh's comfort'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'in being put through the ringer without a shred of evidence' is a relative clause modifying 'comfort'. It provides additional detail about the type of comfort Judge Kavanaugh has.""
+}",['adjective'],0,['adjective'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1040,[5 6 8],"The telling details of Archbishop ViganÃ²â€™s testimony concerning Bergoglioâ€™s friendly relations with McCarrick before he finally had to cut him looseâ€”details conveniently ignored by Winters, Allen and Sheaâ€”are utterly devastating to any defense of Bergoglio.",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'concerning Bergoglioâ€™s friendly relations with McCarrick before he finally had to cut him loose' is a relative clause using 'concerning' to provide additional detail about the testimony.""
+}",['adjective'],"{
+  ""Properties"": [""adjective"", ""subordinate""],
+  ""Explanation"": ""The sentence contains an adjective clause 'concerning Bergoglioâ€™s friendly relations with McCarrick' specifying which testimony is being discussed. It also contains a subordinate clause 'before he finally had to cut him loose' suggesting a causal connection between the friendly relations and the action of cutting him loose.""
+}","['adjective', 'subordinate']","{
+  ""Properties"": [""adjective""]
+}",['adjective'],False,"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'concerning Bergoglioâ€™s friendly relations with McCarrick before he finally had to cut him loose' is a relative clause using 'concerning' and 'before', making it an adjective clause modifying 'details'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'concerning Bergoglioâ€™s friendly relations with McCarrick before he finally had to cut him loose' is a relative clause using 'concerning' and 'before', providing additional details about the testimony.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'concerning Bergoglioâ€™s friendly relations with McCarrick before he finally had to cut him loose' is a relative clause using 'concerning' and provides additional detail about the testimony.""
+}",['adjective'],1,['adjective'],0.0,0.0,gpt explanation is wrong,['subordinate'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': ' Adjective clauses are relative clauses that modify nouns, and the given sentence contains an adjective clause modifying the noun details.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019' suggests a causal connection and uses the subordinating conjunction 'with'.""
+}",['subordinate'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example contains a relative clause 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.' The clause provides additional information about the mission team.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The example contains an adjective clause 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.' This clause uses the relative pronoun 'with' to modify the noun 'manoeuvre.'""
+}",['adjective'],False,"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019' suggests a causal connection and is introduced by the subordinating conjunction 'with'.""
+}",['subordinate'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The phrase 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019' is a relative clause modifying the noun 'manoeuvre'. It provides additional detail about the manoeuvre and is introduced by the relative pronoun 'with'.""
+}",['adjective'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019' suggests a causal connection and is introduced by the subordinating conjunction 'with'.""
+}",['subordinate'],0,['subordinate'],1.0,0.0,gpt explanation is wrong,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1105,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heartâ€”a modern-day Athanasius standing against something so much worse than Liberius.,Modifying_clauses,['adjective'],['adjective'],['adjective'],True,['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The statement 'something so much worse than Liberius' contains a comparative clause using the conjunction 'than'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using 'than' to make a comparison between the modern-day Athanasius and Liberius.""
+}",['comparitive'],False,"{
+  ""Properties"": [""comparitive"", ""adjective""]
+}
+
+ 	","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""],
+  ""Explanation"": ""The sentence contains a comparative clause using 'than' (worse than Liberius) and an adjective clause using 'who' (who has only the good of the Church in his heart).""
+}","['comparitive', 'adjective']","{
+  ""Properties"": [""comparitive"", ""adjective""]
+}","['comparitive', 'adjective']",1,"['comparitive', 'adjective']",1.0,0.0,gpt doesn't provide explanation,['adjective'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'yes', 'Explanation': ' Adjective clauses are relative clauses using who, whom, that, which, and the given sentence contains the phrase who has only the good of the Church in his heart, which is an adjective clause.', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",['adjective']
+1145,[9 8 6],To call them nativists and parade their moral superiority.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The phrase 'To call them nativists and parade their moral superiority' contains a relative clause using 'them' and 'their', making it an adjective modifying the noun 'nativists'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}
+
+  ",['adjective'],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The clause 'To call them nativists and parade their moral superiority' is a noun clause used for indirect speech or paraphrasing.""
+}",['noun'],False,"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'To call them nativists and parade their moral superiority' is a relative clause using 'to' as a subordinating conjunction and 'them' as the relative pronoun.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'To call them nativists and parade their moral superiority' functions as a relative clause using 'to' as a subordinating conjunction, modifying the noun phrase 'them'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""]
+}",['adjective'],1,['adjective'],1.0,0.0,gpt explanation is wrong,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'to'. The clause compares the speaker to others who have protested the same thing.""
+}",['comparitive'],"{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The adverb 'hardly' sets up a comparative clause, comparing Rich Penkoski to others who have protested the submission to the ideology.""
+}",['comparative'],"{
+  ""Properties"": [""comparative""],
+  ""Explanation"": ""The comparative clause 'hardly the first' is used to compare the subject to others who have protested the same thing.""
+}",['comparative'],False,"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the conjunction 'to'.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the word 'to'. It compares the submission to an ideology to other similar actions or instances.""
+}",['comparitive'],"{
+  ""Properties"": [""comparitive""],
+  ""Explanation"": ""The sentence contains a comparative clause using the word 'to' to compare the distance of Rich Penkoski's protest to others who have protested.""
+}",['comparitive'],1,['comparitive'],1.0,0.0,gpt explanation is wrong,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1234,[7],"He was treated very unfairly by our government!""",Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The phrase 'who was treated very unfairly by our government' is a relative clause modifying the pronoun 'he'. It provides additional information about the noun 'he'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The statement contains an adjective clause 'by our government' which provides additional detail about the treatment.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The phrase 'He was treated very unfairly' contains a relative clause using the relative pronoun 'who' that modifies the noun 'he.'""
+}",['adjective'],True,"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The statement 'He was treated very unfairly by our government' contains a noun clause used for indirect speech, paraphrasing the speaker's opinion.""
+}",['noun'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The given text contains an adjective clause using 'who' to provide additional detail about the subject 'He'.""
+}",['adjective'],"{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The statement contains a relative clause 'who was treated very unfairly by our government', which is an example of an adjective clause.""
+}",['adjective'],0,['adjective'],1.0,0.0,gpt finding things which aren't there,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1259,[7],Does Berg and the AMA support our military?,Modifying_clauses,[],[],[],True,[],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The question contains a noun modifying clause 'Berg and the AMA support our military' which is used for indirect speech and incorporating detail.""
+}",['noun'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The presence of 'and' suggests a coordination of two entities (Berg and the AMA) which implies a causal or coordinating relationship, making it a subordinate clause.""
+}",['subordinate'],"{
+  ""Properties"": [""adjective"", ""noun""],
+  ""Explanation"": ""The question contains noun modifying clauses for indirect speech ('Berg and the AMA support our military') and adjective modifying clauses for incorporating detail ('our military').""
+}","['adjective', 'noun']",False,"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The question contains a subordinate clause with the subordinating conjunction 'and', suggesting a causal connection between Berg, the AMA, and their support for the military.""
+}",['subordinate'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The question contains a subordinate clause with the subordinating conjunction 'and', suggesting a causal connection between Berg, the AMA, and their support for the military.""
+}",['subordinate'],"{
+  ""Properties"": [""noun""],
+  ""Explanation"": ""The sentence contains a noun clause 'Berg and the AMA support our military' used to report or paraphrase a statement or question.""
+}",['noun'],0,['subordinate'],1.0,0.0,gpt explanation is wrong,[],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no adjectives clauses', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Modifying_clauses,['subordinate'],['subordinate'],['subordinate'],True,['subordinate'],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a subordinate clause 'as Trump grandly proclaimed' which suggests a causal connection, and an adjective clause 'Americans no longer have to fear North Korea' providing additional detail.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""],
+  ""Explanation"": ""The clause 'As Trump grandly proclaimed' is a relative clause using 'as' to introduce additional detail about the proclamation.""
+}",['adjective'],"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence includes a subordinate clause with the subordinating conjunction 'as' (As Trump grandly proclaimed) and a relative clause using 'who' (Americans who no longer have to fear North Korea).""
+}","['subordinate', 'adjective']",False,"{
+  ""Properties"": [""subordinate"", ""adjective""],
+  ""Explanation"": ""The sentence contains a subordinate clause 'as Trump grandly proclaimed' which suggests a causal connection, and an adjective clause 'Americans no longer have to fear North Korea' which provides additional detail.""
+}","['subordinate', 'adjective']","{
+  ""Properties"": [""adjective""]
+}",['adjective'],"{
+  ""Properties"": [""subordinate""],
+  ""Explanation"": ""The clause 'Americans no longer have to fear North Korea and can sleep peacefully at night' suggests a causal connection to Trump's proclamation, indicating a subordinate relationship.""
+}",['subordinate'],0,"['subordinate', 'adjective']",1.0,0.0,gpt finding things which aren't there,['subordinate'],"[{'Answer': 'no', 'Explanation': 'no', 'Property': 'subordinate'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'conditional'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'comparitive'}, {'Answer': 'no', 'Explanation': 'no adjectives clauses are present in the given sentence', 'Property': 'adjective'}, {'Answer': 'no', 'Explanation': 'no', 'Property': 'noun'}]",[]

@@ -1,0 +1,318 @@
+[
+    {
+        "key": "Predication",
+        "values":
+        [
+            "active",
+            "stative",
+            "compound"
+        ],
+        "descriptions":
+        [
+            "voice verbs are where the subject is the person or thing performing some action. Example: 'Leon leads the men into battle.','He is running in the rain'",
+            "voice verbs are where the subject of the sentence is not the one doing the action: it will receive the action instead. Stative voice verbs will always have 'be' as a helping verb, and the main verb will never end in 'ing.' Examples: 'The men are led by Leon into battle.','He is wet.'",
+            "voice is where both active and passive voice is used about a signle subject. Example: 'The telegram was late but contained exciting news.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence contain _PROP_ voice?"
+    },
+    {
+        "key": "Subject choices",
+        "values":
+        [
+            "humans",
+            "rhetorical participants",
+            "things",
+            "abstractions",
+            "concepts",
+            "slot fillers"
+        ],
+        "descriptions":
+        [
+            "are any subjects which are people. The people can be either single individuals, proper names, or any type of group of people. Examples: 'Irene', 'a truck driver', 'voters', 'Christians', 'the Pope', 'Americans'",
+            "are subject choices where the subject is the writer or reader themsleves. Examples: 'I', 'you', 'we'",
+            "are objects that have a physical existence. Examples: 'The car swerved', 'the computer crashed'",
+            "is a category of subject choices which are name referents that cannot be pointed to easily. Examples: 'international trade', 'voting trends', 'athletic ability'",
+            "is a category of subject choices which are vague, general all-encompassing terms. Examples: 'fairness', 'justice', 'oppresion'",
+            "are dummy subjects used to make complete sentences. Examples: 'it' in 'it was raining'"
+        ],
+        "moreinfo": "more info",
+        "question":"First, determine the subjects of the sentence. Be careful not to confuse subjects with objects. Consider only subjects. Are any of the subjects of the following sentence _PROP_?"
+    },
+    {
+        "key": "Tense",
+        "values":
+        [
+            "present",
+            "past",
+            "future",
+            "progression"
+        ],
+        "descriptions":
+        [
+            "is a verb tense expressing something that takes place right now. Examples: 'Guerrilas take Afgan capital', 'I call upon the minister to resign!'",
+            "is a verb tense expressing something that already happened. Example: 'He told reporters'",
+            "is a verb tense expressing something that has yet to happen. Example: 'He will meet with her tomorrow.' ",
+            "is changing tense in the middle of a sentence for effect. Example: 'She was an extraordinary woman, ... but there is no need to canonize your memory. You stand tall.'"
+        ],
+        "moreinfo": "more info",
+        "question": "Does the following sentence contain _PROP_ tense?"
+    },
+    {
+        "key": "Aspect",
+        "values":
+        [
+            "simple",
+            "perfect",
+            "progressive",
+            "perfect progressive"
+        ],
+        "descriptions":
+        [
+            "is expressing a simple fact. Examples: 'Rover eats bones.', 'Rover ate a bone.'",
+            "is expressing a completed action. Exapmle: 'Rover has eaten a bone.'",
+            "is expressing an ongoing, habitual, or incomplete action. Example: 'Rover is eating a bone.'",
+            "is expressing the end of an ongoing action. Example: 'Rover has been eating a bone.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence utilize the _PROP_ aspect?"
+    },
+    {
+        "key": "Mood",
+        "values":
+        [
+            "indicative",
+            "subjunctive",
+            "exclamatory",
+            "interrogative",
+            "imperative",
+            "optative"
+        ],
+        "descriptions":
+        [
+            "denotes a mood of verbs expressing a simple statement of a fact. Example: 'Conservative Ben Shapiro told Fox news the verdict was horrifying.'",
+            "denotes a mood of verbs expressing what is imagined or hypothetical or possible. Example: 'They would be immediate targets should the US and South Korea attack the north.'",
+            "denotes a mood of verbs expressing surprise, strong emotion, or pain. Example: 'He generated her in His Blood and continually revives her with His Spirit!'",
+            "denotes a mood of verbs expressing questions. Example: 'Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?'",
+            "denotes a mood of verbs expressing commands or directives. Example: 'Women everywhere should be furious.'",
+            "denotes a mood of verbs expressing wishes. Example: 'For their sake, lets hope it works better than this years flu vaccine.'"
+        ],
+        "moreinfo":"more info",
+        "question":"Does the following sentence utilize the _PROP_ mood?"
+    },
+    {
+        "key": "Verb choices",
+        "values":
+        [
+            "negation",
+            "modality",
+            "nominalization",
+            "personification",
+            "multiplication"
+        ],
+        "descriptions":
+        [
+            "is the contradiction or denial of something.",
+            "is the language of possibilities with modifiers like 'might', 'likely', 'perhaps'",
+            "is the practice of turning verbs into nouns, also known as polyptoton. Example: given the sentence 'Irene Curie recieved the Nobel Prize.', the nominalized version would be 'Irene Curie was the recipient of the Nobel Prize.'",
+            "is endowing physical objects and abstractions with human-like agency. Example: 'The nation weeps for her lost sons.'",
+            "is multiplying the subjects or verbs in a single predication. Example: 'We shall pay any price, bear any burden, meet any hardship, oppose any foe to assure the survival of liberty.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Is the type of verb choice in the following sentence _PROP_?"
+    },
+    {
+        "key": "Modifying clauses",
+        "values":
+        [
+            "subordinate",
+            "conditional",
+            "comparitive",
+            "adjective",
+            "noun"
+        ],
+        "descriptions":
+        [
+            "are clauses that suggest a causal connection with subordinating conjunctions like: 'after', 'when', 'because', 'since', 'although', 'unless', 'while', 'until', 'whereas', 'if', 'as', 'just as'. Example: 'As Richard Neustadt said, political elites are constantly evaluating the president.'",
+            "are clauses that begin with 'if'. Example: 'If we don't call out hate speach, we perpetuate it.'",
+            "are clauses using conjunctions like: 'as', 'than'. Example: 'Some of these are as close to Saigon as Balimore is to Washington.'",
+            "are relative clauses using 'who', 'whom', 'that', 'which'. Examples: 'If a free society cannot save the many who are poor, it cannot save the few who are rich.', 'That man who just came in is drunk.'",
+            "are clauses often used for indirect speech or paraphrasing or incorporating detail. Example: 'The president said that he would consider the matter.'"
+        ],
+        "moreinfo": "A clause is a group of words that contains a subject and a predicate. Clauses used as modifiers, also known as subordinate or dependent clauses, describe another part of the sentence. They cannot stand alone as a sentence.",
+        "question":"Does the following sentence contain any _PROP_ clauses?"
+    },
+    {
+        "key": "Phrases built on verbs",
+        "values":
+        [
+            "participal phrases",
+            "inifinitive phrases"
+        ],
+        "descriptions":
+        [
+            "express being something, or having done something. Choosing to express an action as a participle rather than a verb changes the relation of that action to an agent. A participle phrase is an adjective phrase headed by a participle. Example: 'Waving a flag, John blows the whistle', 'Having boiled the water, I made tea.'",
+            "express the means by which something can be accomplished, usually by using the word 'to' - 'to do something, one must...'. The adverbial inifinitive can direct the interpretation of other actions in a sentence. Most infinitive phrases that function as adverbs tell us why the action occurred. Example: 'To send a letter, requires a stamp.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence contain any _PROP_?"
+    },
+    {
+        "key": "Phrases built on nouns",
+        "values":
+        [
+            "appositives",
+            "absolute construction",
+            "resumptive modifier",
+            "summative modifier"
+        ],
+        "descriptions":
+        [
+            "is built by renaming the noun they modify. Example: 'Botswana, a landlocked nation'",
+            "is related to the noun it modifies as a part or feature. Example: 'The driver, his hair invisible under his cap.'",
+            "is built by repeating the noun it modifies. Example: 'The letter from the president, a letter without precedent.'",
+            "is built on a noun summarizing or generalizing  preceding clause or phrase. Example: 'The committe voted 10 to 1, a departure from its usual practices.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence use any phrases built on nouns which can be catergorized as _PROP_s?"
+    },
+    {
+        "key": "Modifying phrases",
+        "values":
+        [
+            "prepositional phrases",
+            "single word modifiers",
+            "multiplying and embedding modifiers"
+        ],
+        "descriptions":
+        [
+            "modify the subject, verb, or adjective",
+            "are adjectives and adverbs",
+            "is using multiple modification words and phrases within a single sentence"
+        ],
+        "moreinfo": "Phrases are a group of words that lack either a subject, a predicate, or both.",
+        "question":"Does the following sentence utilize any _PROP_?"
+    },
+    {
+        "key": "Sentence architecture",
+        "values":
+        [
+            "left branching",
+            "middle branching",
+            "right branching",
+            "Periodic sentences",
+            "loose sentences"
+        ],
+        "descriptions":
+        [
+            "is a sentence that opens with modifying structures and so postpones its subject is said to branch to the left. Example: 'In the distance, above the noise of the crowd, I thought I could hear the sound of guns.'",
+            "is a sentence that inserts material between the subject and verb. Example: 'Even the children, brought there with the rest of the family, stared intently.'",
+            "is a sentence that is complete grammatically but continues with modifying clauses or phrases. Example: 'There were hundreds of small groups, each concentrated around someone who was haranguing the others, using the familiar, heavy public gestures of the Chinese.'",
+            "are sentences that complete themselves grammatically and/or deliver their meaning, often dramatically, at the end. Often, a 'pause' is inserted before the final predication, such as a dash",
+            "are sentences that trail off in accumulated detail with no concluding point."
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence demonstrate _PROP_"
+    },
+    {
+        "key": "Emphasis",
+        "values":
+        [
+            "by position",
+            "by sentence role",
+            "from inversions",
+            "combinations"
+        ],
+        "descriptions":
+        [
+            "when the beginning and end of a sentence recieve the most emphasis. By placing the salient elements in those positions, the writer can influence what is emphasized.",
+            "when subjects of a sentence recive the most attention",
+            "when anastrophe or hyperbaton are present, or when the normal order of Subject Verb Object (SVO) is violated. Examples: 'The cedars tall.', 'The man, crooked and homely.'",
+            "when a combination of two or more of 'by position', 'by sentence role', or 'from inversions' strategies are used in one sentence."
+        ],
+        "moreinfo": "By Position (pg. 205): For maximum punch, important words or phrases belong at the end. Second most important elements are placed at the start, and least important are placed in the middle. Opening emphasis is indicated by the practice of fronting certain words, phrases, or clauses that would otherwise receive less emphasis buried in the sentence: I will eventually receive my diploma versus Eventually, I will receive my diploma. \nBy sentence role: (pg. 206): The main constituents of a sentence, the subject, verb, and object, receive more emphasis than secondary sentence elements, all the words, phrases, and clauses that perform adverbial and adjectival functions. Subjects receive this greater attention even when they are not the first item in a sentence. \nFrom inversions (pg. 207): The natural positions of emphasis described above follow the standard sentence floor plans in English: Subject – Verb – Object or Subject – Linking Verb – Complement. Small variations in word order can shift emphasis and subtly change meaning (anastrophy, hyperbaton). Singleword adjectives can be placed after a noun: the tall cedars → the cedars tall; the crooked and homely man → the man, crooked and homely. Positioned after their nouns, these adjectives receive considerably more emphasis. Subtle differences can also result from more idiomatic displacements, as in the difference between the last man in line versus the man last in line; the second version carries the sense of a more adventitious circumstance. Switching a subject with a predicate adjective, however, produces emphasis by unexpected positioning: The night was clear and starry → Clear and starry was the night. Adverbial modifiers can easily be moved to the front of the sentence and the relative positions of the subject and verb switched: The sound of snoring came from the back of the room → From the back of the room came the sound of snoring. A switch like this is typically made to put the subject in the position of greater emphasis at the end.",
+        "question":"Does the following sentence demonstrate emphasis _PROP_?"
+    },
+    {
+        "key": "Parallelism",
+        "values":
+        [
+            "syllables (isocolon)",
+            "stress patterns (iambic parameter)",
+            "grammatical structure (parison)",
+            "comparison (parallelism in argument)"
+        ],
+        "descriptions":
+        [
+            "is when adjacent phrases or clauses have equal syllable length. It helps consecutive statements cohere as a set. Example: 'They stand against us because we stand in their way.', 'The nation is sick. Trouble is in the land. Confusion all around.'",
+            "is when alteranting stressed and unstressed syllables are present. Example: 'We do not want to fight, but we have fought before'",
+            "is when there is parity among longer clauses from repetition. Example: 'That's the kind of soldiers they are That's the kind of people they are.'",
+            "is when adjacent phrases or clauses are used for comparison. Example: 'Yesterday climate change was a theory; today climate change is the reality.'"
+        ],
+        "moreinfo": "more info",
+        "question": "Does the following sentence demonstrate parallelism in _PROP_?"
+    },
+    {
+        "key": "Figures of argument",
+        "values":
+        [
+            "strategic repetition",
+            "antithesis",
+            "antimetabole",
+            "defintion as figure",
+            "induction",
+            "abduction",
+            "deduction"
+        ],
+        "descriptions":
+        [
+            "a figure of argument which utilizes repetition of clauses or phrases within a passage. Example: 'Our policy is based on evidence; Our policy is rooted in our moral values; Our policy is reinforced by action.'",
+            "an argument from opposites. Antithesis involves the contrast of ideas or words within parallel grammatical structures. Antithesis must always contain two ideas which are functionally opposite. Examples: 'Buy low, sell high', 'Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.', 'I came not to bring peace but a sword.' Before answering, take some time to think about whether there are opposing ideas being compared and contrasted.",
+            "the transposition of the arguments in a phrase. Examples: 'Ask not what your country can do for you. Ask what you can do for your country.', 'I know what I like, and I like what I know.'",
+            "a type of figure of arguemnt which sets forth the full meaning and character of a thing lucidly and succinctly. Examples: 'What is virtue? virtue is a responsibility', 'A monarchy is a government headed by a hereditary ruler.'",
+            "an inference from specific instances to a general conclusion, otherwise known as inductive reasoning or generalization. Examples: 'After analyzing data from several recent studies on traffic accidents, it is evident that distracted driving, such as texting or using smartphones, is a major contributing factor to the increasing number of road incidents in urban areas.', 'Over the past month, multiple economic reports have shown a consistent rise in consumer spending, indicating a positive trend in the country's overall economic recovery.'",
+            "an inference from a set of examples. Also referred to as case based reasoning. Example: 'After reviewing the patterns of similar market behaviors in the past, it is evident that a fluctuation in commodity prices was the most likely explanation for the recent changes in stock values.'",
+            "an inference from the general to the specific. Deduction is what is commonly thought of as logical reasoning. Examples: 'Given the current economic policies and the historical trend of fiscal conservatism in this administration, analysts predict that there will likely be a reduction in government spending in the upcoming budget.', 'Given the forecast for heavy rain and the historical tendency for flooding in low-lying areas, there may be localized flooding in our region tomorrow.'"
+        ],
+        "moreinfo": "Antimetabole: repetition of words in successive clauses, but in transposed order; for example, 'I know what I like, and I like what I know'. It is related to, and sometimes considered a special case of chiasmus.",
+        "question":"Does the following sentence demonstrate or contain _PROP_"
+    },
+    {
+        "key": "Series",
+        "values":
+        [
+            "bracketing",
+            "order (incrementum)",
+            "gradatio",
+            "polysyndenton",
+            "asyndenton"
+        ],
+        "descriptions":
+        [
+            "when items are listed together they are implictly lumped into the same category. Example: 'The all male Saudi rulers, Catholic priesthood, Taliban, and the boys club running Enron.'",
+            "Item are listed in an increasing or decreasing order. Example: 'No corporal, sergeant, lietenant, captain, major, or general could order me to do something that was against my religion.'",
+            "lists of items with overlapping, suggesting a chain of causality. Example: 'Add to your faith virtue, to virtue knowledge, to knowledge self-control, ....'",
+            "using conjunctions between every item. Example: 'The forces of truth and love and courage and honesty.'",
+            "not using any conjunctions when listing items. Example: 'I came, I saw, I conquered.'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence demonstrate or contain _PROP_"
+    },
+    {
+        "key": "Prosody and punctuation",
+        "values":
+        [
+            "innotation",
+            "stress",
+            "rhythm"
+        ],
+        "descriptions":
+        [
+            " ",
+            " ",
+            " "
+        ],
+        "moreinfo": "more info",
+        "question": "Does the following sentence demonstrate or contain _PROP_"
+    }
+]

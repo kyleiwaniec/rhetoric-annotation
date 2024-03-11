@@ -1,0 +1,1745 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""]
+} 
+   
+  	","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the New York Times' which modifies the verb 'go' and a single word modifier 'Jewish' which modifies the noun 'community'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'more' are used to modify the nouns 'community' and 'some' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively, and the adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],0,1,,['single_word_modifiers']
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases 'While Obama pardoned drug dealers' and 'locked up ranchers', which modify the actions of Obama, and 'Trump pardons ranchers' and 'locks up drug dealers', which modify the actions of Trump.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""]
+}
+
+ 		",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains both single word modifiers (e.g., 'drug' as an adjective) and prepositional phrases (e.g., 'up ranchers' modifying 'locked').""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and adverbs 'up' and 'down'. These modifiers provide additional information about the actions of Obama and Trump.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and verbs 'pardoned' and 'locked up'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers', and verbs 'pardoned' and 'locked up'. These modifiers provide additional information about the subjects and actions in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1,0,gpt is choosing words in the sentence and assigning the wrong part of speech.,[]
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'future' and 'the GOP agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the GOP' which modifies the noun 'future' and another prepositional phrase 'of the GOP' which modifies the noun 'agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'Trumpism' by specifying its relationship to the GOP.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future' respectively, making them single word modifiers.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'GOP' are used to modify the noun 'agenda'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1,0,,"['prepositional_phrases', 'single_word_modifiers']"
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews', which function as adjectives to modify the nouns they are referring to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'blood libels' is a single word modifier (noun) that modifies the noun 'Hamas'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' to modify and emphasize the nouns in the sentence.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives and nouns, such as 'BDS', 'Hamas', 'blood libels', 'Israel', and 'Jews'. These words modify the subject and convey specific attributes or characteristics.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which function as adjectives and adverbs to modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which are used as adjectives to modify the nouns they are associated with.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1,0,gpt is choosing words in the sentence and assigning the wrong part of speech.,['prepositional_phrases']
+311,[3],"The Vatican presents a choice: the world, or Christ.",Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'The Vatican' modifies the subject 'presents', indicating who is presenting the choice.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the world' that modifies the noun 'choice.'""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the Vatican' modifying the subject 'The Vatican' and 'of the world' modifying the subject 'the world'. Additionally, it uses the single word modifiers 'the' and 'or' to modify the nouns 'world' and 'Christ'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'presents' which is an action verb modified by the adjective 'Vatican'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'The Vatican' modifies the subject 'presents', indicating who is making the choice.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'the world' and 'Christ' modify the noun 'choice' by presenting two options for consideration.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+387,[4],"On the one hand, it could refuse to grant Trump what he wanted and let the records be released, which it knew would point to the CIA’s guilt in the assassination.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence includes the prepositional phrase 'to grant Trump what he wanted' and 'in the assassination', which modify the verb and the object, respectively.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'on the one hand' and 'in the assassination', which modify the subject and the verb. It also includes single word modifiers like 'CIA's' and 'guilt' which are adjectives.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the assassination' which modifies the noun 'guilt'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('to grant Trump', 'in the assassination') which modify the verb, and single word modifiers ('the records', 'the CIA’s') which modify the nouns.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'on the one hand' and 'in the assassination', which modify the subject and verb. It also includes single word modifiers like 'wanted' and 'guilt'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('on the one hand', 'in the assassination') and single word modifiers ('the', 'what', 'the', 'CIA’s').""
+}","['prepositional_phrases', 'single_word_modifiers']",1,"['prepositional_phrases', 'single_word_modifiers']",,,,
+576,[5 9],So seriously that J Street can't decide what to do about a politician who defends a Hitler-lover and raises the Jewish Question.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'just' modify the verb 'decide' and 'can't', respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'seriously' modify the verb 'decide' to convey the extent of the action.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'seriously' modify the verb 'can't decide', indicating the manner in which J Street is affected by the situation.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'so' modify the verb 'decide'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'so' modify the verb 'decide' and the adjective 'seriously' modifies the verb 'can't'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverbs 'seriously' and 'about' modify the verb 'decide' and the adjective 'serious', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+659,[5],"“Under these circumstances, we did not have confidence that Strzok’s decision to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop was free from bias,” the report said.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Under these circumstances' modifies the context in which the action took place.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The prepositional phrase 'Under these circumstances' modifies the verb 'did not have confidence' by providing information about the circumstances in which the lack of confidence existed.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The prepositional phrase 'to prioritize the Russia investigation over following up on the Midyear-related investigative lead discovered on the Weiner laptop' modifies the noun 'decision.'""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Under these circumstances' modifies the verb 'did not have confidence' by providing additional information about the circumstances under which the lack of confidence existed.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Under these circumstances' modifies the verb 'did not have confidence' by providing additional information about the circumstances under which the lack of confidence existed.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Under these circumstances' modifies the verb 'did not have confidence' by providing additional information about the circumstances under which the lack of confidence existed.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+848,[5],Judge: I don’t understand why the witness is having such trouble with the question.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with the question' which modifies the verb 'having.' Additionally, the word 'such' is a single word modifier that modifies the adjective 'trouble.'""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'with the question', which modifies the verb 'having', indicating the specific trouble the witness is experiencing.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The statement contains a prepositional phrase 'with the question' modifying the verb 'having trouble', and the adverb 'such' modifying the adjective 'trouble'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'such' modifies the adjective 'trouble'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'such' modifies the adjective 'trouble' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with the question' which modifies the verb 'having trouble'.""
+}",['prepositional_phrases'],0,['single_word_modifiers'],,,,
+989,[17  6],"What about Judge Kavanaugh's comfort in being put through the ringer without a shred of evidence, Senator Flake?",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrases 'in being put through the ringer' and 'without a shred of evidence' both modify the noun 'comfort' in the sentence.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The single word modifier 'comfort' modifies the noun 'Judge Kavanaugh.'""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in being put through the ringer without a shred of evidence' modifies the noun 'comfort.'""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in being put through the ringer' which modifies the noun 'comfort', and the single word modifier 'without' modifies the noun 'evidence'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in being put through the ringer' which modifies the noun 'comfort' and a single word modifier 'without' modifying the noun 'a shred'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Judge' and 'comfort' modify the noun 'Kavanaugh' and the verb 'being put', respectively.""
+}",['single_word_modifiers'],0,"['prepositional_phrases', 'single_word_modifiers']",,,,
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains single word modifiers like 'good', 'best', 'illegal', 'best' and 'illegal'. Additionally, there are prepositional phrases such as 'in a country like Germany' modifying the verb 'are viewed' and 'of discipline and the rule of law' modifying the noun 'example'.""
+}","['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'chaos' and 'illegal' modify the nouns 'border crossings' and 'anarchy', while the adjectives 'good' and 'best', as well as the adverbs 'never' and 'best', are used as single word modifiers in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'good,' 'best,' 'illegal,' 'best,' 'discipline,' and 'rule' are all single word modifiers used to modify nouns or adjectives in the sentence.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'good', 'best', and 'illegal' are used to modify 'chaos', 'example', and 'border crossings' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'good', 'best', and 'illegal' are single word modifiers used to modify the nouns 'chaos', 'example', and 'border crossings' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'good', 'best', and 'illegal' are single word modifiers that modify the nouns 'something', 'example', and 'border crossings' respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1100,[6],"In December it successfully carried out the most-distant course-correction manoeuvre ever, with the mission team guiding it towards a close-encounter with a KBO scheduled for 1 January 2019.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in December' modifies the verb 'carried out', and the prepositional phrase 'with the mission team' modifies the verb 'guiding'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in December' modifies the verb 'carried out' by providing information about when the action occurred. Additionally, the prepositional phrase 'towards a close-encounter with a KBO scheduled for 1 January 2019' modifies the verb 'guiding' by specifying the direction of the guidance and the target of the maneuver.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('in December', 'with the mission team', 'towards a close-encounter', 'for 1 January 2019'), single word modifiers ('successfully', 'most-distant'), and multiplying and embedding modifiers ('the most-distant course-correction manoeuvre ever').""
+}","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in December' modifies the timing of the action, and 'towards a close-encounter with a KBO' modifies the direction of the guidance.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'in December' and 'with the mission team', which modify the verb and the subject. Additionally, the adjectives 'most-distant' and 'scheduled' function as single word modifiers.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'in December', 'with the mission team', and 'towards a close-encounter with a KBO scheduled for 1 January 2019' which modify the verb and provide additional information about the actions and timing of the spacecraft.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+1194,[6 9],"Julian Assange called it ""a hack job in the purest sense of the term"".",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectival phrase 'hack job' modifies the noun 'job' to convey the sense of a poorly done job, while the adjectival phrase 'purest sense' modifies the noun 'sense' to emphasize the extreme nature of the term.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'purest' modifies the adjective 'sense'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'purest' modifies the noun 'sense' to provide further detail and context.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'hack' is used to modify the noun 'job' and the single word modifier 'purest' is used to modify the noun 'sense'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'hack' is used to modify the noun 'job' and the single word modifier 'purest' is used to modify the noun 'sense'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'hack' modifies the noun 'job' to describe the nature of the job.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1225,[6],Democratic Illinois Rep. Danny Davis defended Nation of Islam leader Louis Farrakhan as an “outstanding human being” on Monday.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'of Islam leader Louis Farrakhan' which modifies the proper noun 'Nation' with the preposition 'of' and the noun 'Islam'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjective 'Democratic' and the adjectives 'outstanding' are used as single word modifiers in the sentence to provide additional information about the subject and the object.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'outstanding' is a single word modifier (adjective) that is used to modify the noun 'human being'.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Democratic' and 'outstanding' modify the proper nouns 'Illinois Rep. Danny Davis' and 'human being' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Democratic' and 'outstanding' modify the proper nouns 'Illinois Rep. Danny Davis' and 'human being' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Democratic' and 'outstanding' are used to modify the nouns 'Illinois Rep. Danny Davis' and 'human being' respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1259,[7],Does Berg and the AMA support our military?,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The prepositional phrase 'of the AMA' modifies the subject 'Berg' by specifying his affiliation.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Berg' and 'the AMA' modify the subject, indicating that the support is specific to these entities.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of Berg and the AMA' modifying the verb 'support', and the single word modifier 'military' modifying the verb 'support.'""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'military' is used to modify the verb 'support' in the question.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'military' is used to modify the verb 'support' in the question.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'our' modifies the noun 'military' to indicate possession.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'through this sham' and 'about it' which modify the verb 'see' and 'knew' respectively.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'through this sham' modifying the verb 'see' and a single word modifier 'American' modifying the noun 'people'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'American' which modifies the noun 'people'.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'American' which modifies the noun 'people'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'American' which modifies the noun 'people'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'American' which modifies the noun 'people'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1309,[7],What is happening in the Brett Kavanaugh nomination process should concern every American.,Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'every' modifies the noun 'American'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Brett' and 'Kavanaugh' modify the noun 'nomination', and the adjective 'American' modifies the noun 'every'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'should' modifies the verb 'concern' in the sentence.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the Brett Kavanaugh nomination process' modifies the verb 'is happening' by providing additional information about the process.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Brett' and 'Kavanaugh' modify the noun 'nomination', and the adverb 'should' modifies the verb 'concern'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Brett' and 'Kavanaugh' modify the noun 'nomination', and the adjective 'American' modifies the noun 'every'.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+1332,[7 8],These pardons cleanse another stain from our nation's history in the dark years of Obama.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'dark' and 'Obama' modify the noun 'years' and 'history', respectively, providing additional description and context.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The adjective 'dark' modifies the noun 'years' to convey a negative quality.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'dark' is used as a single word modifier to describe the years of the Obama presidency.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'another' and 'dark' modify the nouns 'stain' and 'years' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'dark' and 'Obama' modify the noun 'years', and the adverb 'another' modifies the verb 'cleanse'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'dark' and 'Obama' modify the noun 'years' and 'history' respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in Washington' modifies the subject 'leaders', and the prepositional phrase 'of America’s mayors' modifies the verb 'follow'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'our' and 'public' modify the nouns 'leaders' and 'safety', while the adverb 'over' modifies the verb 'put'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in Washington' modifies the noun 'leaders', and the prepositional phrase 'of America's mayors' modifies the noun 'lead'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in Washington' modifies the noun 'leaders' by specifying their location.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in Washington' modifies the noun 'leaders' by specifying their location, and the prepositional phrase 'of America's mayors' modifies the noun 'lead' by specifying its source.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in Washington' which modifies the verb 'follow' and a single word modifier 'public' which modifies the noun 'safety'.""
+}","['prepositional_phrases', 'single_word_modifiers']",0,['prepositional_phrases'],,,,
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence includes the embedded modifying phrase 'on numerous occasions' within the larger modifying phrase that includes 'noted our intelligence findings'. This demonstrates the use of multiplying and embedding modifiers.""
+}",['multiplying_and_embedding_modifiers'],"{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains the embedded modifying phrase 'on numerous occasions' within the initial modifying phrase 'I have... noted.' This demonstrates the use of multiplying and embedding modifiers.""
+}",['multiplying_and_embedding_modifiers'],"{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The presence of the phrase 'on numerous occasions' and the embedded clause 'that Russians attempted to interfere in our elections' demonstrate the use of multiplying and embedding modifiers within the sentence.""
+}",['multiplying_and_embedding_modifiers'],TRUE,"{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains the multiplying and embedding modifier 'on numerous occasions' which adds emphasis and detail to the action of noting the intelligence findings.""
+}",['multiplying_and_embedding_modifiers'],"{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains the embedded modifying phrase 'on numerous occasions' within the main modifying phrase 'I have noted'. This demonstrates the use of multiplying and embedding modifiers.""
+}",['multiplying_and_embedding_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'numerous' and the multiplying and embedding modifier 'on numerous occasions'. These modifiers provide additional information about the frequency and context of the speaker's actions.""
+}","['single_word_modifiers', 'multiplying_and_embedding_modifiers']",0,['multiplying_and_embedding_modifiers'],,,,
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text uses 'very' to modify 'intensity' and 'nastiness' as adjectives, and 'former' to modify 'CIA Director Brennan' and 'Director of National Intelligence Clapper' as adjectives. These single word modifiers enhance the characteristics of the individuals mentioned.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of 'very' intensifying 'intensity' and 'nastiness', and 'former' modifying 'CIA Director Brennan' and 'Director of National Intelligence Clapper'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'very', 'former', 'nastiness', 'former', and 'national' as well as prepositional phrases like 'of former CIA Director Brennan' and 'of National Intelligence Clapper' which provide additional information and modify the subject.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'former' and 'very' modify the nouns 'CIA Director Brennan' and 'intensity' respectively. The adjectives 'former' and 'former' modify the nouns 'Director of National Intelligence Clapper' and 'Director' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'former' and 'nastiness' modify the nouns 'CIA Director Brennan' and 'Director of National Intelligence Clapper', and the adverbs 'very' and 'former' modify the intensity and nastiness respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'former' and 'very' modify the nouns 'intensity' and 'nastiness', respectively. The adverbs 'very' and 'former' modify the adjectives 'intensity' and 'nastiness', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'by the New Horizons spacecraft' modifying the verb 'taken' and the prepositional phrase 'away from the Earth' modifying the verb 'was'. Additionally, it includes the single word modifier 'record-breaking' to modify the noun 'photograph'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'taken by the New Horizons spacecraft' which modifies the main verb 'released'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'by the New Horizons spacecraft' which modifies the main verb 'taken', and another prepositional phrase 'when it was 3.79 billion miles away from the Earth' which modifies the main verb 'was'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'taken by the New Horizons spacecraft' which modifies the noun 'photograph'. Another prepositional phrase 'when it was 3.79 billion miles away from the Earth' modifies the verb 'taken'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'taken by the New Horizons spacecraft' which modifies the noun 'photograph'. Another prepositional phrase 'when it was 3.79 billion miles away from the Earth' modifies the verb 'taken'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'taken by the New Horizons spacecraft' which modifies the noun 'photograph'. Another prepositional phrase 'when it was 3.79 billion miles away from the Earth' modifies the verb 'taken'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'foolish' and 'very' are used to modify the nouns 'mistake' and 'young man' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'foolish' and 'very young' are single word modifiers used to describe the noun 'mistake' and 'man'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'foolish' to modify the noun 'mistake' and the single word modifier 'very' to modify the adjective 'young'.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The prepositional phrase 'by a very young man' modifies the noun 'mistake' and the single word modifier 'foolish' modifies the noun 'mistake'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'foolish' and 'very young' modify the noun 'mistake' and 'man' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'foolish' and 'very young' modify the noun 'mistake' and 'man' respectively.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+3060,[9 9],"And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'with the wicked' which modifies the verb 'destroy' by providing additional information about the manner of destruction.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with the wicked', which modifies the verb 'destroy'. The word 'righteous' acts as a single word modifier of the adjective 'destroy'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with the wicked' modifying the verb 'destroy' and also includes a single-word modifier 'righteous' modifying the noun 'destroy'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'with the wicked', which modifies the verb 'destroy'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'with the wicked', which modifies the verb 'destroy'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'with the wicked', which modifies the verb 'destroy' by indicating the manner in which the destruction would occur.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'arch-conservative' and 'Rottweiler' are used to modify the noun 'Ratzinger', providing additional descriptive information about him.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the words 'arch-conservative' and 'Rottweiler' are single word modifiers that provide additional description and characterization.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'arch-conservative' and 'Rottweiler' both function as adjectives to modify the noun 'Ratzinger', providing additional information and characterization.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the single word modifiers 'arch-conservative' and 'Rottweiler' to describe Ratzinger.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the single word modifiers 'arch-conservative' and 'Rottweiler' to describe Ratzinger.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'arch-conservative' and 'Rottweiler' are used to modify the noun 'Ratzinger'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3249,[9],When Cain complains that being a “vagabond .,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains the single word modifier 'vagabond' which modifies the noun 'Cain'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example text contains a prepositional phrase 'being a vagabond' which modifies the subject 'Cain' by providing additional information about his state or condition.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'vagabond' is a single word modifier that describes Cain.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains the single word modifier 'vagabond' which is an adjective modifying the noun 'Cain'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains the single word modifier 'vagabond' which is an adjective modifying the noun 'Cain'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains the single word modifier 'vagabond' which is an adjective modifying the noun 'Cain'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3296,[9],"At that point, after the Ralston tweet, Murillo openly admits the partisan motives of Google’s electioneering efforts.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'at that point' and 'after the Ralston tweet', which modify the timing of the action. It also includes the single word modifiers 'openly' and 'partisan' which describe the manner and motive of Murillo's admission.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'after the Ralston tweet' which modifies the timing of the action, and the single word modifier 'partisan' which modifies the motives.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'after the Ralston tweet' which modifies the timing of the action.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'after the Ralston tweet' which modifies the timing of the action. It also includes the single word modifier 'openly' which modifies the verb 'admits'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'after the Ralston tweet' which modifies the timing of the action.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'after the Ralston tweet' which modifies the timing of the action.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' by indicating the timeframe of the action.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'currently' modifies the verb 'handling' in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3498,[9],"In the end, Only the corrupt king acknowledges the God of Shadrach, Meshach, and Abednego.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the end' which modifies the verb 'acknowledges'. It also includes the single word modifier 'corrupt' which modifies the noun 'king'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'corrupt' modifies the noun 'king', providing additional information about the king's nature.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the end' which modifies the verb 'acknowledges'. It also includes the single word modifier 'corrupt' which modifies the noun 'king'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the end' modifies the verb 'acknowledges' by indicating the time frame of the action.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The prepositional phrase 'in the end' modifies the verb 'acknowledges', and the single word modifier 'corrupt' modifies the noun 'king'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'in the end', which modifies the timing of the action.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+3785,[10],“When something is coming up and down or at least from a different angle they are either going to hit the ground or… alot of different things are going to happen.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The use of the word 'different' as an adjective to modify 'angle' indicates the presence of single word modifiers.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The text contains prepositional phrases like 'from a different angle' and single word modifiers like 'different'. These modifying phrases help provide additional detail and description to the sentence.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains single word modifiers in the form of adverbs and adjectives such as 'up', 'down', 'different', and 'alot'.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains single word modifiers in the form of adverbs 'up', 'down', 'at least', and 'different'. These adverbs modify the verb 'coming' and the prepositional phrase 'from a different angle'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains single word modifiers such as 'up', 'down', 'different', and 'alot' which function as adverbs and adjectives.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains single word modifiers in the form of adverbs ('up', 'down', 'at least', 'different'). These adverbs modify the verb 'is coming' and the adjectives 'different' and 'alot'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3789,[ 8 10 13],"Unlike previous administrations, my administration has and will continue to move aggressively to repeal any efforts – and repel – we will stop it, we will repel it – any efforts to interfere in our elections.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'to interfere in our elections' which modifies the verb 'continue'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The text contains prepositional phrases such as 'to interfere in our elections' and 'to repeal any efforts'. It also includes the single word modifier 'aggressively' to modify the verb 'move'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The text contains prepositional phrases such as 'to interfere in our elections' which modify the verb 'stop'. There are also single-word modifiers like 'aggressively' that modify the verb 'move'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The example contains a prepositional phrase 'to interfere in our elections' which modifies the verb 'repel'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The text contains prepositional phrases such as 'to interfere in our elections' and single word modifiers like 'previous' and 'aggressively'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to interfere in our elections', which modifies the verb 'continue'.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+3801,[11],"For their sake, let’s hope it works better than this year’s flu vaccine.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'for their sake', which modifies the verb 'hope' by expressing the reason or motivation for the hope.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'for their sake' which modifies the verb 'hope'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'for their sake', which modifies the verb 'hope'.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'for their sake' which modifies the verb 'hope'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'for their sake', which modifies the verb 'hope'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'for their sake' which modifies the verb 'hope'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3808,[11  6],"The Guardian, which used to consider itself the most enlightened newspaper in the country, has probably been the worst.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the country' which modifies the superlative adjective 'worst'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the country' modifies the superlative adjective 'worst', providing further information about the extent of their status.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'in the country', which modifies the superlative adjective 'worst'.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the country' modifies the superlative adjective 'worst'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the country' modifies the superlative adjective 'worst'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the country' which modifies the superlative adjective 'worst'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3816,[12],"There is still no mosque or Islamic school in the United States that teaches young Muslims why they should reject the understanding of Islam taught by al-Qaeda, ISIS, and other jihad terror groups.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in the United States' modifies the location of the non-existing mosque or Islamic school.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains prepositional phrases 'in the United States' and 'by al-Qaeda, ISIS, and other jihad terror groups', which modify the location and the understanding of Islam respectively. It also includes the single word modifiers 'Islamic' and 'young', serving as adjectives for 'school' and 'Muslims' respectively.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+    ""Properties"": [""prepositional phrases""],
+    ""Explanation"": ""The sentence contains a prepositional phrase 'in the United States' modifying the location of the absence of a mosque or Islamic school, and 'by al-Qaeda, ISIS, and other jihad terror groups' modifying the understanding of Islam taught.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'in the United States' and 'by al-Qaeda, ISIS, and other jihad terror groups', which modify the location and the understanding of Islam. It also includes the single word modifiers 'Islamic', 'young', and 'other', which are adjectives.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the United States' which modifies the location of the absence of a mosque or Islamic school.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'in the United States' and 'by al-Qaeda, ISIS, and other jihad terror groups' which modify the location and the understanding of Islam being taught.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+3823,[12],"And since Trump’s Stalinist statements, there are at least 24 additional states that are currently considering passing “red flag” laws.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The prepositional phrase 'since Trump’s Stalinist statements' modifies the verb 'are considering', providing information about the time when the action is taking place.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Stalinist' and 'additional' modify the nouns 'statements' and 'states' respectively. The adverb 'currently' modifies the verb 'are considering'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'since Trump’s Stalinist statements' modifies the verb 'are considering' by indicating the time when the action started.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Stalinist' and 'additional' are used to modify the noun 'statements' and the noun 'states', respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Stalinist' and 'additional' are used to modify the noun 'statements' and the noun 'states' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'since Trump’s Stalinist statements' modifies the verb 'are considering' by indicating the time period during which the states started considering passing 'red flag' laws.""
+}",['prepositional_phrases'],0,['single_word_modifiers'],,,,
+3831,[ 9 12],I call them Vichy journalists — after the Vichy government that served and enabled the German occupation of wartime France.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'Vichy journalists' modifies the noun 'journalists' by adding the adjective 'Vichy'. This single word modifier enhances the meaning of the noun.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectival phrase 'Vichy journalists' modifies the noun 'them', serving as a single word modifier.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The phrase 'Vichy journalists' uses a single word modifier 'Vichy', while the prepositional phrase 'after the Vichy government' modifies the verb 'call'.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectival phrase 'Vichy journalists' modifies the noun 'them' by providing additional information about the type of journalists being referred to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'Vichy journalists' uses the single word modifier 'Vichy' to describe the type of journalists being referred to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The example contains a single word modifier 'Vichy' used to modify the noun 'journalists'. This single word modifier functions as an adjective to provide additional information about the journalists.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3841,[12],It collaborates in the same way that the Vichy government in France collaborated with the Nazis.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the same way' which modifies the verb 'collaborates', and also includes the single word modifier 'same'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'in France' which modifies the verb 'collaborated'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the same way' which modifies the verb 'collaborates'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the same way' which modifies the verb 'collaborates'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the same way' which modifies the verb 'collaborates'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in the same way' which modifies the verb 'collaborates'. It also includes the single word modifier 'same' which modifies the noun 'way'.""
+}","['prepositional_phrases', 'single_word_modifiers']",0,['prepositional_phrases'],,,,
+3871,[13],"And it seems clear from the way it was done, and the way Francis treated Muller in general, that he was indeed got rid of.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the adverb 'clear' modifies the verb 'seems' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The adverbs 'clear' and 'indeed' are single word modifiers, and the prepositional phrases 'from the way it was done' and 'from the way Francis treated Muller in general' provide additional information about the action and the subject.""
+}","['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'from the way it was done' and 'in general' which modify the verb 'seems' and the way 'Francis treated Muller'. Additionally, the adverbs 'clear' and 'indeed' are single word modifiers.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'clear' modifies the verb 'seems' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'clear' modifies the verb 'seems' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'clear' modifies the verb 'seems' in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+3886,[ 9  9 13],Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains single word modifiers in the form of adjectives ('fifty', 'righteous') and adverbs ('also', 'not').""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'within the city', which modifies the location of the righteous individuals.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The text contains prepositional phrases such as 'within the city' and 'for the fifty righteous that are therein', which modify the location and provide additional information about the subject and object.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases such as 'within the city' and 'for the fifty righteous that are therein', which modify the subject and verb.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'within the city' and 'for the fifty righteous that are therein' which modify the location and purpose of the righteous people.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases 'within the city' and 'for the fifty righteous that are therein' which modify the subject and verb respectively.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'by many in the West' and 'across the nation' which modify the passive verb 'is viewed'. These phrases provide additional information about who holds the view and where the view is held.""
+}",['prepositional_phrases'],"{
+    ""Properties"": [""prepositional phrases""],
+    ""Explanation"": ""The sentence contains prepositional phrases 'by many in the West' and 'across the nation' which modify the passive verb 'viewed'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases (\""by many in the West\"", \""across the nation\"") which modify the verb 'viewed'. Additionally, the single word modifier 'manifest' functions as an adjective modifying 'miscarriage of justice'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'by many in the West' and 'across the nation' which modify the verb 'viewed'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'by many in the West' and 'across the nation' which modify the verb 'viewed'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'by many in the West' and 'across the nation' which modify the verb 'viewed'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at US banks' modifies the verb 'allow' by specifying where the action of opening accounts is restricted.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at US banks' which modifies the verb 'allow'. Additionally, the single word modifier 'Iranian' is used to modify the noun 'parties'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""]
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at US banks' which modifies the verb 'open' by specifying where the accounts cannot be opened.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at US banks' which modifies the verb 'open' by specifying where the accounts cannot be opened.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at US banks' modifies the verb 'open' by specifying where the accounts cannot be opened.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+3990,[13],"Last January, parents filed a federal complaint against Chatham Middle School in Chatham, New Jersey, for forcing students to watch videos that proselytized for Islam.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'in Chatham, New Jersey' and 'against Chatham Middle School', which modify the location and target of the complaint.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'in Chatham, New Jersey' that modifies the location of the school.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'against Chatham Middle School in Chatham, New Jersey' modifies the action of filing a complaint, specifying the location and the entity against which the complaint was filed.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrases 'Last January', 'against Chatham Middle School', and 'in Chatham, New Jersey', which modify the action and provide additional information.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'in Chatham, New Jersey' which modifies the location of the school.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrases 'Last January', 'against Chatham Middle School', and 'in Chatham, New Jersey' modify the verb 'filed' by providing additional information about when, where, and against whom the action took place.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+4019,[13],"Anti-jihadist activist Pamela Geller praised Orban for his honesty and wrote, ""At last, a politician who speaks the truth about the Muslim invasion of Europe.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of Europe' which modifies the verb 'invasion' and an adjective 'Muslim' modifying the noun 'invasion'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'anti-jihadist' modifies the noun 'activist', and the adjective 'honesty' modifies the noun 'Orban'. The adverb 'at last' modifies the verb 'wrote'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence includes the prepositional phrase 'of Europe' which modifies the noun 'invasion'. Additionally, the single word modifier 'honesty' is used to modify the noun 'Orban' and the adjective 'truth' modifies the noun 'politician'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'anti-jihadist' and 'honest' as well as the adverb 'at last' are used to modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'anti-jihadist' and 'honesty' as well as the adverb 'at last' are single word modifiers used to modify the nouns 'activist', 'Orban', and 'politician'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'anti-jihadist' and 'honest' and the adverb 'at last' are used to modify the activist and the politician, and to express the writer's opinion.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4041,[13  8  8  8],"How inconvenient that the homosexual network of clergy and prelates were blasted as predators and coverup enablers in the Pennsylvania Grand Jury Report, while the Instrumentum Laboris argues that:",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The text contains prepositional phrases modifying the subject ('of clergy and prelates'), as well as single word modifiers like 'inconvenient', 'homosexual', 'coverup', and 'argues'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The example text contains prepositional phrases modifying the subject and verb, single word modifiers such as 'inconvenient', and multiplying and embedding modifiers within a single sentence.""
+}","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers"",
+    ""multiplying and embedding modifiers""
+  ],
+  ""Explanation"": ""The sentence contains prepositional phrases modifying the subject (the homosexual network of clergy and prelates) and the verb (were blasted), single word modifiers (inconvenient), and multiplying and embedding modifiers (such as 'that' and 'while').""
+}","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'inconvenient' and 'homosexual' are used to modify the noun 'network' and 'clergy and prelates' respectively. The adverbs 'while' and 'argues' are used to modify the verb 'were blasted' and 'Instrumentum Laboris' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'inconvenient' and 'homosexual' are used to modify 'network' and 'clergy and prelates', respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The text contains prepositional phrases such as 'of clergy and prelates' and 'in the Pennsylvania Grand Jury Report', which modify the noun 'network' and the verb 'were blasted'. Additionally, the single word modifier 'inconvenient' is used to modify the noun 'that'.""
+}","['prepositional_phrases', 'single_word_modifiers']",0,['single_word_modifiers'],,,,
+4206,[13],"A Muslim terrorist stabbed four people at a train station near Munich while screaming, “Allahu Akbar”.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Muslim' and 'terrorist' modify the noun 'stabbed', and the adverb 'while' modifies the verb 'screaming'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The text contains prepositional phrases ('at a train station near Munich') which modify the verb 'stabbed'. It also includes the single word modifier 'Muslim' as an adjective and the single word modifier 'terrorist' as a noun adjunct.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at a train station near Munich' which modifies the location of the incident, and a single word modifier 'Muslim' which describes the terrorist.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Muslim' and 'terrorist' modify the noun 'terrorist', and the adverb 'near' modifies the location 'Munich'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Muslim' and 'terrorist' modify the noun 'stabbed', and the adverb 'near' modifies the noun 'station'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Muslim' and 'terrorist' modify the noun 'stabbed', and the adverb 'while' modifies the verb 'screaming'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration' by specifying its source.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration', and the single word modifier 'worst' modifies the noun 'nightmares'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration' by specifying its origin.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration' by specifying its origin.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration' by specifying its origin.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from Africa' modifies the noun 'immigration' by specifying its origin.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+4318,[14],Kill the Messenger,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains a single word modifier 'Messenger' which acts as the object of the verb 'Kill'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains a single word modifier 'Kill', which is an imperative verb used as the main modifier for the message being conveyed.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains the single word modifier 'kill' which modifies the noun 'Messenger'. This single word modifier is an imperative verb used to convey a command or request.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains a single word modifier 'Kill' which is an imperative verb used to convey a strong and direct message.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains the single word modifier 'Kill' which is an imperative verb, conveying a strong and direct message.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains a single word modifier 'Kill' which is an imperative verb used to convey a strong and direct message.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4371,[15],The media is happy to talk about anti-Semitism.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['[', ']']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'happy' modifies the verb 'talk' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The prepositional phrase 'to talk about anti-Semitism' modifies the verb 'is' by specifying the action being done by the subject 'media'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'happy' is a single word modifier (adjective) that modifies the subject 'media'.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'happy' is a single word modifier that functions as an adjective to modify the subject 'media'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'about anti-Semitism' which modifies the verb 'talk'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'happy' is a single word modifier (adjective) that modifies the subject 'media'.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+4379,[16],"It was as though someone had plausibly told me that, yes, there were fairies and magical kingdoms in real life, “just around the corner”.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""single word modifiers"",
+    ""multiplying and embedding modifiers""
+  ],
+  ""Explanation"": ""The text contains single word modifiers such as 'plausibly' and 'magical' which are adverbs and adjectives respectively. Additionally, the sentence includes a multiplying and embedding modifier in the form of the phrase 'just around the corner' modifying the idea of 'fairies and magical kingdoms'.""
+}","['single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The text includes single word modifiers such as 'plausibly' and prepositional phrases like 'in real life' and 'just around the corner', which modify the verb and provide additional detail.""
+}","['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The text contains single word modifiers such as 'plausibly' and 'magical', as well as prepositional phrases like 'in real life' and 'just around the corner'. These modify the verb 'told' and the noun phrases 'fairies and magical kingdoms'.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'plausibly' which is an adverb modifying the verb 'told'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains the single word modifier 'plausibly' which is an adverb modifying the verb 'told'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'plausibly' modifies the verb 'told' in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4386,[16],The burst of sweetness and light coming from Pyongyang just sounds too good to be true.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'sweetness' and 'light' modify the noun 'burst', and the adverb 'just' modifies the verb 'sounds'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'sweetness' and 'light' modify the noun 'burst' to provide further description, and the adverb 'just' modifies the verb 'sounds.'""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains single word modifiers 'sweetness' and 'light', both functioning as adjectives, and the prepositional phrase 'of sweetness and light' modifying the noun 'burst'.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'sweetness' and 'light' modify the noun 'burst' to provide additional description, and the adverb 'just' modifies the verb 'sounds' to indicate the timing of the action.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'sweetness' and 'light' modify the noun 'burst' to provide more detail and description.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'sweetness' and 'light' modify the noun 'burst', and the adverb 'just' modifies the verb 'sounds'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4439,[17],Two guys on my ship did the same thing and weren’t treated as criminals.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The single word modifier 'same' is used to modify the noun 'thing' to specify the nature of the action performed by the two guys.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on my ship' is a prepositional phrase that modifies the subject 'Two guys' by providing additional information about where the action took place.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'same' and 'criminal' are single word modifiers used to describe the noun 'thing' and the pronoun 'guys', respectively.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'on my ship' which modifies the action of the two guys. Additionally, the single word modifier 'same' modifies the noun 'thing'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'same' and 'criminal' modify the nouns 'thing' and 'guys' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'same' and 'criminal' are used to modify the nouns 'thing' and 'treated', respectively.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+4457,[17],"The enemy to great power is not the likes of the Taliban, it is us.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'great' and 'the' are single word modifiers that modify the noun 'power'. The adverb 'not' also modifies the verb 'is'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the adjectives 'great' and 'the' which modify the noun 'power'. The adverb 'not' modifies the verb 'is'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence includes the single word modifier 'great' which modifies the noun 'power'.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'great' and 'likes of' modify the noun 'power' and 'Taliban' respectively, and the adverb 'not' modifies the verb 'is'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'great' and 'likes' modify the nouns 'power' and 'Taliban' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'great' and 'likes of the Taliban' are single word modifiers that modify the noun 'power' and the pronoun 'us' respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('from the rafters', 'into war') and single word modifiers ('maybe', 'lying', 'West').""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text uses single word modifiers such as 'maybe' and 'lying' to modify the verb 'hang' and the subject 'Judith Miller and The New York Times', respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains single word modifiers (e.g., 'maybe', 'lying') and prepositional phrases ('from the rafters', 'in Congress', 'into war').""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'maybe' and 'lying' which are adverbs and adjectives respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of 'maybe' as an adverb modifies the verb 'hang' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'West' and 'lying', as well as the adverb 'maybe'. It also includes a prepositional phrase 'into war' which modifies the verb 'lying'.""
+}","['single_word_modifiers', 'prepositional_phrases']",0,['single_word_modifiers'],,,,
+4466,[17],But Shapira would be wise to follow his own advice because he himself is guilty of what he accuses others of.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'wise' and 'guilty' are used to modify the subjects 'Shapira' and 'he'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers"",
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The sentence contains the single word modifier 'wise' and the prepositional phrase 'of what he accuses others of' which modify the verb 'to be' and provide additional information about the subject.""
+}","['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a single word modifier 'wise' as well as a prepositional phrase 'of what he accuses others of' modifying the verb 'is guilty'.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'wise' which is an adjective modifying the verb 'be'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'wise' and 'guilty' are single word modifiers that modify the subjects 'Shapira' and 'he' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of what he accuses others of' modifies the verb 'is guilty' by providing additional information about the accusation.""
+}",['prepositional_phrases'],0,['single_word_modifiers'],,,,
+4478,[17],Then he suggests that healing and reconciliation will only come if we take a hard look at our own flaws….,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The presence of the adverbs 'hard' and 'only' indicate the use of single word modifiers in the example text.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at our own flaws' which modifies the verb 'take', and the single word modifier 'hard' which modifies the verb 'look'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the word 'hard' modifies the verb 'take' by specifying the type of look that needs to be taken.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'only' modifies the verb 'come' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at our own flaws' modifies the verb 'take' by indicating the action of taking a hard look at something.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'only' modifies the verb 'come' in the sentence.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+4484,[ 9 17],Sen. Bob Corker is another summertime soldier calling on colleagues to stand and fight Trump while he retires to Tennessee.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""]
+}
+  
+  ","['prepositional_phrases', 'single_word_modifiers']","{
+    ""Properties"": [""prepositional phrases""],
+    ""Explanation"": ""The example contains a prepositional phrase 'to Tennessee' which modifies the verb 'retires.'""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The text includes single word modifiers in the form of adjectives (e.g., 'summertime') and a prepositional phrase ('to Tennessee') which modifies the verb 'retires'.""
+}","['single_word_modifiers', 'prepositional_phrases']",FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'summertime' and 'another' modify the noun 'soldier', and the adverb 'while' modifies the verb 'retires'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'summertime' and 'retires' modify the nouns 'soldier' and 'he' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'to Tennessee' and 'on colleagues' which modify the verb 'retires' and the noun 'calling', as well as the single word modifier 'summertime' which modifies the noun 'soldier'.""
+}","['prepositional_phrases', 'single_word_modifiers']",0,['single_word_modifiers'],,,,
+4742,[],He generated her in His Blood and continually revives her with His Spirit!,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'His' and 'continually', which modify the nouns 'Blood' and 'revives' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence uses single word modifiers such as 'His' as a possessive adjective and 'continually' as an adverb to modify the verbs 'generated' and 'revives'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of the adjectives 'His' and 'continually' as well as the adverb 'generally.'""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'His' and 'continually', as well as the adverb 'with'. These modify the nouns 'Blood' and 'Spirit', and the verb 'revives' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'His' and 'her' modify the nouns 'Blood' and 'Spirit' respectively, indicating possession.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'His' and 'her' modify the nouns 'Blood' and 'Spirit' respectively, indicating possession.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'At this time' which modifies the timing of the action. It also includes the single word modifier 'not' which modifies the verb 'have' to indicate the lack of cooperation.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from attorneys representing other clients' modifies the verb 'have had' by indicating the source of the lack of cooperation.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrases 'at this time' and 'from attorneys representing other clients' modify the verbs 'have' and 'had' respectively.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from attorneys representing other clients' modifies the verb 'have had' by specifying the source of the lack of cooperation.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'from attorneys representing other clients' which modifies the verb 'have had'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'from attorneys representing other clients' which modifies the verb 'have had' by specifying the source of the cooperation.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+5285,[],"https://t.co/zHBz4gKpkf — Donald Trump Jr. (@DonaldJTrumpJr) July 5, 2018",Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet contains a single word modifier 'July' which modifies the noun '5, 2018'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet consists of a single word modifier, which is the adverb 'July' modifying the verb '5'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet contains the single word modifier 'July', which is an adjective modifying the noun '5'.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet contains the single word modifier 'July' which is an adjective modifying the noun '5' to form the date 'July 5, 2018'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet contains the single word modifier 'July' as an adjective to modify the noun '5'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The tweet contains the single word modifier 'July' which is an adjective modifying the noun '5' to form the date 'July 5, 2018'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+5438,[],I wanted them to know that I listened.”,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'listened', which is an verb in past tense form.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'listened' which is a verb used to modify the subject 'I'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'to know that I listened' uses the single word modifier 'listened' to modify the verb 'know'.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of the adverb 'well' modifies the verb 'listened' by indicating the manner in which the action was performed.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'listened' which is an adverb modifying the verb 'know'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'listened' which is an verb.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('from Honduras, Guatemala and El Salvador', 'of immigrants') which modify the verb 'withhold'. It also contains the single word modifier 'American' to describe the noun 'aid'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example text contains prepositional phrases such as 'from Honduras, Guatemala and El Salvador' and 'of immigrants'. These phrases modify the verb 'threatened' and provide additional information about the action.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'from Honduras, Guatemala and El Salvador' and a single word modifier 'American' (modifying 'aid').""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'from Honduras, Guatemala and El Salvador' which modifies the verb 'withhold'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'from Honduras, Guatemala and El Salvador' which modifies the verb 'withhold'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'from Honduras, Guatemala and El Salvador' which modifies the verb 'withhold'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The text contains a prepositional phrase 'by Tribune Content Agency' which modifies the verb 'Distributed'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying phrases, single word modifiers, or multiplying and embedding modifiers. It simply provides publication and distribution information.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text contains neither prepositional phrases, single word modifiers, nor multiplying and embedding modifiers. It simply provides information about the copyright and distribution of the content.""
+}",[],FALSE,"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying phrases. It is a copyright notice and distribution information, which does not involve any modification of the subject, verb, or adjective.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying phrases. It is a copyright and distribution statement, not a sentence with descriptive or modifying elements.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any modifying phrases. It is a copyright notice and distribution information, which does not involve modifying the subject, verb, or adjective, nor does it contain single word modifiers or multiplying and embedding modifiers."" 
+}",[],0,[],,,,
+6125,[],They know that.,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the single word 'that', which functions as a subordinating conjunction here.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the single word 'that', which is a subordinating conjunction.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the single word 'that', which serves as a subordinating conjunction in this case.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the single word 'that', which functions as a subordinating conjunction in this context.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the single word 'that', which functions as a subordinating conjunction in this context.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The word 'know' is modified by the adverb 'that', indicating the manner in which the action is performed.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+6331,[],It is impossible to do all this without God’s assistance.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'without God’s assistance' which modifies the verb 'to do'. It also includes the single word modifier 'impossible' to modify the verb.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'without God’s assistance' modifies the verb 'to do' by providing information on what is necessary for the action to be possible.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence includes a prepositional phrase 'without God's assistance' which modifies the verb 'to do', indicating the condition under which the action cannot be achieved.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'without God’s assistance', which modifies the verb 'to do'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'without God’s assistance', which modifies the verb 'to do'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'without God’s assistance', which modifies the verb 'to do'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+7791,[],If you want the FBI to go back that far @[email protected] to investigate Ford’s allegations….,Modifying_phrases,['single_word_modifiers'],['single_word_modifiers'],['single_word_modifiers'],TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The text contains a prepositional phrase 'to investigate Ford’s allegations' which modifies the verb 'go back'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'back' modifies the verb 'go' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to investigate Ford’s allegations' modifies the verb 'go back' by specifying the purpose of the action.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'to investigate Ford’s allegations' which modifies the verb 'go back'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'to investigate Ford’s allegations' which modifies the verb 'go back'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'to investigate Ford’s allegations' which modifies the verb 'go back'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+7815,[],Julian has been vindicated in every possible way and yet he is isolated as few people are these days.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence uses the adjectives 'possible' and 'few' to modify the nouns 'way' and 'people' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The adjectives 'vindicated' and 'isolated' are single word modifiers that directly modify the subject 'Julian'. The adverb 'yet' modifies the verb 'is'."" 
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'yet' modifies the clause 'he is isolated', indicating a contrast between being vindicated and isolated.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'vindicated' and 'isolated' modify the subject 'Julian' and 'he' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'vindicated' and 'isolated' are single word modifiers that modify the subject 'Julian'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'vindicated' and 'isolated' modify the subject 'Julian' and describe his current state.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+7818,[],But really it comes down to the British government.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to the British government' which modifies the verb 'comes down.'""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'down to the British government', which modifies the verb 'comes'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to the British government' modifies the verb 'comes down'.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the British government' which modifies the verb 'comes down'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the British government' which modifies the verb 'comes down'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the British government' which modifies the verb 'comes down'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+7975,[],Laws are for conservatives.,Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],TRUE,"['[', ']']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjective 'conservatives' modifies the noun 'laws' by describing who the laws are for.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'for' modifies the verb 'are' by indicating the intended audience of the laws.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'conservatives' is used to specify the group to which the laws are attributed.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'for' modifies the verb 'are' by indicating the purpose or intended recipient of the laws.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'for' modifies the verb 'are' by indicating the purpose or intended recipient of the laws.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'for' modifies the verb 'are' by indicating the purpose or intended recipient of the laws.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+8594,[],"Ever since Adam and Eve committed the Original Sin, every living creature is subject to it.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains a prepositional phrase 'Ever since Adam and Eve committed the Original Sin' which modifies the verb 'is subject to.'""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Ever since Adam and Eve committed the Original Sin' modifies the verb 'is subject to' by providing information about when the condition started.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'ever since Adam and Eve committed the Original Sin' and 'to it', as well as the single word modifier 'Original' (modifying 'Sin').""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Ever since Adam and Eve committed the Original Sin' modifies the verb 'is subject to' by providing additional information about when the condition started.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Ever since Adam and Eve committed the Original Sin' modifies the verb 'is subject to' by providing additional information about when the subject became subject to the Original Sin.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'Ever since Adam and Eve committed the Original Sin' modifies the verb 'is subject to' by providing additional information about when the subject started being subject to the Original Sin.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The example contains single word modifiers in the form of the adjectives 'eternal' and 'damnation'. These adjectives modify the noun 'damnation', adding information about its nature.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'of God' and 'to themselves', which modify the verb 'resist'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'that resisteth the power' and 'to themselves eternal damnation', modifying the subject and verb respectively. It also includes single word modifiers like 'eternal' and 'damnation'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to themselves eternal damnation', which modifies the verb 'purchase'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to themselves eternal damnation', which modifies the verb 'purchase'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to themselves eternal damnation', which modifies the verb 'purchase'.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+8724,[],"Though House officials suspected that equipment was being stolen, the Capitol Police did not search their homes, The Daily Caller News Foundation learned, and did not ban them from the network until nearly a year later.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'from the network' modifies the verb 'ban' by providing additional information about the action.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence includes prepositional phrases 'from the network' and 'until nearly a year later' that modify the verb 'ban'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases""
+  ],
+  ""Explanation"": ""The sentence contains prepositional phrases 'though House officials suspected that equipment was being stolen' and 'from the network until nearly a year later', which modify the verbs 'search' and 'ban' respectively.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'of Modifying phrases' and 'from the network' which modify the verbs 'suspected' and 'ban' respectively.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'of Modifying phrases', 'from the network', and 'until nearly a year later' which modify the verbs and provide additional information.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains prepositional phrases such as 'of Modifying phrases', 'from the network', 'until nearly a year later', which modify the verbs and provide additional information.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+9396,[],Also on communion between the communities.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic or theme of the statement.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic of discussion or the action being discussed.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic of discussion.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic of discussion.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic of discussion.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'on communion between the communities' is a prepositional phrase that modifies the topic of discussion.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+9712,[],His life before joining the caliphate was unremarkable.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'unremarkable' modifies the noun 'life' and 'before' modifies the verb 'joining'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'before joining the caliphate' which modifies the noun 'life.'""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'before joining the caliphate' which modifies the noun 'life'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'unremarkable' modifies the noun 'life' in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'before joining the caliphate' modifies the noun 'life' by providing additional information about the time period being referred to.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'unremarkable' modifies the adjective 'life' by describing its quality.""
+}",['single_word_modifiers'],0,['single_word_modifiers'],,,,
+9866,[],But he is now a full-fledged member of the nuclear club.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member' and 'club' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member' and emphasize the complete status and category of membership.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member' in the sentence, indicating the complete and official status of the membership.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'full-fledged' and 'nuclear' modify the noun 'member'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+10073,[],"Hospitals have been forced to prioritize patients, ration services, and forgo elective surgeries.",Modifying_phrases,['single_word_modifiers'],['single_word_modifiers'],['single_word_modifiers'],TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to prioritize patients' modifies the verb 'forced', indicating the action taken by hospitals.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to prioritize patients' modifies the verb 'forced', the prepositional phrase 'of elective surgeries' modifies the verb 'forgo', and the prepositional phrase 'to prioritize patients, ration services' functions as a gerund phrase modifying the subject 'hospitals'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains multiple modifying phrases ('to prioritize patients', 'ration services', 'forgo elective surgeries') within a single sentence, demonstrating the use of multiplying and embedding modifiers.""
+}",['multiplying_and_embedding_modifiers'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to prioritize patients' modifies the verb 'forced', indicating the action taken by hospitals.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to prioritize patients' modifies the verb 'forced', and the prepositional phrase 'to ration services' modifies the verb 'forced'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to prioritize patients' modifies the verb 'forced', indicating the action taken by hospitals. The prepositional phrase 'to ration services' modifies the verb 'forced', indicating another action taken by hospitals. The prepositional phrase 'to forgo elective surgeries' modifies the verb 'forced', indicating a third action taken by hospitals.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+10448,[],Anybody?,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains the single word modifiers 'detailed' (adjective) and 'extensively' (adverb).""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The example text contains prepositional phrases that modify the noun 'survey' and the verb 'found', as well as single word modifiers such as the adjective 'wide' and the adverb 'actually'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example text contains prepositional phrases that modify the subject, verb, or adjective. For example, 'in the news conference,' 'on the controversial issue,' and 'under pressure' are all prepositional phrases modifying different parts of the sentence.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text uses adjectives and adverbs to modify nouns and verbs, such as 'specializing' and 'news'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The example text contains single word modifiers in the form of adjectives and adverbs, such as 'important' and 'recently'. These modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The example text contains adjectives and adverbs that modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+11361,[],Email This field is for validation purposes and should be left unchanged.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the purpose of the field.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the noun phrase 'this field', providing additional information about the purpose of the field.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the noun 'field' within the given text.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the purpose of the field, indicating why it exists.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the purpose of the field.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'for validation purposes' modifies the purpose of the field.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+11572,[],You also agree to this site's Privacy Policy and Terms of Use.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The phrase 'to this site's Privacy Policy and Terms of Use' is a prepositional phrase that modifies the verb 'agree.' It provides additional information about what the agreement pertains to.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to this site's Privacy Policy and Terms of Use' modifies the verb 'agree'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to this site's Privacy Policy and Terms of Use' which modifies the verb 'agree'.""
+}",['prepositional_phrases'],TRUE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to this site's Privacy Policy and Terms of Use' modifies the verb 'agree' by specifying what the user agrees to.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to this site's Privacy Policy and Terms of Use' modifies the verb 'agree' by specifying what the user is agreeing to.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'to this site's Privacy Policy and Terms of Use' modifies the verb 'agree' by specifying what the user agrees to.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+11737,[],"But May’s growth was less than that in April and March, possibly an emerging trend.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'less' modifies the verb 'was'. The adjective 'emerging' modifies the noun 'trend'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'less' and 'possibly' modify the growth, indicating the degree and likelihood.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'less' modifies the verb 'was', indicating the degree of growth.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'less' and 'possible' are used to modify the noun 'growth' and the noun phrase 'an emerging trend' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'less' and 'emerging' are used to modify the noun 'growth' and indicate the degree and nature of the growth.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'less' and 'emerging' are used to modify the noun 'growth' and the noun phrase 'an emerging trend', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+11877,[],"Today at Cape Canaveral, SpaceXlaunched a new sensor to the International Space Station named TSIS-1.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The text includes the prepositional phrase 'at Cape Canaveral' which modifies the location of the event.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at Cape Canaveral' modifies the verb 'launched' by providing information about where the launch took place.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases 'at Cape Canaveral' and 'to the International Space Station' which modify the verb 'launched' by providing additional information about where the action took place and the destination. Additionally, the single word modifier 'new' modifies the noun 'sensor' providing additional information about the type of sensor."" 
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at Cape Canaveral' modifies the verb 'launched' by providing the location of the action.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at Cape Canaveral' modifies the verb 'launched' by providing the location of the event.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at Cape Canaveral' modifies the verb 'launched' by providing the location of the event.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+11936,[],America's Immigration Voice.,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifiers 'America's' and 'Immigration' modify the noun 'Voice' by specifying its belonging and type.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'America's' is used to modify the noun 'Voice' by specifying which voice is being referred to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The text contains a single word modifier, 'Immigration,' which modifies the noun 'Voice' to specify the type of voice.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'America's Immigration Voice' contains the single word modifiers 'America's' and 'Immigration' to modify the noun 'Voice'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'America's Immigration Voice' contains the single word modifiers 'America's' and 'Immigration' to modify the noun 'Voice'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The title 'America's Immigration Voice' contains the single word modifiers 'America's' and 'Immigration'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+12467,[],"U.S. politics have indeed been coarsened, with Trump playing a lead role.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The single word modifier 'coarsened' is used to modify the verb 'have been' indicating the condition of U.S. politics.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with Trump playing a lead role' which modifies the main verb 'have been coarsened'. It also includes the single word modifier 'indeed' which modifies the verb 'have been coarsened' by emphasizing it.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The adverb 'indeed' modifies the verb 'have been coarsened' by intensifying it, indicating certainty and emphasizing its truthfulness.""
+}",['single_word_modifiers'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'with Trump playing a lead role' which modifies the main clause by providing additional information about how U.S. politics have been coarsened.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'indeed' modifies the verb 'have been coarsened' by emphasizing the extent to which U.S. politics have been affected.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'with Trump playing a lead role' modifies the main verb 'have been coarsened' by providing additional information about how the coarsening occurred.""
+}",['prepositional_phrases'],0,['prepositional_phrases'],,,,
+12626,[],It did what it is designed to do.,Modifying_phrases,[],[],[],TRUE,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The example contains a single word modifier 'designed' which is an adjective modifying the pronoun 'it'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the adverb 'did' modifying the verb 'what' and the adjective 'designed' modifying the verb 'is'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'designed' which functions as an adjective modifying the verb 'is.'""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'designed' which modifies the verb 'is'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'designed' which is an adjective modifying the pronoun 'it'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains the single word modifier 'designed' which is an adjective modifying the pronoun 'it'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+12751,[],"To keep up everyone’s morale, the museum staff, while bombs were falling and they and their patrons were equally starving, continued to give tours and lectures, describing perfectly the artworks that had been removed.",Modifying_phrases,['single_word_modifiers'],['single_word_modifiers'],['single_word_modifiers'],TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases that modify the subject and verb, as well as multiplying and embedding modifiers by using multiple modification words and phrases within a single sentence.""
+}","['prepositional_phrases', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases that modify the actions of the museum staff (while bombs were falling) and their condition (equally starving), as well as single word modifiers such as 'perfectly' describing how the artworks were described.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'while bombs were falling' which modifies the action of 'continued to give tours and lectures'.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('to keep up everyone’s morale', 'while bombs were falling', 'of the artworks that had been removed') and single word modifiers ('perfectly'). These modifiers help to provide additional information and context to the main actions and descriptions in the sentence.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('to keep up everyone’s morale', 'while bombs were falling', 'of the artworks that had been removed'), single word modifiers ('perfectly'), and multiplying and embedding modifiers ('while bombs were falling and they and their patrons were equally starving').""
+}","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""],
+  ""Explanation"": ""The sentence contains prepositional phrases ('to keep up everyone’s morale', 'while bombs were falling', 'and they and their patrons were equally starving'), single word modifiers ('perfectly'), and multiplying and embedding modifiers (using multiple modification words and phrases within a single sentence).""
+}","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']",0,"['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']",,,,
+13007,[],"In a series of tweets on Thursday, President Trump said the right things.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'on Thursday' modifies the time of the action, identifying when President Trump made the tweets.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [
+    ""prepositional phrases"",
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'on Thursday' modifying the verb 'said' and a single word modifier 'right' modifying the noun 'things'.""
+}","['prepositional_phrases', 'single_word_modifiers']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'on Thursday' modifies the time of the action.""
+}",['prepositional_phrases'],FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'on Thursday' which modifies the timing of the action in the main clause.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'on Thursday' modifies the timing of the action in the sentence.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'in a series of tweets on Thursday' modifies the verb 'said' by providing information about when and where the action took place.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,
+14506,[],"When asked about the threats, Haig said, “I’ve had people screaming they want me to die through my front door.""",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'screaming' modifies the verb 'had' and the adjective phrase 'through my front door' modifies the verb 'screaming'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [
+    ""single word modifiers""
+  ],
+  ""Explanation"": ""The adverb 'screaming' and the adverbial phrase 'through my front door' are used as single word modifiers in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'screaming' modifies the verb 'had' and describes the manner in which the people expressed their threats.""
+}",['single_word_modifiers'],TRUE,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'screaming' modifies the verb 'had', and the adjective 'front' modifies the noun 'door'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'screaming' modifies the verb 'had', and the adjective 'front' modifies the noun 'door'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adverb 'screaming' modifies the verb 'had', and the adjective 'front' modifies the noun 'door'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],,,,
+15233,[],"At first, Campos, a guard at the Mandalay Bay Resort and Casino, was hailed a hero for helping guide police to gunman Stephen Paddock’s room on the 32nd floor.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",TRUE,"['multiplying_and_embedding_modifiers', 'single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at the Mandalay Bay Resort and Casino' modifies the noun 'guard' by providing additional information about where Campos works.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence includes the prepositional phrase 'at the Mandalay Bay Resort and Casino' which modifies the noun 'guard'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at the Mandalay Bay Resort and Casino' and a single word modifier 'hero'. The prepositional phrase modifies the noun 'Campos' while the single word modifier 'hero' modifies the adjective 'hailed'.""
+}","['prepositional_phrases', 'single_word_modifiers']",FALSE,"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at the Mandalay Bay Resort and Casino' modifies the noun 'guard' by providing additional information about where Campos works.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'at the Mandalay Bay Resort and Casino' which modifies the noun 'guard'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'at the Mandalay Bay Resort and Casino' modifies the noun 'guard' by providing additional information about where Campos works.""
+}",['prepositional_phrases'],1,['prepositional_phrases'],,,,

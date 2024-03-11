@@ -1,0 +1,180 @@
+[
+    {
+        "key": "Language of origin",
+        "values":
+        [
+            "Old English Core",
+            "Norman French",
+            "Latin/Greek"
+        ],
+        "descriptions":
+        [
+            "language consisting of the simplest and most frequently used words in contemporary English.",
+            "language containing many legal and military terms which came from the Norman French conquest. Terms associated with luxury also often come from French. Examples: 'felony', 'inquest', 'jury', 'lieutenant', 'army', 'battle', 'huate couture'.",
+            "the vernacular of the Church and Academe. Modern English is comprised mainly of words deriving from Latin. Examples: 'fact', 'explain', 'exist', 'crisis', 'appropriate', 'scheme'. "
+        ],
+        "moreinfo": "more info",
+        "question" : "Does the following sentence use _PROP_ language?"
+    },
+    {
+        "key": "New words and changing uses",
+        "values":
+        [
+            "foreign borrowing",
+            "compounds",
+            "prefixes/suffixes",
+            "clipping",
+            "blends",
+            "conversions",
+            "catachresis",
+            "acronyms",
+            "proper nouns to common nouns",
+            "analogy",
+            "fabrication",
+            "onomatopoeia",
+            "taboo deformation",
+            "doubling"
+        ],
+        "descriptions":
+        [
+            "is borrowing words from another language. Example: 'cafe latte'",
+            "is when users yoke exisitng words together to create a compound. Examples: 'open house', 'open-minded', 'open-ended', 'political correctness', 'special interests'",
+            "is when prefixes or suffixes change meaning (co-, hyper-, multi-). Examples: 'multimedia', 'hyperpartisan', 'Truman-esque'",
+            "is making a shorter version of a word. Examples: 'fax from facsimilie', 'porn from pornography', 'app from application'",
+            "is visiblly and phonetically combining terms to create new entities. Examples: 'televangelist (televeision + evangelist)', 'shockumentary (shock + documentary)'",
+            "is changing a term from one part of speech into another, such as using a noun as a verb. Examples: 'to lame out (lame is originally an adjective)', 'I just texted him (text is originally a noun)'",
+            "is borrowing of an available word to designate something that lacks a label. Example: 'spam for unwanted email'",
+            "occur when words are formed from the first letters of strings of words. Examples: 'FBI', 'CIA', 'LOL'",
+            "is using names of people or products as a general term. Examples: 'kleenex for tissue', 'xerox for copy', 'She is a Mata Hari'",
+            "is when a new word is formed according to the model of another word that is close in meaning. Examples: 'prequel and interequel were formed by analogy from sequel',  'proteonomics', 'genomics'",
+            "is when totally made up words are used. Examples: 'fribble', 'taffy', 'kluge/kludge'",
+            "is when words are used that sound like what they mean. Examples: 'cock-a-doodle-do', 'swish', 'hee-haw'",
+            "is when less offensive words are used in place of their more offensive counterparts, otherwise known as euphemisms. Examples: 'darn it', 'gee-whiz'",
+            "is when words are duplicated to emphasise a point or create new meaning. Examples: 'goody-goody', 'riff-raff', 'sing-song'"
+        ],
+        "moreinfo": "more info",
+        "question" : "Does the following sentence utilize _PROP_?"
+    },
+    {
+        "key": "Lexical and semantic fields",
+        "values":
+        [
+            "prototype",
+            "abstract",
+            "concrete",
+            "indefinite/thesis",
+            "definite/hypothesis"
+        ],
+        "descriptions":
+        [
+            "is when a specific member of a group is used to represent that group. Example: 'robin' as a standin for bird.",
+            "is a type of field which includes broad categories or relationships. Such abstract categories would be hard to visualize without thinking of specific examples of which there could be many. An 'implement' is a broad category of tools. 'implement' is abstract because there is no singular representation of it.",
+            "is a type of field which includes physical objects, actions, or immediate sense impressions. These can usually be mentally visulaized. Examples: 'shovel','loud', 'velvety'",
+            "is a type of field where there is no reference to specific persons, time, or place. Example: 'Should a man marry?'",
+            "is a type of field where specific people or things are referenced. Example: 'Should Cato marry?'"
+        ],
+        "moreinfo": "Pg. 61. ",
+        "question":"Does the following sentence contain a lexical or sematic field which could be characterised as _PROP_?"
+    },
+    {
+        "key": "Language varieties",
+        "values":
+        [
+            "correctness",
+            "clarity",
+            "forcefulness",
+            "low",
+            "middle",
+            "high",
+            "dialects/registers",
+            "register shift",
+            "cliches/idioms",
+            "maxims/proverbs",
+            "allusions"
+        ],
+        "descriptions":
+        [
+            "is well formed grammatically",
+            "is understandable to the intended audience",
+            "is finding memorable or striking expresion which reinforces the message",
+            "is a level of appropriateness which is informal or colloquial (sometimes vulgar). Examples: 'I was like, dude..','I get it', 'I would sure like to...'",
+            "is a level of appropriateness which is widely accepted convention, typical of reputable books, magazines, and newspapers - otherwise known as Standard Edited American English",
+            "is a level of appropriateness which is formal, or 'grand'. Most often used in official documents and scholarly publications",
+            "is the use of terms which are specific to a praticular region, occupation or genre such as medical terms, police jargon, etc.",
+            "is when the author changes the register for effect. For example by dropping from a high to a low level of appropriateness. Example: 'This is a dangerous method, easily leading to dogmatism, unreality, improper respect for the empirical record, and all the speculative excesses less politely known as bullshit.'",
+            "is a category of prepared phrases that fall in and out of usage. Examples: 'She hit the nail on the head', 'At the end of the day', 'Just say no', 'Ought to know better'",
+            "is a category of words/sentences/phrases which express common wisdom. Examples: 'don't put all your eggs in one basket', 'if anything can go wrong, it will'",
+            "is the importation of a phrase from another context without explictly naming the other context - intertextuality (it requires cultural knowledge). Examples: 'Cage against the machine' as used in a headline about Nicalas Cage alluding to the band name 'Rage against the machine'"
+        ],
+        "moreinfo": "The majority of cases includde 'correctness', 'clarity', and 'middle'. Since all of the sentences are taken from news articles, and the intended audience is the general public, this is expected. ",
+        "question":"Does the following sentence demonstrate or contain '_PROP_'?"
+    },
+    {
+        "key": "Tropes",
+        "values":
+        [
+            "synecdoche",
+            "metonymy",
+            "antonomasia",
+            "metaphor",
+            "allegory",
+            "simile",
+            "full analogies",
+            "irony",
+            "hyperbole",
+            "litotes",
+            "amphiboly",
+            "paradox",
+            "paralepsis/praeteritio",
+            "euphemism"
+        ],
+        "descriptions":
+        [
+            "when a part is used to represent the whole. Example: in 'farm hand', hand represents the person who works on the farm",
+            "when a term is chosen according to some recoverable, specifiable principle or association, as a subsitution for the intended object. Example: 'suit' is a term substituted for business man",
+            "when a proper name is replaced with a descriptive label that characterizes the subject. Examples: 'The King' to describe Elvis Presley, or 'The Little Corporal' describes Napoleon.",
+            "when a term from a different semantic field is used to create a novel paring that expresses a point trenchantly. Example: In 'All the world's a stage', stage comes from a different semantic field than world.",
+            "a story with hidden meaning, or an extended metaphor",
+            "figurative language which compares different things using the word 'like' or 'as'. Examples: 'as brave as a lion', 'ran like the wind'",
+            "the use of explictly stated metaphors or analogies (often in entire passages)",
+            "when one thing is said, while another thing is meant. Example: 'What a beautiful day!' when in fact it is rainy and cold",
+            "an exaggerated statement or claim not meant to be taken literally, an overstatement. Example: 'I'm so hungry, I could eat a horse'.",
+            "an ironic understatement in which an affirmative is expressed by the negative of its contrary. Example: 'That's not a bad idea' is used to mean it's a great idea.",
+            "ambiguity in grammar. It is a phrase that can genuinely be construed to have two meanings. Example: 'I shot a burglar in my pyjamas'.",
+            "deliberately self-contradicting. The author maintains a contradiciton knowing that the audience will percieve it as such, and then goes on to resolve it. Example: 'If I know one thing, it's that I know nothing.'",
+            "saying something while denying saying it. Example: 'It goes without saying...', 'Not to mention the fact that...'",
+            "substitution of a mild or polite phrase for a crude or offensive one. Often used to minimize the gravity of something. Example: 'Let go' instead of 'fired'"
+        ],
+        "moreinfo": "more info",
+        "question":"Does the following sentence contain _PROP_?"
+    },
+    {
+        "key": "Figures of word choice",
+        "values":
+        [
+            "agnominatio",
+            "metaplasms",
+            "polyptoton",
+            "ploce",
+            "anatanaclasis",
+            "synonyms",
+            "rhetorical conditional",
+            "correctio",
+            "emphasis"
+        ],
+        "descriptions":
+        [
+            "(schemes of words) Play on words. The agnominatio is useful when the arguer wants to pose two—and only two—alternatives. Examples: 'the ballot or the bullet', 'Genral Betray us? for General Petraeus', 'A bad child is really a sad child'",
+            "(schemes of words) A word that is constructed by “adding, subtracting, or changing letters or syllables in the beginning, middle, or ending of a word” in order to emphasize a deviation from the standard form. Example: 'dawg' instead of 'dog', 'Copula(tions)', 'Re(de)-erecting'",
+            "(schemes of words) Change of case, or reusing the same word in different form. Examples: 'he dreamed a dream', 'age of ages', 'they loved with great love'",
+            "Repetition of a word either in a single sentence or throughout a passage",
+            "Pun - when a word is repeated but its meaning is different in each instance. Example: 'I'm not a businessman, I'm a business, man'",
+            "Words with similar meaning. Sometimes through substituting words with their synonyms the connotaion is changed. Also known as conceptual drift. Examples: 'immigrant' to 'illegal alien'",
+            "Reductio ad absurdium - if/then statement where the antecendent is absurd, or cannot be true. Example: 'If pigs could fly'.",
+            "Deliberately making a mistake and then immediatey correcting it. Allows the speaker to introduce alternative connotations or dubious interpretations.",
+            "Significatio / innuendo - use of leading words that suggest more than is actually stated. Allows the speaker to benefit from an implication while allowing deniability."
+        ],
+        "moreinfo": "(pg. 127) First are the schemes of words, which involve small phonological/orthographical variations to the words themselves, with potentially significant consequences for persuasion. Second are figures of sound, exploiting aural similarities among words and creating patterns that audiences might or might not notice. Third is an odd group called figures of selection; these make explicit the act of searching for and choosing appropriate wording.\n Polyptoton example (pg. 130): 'The very idea of the power and the right of the people to establish government presupposes the duty of every individual to obey the established government.' The argument here is carried by to establish/established, infinitive and past participle forms of the same verb. This repetition epitomizes the connection between the power to establish a government and the obligation to obey it, once established.",
+        "question":"Does the following sentence contain _PROP_?"
+    }
+]

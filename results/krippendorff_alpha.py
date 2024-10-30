@@ -17,6 +17,14 @@ except ImportError:
 
 import ast
 
+def jaccard_metric(a,b):
+
+    if len(a.union(b)) > 0:
+        return 1-len(a.intersection(b))/len(a.union(b))
+    else:
+        return 0
+
+
 def nominal_metric(a, b):
     return a != b
 
@@ -76,7 +84,10 @@ def krippendorff_alpha(data, metric=interval_metric, force_vecmath=False, conver
                 except KeyError:
                     its = []
                     units[it] = its
-                its.append(convert_items(g))
+                if convert_items:
+                    its.append(convert_items(g))
+                else:
+                    its.append(g)
 
 
     units = dict((it, d) for it, d in units.items() if len(d) > 1)  # units with pairable values

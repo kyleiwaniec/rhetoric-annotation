@@ -1,0 +1,577 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_FT_Maj_gpt-4o-mini_0.0_V4,property_FT_Maj_gpt-4o-mini_0.0_V4
+23,[0],"“This is a clear violation of the Senate Ethics rules which safeguard against the appearance or actuality of elected officials ‘cashing in’ on their official position for political purposes,” said Kendra Arnold, executive director of FACT.",Lexical_and_semantic_fields,"['definite/hypothesis', 'abstract', 'indefinite/thesis']",['definite/hypothesis'],"['concrete', 'abstract', 'definite/hypothesis']",False,[],"{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The use of concrete language such as 'Senate Ethics rules', 'elected officials', and 'cashing in' indicates the focus on physical objects, actions, or immediate sense impressions.""
+}",['concrete'],"{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The use of 'Senate Ethics rules', 'elected officials', 'official position', and 'political purposes' demonstrates the abstract nature of the language used, focusing on broad categories and relationships rather than specific physical objects or actions.""
+}",['abstract'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The statement refers to a specific person, Kendra Arnold, and her official position as the executive director of FACT.""
+}",['definite/hypothesis'],False,"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The use of 'the Senate Ethics rules' and 'elected officials' are specific and definite, indicating a definite reference to specific people and things. The mention of 'safeguard against the appearance or actuality of elected officials 'cashing in' on their official position for political purposes' is abstract, referring to a broad category or relationship.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific people and things, such as 'the Senate Ethics rules' and 'Kendra Arnold, executive director of FACT.'""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The quote refers to specific Senate Ethics rules and a specific person, Kendra Arnold, making it a definite statement.""
+}",['definite/hypothesis'],0,['definite/hypothesis'],0,0,,"['concrete', 'abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group. It discusses Senate Ethics rules without using a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like violation, ethics, and political purposes, which are broad and abstract categories that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as violation, ethics, and political purposes, which do not refer to physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses a violation of Senate Ethics rules in a general context, without referring to specific individuals, times, or places. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific entities, such as the Senate Ethics rules and Kendra Arnold, executive director of FACT, which indicates that it contains a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Lexical_and_semantic_fields,"['indefinite/thesis', 'definite/hypothesis']",['definite/hypothesis'],['definite/hypothesis'],False,[],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'John Hancock' as the first signer of the Declaration of Independence provides a specific and definite reference to a person.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, John Hancock, who is the first signer of the Declaration of Independence. This makes it a definite or hypothesis statement.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'John Hancock' specifically refers to a particular person, meeting the criteria for the definite/hypothesis property.""
+}",['definite/hypothesis'],True,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'John Hancock' as the first signer of the Declaration of Independence is a specific reference to a person, indicating the use of definite/hypothesis property.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, John Hancock, making it a definite or hypothesis statement.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, John Hancock, making it a definite reference.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,1,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence refers to John Hancock as a specific individual, but it does not use him as a representative or prototype for a broader category. Therefore, it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to John Hancock and the Declaration of Independence, which are both associated with broad historical and political concepts. These concepts are abstract in nature, as they encompass ideas of freedom, governance, and national identity that cannot be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence refers to John Hancock and the Declaration of Independence, which are historical and abstract concepts rather than physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to John Hancock and the Declaration of Independence, which are both historical and general references rather than specific or current individuals or events. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions John Hancock and the Declaration of Independence, which are specific people and things. Therefore, it fits the definition of a lexical or semantic field that includes definite references.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Lexical_and_semantic_fields,['definite/hypothesis'],['definite/hypothesis'],['definite/hypothesis'],True,[],"{
+  ""Properties"": [""definite/hypothesis"", ""prototype""],
+  ""Explanation"": ""The text contains references to 'the Cardinal's exposition' as a specific entity (definite/hypothesis), and the mention of 'the help of the sacraments' represents a specific example (prototype) within the broader category of the sacraments."" 
+}","['definite/hypothesis', 'prototype']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'the Cardinal's exposition' and 'both Italian and English' indicates specific people and things, making this an example of definite or hypothesis language.""
+}",['definite/hypothesis'],"{
+    ""Properties"": [""prototype""],
+    ""Explanation"": ""The mention of 'the help of the sacraments' represents a specific member of the group of religious practices, serving as a prototype for the broader category of spiritual assistance.""
+}",['prototype'],False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Cardinal's exposition' and 'the help of the sacraments' indicates specific people and things, making it a definite/hypothesis statement.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Cardinal's exposition' and 'both Italian and English' indicates specific people and languages, making the text definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Cardinal's exposition' and 'in both Italian and English' indicates specific people and things, making it a definite/hypothesis statement.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,0,,"['concrete', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group being used to represent that group. It discusses the sacraments in a general context without referring to a specific type of sacrament or any other specific item that could serve as a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like exposition and sacraments, which are abstract ideas that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as exposition and sacraments, which cannot be physically visualized or associated with immediate sense impressions. Therefore, it does not contain a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to the Cardinals exposition and the concept of sacraments in a general way, without specifying particular individuals, times, or places. This makes it a clear example of an indefinite or thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions the Cardinal, which is a specific person, indicating that it falls into the category of definite/hypothesis.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Lexical_and_semantic_fields,"['indefinite/thesis', 'definite/hypothesis']","['prototype', 'definite/hypothesis']",['definite/hypothesis'],False,[],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Chris Bryant' as a specific person and 'May' as a specific reference to the Prime Minister indicates the presence of definite or hypothesis lexical and semantic fields.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people (Chris Bryant, May, Donald Trump) and actions (urging, issuing an official ban) which are concrete and definite in nature.""
+}","['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text contains specific reference to 'Chris Bryant' and 'Donald Trump' (definite/hypothesis). It also discusses broad categories and relationships such as 'condoning fascism' and 'not conducive to the public good' (abstract).""
+}","['definite/hypothesis', 'abstract']",False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Chris Bryant', 'May', and 'Donald Trump', making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Chris Bryant' and 'Theresa May', making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Chris Bryant', 'May', and 'Donald Trump', making it definite/hypothesis.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses political figures and actions without indicating that any specific item (like robin for bird) is being used as a representative example.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like fascism and public good, which are broad and abstract categories that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses political actions and opinions without mentioning any physical objects or immediate sense impressions. Terms like ban and public good are abstract and do not evoke a concrete image.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence contains references to individuals and roles (e.g., Chris Bryant, senior Labour backbencher, Donald Trump), but it discusses broader issues like public good and fascism without specifying a particular time or place. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence contains specific references to individuals, such as Chris Bryant and Donald Trump, which indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Lexical_and_semantic_fields,['definite/hypothesis'],['definite/hypothesis'],['definite/hypothesis'],True,[],"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text mentions a specific person, Kavanaugh, and refers to a broad category of rights, which are abstract concepts.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text refers to a specific person (Kavanaugh) and a broad concept (4th Amendment right), hence using both definite/hypothesis and abstract properties.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains concrete references to specific people (Kavanaugh, others) and actions (undermining 4th Amendment right)."" 
+}","['concrete', 'definite/hypothesis']",False,"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text refers to a specific person, Kavanaugh, and a broad category of rights, the #4thAmendment right, making use of both definite and abstract language.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, Kavanaugh, and a specific role, being on the Supreme Court.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text contains a specific reference to Kavanaugh, a specific person, and discusses a broad category of rights (4th Amendment) without specific details.""
+}","['definite/hypothesis', 'abstract']",0,"['definite/hypothesis', 'abstract']",0,1,humans missed one,"['definite/hypothesis', 'abstract']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses a situation involving the Supreme Court and the Fourth Amendment, but it does not mention any specific type of bird or any other category that would have a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase undermining our #4thAmendment right against unreasonable searches and seizures refers to a broad legal concept that encompasses various interpretations and implications, making it difficult to visualize without specific examples. Therefore, it is considered abstract.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as the 4th Amendment and rights, which do not refer to physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses a future scenario involving Kavanaugh on the Supreme Court and mentions a general principle regarding the 4th Amendment. There are no specific references to particular individuals or a specific time, making it a case of the indefinite or thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references a specific person, Kavanaugh, and a specific institution, the Supreme Court, which are both examples of definite or hypothesis fields.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+275,[3],"You believe any woman who goes against a Republican and you don't believe any woman who goes against a Democrat.""",Lexical_and_semantic_fields,"['definite/hypothesis', 'indefinite/thesis']","['prototype', 'indefinite/thesis']",['indefinite/thesis'],False,"['clarity', 'correctness', 'forcefulness', 'middle']","{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement is a generalization about women and their political affiliations, without reference to specific individuals, political parties, or a particular point in time.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'a Republican' and 'a Democrat' suggests specific and identifiable groups, indicating the presence of the definite/hypothesis property. Additionally, the use of 'any woman' implies a prototype representing the broader category of women in relation to their political affiliations.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement presents a general judgment about women who go against Republican or Democrat candidates, without reference to specific individuals or situations. It is a broad and general statement.""
+}",['indefinite/thesis'],False,"{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The statement refers to specific groups (Republican and Democrat) and presents a specific belief about women who go against them, indicating the use of definite/hypothesis. Additionally, the statement uses the prototype of 'woman' as a stand-in for a group of women who hold certain political beliefs.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The statement refers to specific political parties (Republican and Democrat), making it a definite/hypothesis. It also uses the prototype of 'woman' as a representative of a group.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The statement uses the prototype of 'woman' as a stand-in for a group, and also refers to specific political parties (Republican and Democrat), making it definite/hypothesis.""
+}","['prototype', 'definite/hypothesis']",1,"['prototype', 'definite/hypothesis']",0,0,,['indefinite/thesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain a specific member of a group being used to represent that group. It discusses beliefs about women in relation to political parties but does not use a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses political beliefs and biases, which are broad and abstract concepts that can encompass many specific instances and interpretations. Therefore, it fits the criteria for an abstract category.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses political beliefs and opinions about women in relation to political parties, which are abstract concepts. There are no physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to any woman and does not specify a particular person, time, or place, which makes it a general or indefinite reference.', 'Property': 'indefinite/thesis'}, {'Answer': 'no', 'Explanation': 'The sentence refers to any woman and does not specify any particular individual or entity. Therefore, it does not contain a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis']"
+300,[3],"You do not like to beat around the bush, and neither do we, so allow us to say frankly that we do not understand your teaching about Islam, as we read in paragraphs 252 and 253 of Evangelii Gaudium, because it does not account for the fact that Islam came AFTER Christ, and so is, and can only be, an Antichrist (see 1 Jn 2.22), and one of the most dangerous because it presents itself as the fulfillment of Revelation (of which Jesus would have been only a prophet).",Lexical_and_semantic_fields,"['concrete', 'definite/hypothesis']","['concrete', 'definite/hypothesis']","['concrete', 'definite/hypothesis']",True,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text makes reference to specific paragraphs (252 and 253 of Evangelii Gaudium), indicating a definite and specific source of information. Additionally, the argument about Islam being an Antichrist and dangerous presents a broad and abstract categorization of Islam in relation to Revelation and the role of Jesus.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific paragraphs (252 and 253 of Evangelii Gaudium) and makes a specific mention of 'Islam,' 'Christ,' and 'Revelation,' thus indicating a definite and specific focus on these concepts.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific references to 'paragraphs 252 and 253 of Evangelii Gaudium' and '1 Jn 2.22', making it definite/hypothetical.""
+}",['definite/hypothesis'],False,"{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The text uses the prototype of 'Islam' as a stand-in for a group, and it also refers to specific religious concepts and beliefs ('Islam', 'Christ', 'Antichrist', 'Revelation').""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific paragraphs (252 and 253 of Evangelii Gaudium) and specific biblical references (1 Jn 2.22), indicating a definite and specific context.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific paragraphs 252 and 253 of Evangelii Gaudium, making it a definite reference to particular parts of a document.""
+}",['definite/hypothesis'],0,['definite/hypothesis'],1,0,,"['concrete', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence discusses concepts related to Islam and Christianity but does not use a specific member of a group to represent that group. Therefore, it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses complex and broad concepts related to religion and theology, such as the relationship between Islam and Christianity, and the idea of fulfillment of Revelation. These topics are abstract and cannot be easily visualized without specific examples, fitting the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts and theological ideas rather than physical objects or actions that can be visually imagined. Terms like Antichrist and fulfillment of Revelation are not concrete.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts and ideas without referring to specific persons, times, or places. It uses terms like Islam, Antichrist, and Revelation, which are general and abstract, indicating that it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific entities such as Islam, Evangelii Gaudium, and Jesus, which are all identifiable and specific. Therefore, it fits the criteria for the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+311,[3],"The Vatican presents a choice: the world, or Christ.",Lexical_and_semantic_fields,"['abstract', 'definite/hypothesis']","['abstract', 'definite/hypothesis']","['abstract', 'definite/hypothesis']",True,"['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text presents a broad and conceptual choice between 'the world' and 'Christ', making it an example of an abstract lexical and semantic field.""
+}",['abstract'],"{
+  ""Properties"": [""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains an abstract concept of 'the world' and a definite/hypothesis concept of 'Christ'.""
+}","['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The sentence uses the abstract concepts of 'the world' and 'Christ' to present a definite choice.""
+}","['abstract', 'definite/hypothesis']",False,"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'the world' and 'Christ' represents a choice between two broad categories or relationships, making use of abstract concepts.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'the world' and 'Christ' represents a choice between two broad categories or relationships, making use of abstract concepts.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'the world' and 'Christ' represents a choice between two broad categories or relationships, making use of abstract concepts rather than specific individuals or objects.""
+}","['prototype', 'abstract']",1,"['prototype', 'abstract']",1,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses concepts (the world and Christ) rather than using a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase the world, or Christ represents broad and abstract concepts that are difficult to visualize without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts (the world and Christ) rather than physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase the world, or Christ refers to broad concepts rather than specific individuals or times, making it a clear example of an indefinite or thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions The Vatican, which is a specific place, and therefore it fits the criteria for the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+319,[3],It’s not coming back.,Lexical_and_semantic_fields,['indefinite/thesis'],['indefinite/thesis'],['indefinite/thesis'],True,"['concrete', 'indefinite/thesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The phrase 'It's not coming back' refers to a specific and tangible thing, suggesting the use of the concrete property. The word 'it' may also represent a prototype within a group of things that could potentially come back.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text uses the concrete property as it refers to the physical absence of something (it) without specific details.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains a concrete expression, referring to the physical object or action of something not returning."" 
+}",['concrete'],False,"{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The statement refers to a physical object or action, indicating a sense of finality or loss.""
+}",['concrete'],"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The use of 'it' suggests a specific, concrete object or concept, which could be considered a prototype for a broader category.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The statement 'It's not coming back' refers to a specific, concrete object or action, and could potentially be seen as a prototype for a broader category of things that are not returning.""
+}","['prototype', 'concrete']",0,"['prototype', 'concrete']",1,0,,['indefinite/thesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group or use a specific example to represent a broader category. Therefore, it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'no', 'Explanation': 'The sentence It’s not coming back. does not contain any broad categories or relationships that would be considered abstract. It is a specific statement about something not returning, which does not require thinking of multiple examples or categories.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence It’s not coming back. does not refer to any physical objects, actions, or immediate sense impressions. It is more abstract and does not provide any concrete imagery that can be mentally visualized.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase It’s not coming back does not refer to any specific person, time, or place, making it a general statement. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not reference any specific people or things; it is a general statement.', 'Property': 'definite/hypothesis'}]",['indefinite/thesis']
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Lexical_and_semantic_fields,['definite/hypothesis'],['definite/hypothesis'],['definite/hypothesis'],True,"['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'God Himself' as a prototype represents the ultimate authority, and the discussion of morality is abstract and deals with broad categories of belief systems.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The text uses abstract concepts like 'it' and 'growing numbers of Catholics', as well as a definite/hypothesis with 'Catholics' referring to specific people.""
+}","['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'it' and 'growing numbers of Catholics' indicate a broad category and specific group of people, fitting the properties of abstract and definite/hypothesis.""
+}","['abstract', 'definite/hypothesis']",False,"{
+  ""Properties"": [""abstract"", ""definite/hypothesis""]
+  ,
+  ""Explanation"": ""The text contains an abstract concept (morality) and refers to a specific group (Catholics).""
+}","['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text contains an abstract concept of morality and religious belief, without specific reference to physical objects or actions.""
+}",['abstract'],"{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text uses the abstract concept of 'immoral' to describe the behavior of growing numbers of Catholics, rather than specific concrete actions or objects.""
+}",['abstract'],0,['abstract'],0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group being used to represent that group. It discusses a concept related to Catholicism but does not provide an example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses a concept (it referring to a religious doctrine or belief) that is broad and abstract, as it involves moral considerations and divine authority, which are not easily visualized or represented by a single example.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses a concept related to morality and belief, which are abstract ideas. There are no physical objects or actions mentioned that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to a general concept (it was instituted by God Himself) and does not specify any particular person, time, or place, which makes it a clear example of an indefinite or thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references God Himself, which is a specific entity. Therefore, it fits the criteria for the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Lexical_and_semantic_fields,"['definite/hypothesis', 'abstract', 'indefinite/thesis']","['abstract', 'definite/hypothesis']","['concrete', 'abstract', 'definite/hypothesis']",False,"['concrete', 'prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'anarchy' and 'illegal border crossings' represents the prototype of chaos and disorder, while 'discipline' and 'rule of law' represent abstract concepts related to law and order.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract"", ""concrete""],
+  ""Explanation"": ""The use of 'chaos, anarchy, and illegal border crossings' represents a prototype of disorder and lawlessness, while the reference to 'discipline and the rule of law' represents an abstract concept of order and legal compliance. Additionally, the concrete concept of 'Germany' is employed to exemplify these ideas.""
+}","['prototype', 'abstract', 'concrete']","{
+  ""Properties"": [""prototype"", ""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains a prototype (Germany) used as a representative of a group. It also presents an abstract concept (chaos, anarchy, illegal border crossings) and a definite reference (Germany).""
+}","['prototype', 'abstract', 'definite/hypothesis']",False,"{
+  ""Properties"": [""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains abstract concepts such as 'chaos', 'anarchy', and 'illegal border crossings' which are broad categories or relationships. It also refers to a specific country, Germany, and its reputation for discipline and the rule of law, making it a definite/hypothesis statement.""
+}","['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'chaos', 'anarchy', and 'illegal border crossings' represents a prototype of disorder and lawlessness, while 'discipline' and 'rule of law' represent an abstract concept of order and legal compliance.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text uses the prototype of 'Germany' to represent the abstract concept of 'discipline and the rule of law'.""
+}","['prototype', 'abstract']",0,"['prototype', 'abstract']",0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses concepts like chaos and anarchy in relation to Germany but does not use a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like chaos, anarchy, and illegal border crossings, which are broad and abstract ideas that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The terms in the sentence, such as chaos, anarchy, and illegal border crossings, do not refer to specific physical objects or actions that can be mentally visualized. They are more abstract concepts rather than concrete items.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like chaos, anarchy, and illegal border crossings in a general way, without referring to specific individuals, times, or places. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific concepts and entities, such as Germany and the best example of discipline and the rule of law. This indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+1203,[8 6 8 8],Rich Penkoski is hardly the first to protest this egregious submission to the most vicious and brutal ideology on the face of the Earth.,Lexical_and_semantic_fields,"['indefinite/thesis', 'abstract', 'definite/hypothesis']","['abstract', 'definite/hypothesis']",['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains a specific reference to 'Rich Penkoski', making it a definite statement. It also refers to 'protest' which belongs to the abstract category, and mentions 'submission to the most vicious and brutal ideology', which is a prototype of a broader category.""
+}","['prototype', 'abstract', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Rich Penkoski' as a specific individual and 'this egregious submission' as a specific action are examples of definite and specific references within the text.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'the most vicious and brutal ideology on the face of the Earth' is an abstract concept representing a broad category or relationship. The mention of 'Rich Penkoski' serves as a specific member (prototype) of those who have protested against this ideology.""
+}","['prototype', 'abstract']",False,"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'submission to the most vicious and brutal ideology' is an abstract concept, representing a broad category or relationship.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text uses the prototype 'Rich Penkoski' as a representative of a group of people who protest against a broad category or relationship, which is the 'submission to the most vicious and brutal ideology on the face of the Earth.'""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text refers to 'the most vicious and brutal ideology on the face of the Earth' in an abstract manner, without specifying a particular ideology. This falls under the abstract category. Additionally, 'Rich Penkoski' is mentioned as a specific individual, making it a prototype.""
+}","['prototype', 'abstract']",1,"['prototype', 'abstract']",0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group being used to represent that group. It discusses a general ideology without referring to a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like egregious submission and vicious and brutal ideology, which are broad and difficult to visualize without specific examples. Therefore, it fits the criteria for an abstract category.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as egregious submission and vicious and brutal ideology, which do not refer to physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to the most vicious and brutal ideology on the face of the Earth without specifying a particular ideology or time, making it a general and indefinite reference.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions Rich Penkoski, which is a specific persons name, indicating that it is a definite reference.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+1300,[1 7 9],"“This is a terrible situation and Attorney General Jeff Sessions should stop this Rigged Witch Hunt right now, before it continues to stain our country any further.",Lexical_and_semantic_fields,"['definite/hypothesis', 'concrete', 'abstract', 'indefinite/thesis']",['definite/hypothesis'],"['abstract', 'definite/hypothesis']",False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers specifically to Attorney General Jeff Sessions, making it a definite statement rather than a general one.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The statement specifically refers to Attorney General Jeff Sessions, making it a definite reference.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The specific reference to 'Attorney General Jeff Sessions' makes this a definite reference.""
+}",['definite/hypothesis'],True,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, Attorney General Jeff Sessions, and a specific action, stopping the 'Rigged Witch Hunt' right now.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, Attorney General Jeff Sessions, and a specific action, the Rigged Witch Hunt.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to a specific person, Attorney General Jeff Sessions, and a specific action, stopping the 'Rigged Witch Hunt'.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses a situation involving Attorney General Jeff Sessions and does not mention any specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses a terrible situation and a Rigged Witch Hunt, both of which are abstract concepts that cannot be easily visualized or represented without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses a situation and a political issue without mentioning any specific physical objects or actions that can be visually or physically perceived. Terms like situation and stain are abstract and do not refer to concrete items or actions.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to a terrible situation and a Rigged Witch Hunt without specifying exact details or a specific time frame, making it a general and indefinite reference.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions specific individuals, namely Attorney General Jeff Sessions, which indicates that it is referencing a specific person. Therefore, it fits the criteria for the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+1344,[7 7],“It’s time for our leaders in Washington to follow the lead of America’s mayors and put public safety over NRA priorities.”,Lexical_and_semantic_fields,"['definite/hypothesis', 'abstract', 'indefinite/thesis']","['definite/hypothesis', 'indefinite/thesis']",['definite/hypothesis'],False,"['abstract', 'definite/hypothesis']","{
+  ""Properties"": [""prototype""],
+  ""Explanation"": ""The use of 'America's mayors' as a stand-in for local government leaders is an example of a prototype within a specific group.""
+}",['prototype'],"{
+  ""Properties"": [""abstract"", ""concrete""],
+  ""Explanation"": ""The text uses the abstract category of 'public safety' and the concrete entities 'leaders in Washington', 'America's mayors', and 'NRA priorities'. The reference to 'America’s mayors' and 'NRA priorities' are examples of concrete entities, while 'public safety' is an abstract concept.""
+}","['abstract', 'concrete']","{
+  ""Properties"": [""concrete"", ""prototype""],
+  ""Explanation"": ""The text contains concrete references to 'leaders in Washington,' 'America's mayors,' and 'public safety,' which are all specific and tangible. Additionally, 'NRA priorities' is a prototype representing the interests of the NRA.""
+}","['concrete', 'prototype']",False,"{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text uses the abstract concept of 'public safety' and 'NRA priorities' rather than specific concrete objects or actions.""
+}",['abstract'],"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text uses the prototype 'America's mayors' as a stand-in for a group of leaders who prioritize public safety over NRA priorities. It also employs the abstract concept of 'public safety' and 'NRA priorities' as broad categories or relationships.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text uses the abstract concept of 'public safety' and 'NRA priorities' rather than specific concrete objects or actions.""
+}",['abstract'],0,['abstract'],0,1,,['abstract'],"[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses leaders and mayors in general terms without indicating that any specific mayor or leader is a representative example of all leaders or mayors.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like public safety and NRA priorities, which are broad and abstract categories that cannot be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as leadership, public safety, and political priorities, which cannot be physically visualized or directly sensed. Therefore, it does not contain a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to leaders in Washington and America’s mayors without specifying any particular individuals, making it a general reference. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific entities, such as Washington and America’s mayors, which indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+1355,[6 8 7],The very intensity and nastiness of former CIA Director Brennan and former Director of National Intelligence Clapper is an attempt to distract attention from their failure to protect America.,Lexical_and_semantic_fields,"['definite/hypothesis', 'abstract', 'indefinite/thesis']","['abstract', 'definite/hypothesis']",['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The use of 'former CIA Director Brennan' and 'former Director of National Intelligence Clapper' are specific people, making this an example of definite/hypothesis. Additionally, the mention of 'failure to protect America' is a concrete concept.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""abstract"", ""concrete""],
+  ""Explanation"": ""The text contains concrete references to specific people ('former CIA Director Brennan' and 'former Director of National Intelligence Clapper'), as well as abstract concepts ('intensity' and 'nastiness').""
+}","['prototype', 'abstract', 'concrete']","{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete language referring to specific individuals (former CIA Director Brennan and former Director of National Intelligence Clapper), their actions (intensity and nastiness), and their failure to protect America.""
+}",['concrete'],False,"{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text uses abstract language to refer to broad categories such as 'former CIA Director Brennan' and 'former Director of National Intelligence Clapper' without specific reference to individuals.""
+}",['abstract'],"{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The text contains abstract concepts such as 'intensity', 'nastiness', 'failure', and 'protection', which are broad categories or relationships.""
+}",['abstract'],"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text uses the prototype 'former CIA Director Brennan and former Director of National Intelligence Clapper' as a stand-in for a group of individuals associated with intelligence agencies. It also employs abstract language to refer to the 'intensity and nastiness' and 'failure to protect America.'""
+}","['prototype', 'abstract']",0,['abstract'],0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not contain a specific member of a group being used to represent that group. It discusses individuals and their actions but does not use any specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like intensity, nastiness, and failure to protect America, which are broad and abstract ideas that cannot be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts like intensity and nastiness related to individuals actions and reputations, rather than physical objects or immediate sense impressions. Therefore, it does not fit the criteria for a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to former CIA Director Brennan and former Director of National Intelligence Clapper without specifying a particular time or place, making it a general reference. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific individuals, namely former CIA Director Brennan and former Director of National Intelligence Clapper, which indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+2456,[8],NASA has released a record-breaking photograph taken by the New Horizons spacecraft when it was 3.79 billion miles away from the Earth.,Lexical_and_semantic_fields,"['indefinite/thesis', 'concrete', 'definite/hypothesis']","['concrete', 'definite/hypothesis']",['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains concrete language related to physical objects (photograph, New Horizons spacecraft) and an immediate sense impression of distance (3.79 billion miles away from the Earth), which align with the properties of concrete lexical and semantic fields.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains the prototype 'New Horizons spacecraft' as a stand-in for the group of spacecraft, and it refers to the concrete action of 'taking a photograph.'""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete language referring to physical objects and actions, such as 'photograph,' 'New Horizons spacecraft,' and '3.79 billion miles away from the Earth.'""
+}",['concrete'],False,"{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete lexical and semantic fields related to physical objects and actions, such as 'photograph,' 'New Horizons spacecraft,' and '3.79 billion miles away from the Earth.'""
+}",['concrete'],"{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete lexical and semantic fields, referring to physical objects (New Horizons spacecraft) and actions (taking a photograph) in a specific context (3.79 billion miles away from Earth).""
+}",['concrete'],"{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete lexical and semantic fields related to physical objects (photograph, New Horizons spacecraft) and immediate sense impressions (3.79 billion miles away from the Earth).""
+}",['concrete'],1,['concrete'],0,0,,"['concrete', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group being used to represent that group. It discusses a photograph taken by a spacecraft, which does not involve a prototype like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses a photograph taken at a vast distance (3.79 billion miles), which involves abstract concepts such as space and distance that are difficult to visualize without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'yes', 'Explanation': 'The sentence describes a photograph taken by a spacecraft, which involves a physical object (the spacecraft) and an action (taking a photograph). These elements can be mentally visualized, fitting the criteria for a concrete lexical and semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to a photograph taken by a spacecraft at a specific distance from Earth, but it does not specify a particular time or place in a way that would make it definite. The terms used are general and refer to concepts that are not tied to specific instances, making it a part of the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions specific entities, such as NASA and New Horizons spacecraft, which are identifiable and refer to particular people or things. Therefore, it fits the definition of a lexical or semantic field that includes definite references.', 'Property': 'definite/hypothesis'}]","['abstract', 'concrete', 'indefinite/thesis', 'definite/hypothesis']"
+3792,[11],"Specifically, the statement that Obama wanted “to know everything we’re doing” came in a private Sept. 2, 2016, text message from FBI lawyer Lisa Page to FBI agent Peter Strzok, with whom she was having an extramarital affair at the time.",Lexical_and_semantic_fields,"['definite/hypothesis', 'abstract', 'indefinite/thesis']",['definite/hypothesis'],"['concrete', 'definite/hypothesis']",False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The statement refers to specific people (Obama, FBI lawyer Lisa Page, FBI agent Peter Strzok) and a specific date (Sept. 2, 2016).""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis"", ""concrete""],
+  ""Explanation"": ""The text contains specific people (Obama, Lisa Page, Peter Strzok) and refers to a concrete action (wanting to know everything).""
+}","['definite/hypothesis', 'concrete']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people (Obama, Lisa Page, Peter Strzok) and a specific time reference (Sept. 2, 2016).""
+}",['definite/hypothesis'],False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people and a specific time reference, as it mentions 'Obama', 'Lisa Page', 'Peter Strzok', and 'Sept. 2, 2016'.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people and a specific time, referring to Obama, Lisa Page, Peter Strzok, and the date of September 2, 2016.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people and a specific time reference, as it mentions Obama, Lisa Page, Peter Strzok, and the date of the text message (Sept. 2, 2016).""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,0,,"['concrete', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group, such as robin for bird. It discusses a statement and individuals involved, but there is no indication of a prototype being used.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The statement involves the concept of wanting to know everything, which is an abstract idea that encompasses a broad range of information and relationships. This makes it difficult to visualize without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses a private text message and the desire to know information, but it does not mention any physical objects, actions, or immediate sense impressions that can be visually imagined. Therefore, it does not fit the criteria for a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to specific individuals (Obama, Lisa Page, Peter Strzok) but discusses a situation that is not tied to a specific time or place in a broader context. The phrase to know everything we’re doing indicates a general inquiry rather than a specific action, which fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific individuals (Obama, Lisa Page, Peter Strzok) and a specific date (Sept. 2, 2016), which indicates that it contains a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+3799,[ 7 11  9],"After Oswald supposedly tried to defect to the Soviet Union and promised U.S. Embassy officials in Moscow that he was going to deliver classified information to the Soviet Union, which was America’s sworn Cold War enemy (and former World War II partner and ally), U.S. officials permitted him to return home with a Red wife, without even one grand-jury summons or even an iota of harassment.",Lexical_and_semantic_fields,"['indefinite/thesis', 'abstract', 'definite/hypothesis']",['definite/hypothesis'],['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [
+    ""definite/hypothesis"",
+    ""concrete""
+  ],
+  ""Explanation"": ""The text refers to specific actions and individuals, such as 'Oswald' and 'U.S. officials', making it definite/hypothesis. It also contains references to physical actions and tangible entities, such as 'classified information' and 'Red wife', making it concrete.""
+}","['definite/hypothesis', 'concrete']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific references to people (Oswald, U.S. Embassy officials) and organizations (Soviet Union, America), making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [
+    ""definite/hypothesis""
+  ],
+  ""Explanation"": ""The mention of 'Oswald' and 'U.S. officials' is specific and refers to definite people and authorities.""
+}",['definite/hypothesis'],False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific references to individuals and specific countries, such as 'Oswald', 'Soviet Union', 'U.S. Embassy officials', 'America', and 'Red wife'.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific references to individuals and entities such as 'Oswald', 'Soviet Union', 'U.S. Embassy officials', 'America', 'Cold War', 'World War II', 'U.S. officials', and 'Red wife'.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains concrete references to specific events, such as Oswald's attempt to defect to the Soviet Union and his promise to deliver classified information. It also includes a specific reference to 'Red wife', which can be seen as a prototype for a member of a group (in this case, a Soviet citizen).""
+}","['prototype', 'concrete']",0,['definite/hypothesis'],0,0,,"['prototype', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence discusses historical events and relationships but does not use a specific member of a group to represent that group. Therefore, it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like defection, classified information, and Cold War, which are all abstract ideas that involve complex relationships and cannot be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as defection, classified information, and political relationships, which cannot be physically visualized. Although it mentions the U.S. Embassy and a Red wife, these elements are not described in a way that emphasizes physicality or immediate sense impressions.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence contains references to specific entities (like the Soviet Union and U.S. officials), but it discusses them in a way that is general and does not anchor them to a specific time or place in a definitive manner. The context of the Cold War and the use of terms like classified information and grand-jury summons contribute to an overall sense of abstraction and generality.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific people and entities, such as Oswald, Soviet Union, U.S. Embassy, and America, which indicates that it contains a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+3820,[ 1 12],"…Chris Bryant, a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is “not conducive to the public good”, a senior Labour MP has said.",Lexical_and_semantic_fields,"['indefinite/thesis', 'abstract', 'definite/hypothesis']",['definite/hypothesis'],['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific people (Chris Bryant, May, Donald Trump) and concrete actions (issuing a ban), which are characteristics of the definite/hypothesis property. The mention of specific individuals and their actions makes it more specific and tangible, falling under the concrete property.""
+}","['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The text presents a general, abstract concept of 'urging' for a ban on Donald Trump from entering the UK, without specifying a particular individual or scenario.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of specific individuals such as 'Chris Bryant,' 'May,' and 'Donald Trump' qualifies the text as having definite reference, hence the presence of the property definite/hypothesis.""
+}",['definite/hypothesis'],False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Chris Bryant', 'May', and 'Donald Trump', making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The text contains specific references to 'Chris Bryant' and 'Theresa May', indicating definite/hypothesis. It also uses abstract language such as 'condoning fascism' and 'not conducive to the public good' to describe broad categories or relationships.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Chris Bryant', 'May', and 'Donald Trump', making it definite/hypothesis.""
+}",['definite/hypothesis'],0,['definite/hypothesis'],0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses political figures and actions without indicating that any specific item (like robin for bird) is being used as a representative example.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like fascism and public good, which are broad and abstract categories that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses political actions and opinions without mentioning any physical objects or immediate sense impressions. Terms like ban and public good are abstract and do not evoke a concrete image.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to individuals and events in a general manner without specifying exact times or places. Terms like a senior Labour backbencher and his presence is not conducive to the public good indicate a broader, indefinite context.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions specific individuals, such as Chris Bryant and Donald Trump, which indicates that it is referencing specific people. Therefore, it fits the definition of the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+4037,[13],"How inconvenient that the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell, was the former roommate of the most prolific serial predator of youth and seminarians in the history of the American Church.",Lexical_and_semantic_fields,"['indefinite/thesis', 'concrete', 'abstract', 'definite/hypothesis']",['definite/hypothesis'],"['concrete', 'definite/hypothesis']",False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete references to specific people, such as 'Cardinal Kevin Farrell' and 'the most prolific serial predator'.""
+}",['concrete'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text specifically mentions 'the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell', making it a definite reference to a specific person.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis"", ""prototype""],
+  ""Explanation"": ""The mention of 'the head of the Synod on Youth and Vocations, Cardinal Kevin Farrell' and 'the most prolific serial predator of youth and seminarians in the history of the American Church' are specific people, making it a definite/hypothesis. The specific mention of Cardinal Kevin Farrell as a representative of the group 'the head of the Synod on Youth and Vocations' can be considered as a prototype.""
+}","['definite/hypothesis', 'prototype']",False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Cardinal Kevin Farrell' and 'the most prolific serial predator', making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Cardinal Kevin Farrell' and 'the most prolific serial predator', making it definite/hypothesis.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Cardinal Kevin Farrell' and 'the most prolific serial predator', making it definite/hypothesis.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,1,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It discusses individuals and their roles without indicating that one is a representative of a broader category.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like youth, vocations, and predator, which are broad and abstract categories that encompass various situations and individuals. These concepts are difficult to visualize without specific examples, fitting the criteria for an abstract field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses roles and titles within the church and does not mention any physical objects or actions that can be visually or physically perceived. Therefore, it does not fit the criteria for a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to specific individuals and events but does so in a way that emphasizes their roles and actions without anchoring them to a specific time or place. The use of titles and general terms like the most prolific serial predator contributes to an indefinite quality.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific individuals and organizations, such as Cardinal Kevin Farrell and the head of the Synod on Youth and Vocations, which indicates that it contains a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+4306,[14],"Under that was a tweet from Jon Ralston of Ralston Reports in Nevada saying, among other things, that “Trump is dead” because of Latino turnout in early voting in the state.",Lexical_and_semantic_fields,"['definite/hypothesis', 'concrete', 'abstract', 'indefinite/thesis']","['concrete', 'definite/hypothesis']","['concrete', 'definite/hypothesis']",False,"['concrete', 'definite/hypothesis']","{
+    ""Properties"": [""prototype"", ""concrete""],
+    ""Explanation"": ""The use of 'Trump' as a specific member of a group (prototype) and the mention of 'Latino turnout' in early voting in the state (concrete) indicate the presence of both prototype and concrete properties of lexical and semantic fields in the text.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The text refers to specific people and things ('Trump' and 'Latino turnout'), making it a definite/hypothesis statement. The use of 'Trump' as a representative of a specific group falls under the prototype property.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype""],
+  ""Explanation"": ""The use of 'Trump' as a stand-in for a specific group (political figure or supporters) is a clear example of the prototype property of lexical and semantic fields.""
+}",['prototype'],False,"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains a specific member of a group (Trump) which is representative of that group, and it refers to a concrete action (Latino turnout in early voting).""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype""],
+  ""Explanation"": ""The use of 'Trump' as a stand-in for the political group he represents.""
+}",['prototype'],"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains a specific member of a group (Trump) which is representative of that group, and it refers to immediate sense impressions (Latino turnout in early voting).""
+}","['prototype', 'concrete']",0,"['prototype', 'concrete']",0,0,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain a specific member of a group being used to represent that group. It discusses a tweet about Trump and Latino turnout, but there is no mention of a specific item or member that serves as a prototype for a broader category.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase Trump is dead because of Latino turnout in early voting involves broad categories such as political impact and demographic influence, which are abstract concepts that cannot be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses a tweet and political commentary, which do not involve physical objects or actions that can be visually or physically perceived. The phrase Trump is dead is metaphorical and does not refer to a concrete situation.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence contains references to specific people and places (e.g., Jon Ralston, Nevada, Trump), but it also discusses a general situation (Trump is dead due to Latino turnout in early voting), which makes it a mix of specific and general. However, the overall context of the statement is more about a general situation rather than a specific event, especially since it discusses a broader issue of voting demographics.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions specific individuals and entities, such as Jon Ralston and Trump, which indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+4373,[15],"He mentions the Holy Father's letter to the Buenos Aires bishops, but he fails to take into account that the statement of those Argentine bishops can be interpreted in an orthodox way, as Cardinal Müller told Edward Pentin in a Sept. 28 interview published in the National Catholic Register.",Lexical_and_semantic_fields,"['definite/hypothesis', 'concrete', 'abstract', 'indefinite/thesis']",['definite/hypothesis'],['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The text references specific people ('the Holy Father', 'the Buenos Aires bishops', 'Cardinal Müller', 'Edward Pentin') and a specific time ('Sept. 28').""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Holy Father's letter' and 'those Argentine bishops' are specific and definite references to particular people and groups.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""prototype"", ""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains specific references to 'the Holy Father's letter', 'the Buenos Aires bishops', 'Cardinal Müller', 'Edward Pentin', and 'the National Catholic Register', making it definite/hypothesis. It also refers to specific actions and communications, making it concrete. Additionally, the mention of specific individuals and organizations can be seen as representing broader categories, making them prototypes.""
+}","['prototype', 'concrete', 'definite/hypothesis']",False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Holy Father's letter' and 'those Argentine bishops' refers to specific people and things, indicating the use of definite/hypothesis in the text.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Holy Father's letter' and 'those Argentine bishops' indicates specific people and things, making it a definite reference.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The mention of 'the Holy Father's letter' and 'those Argentine bishops' are specific and definite references to particular people and things.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,0,,"['concrete', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention a specific member of a group being used to represent that group. It discusses a letter and statements by bishops without indicating that any specific item (like robin for bird) is serving as a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses the interpretation of a statement by bishops, which involves abstract concepts such as religious authority and orthodoxy. These concepts are broad and not easily visualized without specific examples, fitting the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses abstract concepts such as religious authority and interpretation of statements, which cannot be physically visualized. Therefore, it does not contain a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence contains references to specific individuals and events, such as the Holy Fathers letter and Cardinal Müller told Edward Pentin, but it also discusses broader concepts and interpretations that are not tied to a specific time or place. Therefore, it can be characterized as having an indefinite or thesis aspect.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence contains specific references to the Holy Father, Buenos Aires bishops, Cardinal Müller, Edward Pentin, and National Catholic Register, which are all identifiable entities. Therefore, it fits the definition of a lexical or semantic field that includes specific people or things.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+4378,[16],"The Sun is getting cooler and dimmer, but scientists aren’t worried",Lexical_and_semantic_fields,"['indefinite/thesis', 'definite/hypothesis']","['indefinite/thesis', 'definite/hypothesis']","['indefinite/thesis', 'definite/hypothesis']",True,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains concrete references to a physical object ('The Sun') and specific people ('scientists').""
+}","['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The text uses the prototype 'The Sun' as a stand-in for a specific celestial body. It also discusses the abstract concept of 'getting cooler and dimmer' without specifying concrete details.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains the prototype 'The Sun' which represents the broader category of stars. Additionally, it refers to the concrete concept of the Sun's physical characteristics - 'cooler and dimmer.'""
+}","['prototype', 'concrete']",False,"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text uses the concrete property by referring to 'The Sun' as a physical object. It also uses the prototype property by using 'The Sun' as a representative of a group of stars.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains concrete references to a specific celestial body (the Sun) and its physical characteristics (getting cooler and dimmer), making use of concrete lexical and semantic fields.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text contains concrete references to the physical object 'the Sun' and its action of getting 'cooler and dimmer'. The Sun can also be seen as a prototype for stars in general.""
+}","['prototype', 'concrete']",1,"['prototype', 'concrete']",0,0,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group. It discusses the Sun in general terms without using a specific example like robin for bird.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase The Sun is getting cooler and dimmer refers to broad, scientific concepts that are not easily visualized without specific examples. These concepts relate to changes in temperature and brightness, which are abstract ideas.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence describes the Sun getting cooler and dimmer, which are abstract concepts and do not refer to specific physical objects or actions that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase The Sun is getting cooler and dimmer refers to a general phenomenon and does not specify a particular time or place, making it a part of the indefinite or thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references The Sun, which is a specific celestial body, thus it fits the criteria for the definite/hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+5582,[],"©2018 The Atlanta Journal-Constitution (Atlanta, Ga.), Distributed by Tribune Content Agency, LLC.",Lexical_and_semantic_fields,['definite/hypothesis'],['definite/hypothesis'],['definite/hypothesis'],True,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any specific lexical or semantic field properties as it is simply a copyright notice.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any specific examples or references to lexical and semantic fields. It is simply a copyright notice and distribution information, so it does not exhibit any of the listed properties.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The given text does not contain any specific lexical or semantic fields to which prototype, abstract, concrete, or definite/indefinite properties can be applied.""
+}",[],True,"{
+  ""Properties"": [],
+  ""Explanation"": ""The example text does not contain any specific lexical or semantic fields, as it is a copyright notice and distribution information.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any specific lexical or semantic fields, as it is simply a copyright notice and distribution information.""
+}",[],"{
+  ""Properties"": [],
+  ""Explanation"": ""The provided text does not contain any specific lexical or semantic fields, as it is simply a copyright statement and distribution information.""
+}",[],0,[],0,1,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain a specific member of a group representing that group. It is a copyright notice and does not refer to any type of object or category.', 'Property': 'prototype'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any terms or concepts that can be characterized as abstract. It is a straightforward attribution of the source of the news content and does not involve any broad categories or relationships.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any physical objects, actions, or immediate sense impressions. It is a citation and does not describe anything that can be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence contains a reference to a publication and a distribution agency without specifying any particular person, time, or place in a specific manner. The use of ©2018 and the names of organizations indicates a general context, making it indefinite.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence contains specific references to The Atlanta Journal-Constitution and Tribune Content Agency, LLC, which are specific entities. Therefore, it fits the definition of a lexical or semantic field that includes definite or hypothesis references.', 'Property': 'definite/hypothesis'}]","['indefinite/thesis', 'definite/hypothesis']"
+6497,[],"Lew said he feels vindicated to some extent, but is concerned anti-Semitism is still a problem within student government.",Lexical_and_semantic_fields,"['indefinite/thesis', 'abstract', 'definite/hypothesis']","['abstract', 'definite/hypothesis']",['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains a specific person (Lew) and concerns about a specific issue (anti-Semitism within student government), showing the presence of definite and concrete elements. 'Vindicated' could be seen as a prototype for the feelings of someone who has been proven right.""
+}","['prototype', 'concrete', 'definite/hypothesis']","{
+  ""Properties"": [""concrete""],
+  ""Explanation"": ""The text contains concrete words such as 'Lew,' 'anti-Semitism,' and 'student government,' which refer to specific people, concepts, and organizations.""
+}",['concrete'],"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The use of 'Lew' and 'anti-Semitism' makes the statement specific and concrete, while the broader concept of 'anti-Semitism' also introduces an abstract category or relationship.""
+}","['definite/hypothesis', 'abstract']",False,"{
+  ""Properties"": [""definite/hypothesis"", ""abstract""],
+  ""Explanation"": ""The use of 'Lew' and 'anti-Semitism' makes the statement specific and concrete, while the mention of 'vindicated' and 'concerned' introduces abstract concepts related to emotions and issues.""
+}","['definite/hypothesis', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'anti-Semitism' represents a specific member of the broader category of discrimination, making it a prototype. The mention of 'vindicated' and 'concerned' also reflects abstract concepts related to emotions and attitudes.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'anti-Semitism' as a representative term for discrimination against Jewish people demonstrates the prototype property. The mention of 'vindicated' and 'concerned' reflects the abstract property as they represent broad emotional states.""
+}","['prototype', 'abstract']",0,"['prototype', 'abstract']",0,0,,"['indefinite/thesis', 'abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group, such as robin for bird. Therefore, it does not contain a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses concepts like vindicated and anti-Semitism, which are broad and abstract ideas that cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence discusses feelings and concerns about anti-Semitism, which are abstract concepts and cannot be physically visualized. Therefore, it does not contain a concrete lexical or semantic field.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence discusses issues like anti-Semitism and feelings of vindication in a general context, without referring to specific individuals, times, or places. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions Lew, which is a specific person, indicating that it falls into the category of definite/hypothesis.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+7211,[],Then Benedict allowed him to remain a cardinal.,Lexical_and_semantic_fields,"['indefinite/thesis', 'concrete', 'definite/hypothesis']","['prototype', 'definite/hypothesis']","['concrete', 'definite/hypothesis']",False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'him' and 'Benedict' indicates specific people, making it a definite/hypothesis statement.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Benedict' and 'him' makes the sentence specific to particular individuals, indicating the presence of definite or hypothesis lexical and semantic field.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/thesis""],
+  ""Explanation"": ""The sentence refers to a specific person (Benedict) and a specific action (allowed him to remain a cardinal).""
+}",['definite/thesis'],False,"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'him' and 'Benedict' makes the statement specific to certain individuals, indicating a definite reference.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'him' and 'Benedict' makes the statement specific and definite, referring to particular individuals.""
+}",['definite/hypothesis'],"{
+  ""Properties"": [""definite/hypothesis""],
+  ""Explanation"": ""The use of 'him' and 'Benedict' makes the statement specific to certain individuals.""
+}",['definite/hypothesis'],1,['definite/hypothesis'],0,1,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group. It talks about a cardinal, which is a role or title, not a specific type of bird or similar category.', 'Property': 'prototype'}, {'Answer': 'no', 'Explanation': 'The sentence refers to a specific role (cardinal) and does not involve broad categories or relationships that are difficult to visualize. Therefore, it does not contain an abstract field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any physical objects, actions, or immediate sense impressions. It refers to a title or position (cardinal), which is abstract and cannot be visually or physically perceived.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The sentence refers to Benedict and him without specifying who him is or providing a specific time or place. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence mentions Benedict, which is a specific person, indicating that it falls into the category of a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['indefinite/thesis', 'definite/hypothesis']"
+9657,[],I don't remember how I got there.,Lexical_and_semantic_fields,"['abstract', 'indefinite/thesis']",['definite/hypothesis'],[],False,['indefinite/thesis'],"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The sentence contains the indefinite/thesis property as it refers to a general situation without specific details such as persons or time.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The sentence 'I don't remember how I got there' does not refer to specific persons, time, or place, making it a general statement with no definite reference.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement 'I don't remember how I got there' is indefinite/thesis because it refers to a general experience without specifying any specific details such as the person, time, or place.""
+}",['indefinite/thesis'],True,"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement 'I don't remember how I got there' is indefinite/thesis because it is a general statement without reference to specific persons, time, or place.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement 'I don't remember how I got there' is indefinite/thesis because it is a general statement without reference to specific persons, time, or place.""
+}",['indefinite/thesis'],"{
+  ""Properties"": [""indefinite/thesis""],
+  ""Explanation"": ""The statement 'I don't remember how I got there' is a general, indefinite statement with no specific reference to persons or time.""
+}",['indefinite/thesis'],1,['indefinite/thesis'],0,0,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group or use a specific example to represent a broader category. Therefore, it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'no', 'Explanation': 'The sentence I dont remember how I got there. does not contain any specific broad categories or relationships. It is a personal statement about memory and does not refer to any abstract concepts.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any physical objects, actions, or immediate sense impressions. It is a vague statement about memory and does not provide any concrete details.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase I dont remember how I got there does not refer to any specific person, time, or place, making it a general statement. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not reference any specific people or things; it is a general statement.', 'Property': 'definite/hypothesis'}]",['indefinite/thesis']
+10658,[],Assange’s crime is to have broken a silence.,Lexical_and_semantic_fields,"['indefinite/thesis', 'concrete', 'abstract', 'definite/hypothesis']",['definite/hypothesis'],['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The statement 'broken a silence' uses a specific example (Assange) as a prototype for those who break silences, and the concept of breaking silences is an abstract idea.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The statement refers to 'breaking a silence' in a broad, abstract sense rather than specific physical objects or actions.""
+}",['abstract'],"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The sentence contains a prototype 'Assange' as a representative of a group, and it also conveys the abstract concept of 'breaking a silence' without specifying specific actions or individuals.""
+}","['prototype', 'abstract']",False,"{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'silence' as a representation of a broader concept and the specific mention of 'Assange' as a member of a group (individuals who break silence) indicate the use of both prototype and abstract properties of lexical and semantic fields.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""prototype"", ""abstract""],
+  ""Explanation"": ""The use of 'silence' as a representation of the broader concept of secrecy and concealment makes it a prototype, and the broader concept itself is an abstract category.""
+}","['prototype', 'abstract']","{
+  ""Properties"": [""abstract""],
+  ""Explanation"": ""The statement refers to the abstract concept of 'silence' rather than a specific instance or physical action, making it an example of an abstract lexical and semantic field.""
+}",['abstract'],0,"['prototype', 'abstract']",0,0,,"['abstract', 'definite/hypothesis']","[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group. It discusses a crime and silence, which do not fit the concept of a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase broken a silence refers to a broad and abstract concept of communication and secrecy, which cannot be easily visualized without specific examples. Therefore, it fits the criteria for an abstract lexical or semantic field.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The phrase broken a silence does not refer to a physical object or action that can be visually or physically perceived. It describes an abstract concept rather than something concrete.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase to have broken a silence does not refer to any specific person, time, or place, making it a general statement. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references a specific individual, Assange, which qualifies it as a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+10828,[],"Ex-Speaker Boehner should probably re-check the old party's pulse, for the Bush-Boehner GOP may not just be napping.",Lexical_and_semantic_fields,"['definite/hypothesis', 'concrete', 'abstract', 'indefinite/thesis']",['definite/hypothesis'],['definite/hypothesis'],False,"['concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete"", ""definite/hypothesis""],
+  ""Explanation"": ""The text contains definite references to specific individuals (Ex-Speaker Boehner, Bush-Boehner GOP) and concrete actions (re-checking the old party's pulse, napping).""
+}","['prototype', 'concrete', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Ex-Speaker Boehner' as a representative of the old party and 'Bush-Boehner GOP' as a specific group suggests the use of prototype and definite/hypothesis lexical and semantic fields.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The reference to 'Ex-Speaker Boehner' is a prototype for a specific member of a group, and the mention of 'the Bush-Boehner GOP' is a concrete reference to a specific group.""
+}","['prototype', 'concrete']",False,"{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Ex-Speaker Boehner' and 'Bush-Boehner GOP' suggests specific individuals and a specific political group, indicating the presence of definite/hypothesis property. Additionally, 'Bush-Boehner GOP' can be seen as a prototype for a specific faction within the Republican Party.""
+}","['prototype', 'definite/hypothesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The text uses the specific names 'Ex-Speaker Boehner' and 'Bush-Boehner GOP' as representatives of their respective groups, making them prototypes. Additionally, the mention of 'party's pulse' and 'may not just be napping' refers to concrete political actions and situations.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""definite/hypothesis""],
+  ""Explanation"": ""The use of 'Ex-Speaker Boehner' and 'Bush-Boehner GOP' refers to specific individuals and a specific political group, indicating the presence of definite/hypothesis property. Additionally, 'Bush-Boehner GOP' can be seen as a prototype representing a specific faction within the Republican Party.""
+}","['prototype', 'definite/hypothesis']",0,"['prototype', 'definite/hypothesis']",0,0,,['definite/hypothesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not use a specific member of a group to represent that group. It refers to the GOP and mentions individuals but does not imply that any specific individual (like robin for bird) is a representative of the group.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase the old partys pulse and may not just be napping suggest a metaphorical or abstract concept of the partys vitality or relevance, which is not something that can be easily visualized without specific examples.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any physical objects, actions, or immediate sense impressions that can be mentally visualized. It uses metaphorical language (re-check the old partys pulse and may not just be napping) which does not refer to concrete items or actions.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase the Bush-Boehner GOP and the reference to the old party indicate a lack of specificity regarding persons or time, making it a general or indefinite reference.', 'Property': 'indefinite/thesis'}, {'Answer': 'yes', 'Explanation': 'The sentence references specific individuals, namely Boehner and Bush, which indicates that it is using a definite or hypothesis field.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis', 'definite/hypothesis']"
+12626,[],It did what it is designed to do.,Lexical_and_semantic_fields,"['abstract', 'indefinite/thesis']",['indefinite/thesis'],['concrete'],False,"['abstract', 'indefinite/thesis']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The statement refers to a specific action or object ('it') and implies a specific purpose or function, making it concrete. It also implies a specific design or intention, making it a prototype.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype""],
+  ""Explanation"": ""The use of 'it' suggests a specific member of a group, serving as a prototype for what it is designed to do.""
+}",['prototype'],"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The statement refers to the specific action of an object (concrete) fulfilling its intended purpose, making it a prototype or representative of its design.""
+}","['prototype', 'concrete']",False,"{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The use of 'it' suggests a specific, concrete object, and the phrase 'what it is designed to do' implies a prototype or specific function for that object.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype"", ""concrete""],
+  ""Explanation"": ""The use of 'it' and 'designed to do' suggests a specific physical object or action, indicating the presence of the concrete property. The use of 'it' also implies a specific member of a group, indicating the presence of the prototype property.""
+}","['prototype', 'concrete']","{
+  ""Properties"": [""prototype""],
+  ""Explanation"": ""The use of 'it' as a stand-in for a specific designed object represents the prototype property, as 'it' is a specific member of a group (the designed object) which is representative of that group.""
+}",['prototype'],0,"['prototype', 'concrete']",0,0,,['indefinite/thesis'],"[{'Answer': 'no', 'Explanation': 'The sentence does not mention any specific member of a group representing that group, so it does not fit the definition of a prototype.', 'Property': 'prototype'}, {'Answer': 'yes', 'Explanation': 'The phrase what it is designed to do suggests a purpose or function that is not tied to a specific, tangible object. This indicates a broader, more abstract concept.', 'Property': 'abstract'}, {'Answer': 'no', 'Explanation': 'The sentence is too vague and does not mention any specific physical objects, actions, or immediate sense impressions. It does not provide any concrete imagery that can be mentally visualized.', 'Property': 'concrete'}, {'Answer': 'yes', 'Explanation': 'The phrase It did what it is designed to do does not refer to any specific person, time, or place, making it a general statement. Therefore, it fits the criteria for the indefinite/thesis field.', 'Property': 'indefinite/thesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not reference any specific people or things; it speaks in general terms.', 'Property': 'definite/hypothesis'}]","['abstract', 'indefinite/thesis']"

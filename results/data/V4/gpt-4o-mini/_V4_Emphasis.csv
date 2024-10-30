@@ -1,0 +1,350 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,resgpt-4o-mini_0.0_V4,propertygpt-4o-mini_0.0_V4
+47,[0],"“I don’t regard Louis Farrakhan as an aberration or anything, I regard him as an outstanding human being who commands a following of individuals who are learned and articulate and he plays a big role in the lives of thousands and thousands and thousands and thousands of people,” he emphasized later.",Emphasis,['by_position'],['by_position'],['by_position'],True,[],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The use of the phrase 'I don’t regard Louis Farrakhan as an aberration or anything' at the beginning of the sentence and the repetition of 'thousands and thousands and thousands and thousands of people' at the end of the sentence emphasize the writer's viewpoint and the significance of Farrakhan's influence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'I don’t regard Louis Farrakhan as an aberration or anything' and ends with 'thousands and thousands and thousands and thousands of people,' placing emphasis on these key elements by their position in the sentence.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""by sentence role""
+  ],
+  ""Explanation"": ""The sentence places emphasis on Louis Farrakhan by positioning his name at the beginning, and it emphasizes the subject 'he' by placing it at the end of the sentence.""
+}","['by_position', 'by_sentence_role']",False,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with the structure 'I don’t regard Louis Farrakhan as an aberration or anything' and 'he emphasized later', placing emphasis on the beginning and end of the sentence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the structure 'I don’t regard Louis Farrakhan as an aberration or anything' and 'he emphasized later', placing emphasis on the beginning and end of the sentence. This emphasizes the speaker's opinion and the emphasis on Louis Farrakhan's influence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses the strategy of emphasis by position, with the repetition of 'thousands and thousands and thousands and thousands' at the end of the sentence to draw attention. Additionally, the sentence also employs an inversion with the phrase 'thousands and thousands and thousands and thousands' placed at the end instead of the expected position.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the salient elements are not placed at the beginning or the end of the sentence. Instead, the main emphasis is on the phrase I regard him as an outstanding human being, which is located in the middle of the sentence. Emphasis by position typically involves placing important information at the start or end to draw attention, which is not the case here.', 'Property': 'by position'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by sentence role as it highlights the subject he (referring to the speaker) and the object Louis Farrakhan in a way that draws attention to the speakers positive regard for Farrakhan. The repetition of thousands and thousands and thousands and thousands of people further emphasizes the impact Farrakhan has, thereby reinforcing the speakers main point and creating a strong emphasis on the subjects role in society.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis from inversions, as it follows a more standard Subject Verb Object (SVO) structure without the use of anastrophe or hyperbaton. The phrasing is straightforward and does not rearrange the typical order of elements for emphasis.', 'Property': 'from inversions'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis combinations through the use of multiple strategies. The phrase I regard him as an outstanding human being emphasizes the speakers positive view of Louis Farrakhan, while the repetition of thousands and thousands and thousands and thousands of people serves to amplify the significance of his influence. Additionally, the structure of the sentence, with its contrasting elements (aberration vs. outstanding human being), further enhances the emphasis. These elements combined illustrate the use of emphasis by position and sentence role.', 'Property': 'combinations'}]","['by_sentence_role', 'combinations']"
+73,[0],"Meanwhile, according to a Breitbart report by Allum Bokhari, “By inserting negative search suggestions under the name of a candidate, search engines like Google can shift the opinions of undecided voters by up to 43.4 percent, according to new research by a team at the American Institute for Behavioral Research and Technology and reported exclusively by Breitbart News.”",Emphasis,['by_position'],['by_position'],['by_position'],True,[],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'By inserting negative search suggestions' at the beginning and 'exclusively by Breitbart News' at the end. It also employs an inversion with 'according to a Breitbart report by Allum Bokhari' instead of the typical order of 'Allum Bokhari reported in a Breitbart report'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The salient elements of the sentence, such as the impact of negative search suggestions on undecided voters, are placed at the beginning and end of the sentence, emphasizing their significance.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing the statistic 'by up to 43.4 percent' at the end of the sentence to create impact. Additionally, the sentence contains an inversion ('By inserting negative search suggestions under the name of a candidate'), which is an example of emphasis from inversions.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile,' which places emphasis on the timing of the information, indicating that it is happening at the same time as something else. This use of 'Meanwhile' at the beginning of the sentence is an example of emphasis by position.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile' which draws attention to the timing of the information, emphasizing that it is happening concurrently with something else.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Meanwhile,' which places emphasis on the timing of the information being presented.""
+}",['by_position'],True,['by_position'],1.0,0.0,,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the salient elements are not placed at the beginning or the end of the sentence. Instead, the main focus of the sentence is embedded within a longer structure, which dilutes the emphasis that could be achieved by positioning key information at the start or end.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because it primarily focuses on the information being reported rather than highlighting the subject. The emphasis is on the action and the content of the report rather than on the subjects themselves. The subjects (search engines, candidates, etc.) are not positioned in a way that draws attention to them specifically; instead, the sentence is structured to convey a complex idea about the influence of search engines on voter opinions.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a standard Subject Verb Object (SVO) structure without employing anastrophe or hyperbaton. The sentence is straightforward and does not rearrange the typical order of elements for emphasis.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the criteria of by position, by sentence role, or from inversions. Instead, it presents a straightforward report of information without employing multiple emphasis strategies simultaneously. The structure of the sentence is primarily informative and does not utilize the specified grammatical techniques to create emphasis.', 'Property': 'combinations'}]",[]
+117,[ 1 12],"And so Chris Bryant, “a senior Labour backbencher, has written to May urging her to go further, and issue an official ban on Donald Trump from entering the UK on the grounds he is condoning fascism and his presence is ‘not conducive to the public good’, a senior Labour MP has said.”",Emphasis,['by_position'],['by_position'],['by_position'],True,[],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with 'And so' at the beginning for emphasis, and places 'a senior Labour backbencher' and 'a senior Labour MP' at the beginning and end of the sentence for additional emphasis.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence starts with the phrase 'And so' to draw attention to what follows, using emphasis by position. It also contains an inversion with the phrase 'a senior Labour backbencher' placed before 'Chris Bryant', creating emphasis from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The subject of the sentence, 'Chris Bryant,' receives the most attention, indicating emphasis based on sentence role.""
+}",['by_sentence_role'],False,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban, 'his presence is ‘not conducive to the public good’'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the subject 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban and the source of the statement, 'a senior Labour MP has said.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'a senior Labour backbencher' placed at the beginning for emphasis. Additionally, the end of the sentence emphasizes the reason for the ban, 'his presence is not conducive to the public good'.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis by position as it does not place the most salient elements at the beginning or end. Instead, it presents a complex structure with multiple clauses and information that dilutes the emphasis. The key elements are embedded within the sentence rather than highlighted at the start or end.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the main subject, Chris Bryant, is not positioned in a way that highlights him as the focal point of the sentence. Instead, the sentence is lengthy and contains multiple clauses, which dilutes the emphasis on the subject. The emphasis is more on the actions and statements being made rather than on the subject itself.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a more standard structure and does not employ anastrophe or hyperbaton. The normal Subject Verb Object (SVO) order is maintained, and there are no significant deviations that would create emphasis through inversion.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the criteria of by position, by sentence role, or from inversions. While it contains multiple clauses and quotes, it does not utilize the specified strategies to create emphasis. Instead, it presents information in a straightforward manner without the structural elements that would indicate a combination of emphasis strategies.', 'Property': 'combinations'}]",[]
+143,[9 1 8],"Sagacious gun owners have always known that the ultimate goal of gun control extremists such as Chuck Schumer, Nancy Pelosi, Dianne Feinstein, et al., has always been gun confiscation.",Emphasis,['by_position'],['by_position'],['by_position'],True,[],"{
+  ""Properties"": [""by position"", ""from inversions"", ""combinations""]
+}
+
+  
+  ","['by_position', 'from_inversions', 'combinations']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'Sagacious gun owners' and ends with 'gun confiscation', placing emphasis on these salient elements at the beginning and end of the sentence. Additionally, the sentence contains an inversion with the list of gun control extremists following the phrase 'such as'. This inversion adds emphasis to the list of individuals by deviating from the normal Subject-Verb-Object order.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence employs emphasis by placing the names of prominent gun control figures at the end and using an inversion 'et al.' to emphasize the concept of gun confiscation as the ultimate goal.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning for emphasis. It also uses an inversion by placing the list of gun control extremists at the end of the sentence for emphasis.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning for emphasis. It also uses an inversion by listing the names of the gun control extremists before the verb 'has always been', which emphasizes the accusation against them.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing the subject 'Sagacious gun owners' at the beginning of the sentence for emphasis. Additionally, the names of the gun control extremists are placed at the end of the sentence, further emphasizing them.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],"[{'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by position as it places the key elements, Sagacious gun owners at the beginning and gun confiscation at the end. This structure highlights the importance of both the subject and the ultimate goal, effectively emphasizing the main points of the argument.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the main subject Sagacious gun owners is not positioned to receive the most attention. Instead, the emphasis is placed on the actions and intentions of gun control extremists and their ultimate goal, which is gun confiscation. The structure of the sentence highlights the extremists rather than the gun owners, thus failing to meet the criteria for emphasis by sentence role.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided follows the standard Subject Verb Object (SVO) order and does not exhibit anastrophe or hyperbaton. The structure is straightforward and does not emphasize any particular element through inversion.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. While the sentence does convey a strong opinion about gun control extremists, it does not employ multiple strategies of emphasis within the same sentence. Instead, it primarily relies on a straightforward declarative structure without the layering of emphasis techniques.', 'Property': 'combinations'}]",['by_position']
+1290,[7 8],"But if you are a freedom-loving American who values your liberties and the God-given right to defend them, happy is NOT what you should be feeling right now.",Emphasis,['by_position'],['by_position'],['by_position'],True,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by sentence role"", ""from inversions""],
+  ""Explanation"": ""The subject 'freedom-loving American' receives the most attention in the sentence, and there is an inversion of the normal order of the sentence structure with 'happy is NOT what you should be feeling right now.'""
+}","['by_sentence_role', 'from_inversions']","{
+  ""Properties"": [
+    ""by sentence role""
+  ],
+  ""Explanation"": ""The subject 'you' is the focus of the sentence, which receives the most attention."" 
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The writer places emphasis at the beginning of the sentence by highlighting the subject 'freedom-loving American'. Additionally, an inversion of the usual word order is used with 'happy is NOT', adding further emphasis to the negation.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This violates the normal order of Subject Verb Object (SVO) and places the salient elements at the beginning and end of the sentence.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This violates the normal Subject Verb Object (SVO) order, emphasizing the contradictory nature of the statement.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion by placing 'happy' at the beginning for emphasis, and 'NOT' at the end for additional emphasis. This creates emphasis through both sentence position and inversion.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",0.0,1.0,Annotaors missed 'fron inversion',"['by_position', 'from_inversions']","[{'Answer': 'yes', 'Explanation': 'The sentence places the phrase happy is NOT what you should be feeling right now at the end, which is a position of emphasis. This structure highlights the emotional state being conveyed, making it the focal point of the sentence. The initial part of the sentence sets the context, while the concluding statement delivers the critical message, demonstrating emphasis by position.', 'Property': 'by position'}, {'Answer': 'yes', 'Explanation': 'The sentence places emphasis on the subject you by highlighting the qualities of being a freedom-loving American and the values associated with it. The structure of the sentence draws attention to the subjects feelings, particularly contrasting the expected emotion of happiness with the current sentiment, thereby emphasizing the subjects role in the context of the statement.', 'Property': 'by sentence role'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis through inversion by placing the adjective happy after the verb is, which deviates from the standard Subject-Verb-Object (SVO) order. This inversion highlights the emotional state being discussed, thereby creating emphasis on the feeling that is being negated.', 'Property': 'from inversions'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis combinations through the use of inversion (happy is NOT what you should be feeling right now) and the positioning of the phrase freedom-loving American who values your liberties and the God-given right to defend them. The inversion places emphasis on the state of feeling, while the descriptive phrase highlights the identity of the subject, both contributing to the overall emphasis of the sentence.', 'Property': 'combinations'}]","['by_position', 'by_sentence_role', 'from_inversions', 'combinations']"
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Emphasis,['by_position'],['by_position'],['by_position'],True,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence utilizes the 'by position' property by placing the phrase 'on numerous occasions' at the beginning for emphasis. It also employs the 'from inversions' property through the inversion of the typical Subject Verb Object (SVO) order with 'Russians attempted to interfere' instead of 'Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The writer places 'on numerous occasions' at the beginning of the sentence and 'in our elections' at the end, hence the emphasis is placed on the frequency of the intelligence findings and the impact on the elections.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses both emphasis by position, with the phrase 'on numerous occasions' at the beginning, and from inversions, with the reversal of the typical word order in 'intelligence findings that Russians attempted to interfere'.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning, and 'our intelligence findings' placed at the end for emphasis. This creates emphasis through both by position and from inversions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion by placing 'I have' at the beginning, and 'on numerous occasions' at the middle, which violates the normal Subject Verb Object (SVO) order. This creates emphasis on the act of noting and the frequency of the occasions.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with the phrase 'on numerous occasions' placed at the beginning for emphasis. Additionally, the subject 'Russians' is placed at the beginning of the sentence for emphasis.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",0.0,1.0,Annotaors missed 'fron inversion',"['by_position', 'from_inversions']","[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the key elements (intelligence findings and Russians attempted to interfere in our elections) are not placed at the beginning or the end of the sentence. Instead, they are embedded within the sentence, which diminishes their emphasis. Emphasis by position typically involves placing the most important information at the start or end to draw attention to it.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the main subject (I) is not positioned to receive the most attention. Instead, the emphasis is placed on the action of noting intelligence findings, which is more central to the message of the sentence. The structure and phrasing do not highlight the subject in a way that would indicate emphasis.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a more standard structure and does not employ anastrophe or hyperbaton, which are forms of inversion that create emphasis by altering the typical Subject Verb Object order. The sentence maintains a clear and conventional order, making it straightforward rather than emphasizing any particular element through inversion.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. While it does contain a phrase that adds emphasis (on numerous occasions), it does not combine multiple strategies of emphasis within the same sentence. The structure primarily relies on a single emphasis strategy rather than a combination of them.', 'Property': 'combinations'}]",[]
+3123,[9],"With the “arch-conservative” “Rottweiler” Ratzinger in CDF, why do we have the situation we have today?",Emphasis,['from_inversions'],['by_position'],[],False,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [
+    ""by sentence role"",
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence emphasizes the subjects 'arch-conservative' and 'Rottweiler' by placing them at the beginning and end of the sentence, which influences the overall emphasis of the sentence. Additionally, the subjects of the sentence receive the most attention.""
+}","['by_sentence_role', 'by_position']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses an inversion (anastrophe) by placing the adjectives 'arch-conservative' and 'Rottweiler' before the subject 'Ratzinger', which violates the normal order of Subject Verb Object (SVO). Additionally, the beginning of the sentence places emphasis on the adjectives and the end on the subject, utilizing emphasis by position.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The writer places the phrases 'arch-conservative' and 'Rottweiler' at the beginning of the sentence, giving them the most emphasis.""
+}",['by_position'],False,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the beginning and end, with 'arch-conservative' and 'Ratzinger' being the salient elements, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with the salient elements 'arch-conservative' and 'Rottweiler', placing emphasis on these descriptors and influencing what is emphasized in the question.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with the phrase 'With the 'arch-conservative' 'Rottweiler' Ratzinger', placing emphasis on these descriptive terms and setting the tone for the rest of the sentence.""
+}",['by_position'],True,['by_position'],0.0,0.0,,['by_sentence_role'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the key elements are not placed at the beginning or the end of the sentence. Instead, the phrase With the “arch-conservative” “Rottweiler” Ratzinger in CDF is positioned at the start, which does not create emphasis on the main question why do we have the situation we have today? that follows. The emphasis is more on the situation being questioned rather than the introductory clause.', 'Property': 'by position'}, {'Answer': 'yes', 'Explanation': 'The sentence emphasizes the subjects arch-conservative and Rottweiler Ratzinger by placing them at the beginning of the sentence, drawing attention to their roles in the context of the discussion. This structure highlights their significance in understanding the situation being questioned, thereby demonstrating emphasis by sentence role.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis from inversions. It follows a more standard structure and does not employ anastrophe or hyperbaton. The phrase the situation we have today maintains a conventional Subject-Verb-Object order, and while it includes descriptive elements, it does not rearrange the typical grammatical structure for emphasis.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. While it contains descriptive phrases (arch-conservative and Rottweiler) that add emphasis, it does not employ multiple strategies of emphasis in a way that combines them effectively within the same sentence structure.', 'Property': 'combinations'}]",['by_sentence_role']
+3326,[5 9],"And Ms. Ford may be overestimating the integrity of the ""supportive"" lawmakers and lawyers currently handling her.",Emphasis,['by_sentence_role'],['by_sentence_role'],['by_sentence_role'],True,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'And' to draw attention to the point being made, and the word 'currently' is placed at the end to give it emphasis.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which gives emphasis to the idea presented at the beginning of the sentence. This technique places emphasis on the skepticism towards Ms. Ford's situation.""
+}",['by_position'],timeout,[],False,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which places emphasis on the following statement, indicating a continuation or contrast with previous information.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which draws attention to what follows, emphasizing the doubt expressed by the writer about Ms. Ford's situation.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'And' which draws attention to what follows, emphasizing the doubt being cast on Ms. Ford's estimation of the integrity of the 'supportive' lawmakers and lawyers.""
+}",['by_position'],True,['by_position'],1.0,0.0,GPT classification and explanation both wrong,['by_sentence_role'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the most salient elements are not placed at the beginning or the end. The main focus of the sentence is on Ms. Fords potential overestimation, which is positioned in the middle of the sentence rather than at the beginning or end, where emphasis is typically placed.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because it does not highlight the subject (Ms. Ford) in a way that draws attention to her. Instead, the focus is on the action of overestimating and the integrity of the lawmakers and lawyers, which are the main points of concern in the sentence. Emphasis by sentence role typically involves structuring the sentence to foreground the subject or a particular element, which is not the case here.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows the standard Subject Verb Object (SVO) order without any significant deviation or rearrangement that would create anastrophe or hyperbaton. The structure is straightforward and does not emphasize any particular element through inversion.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. It presents a straightforward assertion without employing multiple strategies to create emphasis. The structure of the sentence does not utilize any of the specified strategies in a way that would enhance emphasis.', 'Property': 'combinations'}]",[]
+4024,[13],"Specifically, one executive suggests paying for the rides of Latinos to get them to the polls — if they vote for Clinton, that is.",Emphasis,['by_sentence_role'],['by_position'],['by_position'],False,"['from_inversions', 'by_position']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'one executive suggests' which places emphasis on the executive and the action of suggesting. The end of the sentence emphasizes the condition of paying for the rides of Latinos only if they vote for Clinton.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The salient elements 'one executive suggests' and 'if they vote for Clinton, that is' are placed at the beginning and end of the sentence, which influences the emphasis by positioning these key points prominently.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence places emphasis on 'one executive suggests' by positioning it first, drawing attention to the idea of an executive proposing a specific action.""
+}",['by_position'],True,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on the idea of paying for the rides of Latinos to get them to the polls, which is at the beginning of the sentence, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Specifically' which emphasizes the specific suggestion being made, and ends with 'if they vote for Clinton, that is' which emphasizes the condition attached to the suggestion.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The beginning of the sentence emphasizes the suggestion of paying for the rides of Latinos, while the end emphasizes the condition of voting for Clinton.""
+}",['by_position'],True,['by_position'],0.0,1.0,,['by_position'],"[{'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by position as it places the key elements, paying for the rides of Latinos and if they vote for Clinton, at the beginning and end of the sentence. This structure highlights the actions and conditions being discussed, thereby influencing the readers focus on these salient points.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the focus is on the action of suggesting and the conditional nature of the proposal rather than on the subject itself. The subject one executive is not receiving the most attention; instead, the emphasis is on the action and the context of the suggestion regarding voting behavior.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a standard Subject-Verb-Object (SVO) structure without any notable anastrophe or hyperbaton. The focus of the sentence is on the action of suggesting and the conditional nature of the proposal, rather than on an inversion that would create emphasis.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. Instead, it presents a straightforward statement without employing multiple strategies to create emphasis. The focus is on the suggestion made by the executive rather than on a combination of grammatical strategies to enhance emphasis.', 'Property': 'combinations'}]",['by_position']
+4458,[ 8 17],"They want to prosecute Assange and maybe hang him from the rafters in Congress, but what about Judith Miller and The New York Times lying the West into war?",Emphasis,['by_position'],['by_position'],['by_position'],True,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'They want to prosecute Assange', placing emphasis on this action and its subject.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence starts with 'They want to prosecute Assange' placing the salient elements at the beginning of the sentence. Additionally, the sentence uses inversion with 'but what about Judith Miller and The New York Times lying the West into war?' where the normal order of subject, verb, and object is altered.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position to place 'Assange' at the beginning and 'Judith Miller and The New York Times' at the end for emphasis. It also employs an inversion with the phrase 'but what about Judith Miller and The New York Times lying the West into war?' by placing the object before the subject.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places the most attention on the beginning and end of the sentence with 'They want to prosecute Assange' and 'hang him from the rafters in Congress.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' and places emphasis on the beginning and end of the sentence to highlight the contrast between the treatment of Assange and the actions of Judith Miller and The New York Times.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence uses an inversion with 'but what about Judith Miller and The New York Times lying the West into war?' which violates the normal Subject Verb Object (SVO) order. Additionally, the beginning of the sentence 'They want to prosecute Assange and maybe hang him from the rafters in Congress' places emphasis on the action being taken.""
+}","['by_position', 'from_inversions']",True,"['by_position', 'from_inversions']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['by_position'],"[{'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by position as it places the most salient elements, such as prosecute Assange and Judith Miller and The New York Times lying the West into war, at the beginning and end of the sentence. This structure highlights the contrast between the prosecution of Assange and the actions of Judith Miller and The New York Times, effectively drawing attention to both points.', 'Property': 'by position'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by sentence role as it highlights the subjects Assange and Judith Miller in a way that draws attention to their actions and implications. The structure of the sentence places significant focus on the contrast between the prosecution of Assange and the actions of Judith Miller and The New York Times, thereby emphasizing the subjects and their roles in the context of the statement.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions such as anastrophe or hyperbaton. It follows a more conventional structure and does not violate the normal Subject Verb Object (SVO) order in a way that creates emphasis. The focus of the sentence is on the content of the prosecution and the comparison to Judith Miller and The New York Times, rather than on a stylistic inversion for emphasis.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. While it expresses strong opinions and contrasts between Assange and Judith Miller, it does not employ the specified grammatical strategies to create emphasis. The structure of the sentence is more focused on presenting a rhetorical question rather than utilizing combinations of emphasis techniques.', 'Property': 'combinations'}]","['by_position', 'by_sentence_role']"
+5208,[],"“At this time, we have not had cooperation from attorneys representing other clients, and they have made no attempt to substantiate their claims.”",Emphasis,['by_position'],['by_position'],['by_position'],True,['by_position'],"{
+  ""Properties"": [
+    ""by position"",
+    ""from inversions""
+  ],
+  ""Explanation"": ""The sentence uses both 'by position' emphasis by placing 'At this time' at the beginning of the sentence and 'from inversions' emphasis by inverting the normal order of the subject and verb in 'they have made no attempt to substantiate their claims.'""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'At this time' and ends with 'their claims', placing emphasis on the current status and the lack of action by the attorneys representing other clients.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The writer places the salient elements 'At this time' and 'they have made no attempt to substantiate their claims' at the beginning and end of the sentence, respectively, to emphasize the lack of cooperation and effort from the attorneys representing other clients.""
+}",['by_position'],False,"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'At this time' at the beginning and 'their claims' at the end, which draws attention to these elements.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position, placing the salient elements 'At this time' and 'they have made no attempt to substantiate their claims' at the beginning and end of the sentence to influence what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence uses emphasis by position by placing 'At this time' at the beginning and 'they have made no attempt to substantiate their claims' at the end, which draws attention to these elements.""
+}",['by_position'],True,['by_position'],1.0,1.0,,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the salient elements are not placed at the beginning or the end of the sentence. Instead, the main point about the lack of cooperation and substantiation is embedded within the middle of the sentence, which does not align with the concept of emphasizing key elements by positioning them at the extremes.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because it does not highlight the subject in a way that draws attention to it. Instead, it presents information in a straightforward manner without any particular focus on the subjects involved. The subjects we and they are mentioned, but the structure of the sentence does not create emphasis on them; rather, it conveys a lack of cooperation and action.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided follows the standard Subject Verb Object (SVO) order and does not exhibit any anastrophe or hyperbaton. There is no inversion present that would create emphasis; instead, it maintains a clear and straightforward structure.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. It presents a straightforward statement without employing any specific grammatical strategies that would create emphasis through combinations. The structure is clear and direct, lacking the complexity needed to illustrate the specified emphasis combinations.', 'Property': 'combinations'}]",[]
+5272,[],"We will be demanding the opportunity to present testimony to the committee and will likewise be demanding that Judge and others be subpoenaed to testify,” Avenatti wrote on Twitter.",Emphasis,['by_position'],['combinations'],['by_position'],False,"['by_position', 'by_sentence_role']","{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding the opportunity' and ends with 'be subpoenaed to testify,' which places emphasis on the act of demanding and the specific request to subpoena certain individuals.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the action of demanding and presenting testimony.""
+}",['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding...' placing emphasis on the action of demanding, and ends with 'to testify,' placing emphasis on the testimony being demanded. Additionally, the normal order of Subject Verb Object (SVO) is violated with 'the opportunity to present testimony,' emphasizing the elements mentioned.""
+}","['by_position', 'from_inversions']",False,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'Avenatti wrote on Twitter', placing emphasis on the actions and the source of the statement.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the actions being demanded.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'We will be demanding' and ends with 'to testify,' placing emphasis on the actions being demanded.""
+}",['by_position'],True,['by_position'],0.0,0.0,,[],"[{'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis by position as it places the key elements, demanding the opportunity to present testimony and demanding that Judge and others be subpoenaed to testify, at the beginning and end of the sentence. This structure highlights the importance of these actions, aligning with the concept of emphasis by position in grammar.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because it primarily focuses on the actions of demanding rather than highlighting the subjects. The subjects (we and Judge) are not positioned in a way that gives them the most attention; instead, the emphasis is on the actions being taken (demanding) and the context of the statement (presenting testimony).', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a standard Subject Verb Object (SVO) structure without any notable anastrophe or hyperbaton. The phrasing is straightforward and does not rearrange the typical order of elements for emphasis.', 'Property': 'from inversions'}, {'Answer': 'yes', 'Explanation': 'The sentence demonstrates emphasis combinations through the use of repetition and parallel structure. The phrase will be demanding is used twice, which emphasizes the urgency and importance of the actions being described. Additionally, the structure of the sentence, with its coordination of two related clauses, enhances the emphasis on both the opportunity to present testimony and the demand for subpoenas. This aligns with the concept of emphasis by position and sentence role.', 'Property': 'combinations'}]","['by_position', 'combinations']"
+5529,[],"Days ago the president threatened to withhold American aid from Honduras, Guatemala and El Salvador if the flow of immigrants wasn’t stopped.",Emphasis,['by_position'],['by_position'],['by_position'],True,['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the timeline and the outcome of the threat, respectively.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn't stopped', placing emphasis on the timing of the president's threat and the need to stop the flow of immigrants.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago', which places emphasis on the time frame, and ends with 'wasn’t stopped', emphasizing the action or lack thereof taken by the immigrants.""
+}",['by_position'],True,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that needs to be stopped.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that needs to be stopped.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Days ago' and ends with 'wasn’t stopped', placing emphasis on the time frame and the action that the president threatened to take.""
+}",['by_position'],True,['by_position'],1.0,1.0,,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the most salient elements, such as the president and withhold American aid, are not placed at the beginning or the end of the sentence. Instead, the sentence starts with Days ago, which does not carry the main emphasis of the statement. The key information is somewhat buried in the middle of the sentence, rather than highlighted at the beginning or end.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the subject the president is not positioned in a way that highlights it as the focal point of the sentence. Instead, the emphasis is on the action of threatening and the consequences of withholding aid, rather than on the subject itself. The structure of the sentence places more importance on the action and the conditions surrounding it rather than on the subject receiving the most attention.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided follows the standard Subject Verb Object (SVO) order and does not exhibit anastrophe or hyperbaton. The structure is straightforward and does not emphasize any particular element through inversion. Therefore, it does not demonstrate emphasis from inversions.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. It presents a straightforward statement without employing multiple strategies to create emphasis. The structure is primarily declarative and does not manipulate the elements in a way that highlights or emphasizes the message through the specified strategies.', 'Property': 'combinations'}]",[]
+8482,[],Completing this poll grants you access to Freedom Outpost updates free of charge.,Emphasis,['by_position'],['by_position'],['by_position'],True,['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll' which places emphasis on the action of completing the poll, influencing the reader to consider taking that action.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on this action as the most important part of the sentence.""
+}",['by_position'],"{
+  ""Properties"": [
+    ""by position""
+  ],
+  ""Explanation"": ""The text uses emphasis by position, as the beginning of the sentence 'Completing this poll' receives the most attention, influencing what is emphasized.""
+}",['by_position'],True,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'Completing this poll', placing emphasis on the action of completing the poll.""
+}",['by_position'],True,['by_position'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence Completing this poll grants you access to Freedom Outpost updates free of charge does not demonstrate emphasis by position because it does not place the most important elements at the beginning or end of the sentence. The main action (Completing this poll) is at the start, but the key benefit (access to Freedom Outpost updates free of charge) is placed at the end, which does not create a strong emphasis on either part. The structure does not effectively highlight the most salient elements in a way that influences emphasis.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence Completing this poll grants you access to Freedom Outpost updates free of charge does not demonstrate emphasis by sentence role because the subject Completing this poll is not positioned in a way that highlights it as the focal point of the sentence. The structure of the sentence places more emphasis on the action of granting access rather than on the subject itself.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence Completing this poll grants you access to Freedom Outpost updates free of charge. follows the standard Subject Verb Object (SVO) order and does not employ anastrophe or hyperbaton. There is no inversion present that would create emphasis, as the structure is straightforward and conventional.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence Completing this poll grants you access to Freedom Outpost updates free of charge does not demonstrate emphasis combinations. It is a straightforward declarative sentence that conveys information without employing strategies such as position, sentence role, or inversions to create emphasis. There are no elements in the structure that highlight or stress particular parts of the sentence beyond the basic informative content.', 'Property': 'combinations'}]",[]
+12899,[],Yore called the example Pope Francis set in the way he handled the abuse information “extremely dangerous.”,Emphasis,['by_position'],['by_position'],['by_position'],True,['by_position'],"{
+  ""Properties"": [""by position"", ""from inversions""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description. The normal order of Subject Verb Object (SVO) is also violated with 'Yore called the example Pope Francis set...' which is an example of inversion.""
+}","['by_position', 'from_inversions']","{
+  ""Properties"": [""by sentence role""],
+  ""Explanation"": ""The subject of the sentence, 'Pope Francis', receives the most attention, indicating emphasis on his actions.""
+}",['by_sentence_role'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places the salient element 'extremely dangerous' at the end, which gives it the most emphasis.""
+}",['by_position'],False,"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence places emphasis on 'extremely dangerous' by positioning it at the end, influencing what is emphasized.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description.""
+}",['by_position'],"{
+  ""Properties"": [""by position""],
+  ""Explanation"": ""The sentence begins with 'extremely dangerous,' placing emphasis on this description and influencing the reader's perception of the severity of the situation.""
+}",['by_position'],True,['by_position'],1.0,1.0,,['by_position'],"[{'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by position because the key elements of the sentence (the subject Yore and the quote about Pope Francis) are not placed at the beginning or the end. Instead, the emphasis is on the quote itself, which is positioned in the middle of the sentence, rather than at the beginning or end where it would receive the most emphasis.', 'Property': 'by position'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate emphasis by sentence role because the focus is on the example set by Pope Francis rather than on the subject Yore. The structure of the sentence places more importance on the action and the description of the example rather than emphasizing the subject itself.', 'Property': 'by sentence role'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis from inversions. It follows a standard Subject Verb Object (SVO) structure without any notable anastrophe or hyperbaton. The phrase Yore called the example Pope Francis set... maintains a conventional order and does not rearrange elements for emphasis.', 'Property': 'from inversions'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate emphasis combinations as defined by the use of by position, by sentence role, or from inversions. It presents a straightforward statement without employing multiple strategies to create emphasis. The phrase extremely dangerous is an opinion but does not involve a combination of grammatical strategies to enhance emphasis.', 'Property': 'combinations'}]",[]

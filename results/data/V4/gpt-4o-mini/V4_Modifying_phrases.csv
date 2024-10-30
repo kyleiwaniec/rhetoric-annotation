@@ -1,0 +1,271 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,propertygpt-4o-mini,resgpt-4o-mini_0.0_V4,propertygpt-4o-mini_0.0_V4
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""]
+} 
+   
+  	","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the New York Times' which modifies the verb 'go' and a single word modifier 'Jewish' which modifies the noun 'community'.""
+}","['prepositional_phrases', 'single_word_modifiers']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'more' are used to modify the nouns 'community' and 'some' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively, and the adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],0.0,1.0,,['single_word_modifiers'],prepositional phrases,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains the prepositional phrase 'to the New York Times', which indicates the direction of the action (whining). Prepositional phrases typically consist of a preposition followed by a noun or pronoun, and in this case, 'to' is the preposition and 'the New York Times' is the noun phrase that follows it.""
+}",['prepositional_phrases']
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""]
+} 
+   
+  	","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the New York Times' which modifies the verb 'go' and a single word modifier 'Jewish' which modifies the noun 'community'.""
+}","['prepositional_phrases', 'single_word_modifiers']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'more' are used to modify the nouns 'community' and 'some' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively, and the adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],0.0,1.0,,['single_word_modifiers'],single word modifiers,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains single word modifiers such as 'more' (an adverb modifying 'whine') and 'Jewish' (an adjective modifying 'community'). These words serve to modify the meaning of the nouns and verbs in the sentence, thus qualifying as single word modifiers.""
+}",['single_word_modifiers']
+253,[3 8],Either that or they can go whine to the New York Times some more because the Jewish community won't let them burn crosses on their lawn.,Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,[],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers"", ""multiplying and embedding modifiers""]
+} 
+   
+  	","['prepositional_phrases', 'single_word_modifiers', 'multiplying_and_embedding_modifiers']","{
+  ""Properties"": [""prepositional phrases"", ""single word modifiers""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'to the New York Times' which modifies the verb 'go' and a single word modifier 'Jewish' which modifies the noun 'community'.""
+}","['prepositional_phrases', 'single_word_modifiers']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'more' are used to modify the nouns 'community' and 'some' respectively.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively. The adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'Jewish' and 'New York' modify the nouns 'community' and 'Times' respectively, and the adverb 'more' modifies the verb 'whine'.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],0.0,1.0,,['single_word_modifiers'],multiplying and embedding modifiers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not utilize multiplying and embedding modifiers. While it contains multiple clauses and phrases, it does not feature multiple modifying words or phrases that modify a single noun or verb in a way that would be considered 'multiplying' or 'embedding' modifiers. The modifiers present do not function in a way that creates complex layers of modification typical of multiplying and embedding structures.""
+}",[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Modifying_phrases,[],[],[],True,[],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases 'While Obama pardoned drug dealers' and 'locked up ranchers', which modify the actions of Obama, and 'Trump pardons ranchers' and 'locks up drug dealers', which modify the actions of Trump.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""]
+}
+
+ 		",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains both single word modifiers (e.g., 'drug' as an adjective) and prepositional phrases (e.g., 'up ranchers' modifying 'locked').""
+}","['single_word_modifiers', 'prepositional_phrases']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and adverbs 'up' and 'down'. These modifiers provide additional information about the actions of Obama and Trump.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and verbs 'pardoned' and 'locked up'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers', and verbs 'pardoned' and 'locked up'. These modifiers provide additional information about the subjects and actions in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,[],prepositional phrases,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence provided does not contain any prepositional phrases. A prepositional phrase typically begins with a preposition and includes a noun or pronoun. In the given sentence, there are no phrases that fit this structure; instead, it consists of clauses that describe actions without the use of prepositions to indicate relationships between elements.""
+}",[]
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Modifying_phrases,[],[],[],True,[],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases 'While Obama pardoned drug dealers' and 'locked up ranchers', which modify the actions of Obama, and 'Trump pardons ranchers' and 'locks up drug dealers', which modify the actions of Trump.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""]
+}
+
+ 		",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains both single word modifiers (e.g., 'drug' as an adjective) and prepositional phrases (e.g., 'up ranchers' modifying 'locked').""
+}","['single_word_modifiers', 'prepositional_phrases']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and adverbs 'up' and 'down'. These modifiers provide additional information about the actions of Obama and Trump.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and verbs 'pardoned' and 'locked up'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers', and verbs 'pardoned' and 'locked up'. These modifiers provide additional information about the subjects and actions in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,[],single word modifiers,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives and adverbs. The words 'drug' and 'locked' function as modifiers, describing the nouns 'dealers' and 'ranchers' respectively. Additionally, 'up' in 'locks up' serves as a part of the verb phrase, modifying the action. Therefore, the sentence does utilize single word modifiers.""
+}",['single_word_modifiers']
+263,[3],"While Obama pardoned drug dealers and locked up ranchers, Trump pardons ranchers and locks up drug dealers.",Modifying_phrases,[],[],[],True,[],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The example contains prepositional phrases 'While Obama pardoned drug dealers' and 'locked up ranchers', which modify the actions of Obama, and 'Trump pardons ranchers' and 'locks up drug dealers', which modify the actions of Trump.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""]
+}
+
+ 		",['prepositional_phrases'],"{
+  ""Properties"": [""single word modifiers"", ""prepositional phrases""],
+  ""Explanation"": ""The sentence contains both single word modifiers (e.g., 'drug' as an adjective) and prepositional phrases (e.g., 'up ranchers' modifying 'locked').""
+}","['single_word_modifiers', 'prepositional_phrases']",False,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and adverbs 'up' and 'down'. These modifiers provide additional information about the actions of Obama and Trump.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers' and verbs 'pardoned' and 'locked up'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives 'drug' and 'ranchers', and verbs 'pardoned' and 'locked up'. These modifiers provide additional information about the subjects and actions in the sentence.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,[],multiplying and embedding modifiers,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains multiple modifying phrases that describe the actions of Obama and Trump. The use of 'pardoned drug dealers and locked up ranchers' and 'pardons ranchers and locks up drug dealers' demonstrates the embedding of modifiers, as each action is modified by the subject (Obama or Trump) and includes multiple objects (drug dealers, ranchers). This structure exemplifies the use of multiplying modifiers within the sentence.""
+}",['multiplying_and_embedding_modifiers']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'future' and 'the GOP agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the GOP' which modifies the noun 'future' and another prepositional phrase 'of the GOP' which modifies the noun 'agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'Trumpism' by specifying its relationship to the GOP.""
+}",['prepositional_phrases'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future' respectively, making them single word modifiers.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'GOP' are used to modify the noun 'agenda'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,,"['prepositional_phrases', 'single_word_modifiers']",prepositional phrases,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence does not contain any prepositional phrases. A prepositional phrase typically begins with a preposition and includes a noun or pronoun. In the provided sentence, there are no phrases that fit this structure; instead, it consists of clauses and phrases that do not include prepositions followed by nouns or pronouns.""
+}",[]
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'future' and 'the GOP agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the GOP' which modifies the noun 'future' and another prepositional phrase 'of the GOP' which modifies the noun 'agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'Trumpism' by specifying its relationship to the GOP.""
+}",['prepositional_phrases'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future' respectively, making them single word modifiers.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'GOP' are used to modify the noun 'agenda'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,,"['prepositional_phrases', 'single_word_modifiers']",single word modifiers,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains single word modifiers such as 'hard' (an adverb modifying the verb 'to see') and 'promising' (an adjective modifying the noun 'agenda'). These modifiers provide specific qualities to the actions and nouns in the sentence, thus qualifying as single word modifiers.""
+}",['single_word_modifiers']
+282,[3 9],"And if Trumpism is not the future of the GOP, it is hard to see what a promising GOP agenda might look like.",Modifying_phrases,"['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']","['prepositional_phrases', 'single_word_modifiers']",True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'future' and 'the GOP agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The sentence contains a prepositional phrase 'of the GOP' which modifies the noun 'future' and another prepositional phrase 'of the GOP' which modifies the noun 'agenda'.""
+}",['prepositional_phrases'],"{
+  ""Properties"": [""prepositional phrases""],
+  ""Explanation"": ""The prepositional phrase 'of the GOP' modifies the noun 'Trumpism' by specifying its relationship to the GOP.""
+}",['prepositional_phrases'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future' respectively, making them single word modifiers.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'GOP' are used to modify the noun 'agenda'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The adjectives 'promising' and 'hard' modify the nouns 'GOP agenda' and 'future', respectively.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,,"['prepositional_phrases', 'single_word_modifiers']",multiplying and embedding modifiers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence does not utilize multiplying and embedding modifiers. It contains a straightforward structure with a single modifying phrase ('what a promising GOP agenda might look like') that does not involve multiple modifiers or complex embedding. The modifiers present do not multiply or embed in a way that complicates the sentence structure significantly.""
+}",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews', which function as adjectives to modify the nouns they are referring to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'blood libels' is a single word modifier (noun) that modifies the noun 'Hamas'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' to modify and emphasize the nouns in the sentence.""
+}",['single_word_modifiers'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives and nouns, such as 'BDS', 'Hamas', 'blood libels', 'Israel', and 'Jews'. These words modify the subject and convey specific attributes or characteristics.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which function as adjectives and adverbs to modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which are used as adjectives to modify the nouns they are associated with.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,['prepositional_phrases'],prepositional phrases,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence does not contain any prepositional phrases. A prepositional phrase typically begins with a preposition and includes a noun or pronoun. In this sentence, there are no phrases that fit this structure; instead, it consists of a series of nouns and conjunctions without any prepositions leading to a noun or pronoun.""
+}",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews', which function as adjectives to modify the nouns they are referring to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'blood libels' is a single word modifier (noun) that modifies the noun 'Hamas'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' to modify and emphasize the nouns in the sentence.""
+}",['single_word_modifiers'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives and nouns, such as 'BDS', 'Hamas', 'blood libels', 'Israel', and 'Jews'. These words modify the subject and convey specific attributes or characteristics.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which function as adjectives and adverbs to modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which are used as adjectives to modify the nouns they are associated with.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,['prepositional_phrases'],single word modifiers,"{
+  ""Answer"": ""no"",
+  ""Explanation"": ""The sentence does not contain any single word modifiers such as adjectives or adverbs. Instead, it consists of nouns and phrases that do not modify other words in a single-word form. The terms 'BDS', 'Hamas', 'blood libels', and 'Jews' are all nouns, and there are no adjectives or adverbs present to modify them.""
+}",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Modifying_phrases,['prepositional_phrases'],['prepositional_phrases'],['prepositional_phrases'],True,"['single_word_modifiers', 'prepositional_phrases']","{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews', which function as adjectives to modify the nouns they are referring to.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The phrase 'blood libels' is a single word modifier (noun) that modifies the noun 'Hamas'.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The use of single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' to modify and emphasize the nouns in the sentence.""
+}",['single_word_modifiers'],True,"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers in the form of adjectives and nouns, such as 'BDS', 'Hamas', 'blood libels', 'Israel', and 'Jews'. These words modify the subject and convey specific attributes or characteristics.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which function as adjectives and adverbs to modify the nouns and verbs in the sentence.""
+}",['single_word_modifiers'],"{
+  ""Properties"": [""single word modifiers""],
+  ""Explanation"": ""The sentence contains single word modifiers such as 'BDS', 'Hamas', 'blood libels', 'destroy', and 'Jews' which are used as adjectives to modify the nouns they are associated with.""
+}",['single_word_modifiers'],1,['single_word_modifiers'],1.0,0.0,gpt is choosing words in the sentence and assigning the wrong part of speech.,['prepositional_phrases'],multiplying and embedding modifiers,"{
+  ""Answer"": ""yes"",
+  ""Explanation"": ""The sentence contains multiple modifying phrases that serve to elaborate on the options presented. The phrase 'BDS, Hamas, blood libels and those who want to destroy Israel' includes several modifiers that describe the first option, effectively multiplying the modifiers within that part of the sentence. This demonstrates the use of both multiplying and embedding modifiers, as the list of entities modifies the broader concept of standing against Israel.""
+}",['multiplying_and_embedding_modifiers']

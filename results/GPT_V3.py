@@ -156,6 +156,7 @@ class GPT:
                 response = res.choices[0].message.content
                 usage = res.usage
             else:
+                print("timeout")
                 response = "timeout"
                 usage = ""
 
@@ -250,7 +251,6 @@ class GPT:
         _property = _property.replace(" ","_")
         
         _map = {'yes':[_property],'no':[],'error':['parse error']}
-
         
         if response and type(response) is str:
             if response == "timeout":
@@ -258,7 +258,6 @@ class GPT:
             else:
                 response = response.replace("'","")
                 response = response.replace("\n","")
-                
                 try:
                     r = json.loads(response)
 
@@ -278,7 +277,7 @@ class GPT:
     def responseToJson(self,response):
         if response and type(response) is str:
             if response == "timeout":
-                return "timeout"
+                return {'Answer':'timeout'}
             else:
                 response = response.replace("'","")
                 response = response.replace("\n","")

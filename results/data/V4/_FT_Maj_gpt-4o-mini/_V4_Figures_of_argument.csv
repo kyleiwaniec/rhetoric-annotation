@@ -1,0 +1,599 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,res_FT_Maj_gpt-4o-mini_0.0_V4,property_FT_Maj_gpt-4o-mini_0.0_V4
+14,[0],Conservative Ben Shapiro told Fox news the verdict was “horrifying.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example does not include any clear use of antithesis, antimetabole, definition as figure, induction, or eduction. However, it does demonstrate strategic repetition with the use of the word 'horrifying' to emphasize the intensity of the verdict in conservative Ben Shapiro's statement.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence contains strategic repetition of the word 'horrifying', emphasizing the intensity of Ben Shapiro's reaction to the verdict.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the adjective 'horrifying' is strategically repeated to emphasize the intensity of the speaker's reaction to the verdict.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'horrifying' in juxtaposition with the conservative viewpoint of Ben Shapiro creates an argument from opposites, making it an example of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the word 'horrifying' is strategically repeated for emphasis and to convey a strong negative sentiment.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text does not exhibit any of the other listed properties of Figures of argument. However, it does contain strategic repetition with the use of the word 'horrifying' to emphasize the intensity of the verdict."" 
+}",['strategic_repetition'],0,['strategic_repetition'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It is a single statement expressing an opinion and does not demonstrate the use of strategic repetition as defined.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a viewpoint without comparing or contrasting different concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a transposition of arguments or phrases in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. It is a statement expressing an opinion about a verdict and does not define or explain any concept or term.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain induction. Induction involves drawing a general conclusion from specific instances or evidence, which is not present in the statement made by Ben Shapiro. The sentence is simply a quote expressing an opinion about a verdict.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The statement from Ben Shapiro is an opinion about a verdict and does not involve reasoning or drawing conclusions from a set of examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any logical reasoning or inference from general principles to specific conclusions. It simply states an opinion about a verdict without any supporting reasoning or context that would qualify as deduction.', 'Property': 'deduction'}]",[]
+32,[0 6],Cardinal Raymond Burke’s statement declares: “The declarations made by a prelate of the authority of Archbishop Carlo Maria Viganò must be totally taken to heart by those responsible in the Church.”,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by juxtaposing the idea of 'totally taken to heart' with 'those responsible in the Church', creating a contrast between the actions and the recipients of those actions.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement contains an antithesis, as it presents an argument from opposites - the declarations made by Archbishop Viganò must be totally taken to heart by those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The property of strategic repetition is used in the statement with the repetition of the phrase 'must be totally taken to heart'.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting the authority of Archbishop Carlo Maria Viganò with those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting the authority of Archbishop Carlo Maria Viganò with those responsible in the Church.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The statement provides a clear and succinct definition of the authority and importance of Archbishop Carlo Maria Viganò's declarations within the Church.""
+}",['defintion_as_figure'],0,['antithesis'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It is a single statement without any repeated elements, which is necessary for it to qualify as strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It is a straightforward statement about taking a prelates declarations seriously, without any comparison or contrast between opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain antimetabole, which is a rhetorical device involving the repetition of a phrase in reverse order. The sentence is a straightforward statement without any such reversal or transposition of phrases.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically provides a clear and concise explanation of a concept or term, such as What is virtue? Virtue is a responsibility. The sentence in question is a statement about the authority of a prelate and does not define any concept or term.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it is a straightforward statement expressing an opinion or directive regarding the importance of a prelates declarations.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+50,[0],"John Hancock, the first signer of the Declaration of Independence, said,",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of the phrase 'the first signer of the Declaration of Independence' sets up an antithesis between John Hancock and the other signers, emphasizing his unique position.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The phrase 'the first signer of the Declaration of Independence' creates an antithesis by setting up a contrast between the 'first' and the subsequent signers of the Declaration of Independence.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a definition of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text sets forth the full meaning and character of John Hancock as the first signer of the Declaration of Independence in a succinct and lucid manner.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text sets forth the full meaning and character of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a clear and succinct definition of John Hancock as the first signer of the Declaration of Independence.""
+}",['defintion_as_figure'],1,['defintion_as_figure'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'The provided sentence does not contain any repetition of clauses or phrases. It is a single statement about John Hancock and does not include any repeated elements that would qualify as strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a fact about John Hancock without presenting any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments or phrases in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the provided sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically provides a clear and succinct explanation of a concept or term, such as What is virtue? Virtue is a responsibility. The sentence about John Hancock does not provide a definition or explain a concept; it merely states a fact about a historical figure.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not present a general conclusion drawn from specific instances. It simply states a fact about John Hancock without any reasoning or generalization.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain any reasoning or inference based on examples or patterns. It simply states a fact about John Hancock without any context or reasoning that would qualify as abduction.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any logical reasoning or inference from general principles to specific instances. It simply states a fact about John Hancock without any context or reasoning that would qualify as deduction.', 'Property': 'deduction'}]",[]
+54,[0],"She said Thursday regarding Ms. Ford: ""I believe her because she is telling the truth and you know it by her story.""",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting two contrasting ideas: 'I believe her because she is telling the truth' vs 'you know it by her story.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'I believe her' and 'you know it by her story' presents an argument from opposites, emphasizing the contrast between the speaker's belief and the listener's supposed knowledge.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'I believe her' and 'you know it' presents an argument from opposites, emphasizing the contrast between belief and knowledge.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'I believe her because she is telling the truth and you know it by her story' presents an argument from opposites, contrasting the idea of believing someone with the assertion of knowing the truth from their story.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas in close proximity: 'I believe her because she is telling the truth and you know it by her story.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'I believe her because she is telling the truth and you know it by her story' presents an antithesis by contrasting the idea of believing someone based on their truthfulness with the idea of knowing the truth based on their story.""
+}",['antithesis'],1,['antithesis'],0.0,1.0,Annotaors missed 'fron inversion',['from_inversion'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis, which is not present in this statement.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply expresses a belief in Ms. Fords truthfulness without presenting any opposing viewpoint.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of the arguments in a phrase. The provided sentence is a straightforward statement without any inversion or reversal of phrases.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or describe the meaning of a concept or term. It expresses a belief about a persons truthfulness and does not fit the criteria of definition as figure which requires a clear and succinct explanation of a concept.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction. Induction involves drawing a general conclusion from specific instances or evidence, whereas this sentence expresses a personal belief about an individuals truthfulness without providing any specific instances or evidence to support a general conclusion.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence 'I have read the Cardinal's exposition in both Italian and English' is repeated with slight modification in 'and I only find mention of the help of the sacraments in certain cases.' This repetition creates emphasis and draws attention to the comparison between the two readings.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement implies a conclusion drawn from specific examples mentioned by the Cardinal, which then leads to a general statement about the help of the sacraments in certain cases.""
+}",['induction'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of strategic repetition is evident in the repetition of the idea of 'mention of the help of the sacraments' in both Italian and English, emphasizing its significance.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of the phrase 'in both Italian and English' sets up an antithesis by contrasting the two languages, emphasizing the Cardinal's exposition in both languages.""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion from specific cases (exposition in Italian and English) to make a generalization about the Cardinal's mention of the help of the sacraments in certain cases.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement 'I only find mention of the help of the sacraments in certain cases' is a conclusion drawn from specific examples or instances, indicating an inductive reasoning process.""
+}",['induction'],0,['induction'],0.0,1.0,Annotaors missed 'fron inversion',['from_inversion'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It simply states a fact about the Cardinals exposition without using any repeated structures.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a fact about reading an exposition in two languages and mentions the help of sacraments in certain cases, without any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of the same words or phrases in reverse order. The sentence provided does not have a structure that reflects this rhetorical device.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or describe the meaning of a concept. It mentions reading an exposition and the help of sacraments, but it does not clarify or define any terms or concepts.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not make a general conclusion based on specific instances. It simply states a personal observation about the Cardinals exposition.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, as it does not involve making an inference based on a set of examples or cases. Instead, it simply states a personal observation about the Cardinals exposition.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+80,[1],"Also, as this is an unprecedented moment in papal history, perhaps the unprecedented step of recalling Benedict XVI to the Chair of St. Peter should also be considered sooner rather than later, before this crisis gets any more out-of-control than it already is.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement suggests that because the current situation is unprecedented, an unprecedented step of recalling Benedict XVI should be considered sooner rather than later.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The use of the phrase 'unprecedented moment in papal history' leads to the induction that an unprecedented step should also be considered to address the crisis.""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The argument from opposites is employed in the phrase 'unprecedented moment in papal history' and 'unprecedented step of recalling Benedict XVI to the Chair of St. Peter'. This contrast emphasizes the gravity and unique nature of the situation.""
+}",['antithesis'],False,"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The argument is made from the specific situation of an unprecedented moment in papal history to the general suggestion of recalling Benedict XVI to the Chair of St. Peter before the crisis worsens.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The argument is made from specific circumstances (unprecedented moment in papal history) to a general conclusion (consider recalling Benedict XVI to the Chair of St. Peter).""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'unprecedented moment' and 'unprecedented step' creates an antithesis by presenting opposite ideas for emphasis.""
+}",['antithesis'],0,['induction'],1.0,0.0,classification and explanation both wrong,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It discusses a suggestion regarding recalling Benedict XVI but does not repeat any specific phrases or clauses, which is the key characteristic of strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It discusses a potential action regarding the papacy but does not present any opposing concepts or ideas that would qualify as antithesis.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or describe the meaning of a concept or term. It discusses a situation in papal history without defining any terms or concepts.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not provide specific instances or data leading to a general conclusion. Instead, it expresses an opinion about a potential action regarding the papacy.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, as it does not involve making an inference based on a set of examples or past patterns. Instead, it expresses a suggestion regarding a potential action in a specific context.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain deduction, as it does not present a general premise leading to a specific conclusion. Instead, it expresses a suggestion regarding a potential action without any logical reasoning or inference.', 'Property': 'deduction'}]",[]
+127,[1],"I have seen a veritable chorus of Catholics on social media declaring that if Paul VI is canonised, their loss of faith in the Church as an institution will be complete.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition with the phrase 'loss of faith in the Church as an institution' being repeated in different forms ('their loss of faith in the Church', 'loss of faith in the Church as an institution').""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The statement uses strategic repetition with the phrase 'loss of faith in the Church as an institution' being repeated in a slightly modified form, creating emphasis and rhetorical effect.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition of the phrase 'loss of faith in the Church as an institution', emphasizing the sentiment expressed by multiple Catholics.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith in the Church' is strategically repeated in the sentence to emphasize the sentiment expressed by the Catholics on social media.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith' is strategically repeated in the sentence to emphasize the impact of Paul VI's canonization on the Catholics' faith in the Church.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'loss of faith in the Church as an institution' is strategically repeated in the sentence to emphasize the sentiment expressed by the Catholics on social media.""
+}",['strategic_repetition'],1,['strategic_repetition'],1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement about Catholics reactions to the potential canonization of Paul VI without repeating any specific phrases or structures.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts that are being compared or contrasted. It expresses a single idea about Catholics potential loss of faith if Paul VI is canonized, without presenting an opposing viewpoint.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain antimetabole, which is a rhetorical device involving the repetition of a phrase in reverse order. The sentence does not have a structure that reflects this type of argumentation.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It discusses the opinions of Catholics regarding the potential canonization of Paul VI, but it does not clarify or define any specific term or concept.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+159,[1],This is a very real threat – one that is largely immune to attack from the air.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'largely immune' creates a contrast between 'real threat' and 'immune to attack', emphasizing the severity of the threat.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The statement provides a lucid and succinct definition of the threat by describing it as 'largely immune to attack from the air.'""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites: the threat is real, but it is largely immune to attack from the air.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, highlighting the contrast between the threat being real and largely immune to attack from the air.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'very real threat' and 'largely immune to attack' presents an argument from opposites, emphasizing the severity of the threat and the difficulty in countering it.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the threat being largely immune to attack from the air with the idea of it being a real threat.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis, which is not present in the given sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a fact about a threat and its immunity to air attacks, without comparing or contrasting different concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments or phrases in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or describe the meaning of a concept. It simply states that a threat is real and immune to air attacks, which does not fit the criteria for a definition as figure.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not provide specific instances or data leading to a general conclusion. It simply states a fact about a threat without any supporting evidence or reasoning.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The sentence is a statement about a threat and does not provide any examples or reasoning that would indicate a pattern or inference.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+188,[1],They would be immediate targets should the US and South Korea attack the north.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about a general situation (potential targets) from a specific scenario (US and South Korea attacking the north).""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the potential targets in the specific scenario of a US and South Korea attack on the north, and then generalizes this to imply that 'they' would be immediate targets.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement makes a conclusion about a general situation (potential targets) based on the specific scenario of a US and South Korea attack on the north.""
+}",['induction'],True,"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a potential US and South Korea attack on North Korea based on specific circumstances.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a potential US and South Korea attack on the north, based on specific circumstances.""
+}",['induction'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The statement draws a conclusion about the immediate targets in the event of a US and South Korea attack on the north based on specific circumstances.""
+}",['induction'],1,['induction'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in the given sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a condition regarding potential targets in a military context without presenting any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or describe the meaning of a concept. It discusses a potential military scenario without defining any terms or concepts.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The sentence is a straightforward statement about potential targets in a hypothetical military scenario and does not involve reasoning or drawing conclusions from examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+194,[9 1],"Think of this, the meekest man alive was sent to the face of the Pharaoh to tell him to obey or else.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the meekness of the man with the boldness of his task to confront the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The text presents an argument from opposites by contrasting the meekness of the man with the assertive action of delivering a demand to the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis"",
+    ""defintion as figure""
+  ],
+  ""Explanation"": ""The sentence contains an argument from opposites (meek vs. commanding) and sets forth the full meaning of the situation lucidly and succinctly.""
+}","['antithesis', 'defintion_as_figure']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by contrasting the meekness of the man with the boldness of his mission to confront the Pharaoh.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing the idea of the 'meekest man alive' with the action of confronting the Pharaoh, creating a contrast between meekness and assertiveness.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the meekness of the man with the boldness of his mission to confront the Pharaoh.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in the given sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two contrasting ideas or words within parallel grammatical structures. It describes a situation involving a meek man and a Pharaoh but does not present opposing concepts that would qualify as antithesis.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically provides a clear and concise explanation of a concept or term, such as What is virtue? Virtue is a responsibility. The sentence given does not define or explain any concept; it describes a scenario involving a character and a situation.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not present a specific instance leading to a general conclusion. Instead, it describes a scenario involving a character and a command, without any logical reasoning or generalization.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+199,[1],"“When Kavanaugh is on the Supreme Court, undermining our #4thAmendment right against unreasonable searches and seizures, it will be too late for others to join me.”",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of the phrase 'When Kavanaugh is on the Supreme Court' followed by 'it will be too late for others to join me' presents an argument from opposites, highlighting the negative consequence of having Kavanaugh on the Supreme Court.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of 'When Kavanaugh is on the Supreme Court' juxtaposed with 'it will be too late for others to join me' creates an argument from opposites, emphasizing the urgency of the situation.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text contains an antithesis, as it presents an argument from opposites 'When Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me.'""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites by contrasting the current situation with Kavanaugh on the Supreme Court with the future situation where it will be too late for others to join the speaker.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'when Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me' presents an argument from opposites, highlighting the contrast between the current situation and a future outcome.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'when Kavanaugh is on the Supreme Court' and 'it will be too late for others to join me' presents an argument from opposites, highlighting the negative impact of Kavanaugh being on the Supreme Court.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,,['deduction'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement about Kavanaughs potential impact on the Fourth Amendment without repeating any specific phrases or structures.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts that are being compared or contrasted in a parallel structure. It discusses a single idea about Kavanaughs potential impact on the Fourth Amendment without presenting an opposing viewpoint.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or explanation of a concept or term. It discusses a potential future scenario involving Kavanaugh and the Fourth Amendment, but it does not clarify or define what a Supreme Court or Fourth Amendment is.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it expresses a concern about a potential future scenario regarding a Supreme Court justices impact on the Fourth Amendment.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+202,[1],"A gird failure would almost immediately fling the United States into a state of panic, and it’s always good to be prepared just in case.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an antithesis by contrasting the potential consequences of a grid failure (state of panic) with the importance of being prepared (always good to be prepared).""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The text uses induction by drawing a conclusion from a specific scenario (grid failure) to a general situation (United States being flung into a state of panic).""
+}",['induction'],"{
+    ""Properties"": [""defintion as figure""],
+    ""Explanation"": ""The statement sets forth the full meaning and character of a 'grid failure' by explaining the immediate consequences and the need for preparedness.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the potential consequences of a grid failure with the importance of being prepared.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by contrasting the potential consequences of a grid failure (state of panic) with the need to be prepared (good to be prepared).""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'almost immediately' and 'just in case' presents an argument from opposites, emphasizing the potential for a sudden and extreme outcome and the need for preparation.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases, which is the key characteristic of strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It discusses a potential situation (a grid failure) and the importance of being prepared, but there is no comparison or contrast between opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It discusses the potential consequences of a grid failure but does not clarify or define what a grid failure is or its implications.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not provide specific instances or data leading to a general conclusion. It merely expresses a concern about a potential gird failure and the need for preparedness.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it expresses a hypothetical situation about a gird failure and the need for preparedness, without referencing any examples or patterns that would support an inference.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+204,[1],"It has become a superdogma in the Catholic Church: if you don’t believe that Islam is a Religion of Peace, you will be ruthlessly harassed and silenced by the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example contains strategic repetition through the repetition of the phrase 'in the Catholic Church' and 'the U.S. Conference of Catholic Bishops and the hierarchy elsewhere as well.'""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'Catholic Church' and 'religion of peace' is strategically repeated to emphasize the contrast between the two beliefs.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the idea of believing that Islam is a Religion of Peace with the consequence of being ruthlessly harassed and silenced.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'superdogma' and 'Religion of Peace' presents an argument from opposites, creating a contrast between the two concepts.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the belief that Islam is a Religion of Peace with the consequence of being harassed and silenced by the Catholic Church.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'superdogma' and 'Religion of Peace' presents an antithesis, emphasizing the contrast between the two concepts.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,,['deduction'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement without any repeated elements, which is necessary for strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts that are being compared or contrasted in a parallel grammatical structure. It discusses a single idea about the Catholic Churchs stance on Islam without presenting an opposing viewpoint.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in a phrase, which is the defining characteristic of antimetabole. It presents a statement about the Catholic Churchs stance on Islam without any contrasting or reversing structure.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It discusses a belief related to Islam and the Catholic Church but does not define any term or concept in a clear and succinct manner.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+214,[1],"""One woman (was) screaming through my door that I should be killed and I should die,"" he told reporters at Friday's news conference.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains the strategic repetition of the phrase 'I should be killed and I should die.'""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The quote 'I should be killed and I should die' demonstrates strategic repetition of the phrase 'I should' for emphasis and to convey the intensity of the situation.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence contains strategic repetition with the use of 'I should be killed and I should die'. This repetition serves as a rhetorical device to emphasize the severity of the situation.""
+}",['strategic_repetition'],True,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity and severity of the threat, making it a strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity and severity of the threat, making it a strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the phrase 'I should be killed and I should die' emphasizes the intensity of the threat and creates a strong emotional impact.""
+}",['strategic_repetition'],1,['strategic_repetition'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in this example.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two contrasting ideas or words within a parallel grammatical structure. It describes a single event without presenting opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain antimetabole, which involves the transposition of arguments in a phrase. The sentence is a straightforward statement about a womans actions and does not involve any contrasting or mirrored structure that would qualify as antimetabole.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically explains the meaning of a concept or term, such as What is virtue? Virtue is a responsibility. The sentence in question describes a situation involving a woman screaming, which does not provide any definition or explanation of a concept.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The sentence describes a specific event without any reasoning or inference drawn from examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+219,[1],"While Iran told the U.N. nuclear watchdog agency on Tuesday that it plans only to increase enrichment within limits set by 2015 deal, the announcement came with threats from a top Iranian official that the activities could be quickly expanded.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage contains strategic repetition of the idea of Iran's plans to increase enrichment, first mentioning it and then emphasizing it through the threat of quick expansion.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat from a top Iranian official that the activities could be quickly expanded.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition is evident in the passage, with the phrase 'the announcement came' repeated to emphasize the connection between Iran's statement to the U.N. and the subsequent threats from a top Iranian official.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition in the passage 'Iran told the U.N. nuclear watchdog agency' and 'the announcement came with threats from a top Iranian official' demonstrates strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat of quickly expanding the activities.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Iran's stated plan to increase enrichment within limits and the threat of quickly expanding the activities.""
+}",['antithesis'],0,['antithesis'],1.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement about Irans plans regarding nuclear enrichment without repeating any specific phrases or clauses.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts that are being compared or contrasted. It discusses Irans plans regarding nuclear enrichment and includes a threat, but there is no clear juxtaposition of opposing ideas.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It discusses Irans plans regarding nuclear enrichment but does not clarify or define any terms or concepts in the manner described for definition as figure.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not provide specific instances leading to a general conclusion. Instead, it reports on a specific statement made by Iran regarding its nuclear activities without drawing any broader conclusions or generalizations.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+243,[2 6],Women everywhere should be furious.,Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text contains strategic repetition of the word 'women', emphasizing the universality of the sentiment being expressed.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""defintion as figure""],
+  ""Explanation"": ""The sentence uses strategic repetition by repeating the word 'women' to emphasize the inclusive nature of the anger. It also employs a form of definition as figure by succinctly expressing that women globally should feel intense anger.""
+}","['strategic_repetition', 'defintion_as_figure']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'women everywhere' is strategically repeated to emphasize the universality of the feeling being expressed.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of 'women everywhere' and 'should be furious' creates strategic repetition by repeating the idea of anger and emphasizing the universality of the feeling among women.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the word 'everywhere' strategically repeats the idea of women being widespread and universal, emphasizing the extent of the issue.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of 'everywhere' strategically repeats the idea of women being widespread and universal, emphasizing the importance of the statement.""
+}",['strategic_repetition'],1,['strategic_repetition'],1.0,0.0,GPT is making stuff up,[],"[{'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not contain any repetition of clauses or phrases, which is required for strategic repetition. It is a single statement without any repeated elements.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not contain any contrasting ideas or opposites. It is a straightforward statement expressing an emotion without any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not contain a transposition of arguments or phrases. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence Women everywhere should be furious does not provide a definition or explanation of a concept or term. It expresses an opinion or a call to action rather than defining a term or concept, which is what definition as figure refers to.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+271,[3],"That is to say, one could not consecrate a brothel, one could not bless a concentration camp or weapons which are not explicitly ordained for hunting or for legitimate self-defense.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'one could not ... one could not' sets up an argument from opposites, creating a contrast between the consecration of a brothel and the blessing of a concentration camp or weapons not intended for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'one could not' followed by contrasting examples of things that cannot be consecrated or blessed creates an argument from opposites, making use of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites, such as 'consecrate a brothel' and 'bless a concentration camp', reflects the use of antithesis as a figure of argument.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing the consecration of a brothel with the blessing of a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites by juxtaposing consecrating a brothel with blessing a concentration camp or weapons not explicitly ordained for hunting or legitimate self-defense.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an argument from opposites, contrasting the consecration of a brothel or a concentration camp with the ordainment of weapons for hunting or legitimate self-defense.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in this sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts presented in a parallel structure. It discusses the inability to consecrate certain places or items, but it does not compare or contrast two opposing ideas.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of arguments in a phrase. The structure of the sentence does not reflect the format of A, B; B, A as seen in the examples provided.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or explanation of a concept or term. It discusses the inappropriateness of consecrating certain places or items, but it does not clarify or define what those places or items represent in a broader context.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+307,[3],"Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews.",Figures_of_argument,['antithesis'],['antithesis'],['antithesis'],True,['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an argument from opposites, emphasizing the contrast between standing with BDS, Hamas, etc., and standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement presents an argument from opposites, creating a contrast between standing with certain entities and standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The sentence presents an argument from opposites, framing the choice as between standing with BDS, Hamas, and those who want to destroy Israel, or with Jews.""
+}",['antithesis'],True,timeout,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting standing with BDS, Hamas, and those who want to destroy Israel with standing with Jews.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting standing with BDS, Hamas, blood libels, and those who want to destroy Israel with standing with Jews.""
+}",['antithesis'],1,['antithesis'],1.0,1.0,,['antithesis'],"[{'Answer': 'no', 'Explanation': '{', 'Property': 'strategic repetition'}, {'Answer': 'yes', 'Explanation': 'The sentence presents two opposing ideas: standing with BDS, Hamas, and those who want to destroy Israel versus standing with Jews. This clear contrast between two opposing positions fits the definition of antithesis.', 'Property': 'antithesis'}, {'Answer': 'yes', 'Explanation': 'The sentence Either you stand with BDS, Hamas, blood libels and those who want to destroy Israel or with Jews demonstrates antimetabole because it presents two contrasting options in a mirrored structure, where the second part (with Jews) is a direct contrast to the first part (with BDS, Hamas, blood libels and those who want to destroy Israel). This structure reflects the definition of antimetabole, which involves the transposition of arguments.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]","['antithesis', 'antimetabole']"
+365,[6 4],"""What you want to do is destroy this guy's life, hold this seat open, and hope you win in 2020,"" Graham blasted Democrat Senators on the committee.",Figures_of_argument,[],[],['strategic_repetition'],False,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'destroy this guy's life' and 'hope you win in 2020' presents an argument from opposites, creating a contrast between the potential outcomes.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of repetition of the phrases 'destroy this guy's life' and 'hold this seat open' qualifies as strategic repetition within the passage.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'destroy this guy's life' and 'hold this seat open' creates a strategic repetition, and the contrast between 'destroy' and 'hope you win' forms an antithesis in the statement.""
+}","['strategic_repetition', 'antithesis']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement 'destroy this guy's life' is contrasted with 'hold this seat open' to create an argument from opposites, making use of antithesis.""
+}",['antithesis'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the phrase 'destroy this guy's life' and 'hold this seat open' demonstrates strategic repetition, emphasizing the speaker's point and creating a strong rhetorical effect.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The use of the repetition of 'destroy this guy's life' and 'hold this seat open' creates a strategic repetition, emphasizing the speaker's point and adding emphasis to the argument.""
+}",['strategic_repetition'],0,['strategic_repetition'],0.0,1.0,,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement without any repeated elements, which is necessary for it to qualify as an example of strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It expresses a single idea about a political strategy without comparing or contrasting opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of arguments in a phrase. The structure of the sentence does not reflect this rhetorical device.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It is a statement expressing an opinion or a call to action, rather than explaining the meaning or character of a thing.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it expresses a direct statement about political intentions without any reasoning or examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+369,[4 3],"To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.",Figures_of_argument,[],['defintion_as_figure'],['defintion_as_figure'],False,['defintion_as_figure'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The text uses antimetabole by transposing the arguments in the phrase 'To bless always means that something shall flourish, because only then when there is a blessing upon a cause or a project, will something good come out of it.'""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text uses the argument from opposites, presenting the contrast between 'blessing' and 'flourishing' to emphasize the positive outcome of a blessing.""
+}",['antithesis'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a lucid and succinct definition of the term 'to bless', setting forth its full meaning and character.""
+}",['defintion_as_figure'],False,"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a lucid and succinct definition of the term 'to bless' by stating that it means something shall flourish, and that only when there is a blessing upon a cause or project, will something good come out of it.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""defintion as figure""],
+  ""Explanation"": ""The text provides a clear and succinct definition of the term 'to bless' by stating that it means something shall flourish, and that only when there is a blessing upon a cause or project, will something good come out of it.""
+}",['defintion_as_figure'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting the idea of blessing with the idea of something flourishing, implying that the absence of a blessing leads to a lack of flourishing.""
+}",['antithesis'],0,['defintion_as_figure'],0.0,1.0,,['defintion_as_figure'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single idea about the meaning of bless without repeating any specific phrases or structures.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It discusses the concept of blessing and its positive outcome without presenting any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of phrases or clauses in a way that creates a reversal of structure. The sentence provided does not exhibit this structure; it presents a straightforward statement without any reversal or contrasting elements.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a clear definition of a term or concept. It describes the meaning of to bless in a contextual manner but does not define it in a way that sets forth its full meaning and character, as required by the definition of definition as figure.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction. Induction involves drawing a general conclusion from specific instances or evidence, whereas this sentence presents a general statement about the meaning of bless without providing specific instances or evidence to support a broader conclusion.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, as it does not involve making an inference based on a set of examples or past cases. Instead, it presents a general statement about the meaning of bless without referencing any specific instances or patterns.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain deduction, as it does not present a general principle followed by a specific instance or conclusion. Instead, it states a belief about the meaning of bless without any logical reasoning or inference.', 'Property': 'deduction'}]",[]
+994,[8 6],"“I’ve never understood how chaos, anarchy and illegal border crossings are viewed as something good in a country like Germany, which we view as the best example of discipline and the rule of law,” he said.",Figures_of_argument,[],[],[],True,[],"{
+  ""Properties"": [""antithesis"", ""induction""],
+  ""Explanation"": ""The sentence contains argument from opposites (antithesis) by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law. It also uses induction by drawing a conclusion about Germany based on specific examples of chaos, anarchy, and illegal border crossings.""
+}","['antithesis', 'induction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites, contrasting 'chaos, anarchy, and illegal border crossings' with 'discipline and the rule of law' in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis"", ""defintion as figure""],
+  ""Explanation"": ""The statement presents an antithesis through the contrast between 'chaos, anarchy, and illegal border crossings' and 'discipline and the rule of law'. It also provides a definition as a figure by setting forth the character of Germany as a country known for discipline and the rule of law.""
+}","['antithesis', 'defintion_as_figure']",False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement presents an argument from opposites by contrasting chaos, anarchy, and illegal border crossings with discipline and the rule of law in Germany.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It presents a single statement without any repeated elements, which is necessary for strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas in a parallel structure. It expresses a single viewpoint about chaos and anarchy in Germany, but does not present a contrasting idea or concept that would qualify as antithesis.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of arguments in a phrase. The structure of the sentence does not reflect this rhetorical device.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or explanation of a concept or term. It expresses a personal opinion about chaos, anarchy, and illegal border crossings in relation to Germany, but it does not define any of these terms or concepts.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it expresses a personal opinion about chaos and anarchy in the context of Germanys governance.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'hope' and 'sham' creates an antithesis, contrasting the positive expectation with the negative reality, thereby creating a stronger rhetorical effect.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The statement 'I hope the American people can see through this sham, that you knew about it and you held it' presents an argument from opposites, contrasting the idea of seeing through a sham with knowing about and holding it.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by contrasting 'hope' with 'sham' and 'knew' with 'held', creating a sense of opposition and highlighting the speaker's perspective.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas in close proximity: 'see through this sham' and 'you knew about it and you held it.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses the rhetorical device of antithesis by presenting contrasting ideas in close proximity ('see through this sham' vs 'you knew about it and you held it').""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The statement uses antithesis by presenting opposing ideas: 'you knew about it' and 'you held it'.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in the given sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two contrasting ideas or words within a parallel grammatical structure. It expresses a single thought about the American peoples perception of a situation, without presenting opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, as it does not involve the transposition of arguments in a phrase. Antimetabole requires a specific structure where the order of words or phrases is reversed in a parallel manner, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically provides a clear and concise explanation of a concept or term, such as What is virtue? Virtue is a responsibility. The sentence in question expresses a hope regarding the American peoples perception of a situation, but it does not define or explain any concept.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Figures_of_argument,[],['eduction'],[],False,"['eduction', 'induction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between the idea of Oswald defecting to the Soviet Union and promising military secrets, and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The question presents an argument from opposites by contrasting the idea of a supposed defector to the Soviet Union with the decision of US officials to allow him back into the country with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'supposedly' and the contrast between Oswald's attempt to defect to the Soviet Union and the US officials agreeing to let him back in the country with a communist wife creates an antithesis, highlighting the contradictory nature of the situation.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald supposedly defecting to the Soviet Union and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald supposedly defecting to the Soviet Union and then being allowed back into the US with a communist wife.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between Oswald's attempt to defect to the Soviet Union and the U.S. officials' decision to let him back into the country with a communist wife.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It is a single question without any repeated elements.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two contrasting ideas or words within a parallel grammatical structure. It presents a question about a situation without contrasting opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition of a concept or term. It poses a question about a situation involving Oswald and does not clarify or define any terms or concepts.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction. It poses a rhetorical question about a specific historical event involving Oswald and does not make a generalization or inference based on specific instances.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves drawing a conclusion based on a set of examples or patterns. Instead, it poses a rhetorical question about U.S. officials decision-making regarding Oswald, without providing any examples or reasoning that would fit the definition of abduction.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+3796,[11 17],"Let me just remind them, they are themselves under investigation by a special prosecutor in Washington D.C. and they may soon avail themselves of the presumption of innocence beyond a reasonable doubt, so I ask that they reflect on that before they comment or disparage the results of this case.”",Figures_of_argument,[],['strategic_repetition'],[],False,['strategic_repetition'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites by juxtaposing the idea of being under investigation with the presumption of innocence.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis"",
+    ""eduction""
+  ],
+  ""Explanation"": ""The use of 'reflect on that before they comment or disparage' presents an antithesis by contrasting the act of reflecting with the act of commenting or disparaging. Additionally, the speaker makes an eduction by using the specific example of the special prosecutor's investigation to generate a conclusion about reflecting on the case before commenting."" 
+}","['antithesis', 'eduction']","{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The passage uses antithesis as it presents contrasting ideas in close proximity, contrasting being under investigation and availing themselves of the presumption of innocence beyond a reasonable doubt.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'they are themselves' and 'they may soon avail themselves' presents an argument from opposites, emphasizing the contrast between the subjects being investigated and potentially benefiting from the presumption of innocence.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'under investigation' and 'presumption of innocence beyond a reasonable doubt' presents an argument from opposites, highlighting the contrast between the two situations.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of 'they are themselves under investigation' followed by 'they may soon avail themselves of the presumption of innocence beyond a reasonable doubt' presents an argument from opposites, highlighting the contrast between being under investigation and the presumption of innocence.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,,[],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It is a single statement without any repeated elements, which is necessary for it to qualify as strategic repetition.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It discusses a situation involving an investigation and the presumption of innocence, but there is no comparison or contrast between two opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. It discusses a legal situation involving an investigation and the presumption of innocence, but it does not define any concepts or terms in a clear and succinct manner.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+6544,[],"There is no way to spin this, there is no defense, today the mask came off.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [
+    ""strategic repetition""
+  ],
+  ""Explanation"": ""The use of the phrase 'there is no' is strategically repeated to emphasize the absence of any alternative or defense.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The sentence 'there is no way' is repeated at the beginning of the sentence for emphasis, which fits the definition of strategic repetition.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'there is no way' and 'there is no defense' creates strategic repetition, and the opposition in 'there is no way to spin this' and 'today the mask came off' constitutes antithesis.""
+}","['strategic_repetition', 'antithesis']",False,"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The use of 'there is no way' and 'there is no defense' demonstrates strategic repetition, while the contrast between 'there is no way to spin this' and 'today the mask came off' illustrates antithesis.""
+}","['strategic_repetition', 'antithesis']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The text contains strategic repetition with the phrase 'there is no' repeated twice for emphasis and to convey a sense of finality and certainty.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""strategic repetition"", ""antithesis""],
+  ""Explanation"": ""The text uses strategic repetition with the phrase 'there is no' and 'the mask came off', and also employs antithesis with the contrast between 'there is no way to spin this' and 'there is no defense'.""
+}","['strategic_repetition', 'antithesis']",0,"['strategic_repetition', 'antithesis']",1.0,0.0,GPT is pertially correct,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': '{', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two opposing ideas or concepts that are being compared or contrasted. It expresses a singular idea about a situation without presenting an opposing viewpoint.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments or phrases in the manner of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The sentence is a statement expressing a strong opinion or conclusion without referencing any examples or reasoning.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+6670,[],"Whether they heard anything or not, the consequences have been unmistakable — symptoms ranging from nosebleeds, nausea, dizziness and severe headaches to mild brain damage and permanent hearing or memory loss.",Figures_of_argument,['eduction'],['eduction'],[],False,"['antimetabole', 'strategic_repetition']","{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The use of opposites such as 'nosebleeds' and 'memory loss' creates an antithesis in the passage.""
+}",['antithesis'],"{
+  ""Properties"": [""induction""],
+  ""Explanation"": ""The passage uses the specific examples of symptoms experienced by individuals to draw a general conclusion about the consequences of the situation, which is an example of induction.""
+}",['induction'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of hearing anything with the unmistakable consequences, creating a sense of opposition and contrast.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the 'consequences' that are 'unmistakable'.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the consequences that have been unmistakable.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the idea of 'heard anything' with the consequences that have been unmistakable.""
+}",['antithesis'],1,['antithesis'],0.0,0.0,,['eduction'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in this sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It lists symptoms and consequences without comparing or contrasting them in a way that would qualify as antithesis.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain antimetabole, which involves the transposition of arguments in a phrase. The sentence describes symptoms and consequences without any contrasting or reversing structure that would qualify as antimetabole.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. It describes symptoms and consequences but does not define any concept or term in a clear and succinct manner.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+7011,[],Her ex-husband heads up Teneo Strategy: the organization created by the same man who made the Clinton Foundation happen and which employed Huma Abedin.,Figures_of_argument,['defintion_as_figure'],['defintion_as_figure'],['defintion_as_figure'],True,['defintion_as_figure'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The sentence uses antimetabole by transposing the arguments in the phrase 'the same man who made the Clinton Foundation happen and which employed Huma Abedin' to 'made the Clinton Foundation happen and which employed Huma Abedin'.""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the positive association with the Clinton Foundation with the negative association of her ex-husband heading up Teneo Strategy.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence employs antithesis by juxtaposing the creation of Teneo Strategy by the ex-husband with the creation of the Clinton Foundation, implying opposite or conflicting associations.""
+}",['antithesis'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by juxtaposing 'her ex-husband' with 'the same man who made the Clinton Foundation happen.' This creates a contrast between the two individuals.""
+}",['antithesis'],timeout,[],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The sentence presents an antithesis by contrasting the creation of Teneo Strategy by one man with the employment of Huma Abedin by the same organization.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['defintion_as_figure'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It simply states a fact about her ex-husband and the organization he heads, without any repeated elements.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It simply states a fact about her ex-husband and his association with Teneo Strategy and the Clinton Foundation, without any comparison or contrast.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments or phrases in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a specific structure, which is not present in the given sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. A definition as figure typically explains the meaning of a term or concept, such as What is virtue? Virtue is a responsibility. The sentence about the ex-husband and Teneo Strategy does not provide a definition or explanation of a concept.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain induction, as it does not present a general conclusion drawn from specific instances. Instead, it provides specific information about a person and an organization without making any generalizations or inferences.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. Instead, it simply states a fact about a persons employment and does not provide any reasoning or inference based on past examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence does not present a logical reasoning structure that moves from a general premise to a specific conclusion. It merely states a fact about a persons employment and does not involve any inference or prediction based on general principles.', 'Property': 'deduction'}]",[]
+8683,[],"Therefore he that resisteth the power, resisteth the ordinance of God, and they that resist purchase to themselves eternal damnation.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The passage employs an antithesis by presenting an argument from opposites: resisting the power is framed as resisting the ordinance of God, and resisting leads to eternal damnation.""
+}",['antithesis'],"{
+  ""Properties"": [
+    ""antithesis""
+  ],
+  ""Explanation"": ""The phrase 'he that resisteth the power, resisteth the ordinance of God' presents an argument from opposites, emphasizing the contrast between resisting the power and resisting the ordinance of God.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'he that resisteth the power' and 'resisteth the ordinance of God' presents an argument from opposites, making it an example of antithesis.""
+}",['antithesis'],True,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text presents an argument from opposites, contrasting those who resist the power with those who purchase eternal damnation.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'he that resisteth the power' and 'resisteth the ordinance of God' creates an argument from opposites, emphasizing the contrast between resisting the power and resisting the ordinance of God.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The text uses antithesis by presenting opposing ideas: resisting the power is equated with resisting the ordinance of God, and the consequence is eternal damnation.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence provided does not contain any repetition of clauses or phrases. Strategic repetition involves repeating specific phrases or clauses for emphasis or clarity, which is not present in this sentence.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain two contrasting ideas or words within parallel grammatical structures. It discusses the consequences of resisting power but does not present an opposing idea to create a contrast.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not demonstrate or contain antimetabole, which involves the transposition of the same words or phrases in reverse order. The structure of the sentence does not reflect this pattern.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. It does not set forth the full meaning and character of a thing in a clear and succinct manner, as required by the definition of definition as figure. Instead, it expresses a moral or theological statement about the consequences of resisting power.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain deduction. It does not present a general premise followed by a specific conclusion based on logical reasoning. Instead, it expresses a moral or religious assertion without a logical structure that fits the definition of deduction.', 'Property': 'deduction'}]",[]
+13483,[],"Before the sale, Paddock told him ""that he was going to go out to the desert and put on a light show"" with the ammunition -- that he was ""going to go out and shoot it at night with friends.""",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,['strategic_repetition'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The use of 'going to go out' and 'shoot it at night' in an inverted form reflects the antimetabole figure of argument.""
+}",['antimetabole'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The phrase 'going to go out to the desert and put on a light show' followed by 'going to go out and shoot it at night with friends' presents an argument from opposites, highlighting the contrast between the intended activities.""
+}",['antithesis'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The sentence 'going to go out' is repeated and inverted in the form 'to go out and shoot it' for antimetabole.""
+}",['antimetabole'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'going to go out' and 'put on a light show' presents an argument from opposites, creating a contrast between the peaceful activity of putting on a light show and the potentially violent activity of shooting ammunition."" 
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of opposites is evident in the contrast between 'going to go out to the desert and put on a light show' and 'going to go out and shoot it at night with friends.'""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'going to go out' and 'put on a light show' presents an argument from opposites, emphasizing the contrast between the peaceful activity of putting on a light show and the potentially violent activity of shooting ammunition at night.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It describes a single statement made by Paddock without any repeated elements.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It describes a plan to shoot ammunition at night with friends, which does not involve any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain antimetabole, which involves the transposition of phrases or clauses in a way that creates a contrast or a rhetorical effect. The sentence is a straightforward statement about a persons plans and does not involve any such transposition.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence does not provide a definition or explanation of a concept or term. It describes an action without clarifying or defining any specific term or idea.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain induction. Induction involves drawing a general conclusion from specific instances or evidence, which is not present in the given sentence. The sentence describes a specific statement made by Paddock about a planned activity, without any generalization or inference drawn from multiple instances.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on a set of examples or patterns. The sentence is a direct quote about someones intentions and does not involve reasoning or drawing conclusions from past examples.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': '{', 'Property': 'deduction'}]",[]
+14878,[],"In 1953, the CIA was in the process of developing a top-secret manual on assassinations, one that showed that the CIA was specializing not only in the art of assassination but also in the art of covering up its role in state-sponsored assassinations.",Figures_of_argument,['strategic_repetition'],['strategic_repetition'],['strategic_repetition'],True,"['definition_as_figure', 'strategic_repetition']","{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The example text does not contain explicit examples of antithesis, antimetabole, definition as figure, induction, or eduction. However, it does use strategic repetition by repeating the phrase 'in the art of' to emphasize the dual expertise of the CIA in both assassination and covering up its role in state-sponsored assassinations.""
+}",['strategic_repetition'],"{
+  ""Properties"": [""antimetabole""],
+  ""Explanation"": ""The use of 'not only in the art of assassination but also in the art of covering up' exemplifies antimetabole by transposing the arguments in the phrase.""
+}",['antimetabole'],"{
+  ""Properties"": [""strategic repetition""],
+  ""Explanation"": ""The passage emphasizes the dual focus of the CIA on both the 'art of assassination' and the 'art of covering up its role', employing strategic repetition to underscore this point.""
+}",['strategic_repetition'],False,"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only... but also' presents an argument from opposites, highlighting the dual expertise of the CIA in both assassination and covering up its role in state-sponsored assassinations.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only...but also' presents an argument from opposites, emphasizing the dual expertise of the CIA in both assassination and covering up its role.""
+}",['antithesis'],"{
+  ""Properties"": [""antithesis""],
+  ""Explanation"": ""The use of 'not only... but also' presents an argument from opposites, emphasizing the dual expertise of the CIA in both assassination and covering up its role.""
+}",['antithesis'],1,['antithesis'],1.0,0.0,GPT classification and explanation both wrong,['strategic_repetition'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any repetition of clauses or phrases. It describes the CIAs activities without repeating any specific phrases or structures.', 'Property': 'strategic repetition'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any contrasting ideas or opposites. It describes the CIAs activities in a straightforward manner without presenting any opposing concepts.', 'Property': 'antithesis'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain a transposition of arguments or phrases in the form of antimetabole. Antimetabole involves reversing the order of words or phrases in a balanced structure, which is not present in this sentence.', 'Property': 'antimetabole'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not contain a definition as figure. It describes an event related to the CIAs activities but does not define or clarify the meaning of any concept or term.', 'Property': 'defintion as figure'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain induction. Induction involves drawing a general conclusion from specific instances or evidence, which is not present in the given sentence. The sentence merely states a historical fact about the CIAs activities without making any generalizations or conclusions based on specific instances.', 'Property': 'induction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain abduction, which involves making an inference based on examples or patterns. The sentence discusses the CIAs activities without providing any examples or patterns that would lead to an inference.', 'Property': 'abduction'}, {'Answer': 'no', 'Explanation': 'The sentence provided does not demonstrate or contain any form of deduction. It simply states a historical fact about the CIAs activities in 1953 without making any logical inference from general principles to specific instances.', 'Property': 'deduction'}]",[]

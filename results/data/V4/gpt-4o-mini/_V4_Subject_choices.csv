@@ -1,0 +1,647 @@
+sentence_id,technique,text,feature_id,props_a20,props_a21,props_a22,annotator_consistency,props_gpt4_majority,res_1.0_1,gpt_props_1.0_1,res_1.0_2,gpt_props_1.0_2,res_1.0_3,gpt_props_1.0_3,gpt3.5_1.0_consistency,res_0.2_1,gpt_props_0.2_1,res_0.2_2,gpt_props_0.2_2,res_0.2_3,gpt_props_0.2_3,gpt3.5_0.2_consistency,gpt3.5_0.2_majority,humans isCorrect,gpt isCorrect,comments,ground truth,resgpt-4o-mini_0.0_V4,propertygpt-4o-mini_0.0_V4
+68,[0],"I have read the Cardinal's exposition in both Italian and English, and I only find mention of the help of the sacraments in certain cases.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],True,[],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' is used to refer to the reader, indicating that the statement is from their perspective.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The only identifiable subject in the sentence is 'Cardinal', which refers to a specific individual.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],False,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a single individual, a specific person.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Cardinal' refers to a specific individual, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'I' indicates that the writer is referring to themselves, making it an example of rhetorical participants.""
+}",['rhetorical_participants'],0,['humans'],1.0,0.0,GPT did not adhere to definitions,['rhetorical_participants'],"[{'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and the Cardinal, where I refers to a single individual (the speaker) and the Cardinal refers to a specific person (a title for a church leader). However, the question specifically asks if any of the subjects are humans, and while I and the Cardinal are indeed humans, the focus is on whether the subjects are categorized as humans in the context provided. Since the Cardinal is a title and not a direct reference to a human in the context of the examples given, the answer is no.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'The subject of the sentence is I, which is a rhetorical participant as it refers to the writer themselves. This aligns with the definition provided, where I is a subject choice that involves the writers perspective.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and the Cardinals exposition, neither of which are physical objects or things in the context defined. I refers to a person, and the Cardinals exposition refers to a concept or written work, not a physical object. Therefore, there are no subjects in the sentence that qualify as things as per the provided definition.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and the Cardinals exposition. I is a concrete subject referring to a person, and the Cardinals exposition refers to a specific work or document, which is also a concrete subject. There are no abstractions present in the subjects of this sentence, as they do not fall into the category of name referents that cannot be pointed to easily.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and the Cardinals exposition. These are specific entities and do not fall under the category of vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that are considered concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is I, which is a specific subject referring to the speaker. There are no dummy subjects or slot fillers like it that serve to fulfill the grammatical requirement of a subject without providing specific meaning. Therefore, the sentence does not contain any slot fillers.', 'Property': 'slot fillers'}]",['rhetorical_participants']
+243,[2 6],Women everywhere should be furious.,Subject_choices,['humans'],['humans'],['humans'],True,[],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'women' refers to a group of people, making it an example of the property 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  , ""Explanation"": ""The subject 'women' in this sentence is used to address the reader directly, invoking a sense of shared experience and emotion.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women everywhere' is a rhetorical participant as it addresses the reader directly, invoking a sense of shared identity and emotion.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The subject 'women' is used to address the reader directly, making it a rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1.0,0.0,GPT did not adhere to definitions,['humans'],"[{'Answer': 'yes', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women, which refers to a group of people. Since Women is a term that denotes human beings, it qualifies as a subject that is human according to the provided definition.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women, which refers to a group of people rather than the writer or reader themselves. Rhetorical participants would include subjects like I, you, or we, which directly involve the writer or reader. Since Women does not fit this criterion, there are no rhetorical participants in this sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women, which refers to people and does not denote a physical object or thing. The term things in the context provided refers specifically to objects with a physical existence, such as the car or the computer. Since Women does not fit this definition, the answer is no.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women everywhere, which refers to a specific group of people and can be pointed to easily. It does not fall under the category of abstractions, as it is not a name referent that is difficult to identify or locate. Abstractions typically refer to concepts or ideas that lack a physical presence, whereas Women everywhere denotes a tangible group.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women, which is a specific group of people rather than a vague or general concept. The sentence does not contain any abstract concepts like fairness, justice, or oppression as subjects.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence Women everywhere should be furious, the subject is Women everywhere, which is a specific noun phrase referring to a group of people. It is not a dummy subject or a slot filler like it in it was raining. Therefore, there are no slot fillers present in this sentence.', 'Property': 'slot fillers'}]",['humans']
+375,[4],"Despite the fact that it was instituted by God Himself, growing numbers of Catholics actually consider it immoral.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",True,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""slot fillers"", ""abstractions""]
+}
+
+  ","['slot_fillers', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence makes use of 'it' as a slot filler and includes the rhetorical participant 'God Himself'.""
+}","['rhetorical_participants', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the human referent 'Catholics', the abstract concept 'immoral', and the slot filler 'it'.""
+}","['humans', 'abstractions', 'slot_fillers']",False,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains the slot filler 'it', the abstractions 'God Himself' and 'immoral', and the rhetorical participant 'Catholics'.""
+}","['rhetorical_participants', 'abstractions', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and 'Catholics' as a rhetorical participant representing a group of people.""
+}","['rhetorical_participants', 'slot_fillers']",0,"['rhetorical_participants', 'abstractions', 'slot_fillers']",1.0,0.0,,"['slot_fillers', 'humans']","[{'Answer': 'yes', 'Explanation': 'In the sentence, growing numbers of Catholics is a subject that refers to a group of people, specifically individuals who identify as Catholics. Therefore, it qualifies as a human subject according to the provided definition.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are growing numbers of Catholics and it (referring to whatever is being considered immoral). The phrase growing numbers of Catholics does not include rhetorical participants like I, you, or we. Therefore, there are no rhetorical participants in this sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is growing numbers of Catholics, which refers to a group of people and does not represent a physical object or thing. The phrase it refers to an abstract concept, not a physical object. Therefore, there are no subjects in the sentence that are classified as things in the context provided.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is growing numbers of Catholics. While this phrase refers to a specific group of people, the concept of morality in the context of the sentence can be considered an abstraction. The term it refers to a moral issue, which is an abstract concept that cannot be easily pointed to. Therefore, the sentence does contain abstractions in its subject matter.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are growing numbers of Catholics and it (referring to something previously mentioned). The phrase growing numbers of Catholics is a specific group of people, and it refers to a specific concept or idea, but neither is a vague or general all-encompassing term like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that qualify as concepts.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the word it serves as a dummy subject, which is a type of slot filler. The phrase it was instituted by God Himself uses it to refer to a situation or concept that is not explicitly stated, making it a slot filler. Therefore, there is at least one subject in the sentence that qualifies as a slot filler.', 'Property': 'slot fillers'}]","['humans', 'abstractions', 'slot_fillers']"
+405,[5 4 8 8 9],"So, according to Faggioli, the same Pope who sacks conservative bishops and cardinals according to his pleasure and has just removed a cardinal from the College of Cardinals in an unprecedented disciplinary act under fire from the media, is somehow powerless to dismiss Modernist bishops who have created an obscene “gay culture” in the Church and replace them with orthodox, normal heterosexual males.",Subject_choices,['humans'],['humans'],['humans'],True,"['concepts', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""],
+  ""Explanation"": ""The sentence refers to 'Faggioli' (a person) and 'the Pope' (a person), as well as 'conservative bishops and cardinals' and 'Modernist bishops' (both groups of people), making use of the 'humans' property. Additionally, it discusses actions related to these individuals, falling under the 'things' property.""
+}","['rhetorical_participants', 'things']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Faggioli', 'the Pope', 'conservative bishops', 'cardinals', 'a cardinal', 'Modernist bishops', and 'heterosexual males'. Therefore, the property 'humans' is present in the example text.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject suggests that the writer is referring to someone specific or known to the reader, making it a rhetorical participant.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual involved in the discourse.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Faggioli' as the subject indicates a rhetorical participant, as it refers to a specific individual in the context of the writer's argument.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+  ","['rhetorical_participants', 'abstractions']",0,['rhetorical_participants'],1.0,0.0,GPT is mangling the definitions,['humans'],"[{'Answer': 'yes', 'Explanation': 'The sentence contains the subject the Pope, which is a human. Additionally, bishops, cardinals, and males refer to groups of people, further confirming that there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are the same Pope and Modernist bishops, neither of which are rhetorical participants. Rhetorical participants refer specifically to the writer or reader (e.g., I, you, we), and in this case, the sentence does not include any of these pronouns. Therefore, there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are the same Pope and Modernist bishops. Neither of these subjects refers to physical objects or things as defined in the context. The Pope is a person, and Modernist bishops are also individuals, not objects with physical existence. Therefore, the answer is no.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the provided sentence, the subjects include the same Pope, a cardinal, and Modernist bishops. Among these, Modernist bishops can be considered an abstraction as it refers to a category of individuals defined by their beliefs rather than specific, identifiable persons. Additionally, the phrase an obscene “gay culture” in the Church also represents an abstract concept rather than a concrete entity. Therefore, there are subjects in the sentence that qualify as abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are the same Pope, who, and bishops, cardinals, and males. None of these subjects are vague or general concepts like fairness, justice, or oppression. Instead, they refer to specific entities or groups within the context of the sentence, making them concrete rather than abstract concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are the same Pope and who (referring to the Pope). These subjects are not dummy subjects or slot fillers; they refer directly to the entity performing the action. The phrase it in the example sentence is a classic dummy subject, but in this case, the subjects are specific and meaningful, thus not fitting the definition of slot fillers.', 'Property': 'slot fillers'}]","['humans', 'abstractions']"
+430,[4 9 9 6],This is clearly the testimony of an honest man who has only the good of the Church in his heart—a modern-day Athanasius standing against something so much worse than Liberius.,Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",True,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'man' refers to a single individual person, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The use of 'an honest man' and 'the Church' points to the abstraction of honesty and the rhetorical participation of the writer or reader.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""concepts""],
+  ""Explanation"": ""The text contains the property of 'humans' with the reference to 'a modern-day Athanasius'. It also contains the property of 'concepts' with the term 'the Church' and 'something so much worse than Liberius'.""
+}","['humans', 'concepts']",False,"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' is an abstraction, and the statement is directed at the reader as a rhetorical participant.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'an honest man' refers to a rhetorical participant, and the mention of 'the Church' and 'Liberius' are abstractions.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""]
+}
+
+ 	","['rhetorical_participants', 'abstractions']",1,"['rhetorical_participants', 'abstractions']",1.0,0.0,,"['slot_fillers', 'humans']","[{'Answer': 'yes', 'Explanation': 'The sentence contains the subject an honest man, which refers to a human individual. Additionally, Athanasius is a proper name referring to a historical human figure. Therefore, there are subjects in the sentence that are humans.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are this (referring to the testimony) and a modern-day Athanasius. Neither of these subjects is a rhetorical participant, as they do not refer to the writer or reader (i.e., I, you, we). The sentence discusses a testimony and a historical figure, rather than involving the writer or reader directly.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are this (referring to the testimony) and a modern-day Athanasius. Neither of these subjects refers to physical objects or things as defined in the prompt. This refers to an abstract concept (the testimony), and a modern-day Athanasius is a metaphorical reference to a person, not a physical object. Therefore, there are no subjects in the sentence that are classified as things with physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are this (referring to the testimony) and a modern-day Athanasius (referring to the man). While the testimony can be considered an abstract concept, it is not categorized as an abstraction in the same way as international trade or voting trends. The other subjects do not represent abstract concepts that cannot be easily pointed to; they refer to specific entities or individuals. Therefore, there are no subjects in the sentence that fit the definition of abstractions as described.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are this (referring to the testimony) and a modern-day Athanasius. These subjects are specific entities rather than vague, general concepts like fairness, justice, or oppression. Therefore, none of the subjects in the sentence qualify as concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are This and who (referring to an honest man). Neither of these subjects functions as a slot filler or dummy subject. This is a demonstrative pronoun that refers to the testimony, and who is a relative pronoun that introduces a clause describing an honest man. Therefore, there are no slot fillers present in the sentence.', 'Property': 'slot fillers'}]",['humans']
+1284,[7 8],"I hope the American people can see through this sham, that you knew about it and you held it.""",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",True,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The statement refers to 'the American people' as a group of individuals and includes 'you' as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'you' is a rhetorical participant, directly addressing the reader.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices of 'American people' and 'you' both fall under the category of humans and rhetorical participants.""
+}","['rhetorical_participants', 'humans']",False,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains the property 'humans' as it refers to 'the American people' and 'you'. It also contains the property 'rhetorical participants' as it includes the subject 'you' which refers to the reader or audience.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject choices in the text include 'American people' (humans) and 'you' (rhetorical participant).""
+}","['rhetorical_participants', 'humans']",0,"['humans', 'rhetorical_participants']",1.0,1.0,,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'The subject of the sentence is the American people, which refers to a group of humans. Since the American people is a collective noun representing individuals, it qualifies as a subject that is human.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subjects I and you are present. I refers to the writer, making it a rhetorical participant, while you refers to the reader, also qualifying as a rhetorical participant. Therefore, both subjects in the sentence are rhetorical participants.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is the American people, which refers to a group of individuals rather than a physical object. The sentence does not contain any subjects that are classified as things in the sense of physical objects. Therefore, the answer is no.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is the American people, which refers to a specific group of individuals and is not an abstraction. The sentence does not contain any subjects that fall under the category of abstractions, as defined in the prompt, such as international trade or voting trends. Therefore, the answer is no.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are the American people and you. These subjects refer to specific entities rather than vague, general concepts. The American people denotes a particular group of individuals, while you refers to a specific person or entity being addressed. Therefore, there are no subjects in the sentence that fall under the category of vague concepts like fairness, justice, or oppression.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and the American people. Neither of these subjects functions as a slot filler or dummy subject. A slot filler typically refers to a subject that does not convey specific meaning, such as it in it was raining. In this case, both I and the American people are meaningful subjects that refer to specific entities.', 'Property': 'slot fillers'}]","['humans', 'rhetorical_participants']"
+1311,[ 8  7 14  6],"As Trump grandly proclaimed, Americans no longer have to fear North Korea and can sleep peacefully at night!",Subject_choices,['humans'],['humans'],['humans'],True,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, qualifying as a human subject choice.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is mentioned as a rhetorical participant.""
+}","['rhetorical_participants', 'humans']","{
+    ""Properties"": [""humans"", ""rhetorical participants""],
+    ""Explanation"": ""The subject choices in the text include 'Trump' as a human and rhetorical participant, as well as 'Americans' as a group of people.""
+}","['humans', 'rhetorical_participants']",False,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' reflects a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and 'Trump' is a rhetorical participant as the speaker being referenced.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'Americans' refers to a group of people, and the use of 'Americans' and 'Trump' suggests a focus on humans. The use of 'Americans' also implies a rhetorical appeal to the audience's national identity.""
+}","['rhetorical_participants', 'humans']",1,"['rhetorical_participants', 'humans']",1.0,0.0,GPT is misinterpreting the property. Using it out of context of grammar.,['humans'],"[{'Answer': 'yes', 'Explanation': 'In the sentence, Americans is identified as a subject, and it refers to a group of people, which qualifies as a human subject according to the provided definition. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is Americans, which refers to a group of people but does not include the writer or reader as rhetorical participants. The subjects I, you, or we are not present, thus there are no rhetorical participants in this context.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is Americans, which refers to people and does not represent a physical object or thing. The phrase As Trump grandly proclaimed serves as an introductory clause and does not contain a subject relevant to the main clause. Therefore, there are no subjects in the sentence that are classified as things in the context of physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are Americans and North Korea. Americans refers to a specific group of people and is not an abstraction, while North Korea refers to a specific country, which is also not an abstraction. Therefore, there are no subjects in the sentence that fall under the category of abstractions as defined.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are Americans and Trump. Americans refers to a specific group of people, and Trump refers to a specific individual. Neither of these subjects is a vague or general concept like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that fall under the category of concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is Americans, which is a specific noun referring to a group of people. There are no dummy subjects or slot fillers like it present in this sentence. The phrase As Trump grandly proclaimed serves as an introductory clause and does not contain a subject relevant to the main clause. Therefore, there are no slot fillers in the subject position.', 'Property': 'slot fillers'}]",['humans']
+1354,[7],"“I have, on numerous occasions, noted our intelligence findings that Russians attempted to interfere in our elections.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",True,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, making it a rhetorical participant. The intelligence findings and the interference in elections are abstractions as they cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' refers to the writer, indicating the use of rhetorical participants. The subject 'intelligence findings' is an abstraction as it refers to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""concepts""]
+} 
+ ","['rhetorical_participants', 'concepts']",False,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'our' indicates that the writer is referring to themselves as a rhetorical participant in the statement.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The subject 'I' indicates a rhetorical participant, and 'intelligence findings' is an abstraction referring to a concept that cannot be easily pointed to.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'I' refers to the writer themselves, making it a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1.0,0.0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is I, which refers to a human individual. Additionally, Russians is also mentioned, which refers to a group of people. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject I is a rhetorical participant as it refers to the writer themselves. Additionally, our in our intelligence findings implies a collective involvement that includes the writer and potentially the reader, further reinforcing the presence of rhetorical participants. Therefore, the sentence contains rhetorical participants.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is I, which refers to a person and does not represent a physical object or thing. The phrase our intelligence findings is part of the object of the verb noted, and Russians is also not a physical object but rather a group of people. Therefore, none of the subjects in the sentence are things.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is I, which is not an abstraction. However, the phrase our intelligence findings refers to a concept that is not easily pointed to, making it an abstraction. Therefore, while I is not an abstraction, the subject our intelligence findings qualifies as one, indicating that there are indeed abstractions present in the subject choices of the sentence.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is I, which is a specific pronoun referring to the speaker. The phrase our intelligence findings is also not a vague concept but rather a specific reference to the findings of intelligence. The sentence does not contain any vague, general, or all-encompassing terms like fairness, justice, or oppression that would qualify as concepts. Therefore, there are no subjects in the sentence that are considered concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is I, which is a specific and meaningful subject referring to the speaker. There are no dummy subjects or slot fillers like it that serve to complete the sentence without adding specific meaning. Therefore, the sentence does not contain any slot fillers.', 'Property': 'slot fillers'}]","['humans', 'rhetorical_participants', 'abstractions']"
+1369,[7],"We imported goods ""Made in China,"" while exporting our future.",Subject_choices,['rhetorical_participants'],['rhetorical_participants'],['rhetorical_participants'],True,"['things', 'rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""concepts""],
+  ""Explanation"": ""The subject 'our future' is an example of a concept, as it refers to a vague, general and all-encompassing term.""
+}",['concepts'],"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'goods' refers to physical objects, indicating the presence of the property 'things.'""
+}",['things'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'we' refers to a group or collection of people, making use of the property 'humans.'""
+}",['humans'],False,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be pointed to easily.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'our future' is an abstraction, as it refers to a concept rather than a tangible entity.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The sentence contains the abstraction 'future' which refers to a concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1.0,0.0,GPT is assinging the poperty to the object not the subject,['rhetorical_participants'],"[{'Answer': 'no', 'Explanation': 'The sentence We imported goods ', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence We imported goods ', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence We imported goods Made in China, while exporting our future, the subject is We, which refers to a group of people or an organization, not a physical object. The phrase goods is an object of the verb imported, and our future is also an object of the verb exporting. Therefore, there are no subjects in this sentence that are physical things.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence We imported goods ', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are We (the doer of the action) and goods (the object being imported). The phrase Made in China is a descriptor of the goods and does not serve as a subject. The term our future is also not a subject but rather an object of the action of exporting. Therefore, there are no subjects in the sentence that are vague, general concepts like fairness, justice, or oppression.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence We imported goods ', 'Property': 'slot fillers'}]",['rhetorical_participants']
+1390,[7 9],"Barack Obama spent considerable time selling the American people on the idea of a cooperative Iran — all the while cutting quiet deals, behind closed doors, with the rogue nation.",Subject_choices,['humans'],['humans'],['humans'],True,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The text uses the rhetorical participant 'Barack Obama' as the subject, and also contains the abstractions 'cooperative Iran' and 'rogue nation'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'Barack Obama' (human) and 'the American people' (human), as well as 'the idea of a cooperative Iran' (abstraction).""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The text contains the rhetorical participant 'Barack Obama' as the subject, indicating the writer's focus on the actions and decisions of this individual.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The text contains the use of 'Barack Obama' as a human subject and 'the American people' as a group of people, making use of the 'humans' property. Additionally, the use of 'the American people' can also be considered a rhetorical participant as it represents the audience being addressed in the context of the statement.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Barack Obama' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Barack Obama' is a rhetorical participant, as it refers to a specific individual in the context of the writer's statement.""
+}",['rhetorical_participants'],0,"['rhetorical_participants', 'humans']",1.0,0.0,GPT is mangling the definitions,['humans'],"[{'Answer': 'yes', 'Explanation': 'In the sentence provided, Barack Obama is a proper name referring to a single individual, which qualifies as a human subject. Additionally, the American people refers to a group of individuals, also qualifying as a human subject. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is Barack Obama, which is a third-person reference and does not include the writer or reader as rhetorical participants. Rhetorical participants would require the subject to be I, you, or we, which are not present in this sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is Barack Obama, which refers to a person and does not represent a physical object or thing. The sentence discusses actions taken by a person rather than objects with physical existence. Therefore, there are no subjects in the sentence that are classified as things.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is Barack Obama, which is a concrete referent. However, the phrase the American people can be considered an abstraction as it refers to a collective group that cannot be easily pointed to as a single entity. Additionally, the idea of a cooperative Iran also represents an abstraction, as it refers to a concept rather than a tangible object. Therefore, there are subjects in the sentence that qualify as abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are Barack Obama and the American people. Neither of these subjects is a vague or general concept; they refer to specific individuals and groups. The terms cooperative Iran and rogue nation are also not classified as vague concepts in the context provided, as they refer to specific entities rather than abstract ideas like fairness or justice.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is Barack Obama, which is a specific noun referring to a person. There are no dummy subjects or slot fillers present, as Barack Obama is not a placeholder but the actual subject performing the action of the verb spent. Slot fillers typically refer to words like it or there that do not provide specific information about the subject, which is not the case here.', 'Property': 'slot fillers'}]","['humans', 'abstractions']"
+1405,[ 7 13],"I want to bring our soldiers back home,"" Trump said.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",True,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Trump' refers to a single individual, a proper name.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Trump' as the subject of the sentence indicates the presence of rhetorical participants, where the subject is the speaker (in this case, Trump).""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Trump' is a rhetorical participant as he is the speaker in the quoted statement.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Trump' as the subject indicates a rhetorical participant choice, where the subject is the speaker themselves.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject 'Trump' refers to a single individual, and the use of 'our' indicates a rhetorical participant, as it involves the reader in the statement.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'Trump' as the subject indicates a rhetorical participant choice, where the subject is the speaker themselves.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],1.0,0.0,GPT is mangling the definitions,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject is I, which refers to a human (Trump, in this context). Additionally, our soldiers also refers to a group of humans. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject I is a rhetorical participant, as it refers to the writer (in this case, Trump) directly. Rhetorical participants include subjects like I, you, and we, which involve the speaker or the audience. Here, I clearly indicates the speakers personal involvement and intention.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject is I, which refers to a person, not a physical object or thing. The phrase our soldiers is the object of the verb bring, but it is not the subject of the sentence. Therefore, there are no subjects in this sentence that are classified as things in the context provided.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject is I, which is a concrete referent. The phrase our soldiers is also a concrete referent, as it refers to a specific group of people. There are no abstractions present in this sentence, as both subjects are identifiable and can be pointed to directly.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject is I, which refers to a specific individual (Trump) and not a vague or general concept. The phrase our soldiers is the object of the verb bring, not a subject. Therefore, there are no subjects in this sentence that fall under the category of vague, general concepts like fairness, justice, or oppression.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence I want to bring our soldiers back home, the subject is I, which is a specific pronoun referring to the speaker, not a dummy subject or slot filler. Slot fillers, like it in it was raining, do not refer to a specific entity and are used to fulfill grammatical requirements without providing meaningful content. Therefore, there are no slot fillers in this sentence.', 'Property': 'slot fillers'}]","['humans', 'rhetorical_participants']"
+1407,[7],And it’s a problem not just in West Virginia – it’s a national problem.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],True,['slot_fillers'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' is an abstraction because it refers to a concept that cannot be easily pointed to or visualized.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' refers to a broad and abstract concept, indicating the use of abstractions.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' is an abstraction because it refers to a concept or general issue that cannot be easily pointed to.""
+}",['abstractions'],True,"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' refers to an abstract concept that cannot be easily pointed to.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' refers to an abstract concept that cannot be easily pointed to.""
+}",['abstractions'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'problem' refers to an abstract concept that cannot be easily pointed to.""
+}",['abstractions'],1,['abstractions'],1.0,0.0,GPT is assinging the poperty to the object not the subject,['slot_fillers'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any subjects that refer to humans. The subjects present are it and a problem, which do not denote people or groups of people. Therefore, there are no human subjects in the given sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are it and it again in the second clause. These subjects do not refer to the writer or reader; instead, they refer to a problem being discussed. Therefore, there are no rhetorical participants present in this sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence And it’s a problem not just in West Virginia – it’s a national problem, the subjects are it and problem. The word it is a pronoun that does not refer to a physical object, and problem is an abstract noun rather than a physical thing. Therefore, there are no subjects in this sentence that are considered things with physical existence.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the sentence And it’s a problem not just in West Virginia – it’s a national problem, the subjects are it and problem. The term problem refers to an abstract concept rather than a concrete entity, making it an abstraction. Additionally, national problem also qualifies as an abstraction since it refers to a general issue affecting the nation rather than a specific, tangible object.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are it and problem. The term problem is not a vague, general all-encompassing concept like fairness or justice; rather, it refers specifically to a national issue. Therefore, there are no subjects in the sentence that qualify as concepts.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence And it’s a problem not just in West Virginia – it’s a national problem, the word it serves as a dummy subject, which is a type of slot filler. The first it refers to the situation or problem being discussed, while the second it also acts as a placeholder for the subject of the sentence. Both instances of it do not refer to a specific noun but are used to construct grammatically correct sentences, thus qualifying as slot fillers.', 'Property': 'slot fillers'}]","['abstractions', 'slot_fillers']"
+2508,[8],"“It was a foolish mistake by a very young man,” Saucier’s lawyer, Greg Rinckey, said.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",True,"['slot_fillers', 'humans']","{
+  ""Properties"": [""humans"", ""slot fillers""],
+  ""Explanation"": ""The statement includes the human subject 'a very young man' and the slot filler 'it' in 'It was a foolish mistake.'""
+}","['humans', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""slot fillers""],
+  ""Explanation"": ""The sentence includes the human subject 'a very young man' and the slot filler 'It' used to form a complete sentence.""
+}","['humans', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""rhetorical participants"", ""slot fillers""],
+  ""Explanation"": ""The subject choices in the text include 'Saucier's lawyer', a human, as well as the rhetorical participant 'Greg Rinckey' and the slot filler 'It'.""
+}","['humans', 'rhetorical_participants', 'slot_fillers']",False,"{
+  ""Properties"": [""humans"", ""slot fillers""],
+  ""Explanation"": ""The subject 'Saucier’s lawyer, Greg Rinckey' refers to a human, and 'It' is a slot filler used to make a complete sentence.""
+}","['humans', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""slot fillers""],
+  ""Explanation"": ""The subject 'Saucier’s lawyer, Greg Rinckey' refers to a human, and the slot filler 'It' is used as a dummy subject in the sentence.""
+}","['humans', 'slot_fillers']","{
+  ""Properties"": [""humans"", ""slot fillers""],
+  ""Explanation"": ""The subject 'a very young man' falls under the property of 'humans', while the slot filler 'It' is used at the beginning of the sentence.""
+}","['humans', 'slot_fillers']",1,"['humans', 'slot_fillers']",1.0,1.0,GPT explanation is only partially correct,"['slot_fillers', 'humans']","[{'Answer': 'yes', 'Explanation': 'The subject of the sentence is a very young man, which refers to a human. Additionally, Greg Rinckey is also a human, as he is identified as Sauciers lawyer. Therefore, there are subjects in the sentence that are humans.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subjects are It and Greg Rinckey. It is a dummy subject and does not refer to the writer or reader, while Greg Rinckey is the speaker and does not include the writer or reader as participants. Therefore, there are no rhetorical participants in this sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence It was a foolish mistake by a very young man, the subject is It, which is a dummy subject and does not refer to a physical object. The phrase a foolish mistake is a noun phrase that describes the subject but is not the subject itself. The actual subject does not represent a physical thing, as it is not a tangible object like the car or the computer. Therefore, there are no subjects in this sentence that are considered things in the physical sense.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is It, which refers to a foolish mistake by a very young man. While a foolish mistake could be considered an abstraction, the primary subject It does not fall under the category of abstractions as defined in the prompt. The sentence does not contain any subjects that are name referents that cannot be pointed to easily, as the mistake is a specific instance rather than a broad concept.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subjects are It and a very young man. It refers to the situation or mistake, while a very young man is a specific individual. Neither of these subjects are vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that fall under the category of concepts.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence It was a foolish mistake by a very young man, the word It serves as a dummy subject, which is a type of slot filler. The actual subject of the sentence is the phrase a foolish mistake by a very young man, but It is used to introduce the sentence and does not refer to anything specific. Therefore, It is indeed a slot filler in this context.', 'Property': 'slot fillers'}]","['humans', 'slot_fillers']"
+2871,[8],"While it earlier made attempts to balance its shoddier side with some interesting reporting, it is now solidly main stream in the worst sense.",Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],True,"['slot_fillers', 'abstractions']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses the slot filler 'it' in 'it is now solidly main stream in the worst sense.'""
+}",['slot_fillers'],"{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The subject 'it' is a slot filler used to make a complete sentence, and it refers to an unspecified entity, falling under the category of 'things'.""
+}","['things', 'slot_fillers']","{
+  ""Properties"": [""things"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence does not contain humans, rhetorical participants, or concepts as subjects. Instead, it refers to 'attempts' and 'main stream' as things, and uses 'it' as a slot filler.""
+}","['things', 'abstractions', 'slot_fillers']",False,"{
+  ""Properties"": [""things""],
+  ""Explanation"": ""The subject 'it' refers to an entity with a physical existence, indicating the presence of the 'things' property.""
+}",['things'],"{
+  ""Properties"": [""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses the slot filler 'it' and refers to the abstract concept of 'main stream' in a negative sense.""
+}","['abstractions', 'slot_fillers']","{
+  ""Properties"": [""things"", ""abstractions"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains 'it' as a slot filler, 'main stream' as an abstraction, and 'shoddier side' as a reference to a thing.""
+}","['things', 'abstractions', 'slot_fillers']",0,['things'],1.0,0.0,GPT is assinging the poperty to the object not the subject,['slot_fillers'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any subjects that refer to humans. The subject it refers to an unspecified entity, likely a publication or organization, rather than a person or group of people.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are it and it again in the second clause. These subjects do not refer to the writer or reader; instead, they refer to an unspecified entity (likely a publication or media outlet). Therefore, there are no rhetorical participants present in the sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is it, which refers to an abstract concept or entity rather than a physical object. The sentence discusses the state of it in terms of reporting and mainstream status, but does not include any subjects that are tangible things like a car or a computer.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are it and some interesting reporting. The term it refers to a specific entity, and some interesting reporting is a concrete noun phrase. Neither of these subjects falls under the category of abstractions as defined, which includes concepts that cannot be easily pointed to, such as international trade or voting trends. Therefore, there are no subjects in the sentence that are abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are it and some interesting reporting. The term it refers to a specific entity, and some interesting reporting is a specific action or aspect of that entity. Neither of these subjects are vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that qualify as concepts.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the word it is used as a dummy subject, which serves as a slot filler. The first it refers to an unspecified subject that is making attempts, and the second it refers to the same subject that is now described as solidly mainstream. Both instances of it do not refer to a specific noun but rather serve to fulfill the grammatical requirement of a subject in the sentence.', 'Property': 'slot fillers'}]",['slot_fillers']
+3130,[9],"It beggars belief of ordinary people that, after so many years of hearing and reading them, Ratzinger would remain on such friendly terms with men like Walter Kasper and Carlo Maria Martini, the alleged brains of the Sankt Gallen Mafia.",Subject_choices,"['slot_fillers', 'humans']","['slot_fillers', 'humans']","['slot_fillers', 'humans']",True,"['slot_fillers', 'humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text refers to specific individuals ('Ratzinger', 'Walter Kasper', 'Carlo Maria Martini') and also includes the rhetorical participant 'ordinary people'.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The text refers to specific individuals such as 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini'. These are all examples of humans.""
+}",['humans'],"{
+  ""Properties"": [
+    ""humans""
+  ],
+  ""Explanation"": ""The subject choices in the text primarily revolve around individuals, such as 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini'. These are all human entities, which fall under the 'humans' property.""
+}",['humans'],False,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text refers to 'ordinary people' as well as specific individuals like 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini'. Additionally, the phrase 'It beggars belief' involves a rhetorical participant.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini'. These are examples of humans as subjects.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Ratzinger', 'Walter Kasper', and 'Carlo Maria Martini'. These are all examples of humans.""
+}",['humans'],0,['humans'],1.0,0.0,GPT explanation is only partially correct,"['slot_fillers', 'humans']","[{'Answer': 'yes', 'Explanation': 'The sentence includes ordinary people, men, Walter Kasper, and Carlo Maria Martini as subjects. Ordinary people and men refer to groups of humans, while Walter Kasper and Carlo Maria Martini are proper names of individuals. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It and Ratzinger, neither of which are rhetorical participants. Rhetorical participants refer specifically to the writer or reader, such as I, you, or we. The subjects in this sentence do not include any of these forms, thus there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It and Ratzinger, neither of which are physical objects or things in the context described. It refers to the situation or concept of disbelief, and Ratzinger is a person, not an object with physical existence. Therefore, there are no subjects in the sentence that qualify as things as defined.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subject It refers to the situation or concept of disbelief, which is an abstraction. Additionally, ordinary people can also be considered an abstraction as it refers to a general group rather than specific individuals. Therefore, the sentence contains subjects that fall under the category of abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are ordinary people and Ratzinger, neither of which are vague or general concepts like fairness, justice, or oppression. The subjects refer to specific entities rather than abstract ideas, thus they do not fall under the category of concepts as defined.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject It serves as a dummy subject or slot filler. It does not refer to a specific noun but is used to introduce the clause beggars belief of ordinary people. This aligns with the definition of slot fillers as subjects that do not carry specific meaning but are necessary for grammatical structure.', 'Property': 'slot fillers'}]","['humans', 'abstractions', 'slot_fillers']"
+3315,[8 8 9],"​Despite suffering several public and humiliating reversals in various forums and venues, those pushing for boycotts, divestment and sanctions (BDS) against Israel have not dispensed with their pernicious campaign of hate.",Subject_choices,['humans'],['humans'],['humans'],True,"['humans', 'abstractions']","{
+  ""Properties"": [
+    ""humans"",
+    ""abstractions""
+  ],
+  ""Explanation"": ""The subject 'those pushing for boycotts, divestment and sanctions (BDS) against Israel' refers to a group of people, making use of the 'humans' property. Additionally, the phrase 'their pernicious campaign of hate' refers to an abstract concept, utilizing the 'abstractions' property.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices in the text include 'those pushing for boycotts, divestment and sanctions (BDS) against Israel', which refers to groups or collections of people, and 'pernicious campaign of hate', which is an abstraction.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject choices 'those pushing for boycotts, divestment and sanctions (BDS) against Israel' refer to a group of people, and 'their pernicious campaign of hate' refers to an abstract concept.""
+}","['humans', 'abstractions']",True,"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject 'those pushing for boycotts, divestment and sanctions (BDS) against Israel' refers to a group of people, and the verb 'have not dispensed' is applied to their abstract campaign of hate.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject 'those pushing for boycotts, divestment and sanctions (BDS) against Israel' refers to a group of people, and 'their pernicious campaign of hate' is an abstraction.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text refers to 'those pushing for boycotts, divestment and sanctions' as well as 'their pernicious campaign of hate', indicating the presence of both humans and abstractions.""
+}","['humans', 'abstractions']",1,"['humans', 'abstractions']",1.0,0.0,GPT is assinging the poperty to the object not the subject,['humans'],"[{'Answer': 'no', 'Explanation': 'The subjects of the sentence are those pushing for boycotts, divestment and sanctions (BDS) against Israel, which refers to a group of people but does not specify any individual human subjects or proper names. The phrase describes a collective action rather than identifying specific humans, thus it does not meet the criteria for humans as defined.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are those pushing for boycotts, divestment and sanctions (BDS) against Israel. This subject does not include any rhetorical participants such as I, you, or we. Instead, it refers to a group of people advocating for a specific political action, which does not fit the definition of rhetorical participants.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are those pushing for boycotts, divestment and sanctions (BDS) against Israel. This subject refers to a group of people or activists, not physical objects or things. Therefore, none of the subjects in the sentence are things with a physical existence.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subjects include those pushing for boycotts, divestment and sanctions (BDS) against Israel. This subject refers to a group of people advocating for a specific political action, which is an abstract concept. The phrase boycotts, divestment and sanctions (BDS) itself represents a set of actions that cannot be easily pointed to, making it an abstraction. Therefore, the sentence contains subjects that are indeed abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are those pushing for boycotts, divestment and sanctions (BDS) against Israel. This subject is specific and refers to a particular group of people rather than vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that can be classified as concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is those pushing for boycotts, divestment and sanctions (BDS) against Israel. This subject is not a dummy subject or a slot filler; it is a specific noun phrase that clearly identifies the group being discussed. There are no instances of dummy subjects like it or there that would qualify as slot fillers in this context.', 'Property': 'slot fillers'}]",['abstractions']
+3397,[9],"After Oswald supposedly tried to “defect” to the Soviet Union and promised to give the Russians all the secrets he learned about in the military, why would U.S. officials agree to let him back in the country, and with a communist wife?",Subject_choices,['humans'],['humans'],['humans'],True,"['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The sentence contains the reference to 'Oswald' as the subject, indicating the use of humans property.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains references to specific individuals ('Oswald', 'U.S. officials') and also includes rhetorical participants ('U.S. officials', 'him', 'the Russians', 'the country').""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'U.S. officials' is used to rhetorically question the actions of the U.S. government, thus involving the reader in the discussion.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'U.S. officials' as the subject indicates a focus on the actions and decisions of the government, which is a form of rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The use of 'U.S. officials' suggests a focus on the actions and decisions of the authorities, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The use of 'U.S. officials' as the subject indicates a focus on the actions and decisions of the government, which is a form of rhetorical participant.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1.0,0.0,GPT is mangling the definitions,['humans'],"[{'Answer': 'yes', 'Explanation': 'In the given sentence, the subject U.S. officials refers to a group of people, which qualifies as a human subject according to the provided definition. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'The sentence does not contain any rhetorical participants such as I, you, or we. The subjects present in the sentence are U.S. officials and Oswald, which do not fall under the category of rhetorical participants as defined.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are Oswald and U.S. officials. Neither of these subjects refers to objects that have a physical existence in the context of the examples given (The car swerved, the computer crashed). Oswald is a person, and U.S. officials refers to a group of people, not physical objects. Therefore, there are no subjects in the sentence that are considered things as defined in the prompt.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are U.S. officials and he (referring to Oswald). These subjects are concrete entities and can be pointed to easily, as they refer to specific individuals or groups. The sentence does not contain any subjects that fall under the category of abstractions as defined, such as international trade or voting trends. Therefore, there are no subjects in the sentence that are abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are U.S. officials and he (referring to Oswald). These subjects are specific entities rather than vague, general concepts like fairness, justice, or oppression. Therefore, none of the subjects in the sentence can be classified as concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are U.S. officials and he (referring to Oswald). Neither of these subjects functions as a slot filler or dummy subject. A slot filler typically refers to a subject like it in it was raining, which does not refer to a specific entity but serves to complete the sentence structure. In this case, both subjects are specific and refer to actual entities involved in the action or situation described.', 'Property': 'slot fillers'}]",['humans']
+3428,[9],One leaked official memo says: “Assange is going to make a nice bride in prison.,Subject_choices,"['things', 'humans']","['things', 'humans']","['things', 'humans']",True,['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'Assange' is used in a manner that implies the writer's perspective or opinion about the situation, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject 'Assange' refers to a specific individual, and the use of 'leaked official memo' suggests the involvement of rhetorical participants, such as the writer of the memo or the reader of the article.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject 'Assange' refers to a specific individual, while the use of 'leaked official memo' indicates rhetorical participants.""
+}","['humans', 'rhetorical_participants']",False,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Assange' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'Assange' refers to a single individual, meeting the criteria for the 'humans' property.""
+}",['humans'],1,['humans'],1.0,0.0,GPT explanation is only partially correct,"['things', 'humans']","[{'Answer': 'no', 'Explanation': 'In the given sentence, the subject is One leaked official memo, which is not a human. The phrase Assange refers to a person, but it is not the subject of the sentence; rather, it is part of the predicate. Therefore, there are no human subjects in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is One leaked official memo, which is not a rhetorical participant. Rhetorical participants refer specifically to the writer or reader, such as I, you, or we. The sentence does not include any of these pronouns as subjects, thus there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is One leaked official memo, which refers to a concept or an abstract idea rather than a physical object. While memo can be considered a physical object, in this context, it is functioning as a descriptor of the information being conveyed rather than as a tangible thing in the same way as the car or the computer in the examples given. Therefore, the subject does not represent a physical existence in the same manner as the examples provided.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is One leaked official memo, which is a concrete noun and refers to a specific document. The phrase Assange is going to make a nice bride in prison contains Assange as the subject, which is also a specific individual and not an abstraction. Therefore, there are no subjects in the sentence that fall under the category of abstractions as defined.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is One leaked official memo, which is a concrete noun and not a vague or general concept. The phrase Assange is going to make a nice bride in prison contains Assange as the subject, which is also a specific individual rather than a general concept. Therefore, there are no subjects in the sentence that fall under the category of vague, general concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence One leaked official memo says: “Assange is going to make a nice bride in prison, the subject is One leaked official memo and the clause Assange is going to make a nice bride in prison has Assange as its subject. Neither of these subjects are dummy subjects or slot fillers; they are both specific and refer to actual entities. Therefore, there are no slot fillers present in the subjects of the sentence.', 'Property': 'slot fillers'}]",[]
+3430,[9],"In Alexandra, Virginia – the suburban home of America’s war-making elite — a secret grand jury, a throwback to the middle ages — has spent seven years trying to concoct a crime for which Assange can be prosecuted.",Subject_choices,['humans'],['humans'],['humans'],True,"['things', 'humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject 'America’s war-making elite' represents a group of people, falling under the 'humans' category. Additionally, 'a secret grand jury' and 'a crime' are abstractions, qualifying as 'abstractions'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' through the reference to 'America’s war-making elite' and 'Assange'. It also involves the property 'abstractions' with the mention of 'a secret grand jury', 'a throwback to the middle ages', and 'a crime for which Assange can be prosecuted'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""things""],
+  ""Explanation"": ""The text contains the property 'humans' (America’s war-making elite, Assange) and 'things' (a secret grand jury, a crime)""
+}","['humans', 'things']",False,"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' with the reference to 'America’s war-making elite' and 'Assange'. It also includes the property 'abstractions' with the mention of 'a secret grand jury' and 'a crime'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' with the mention of 'America’s war-making elite' and 'Assange'. It also contains the property 'abstractions' with the mention of 'a secret grand jury' and 'a crime'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' with the reference to 'America’s war-making elite' and 'Assange', as well as the property 'abstractions' with the mention of 'a secret grand jury' and 'a crime'.""
+}","['humans', 'abstractions']",1,"['humans', 'abstractions']",1.0,0.0,GPT did not adhere to definitions,['humans'],"[{'Answer': 'no', 'Explanation': 'The subjects of the sentence are a secret grand jury and a throwback to the middle ages. Neither of these subjects refers to humans; they refer to a legal body and a concept, respectively. The mention of Assange is in the context of prosecution but does not serve as a subject in this sentence. Therefore, there are no human subjects present.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'The subjects of the sentence are a secret grand jury and a throwback to the middle ages. Neither of these subjects includes rhetorical participants such as I, you, or we. The sentence does not involve the writer or reader as subjects, thus there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subjects include a secret grand jury and a throwback to the middle ages. Both of these subjects refer to entities that have a physical existence, thus qualifying as things in the context of the provided definition.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subjects include a secret grand jury and a throwback to the middle ages. While a secret grand jury is a concrete noun, a throwback to the middle ages can be considered an abstraction as it refers to a concept or idea rather than a tangible object. Therefore, there are subjects in the sentence that can be classified as abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are a secret grand jury and a throwback to the middle ages. These subjects refer to specific entities rather than vague, general concepts like fairness, justice, or oppression. Therefore, none of the subjects in the sentence are categorized as concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subject is a secret grand jury, which is a specific noun phrase referring to a particular entity. There are no dummy subjects or slot fillers like it present in this sentence. The subject is not a placeholder but rather a concrete subject that performs the action of the verb has spent.', 'Property': 'slot fillers'}]","['things', 'abstractions']"
+3833,[ 9  8  8  5 12],"I never thought I’d see the day when a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, as notorious as Mark Shea for her crude and often unprintable invective against traditionalists, would unload on Pope Bergoglio with the following headline: “Does Francis know he sounds like an abuser?”",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",True,"['rhetorical_participants', 'humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text include 'Simcha Fisher' and 'Mark Shea', which are both individuals. This indicates the use of the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The text contains references to specific individuals such as 'Simcha Fisher' and 'Mark Shea', which fall under the 'humans' category. Additionally, the use of 'I' and 'her' includes 'rhetorical participants'.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Simcha Fisher' refers to a specific individual, indicating the presence of humans as a subject choice property.""
+}",['humans'],False,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Simcha Fisher' is a human individual, fitting the property of 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Simcha Fisher' is a human individual, fitting the property of 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject choices in the text refer to specific individuals such as 'Simcha Fisher', 'Mark Shea', and 'Pope Bergoglio'.""
+}",['humans'],1,['humans'],1.0,0.0,GPT did not adhere to definitions,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'The sentence contains several subjects that refer to humans. Specifically, Simcha Fisher and Mark Shea are proper names of individuals, and Pope Bergoglio is also a proper name referring to a person. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subjects I and you are rhetorical participants. The subject I refers to the writer, indicating a personal perspective, while you is implied in the context of addressing the reader. This aligns with the definition of rhetorical participants as subjects that include the writer or reader themselves.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are I, a preening, Internet-created neo-Catholic doyenne such as Simcha Fisher, and Pope Bergoglio. None of these subjects refer to physical objects or things as defined in the context. I is a pronoun representing a person, Simcha Fisher is a person, and Pope Bergoglio is also a person. Therefore, there are no subjects in the sentence that are classified as physical objects.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the given sentence, the subjects include I, Simcha Fisher, and Pope Bergoglio. Among these, Pope Bergoglio can be considered an abstraction in the context of the sentence, as it refers to a broader concept of authority and influence within the Catholic Church rather than a specific, easily pointed-to individual. However, the primary subjects are concrete entities. The sentence does not contain any of the examples of abstractions provided (like international trade or voting trends), but the concept of Pope Bergoglio can be interpreted as an abstraction in a broader sense of discussing authority figures. Therefore, the answer is yes because there is at least one subject that can be categorized as an abstraction.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are specific individuals and entities, namely Simcha Fisher and Pope Bergoglio, rather than vague or general concepts. The sentence discusses actions and opinions related to these specific subjects, which do not fall under the category of abstract concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that are considered concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are I and Simcha Fisher, both of which are not dummy subjects or slot fillers. I is the subject of the main clause, and Simcha Fisher is the subject of the subordinate clause. There are no instances of dummy subjects like it or there that would qualify as slot fillers in this context.', 'Property': 'slot fillers'}]","['humans', 'rhetorical_participants', 'abstractions']"
+3834,[12],They tell me that Pope Francis is sounding more and more like the men who abused them.,Subject_choices,['humans'],['humans'],['humans'],True,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Pope Francis' refers to a single individual, fulfilling the property of 'humans'.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants"", ""humans""],
+  ""Explanation"": ""The subject 'me' suggests a rhetorical participant, while 'Pope Francis' and 'the men who abused them' are both examples of humans.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants"", ""things""]
+} 
+
+ 	","['rhetorical_participants', 'things']",False,"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The subject 'Pope Francis' refers to a specific individual, and the use of 'me' indicates a rhetorical participant as the subject.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [""rhetorical participants"", ""humans""]
+  ,
+  ""Explanation"": ""The subject 'me' refers to the reader, making it a rhetorical participant. 'Pope Francis' is a human subject.""
+}","['rhetorical_participants', 'humans']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Pope Francis' refers to a single individual, a proper name.""
+}",['humans'],0,"['humans', 'rhetorical_participants']",0.0,1.0,GPT classification and explanation is correct,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'In the sentence, the subject Pope Francis is a proper name referring to a human, and the men who abused them refers to a group of people, which also qualifies as a human subject. Therefore, there are human subjects present in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence They tell me that Pope Francis is sounding more and more like the men who abused them, the subjects are They and Pope Francis. They refers to a group of people and does not include the writer or reader, while Pope Francis is a specific individual. Neither of these subjects is a rhetorical participant, as they do not represent the writer (I), the reader (you), or a collective group including both (we).', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence They tell me that Pope Francis is sounding more and more like the men who abused them, the subjects are They and Pope Francis. They refers to a group of people, and Pope Francis is a person, neither of which are physical objects or things in the context of the provided definition. Therefore, there are no subjects in the sentence that are classified as things with physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is Pope Francis, which is a concrete referent and can be easily pointed to. The phrase the men who abused them also refers to specific individuals, making it a concrete subject as well. Therefore, there are no abstractions present in the subjects of the sentence.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are They and Pope Francis. They refers to a group of people, and Pope Francis is a specific individual. Neither of these subjects is a vague or general concept like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that can be classified as concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence They tell me that Pope Francis is sounding more and more like the men who abused them, the subject They is not a slot filler; it refers to a specific group of people. The phrase Pope Francis is also a specific subject and not a dummy subject. Therefore, there are no slot fillers present in this sentence.', 'Property': 'slot fillers'}]",['humans']
+3951,[ 8 13  8],"The Hammond case is viewed by many in the West, and indeed across the nation, as a manifest miscarriage of justice akin to double jeopardy.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],True,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants"", ""abstractions""],
+  ""Explanation"": ""The sentence contains a rhetorical participant 'many in the West' and refers to the abstract concept of 'miscarriage of justice'.""
+}","['rhetorical_participants', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'many in the West, and indeed across the nation' refers to groups or collections of people, thereby falling under the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The Subject 'many in the West, and indeed across the nation' refers to a collection of people, and 'a manifest miscarriage of justice akin to double jeopardy' is an abstraction referring to a concept of unjust legal proceedings.""
+}","['humans', 'abstractions']",False,"{
+  ""Properties"": [""humans"", ""abstractions""]
+  ,
+  ""Explanation"": ""The sentence contains the human subject 'many in the West' and the abstract concept 'miscarriage of justice'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The sentence contains the property 'humans' with the mention of 'many in the West' and 'across the nation'. It also contains the property 'abstractions' with the mention of 'manifest miscarriage of justice' and 'double jeopardy'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The sentence refers to 'many in the West' and 'across the nation' as the subjects, indicating the presence of humans. Additionally, the sentence discusses the abstract concept of 'miscarriage of justice', indicating the presence of abstractions.""
+}","['humans', 'abstractions']",1,"['humans', 'abstractions']",0.0,0.0,,['things'],"[{'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are The Hammond case and many in the West, and indeed across the nation. While many refers to a group of people, it is not specified as a human subject in the context of the sentence. The phrase many in the West does not identify specific individuals or a proper name, and thus does not meet the criteria for human subjects as defined. Therefore, there are no clear human subjects in the sentence.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is The Hammond case, which is not a rhetorical participant. Rhetorical participants refer specifically to the writer or reader, such as I, you, or we. The sentence does not include any of these pronouns as subjects; therefore, there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is The Hammond case, which refers to a legal case rather than a physical object or thing. While it may represent a concept or situation, it does not have a physical existence like a car or a computer. Therefore, there are no subjects in the sentence that qualify as things in the context of physical existence.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is The Hammond case, which refers to a specific legal case. However, the phrase a manifest miscarriage of justice can be considered an abstraction, as it refers to a concept that cannot be easily pointed to or quantified. Therefore, the sentence contains subjects that include abstractions.', 'Property': 'abstractions'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is The Hammond case, which is a specific instance. However, the phrase manifest miscarriage of justice includes the concept of justice, which is a vague and general term. Therefore, the sentence does contain a subject that is a concept.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is The Hammond case, which is a specific noun phrase referring to a particular case. There are no dummy subjects or slot fillers like it present in this sentence. The subject is clear and does not serve the function of a placeholder; it directly identifies the topic being discussed.', 'Property': 'slot fillers'}]","['abstractions', 'concepts']"
+3966,[13],It did not allow Iranian parties to open accounts or correspondent accounts at US banks.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],True,"['things', 'slot_fillers', 'humans']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses the dummy subject 'it' to make a complete statement. The actual subject of the sentence is unclear or omitted.""
+}",['slot_fillers'],"{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""things""]
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ",['things'],False,"{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The sentence refers to a specific action or event ('It did not allow') and uses the dummy subject 'it' to make a complete sentence.""
+}","['things', 'slot_fillers']","{
+  ""Properties"": [""things"", ""slot fillers""]
+  ,
+  ""Explanation"": ""The sentence contains a slot filler 'It' and refers to a specific action or restriction, making 'things' the most relevant property.""
+}","['things', 'slot_fillers']","{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a slot filler to make a complete sentence, and the subject 'Iranian parties' refers to physical entities, so both 'things' and 'slot fillers' are present.""
+}","['things', 'slot_fillers']",1,"['things', 'slot_fillers']",1.0,0.0,GPT explanation is only partially correct,['slot_fillers'],"[{'Answer': 'no', 'Explanation': 'The subjects of the sentence are It and Iranian parties. It does not refer to a human, and Iranian parties refers to groups but does not specify individual humans. Therefore, there are no subjects in the sentence that are classified as humans according to the provided definition.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are implied and do not include any rhetorical participants such as I, you, or we. The subject of the sentence is It, which refers to an unspecified entity, and does not involve the writer or reader directly. Therefore, there are no rhetorical participants present.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence It did not allow Iranian parties to open accounts or correspondent accounts at US banks, the subject is It, which does not refer to a physical object or thing. Instead, It likely refers to an abstract concept or entity, such as a policy or regulation. The other elements in the sentence, such as Iranian parties and accounts, are not the subjects but rather part of the object or complement of the verb. Therefore, there are no subjects in this sentence that are classified as physical things.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It (referring to an unspecified entity) and Iranian parties. Neither of these subjects falls under the category of abstractions as defined in the prompt. It is a pronoun that does not refer to an abstract concept, and Iranian parties refers to specific entities rather than abstract ideas like international trade or voting trends. Therefore, there are no subjects in the sentence that can be classified as abstractions.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It (referring to an unspecified entity) and Iranian parties. Neither of these subjects are vague or general all-encompassing terms like fairness, justice, or oppression. Instead, they refer to specific entities and actions, thus they do not fall under the category of concepts as defined.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence It did not allow Iranian parties to open accounts or correspondent accounts at US banks, the subject It is a dummy subject, which serves as a slot filler. The actual subject of the action is not specified in this sentence, making It a placeholder that allows the sentence to be grammatically complete.', 'Property': 'slot fillers'}]",['slot_fillers']
+3967,[13],It did not allow Iran to send funds to the US or receive funds from the US.,Subject_choices,['slot_fillers'],['slot_fillers'],['slot_fillers'],True,"['things', 'slot_fillers', 'humans']","{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains a 'thing' (funds) and a 'slot filler' (it).""
+}","['things', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The subject 'It' is a dummy subject used to make the sentence complete.""
+}",['slot_fillers'],"{
+  ""Properties"": [""things"", ""slot fillers""]
+}
+
+ ","['things', 'slot_fillers']",False,"{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The sentence contains 'It' as a slot filler and refers to a specific action or situation, which is the restriction on Iran sending or receiving funds to/from the US.""
+}","['things', 'slot_fillers']","{
+  ""Properties"": [""slot fillers""],
+  ""Explanation"": ""The sentence uses 'it' as a dummy subject to make a complete sentence.""
+}",['slot_fillers'],"{
+  ""Properties"": [""things"", ""slot fillers""],
+  ""Explanation"": ""The sentence uses 'It' as a slot filler to make a complete sentence, and the subject 'It' refers to an unspecified entity or system that did not allow the specified action.""
+}","['things', 'slot_fillers']",0,"['things', 'slot_fillers']",1.0,0.0,GPT explanation is only partially correct,['slot_fillers'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any subjects that refer to humans. The subjects in the sentence are It (which refers to an unspecified entity) and Iran (which is a country, not a human). The terms US and funds also do not refer to humans. Therefore, there are no human subjects present.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It (referring to an unspecified entity) and Iran. Neither of these subjects is a rhetorical participant, as they do not include the writer or reader (such as I, you, or we). The sentence discusses actions involving Iran and an unspecified entity, without directly involving the writer or reader.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence It did not allow Iran to send funds to the US or receive funds from the US, the subject is It, which does not refer to a physical object or thing. The other entities mentioned, Iran and the US, are proper nouns representing countries, not physical objects. Therefore, there are no subjects in this sentence that are classified as things in the context provided.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It (referring to an unspecified entity) and Iran. Neither of these subjects falls under the category of abstractions as defined in the prompt. It is a pronoun that does not refer to an abstract concept, and Iran is a specific country, which is a concrete noun. The sentence does not contain any subjects that are name referents that cannot be pointed to easily, such as international trade or voting trends.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are It (referring to an unspecified entity) and Iran. Neither of these subjects represents vague, general all-encompassing terms like fairness, justice, or oppression. Instead, they refer to specific entities involved in the action of sending and receiving funds.', 'Property': 'concepts'}, {'Answer': 'yes', 'Explanation': 'In the sentence It did not allow Iran to send funds to the US or receive funds from the US, the subject It is a dummy subject, which serves as a slot filler. It does not refer to a specific entity but is used to construct a grammatically complete sentence. Therefore, It qualifies as a slot filler in this context.', 'Property': 'slot fillers'}]",['slot_fillers']
+4283,[ 1 14],"With mass immigration, especially from Africa, ""our worst nightmares can come true.",Subject_choices,['abstractions'],['abstractions'],['abstractions'],True,"['concepts', 'abstractions']","{
+  ""Properties"": [""humans""]
+  , ""Explanation"": ""The subject 'mass immigration' refers to a group or collection of people.""
+}",['humans'],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The subject 'mass immigration' is an abstraction, as it refers to a broad and undefined concept rather than specific individuals or things.""
+}",['abstractions'],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'mass immigration' refers to a group or collection of people.""
+}",['humans'],False,"{
+  ""Properties"": [""humans""]
+}",['humans'],"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'mass immigration' refers to a group or collection of people, specifically from Africa.""
+}",['humans'],"{
+  ""Properties"": [""humans""]
+}",['humans'],1,['humans'],0.0,0.0,,['rhetorical_participants'],"[{'Answer': 'no', 'Explanation': 'The sentence does not contain any subjects that refer to humans. The phrase our worst nightmares is a metaphorical expression and does not denote a specific human subject. The context of mass immigration and Africa does not introduce any individual or group of people as subjects in the grammatical sense.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is our worst nightmares, which includes the rhetorical participant our. This indicates a collective involvement of the speaker and the audience, making it a rhetorical participant. The use of our suggests that the writer is including themselves and the readers in the statement, thus qualifying as a rhetorical participant.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence provided, the subject is our worst nightmares, which does not refer to a physical object or thing. Instead, it represents an abstract concept or idea. Therefore, there are no subjects in the sentence that are classified as things in the context of physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is our worst nightmares, which refers to a concrete concept rather than an abstraction. While mass immigration is mentioned, it is part of a prepositional phrase and does not serve as the main subject of the sentence. Therefore, there are no subjects in the sentence that fit the category of abstractions as defined.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is our worst nightmares, which is a specific phrase referring to a particular idea or fear rather than a vague or general concept. The sentence does not contain subjects that fall under the category of vague, general all-encompassing terms like fairness, justice, or oppression. Therefore, the answer is no.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence With mass immigration, especially from Africa, our worst nightmares can come true, the subject is our worst nightmares. This is a concrete subject that refers to specific nightmares and is not a dummy subject or slot filler like it in it was raining. Therefore, there are no slot fillers present in this sentence.', 'Property': 'slot fillers'}]",['rhetorical_participants']
+4307,[14 14],The third page of the email begins with another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign.,Subject_choices,['things'],['things'],['things'],True,"['things', 'humans']","{
+  ""Properties"": [""humans""]
+  }
+  
+  ",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Latina woman' refers to a specific individual, fitting the category of humans.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'a Latina woman' is a human individual.""
+}",['humans'],True,"{
+  ""Properties"": [""humans""]
+  ,
+  ""Explanation"": ""The subject 'Latina woman' refers to a single individual, fitting the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Latina woman' refers to a single individual and falls under the category of humans.""
+}",['humans'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Latina woman' refers to a single individual.""
+}",['humans'],1,['humans'],1.0,0.0,GPT is assinging the poperty to the object not the subject,['things'],"[{'Answer': 'yes', 'Explanation': 'The sentence contains the subject a Latina woman, which refers to a human. Therefore, there is at least one subject in the sentence that qualifies as a human subject.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are the third page of the email and another headline and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign. None of these subjects are rhetorical participants, as they do not refer to the writer or reader (such as I, you, or we). Instead, they describe objects or elements within the email.', 'Property': 'rhetorical participants'}, {'Answer': 'yes', 'Explanation': 'In the sentence provided, the subject is The third page of the email, which is a physical object that exists in the context of the email. Additionally, headline and image are also subjects that refer to physical objects within the context of the sentence. Therefore, there are subjects that are indeed things in this sentence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are the third page of the email, another headline, and image of a Latina woman in a red Make America Great Again hat and “Latinos for Trump” sign. None of these subjects represent abstractions as defined in the prompt. They refer to specific, tangible items or entities rather than concepts or categories that cannot be easily pointed to.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are the third page of the email, another headline, image of a Latina woman, red Make America Great Again hat, and Latinos for Trump sign. None of these subjects are vague or general concepts like fairness, justice, or oppression. They are specific entities or items, thus not fitting the definition of concepts as described.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subject is The third page of the email, which is a specific noun phrase and not a dummy subject. There are no slot fillers present, as the subject clearly identifies what the sentence is about without the use of a placeholder like it or there.', 'Property': 'slot fillers'}]","['humans', 'things']"
+4318,[14],Kill the Messenger,Subject_choices,[],[],[],True,[],"{
+  ""Properties"": [""abstractions""],
+  ""Explanation"": ""The title 'Kill the Messenger' contains the abstract concept of 'messenger' which refers to someone who delivers news or information, rather than a specific individual or group.""
+}",['abstractions'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The phrase 'Kill the Messenger' employs a rhetorical participant as the subject, implying a directive to the reader or audience.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The film title 'Kill the Messenger' contains a rhetorical participant, 'the Messenger', which refers to the person being addressed by the command 'Kill'.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The title 'Kill the Messenger' uses a rhetorical participant as the subject, as it directly addresses the reader or audience.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The title 'Kill the Messenger' uses the rhetorical participant 'the Messenger' as the subject, implying a direct message to the reader or audience.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The title 'Kill the Messenger' uses the rhetorical participant 'the Messenger' as the subject, implying a direct address to the reader or writer.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1.0,0.0,GPT is assinging the poperty to the object not the subject,[],"[{'Answer': 'no', 'Explanation': 'The sentence Kill the Messenger does not contain any subjects that refer to humans. The phrase the Messenger could refer to a person, but it is not explicitly identified as a human subject in the context provided. The imperative form of the sentence does not specify who is performing the action, and thus there are no clear human subjects present.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence Kill the Messenger, there are no explicit subjects present. The phrase is an imperative sentence, which typically does not state the subject directly. The implied subject is you, as in You kill the messenger, but it is not explicitly mentioned. Therefore, while you could be considered a rhetorical participant if it were present, in this case, it is not explicitly stated, leading to the conclusion that there are no rhetorical participants in the sentence.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence Kill the Messenger, the subject is implied to be you (the person being addressed), which is not a physical object or thing. The phrase the Messenger could be interpreted as a thing, but it is not the subject of the sentence. The action is directed towards the Messenger, making it the object of the verb kill, not the subject. Therefore, there are no subjects in the sentence that are things.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence Kill the Messenger, the subject is implied to be you (the person being addressed), and the Messenger is the direct object of the action. There are no abstractions present as the subjects do not refer to concepts or categories that cannot be easily pointed to; instead, they refer to a specific entity (the Messenger) and an implied actor (you).', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence Kill the Messenger, the subject is implied to be you (the person being addressed), and the Messenger is the object of the action. There are no vague or general concepts like fairness, justice, or oppression present in this sentence. The terms involved are specific and do not fall under the category of abstract concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence Kill the Messenger, the subject is implied and is the second person you (as in you kill the messenger). There are no dummy subjects or slot fillers present in this construction. The sentence is an imperative, which typically does not use a subject explicitly, and therefore does not contain any slot fillers.', 'Property': 'slot fillers'}]",[]
+4329,[14],"Representatives work for us, we do not work for them.",Subject_choices,"['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']","['rhetorical_participants', 'humans']",True,"['rhetorical_participants', 'humans']","{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The use of 'we' in the statement indicates a rhetorical participant, where the subject is the reader themselves.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans"", ""rhetorical participants""],
+  ""Explanation"": ""The sentence contains the use of 'us' as a group of people (humans) and 'we' as a rhetorical participant representing the readers or general public.""
+}","['humans', 'rhetorical_participants']","{
+  ""Properties"": [
+    ""rhetorical participants""
+  ],
+  ""Explanation"": ""The use of 'us' and 'we' indicates the presence of rhetorical participants, where the subject is the reader or writer themselves.""
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The use of 'we' as the subject indicates a rhetorical participant, where the subject is the reader or writer themselves.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""]
+  ,
+  ""Explanation"": ""The use of 'we' as the subject indicates a rhetorical participant, where the subject is the reader themselves.""
+}",['rhetorical_participants'],1,['rhetorical_participants'],1.0,0.0,GPT explanation is only partially correct,"['rhetorical_participants', 'humans']","[{'Answer': 'yes', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects are Representatives and we. Representatives refers to a group of people, and we includes humans as it represents the speaker and others. Therefore, there are human subjects in the sentence.', 'Property': 'humans'}, {'Answer': 'yes', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects us and we are rhetorical participants. Us refers to the reader or the speaker, and we also includes the speaker and potentially the audience, making them both examples of subject choices where the subject is the writer or reader themselves.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects are Representatives and we. Neither of these subjects refers to physical objects or things as defined in the context provided. Representatives refers to people or a group of individuals, and we refers to a collective group of people as well. Therefore, there are no subjects in the sentence that are classified as things with physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects are Representatives and we. Both of these subjects refer to concrete entities (people or groups) and do not fall under the category of abstractions as defined. Abstractions are concepts that cannot be easily pointed to, such as international trade or voting trends, which are not present in this sentence.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects are Representatives and we. Neither of these subjects is a vague or general concept; they refer to specific groups of people. Representatives denotes a specific role or group, and we refers to the speaker and others included in that group. Therefore, there are no subjects in this sentence that fall under the category of vague concepts like fairness, justice, or oppression.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence Representatives work for us, we do not work for them, the subjects are Representatives and we. Neither of these subjects functions as a slot filler or dummy subject. A slot filler would be a word like it in it was raining, which does not refer to a specific entity but serves to complete the sentence structure. In this case, both subjects refer to specific groups (representatives and we), thus they are not dummy subjects.', 'Property': 'slot fillers'}]","['humans', 'rhetorical_participants']"
+4367,[15],They want to preserve the FBI’s reputation.,Subject_choices,['humans'],['humans'],['humans'],True,"['humans', 'abstractions']","{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'They' refers to the writer or others involved in the conversation, making it a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'They' refers to specific individuals or group of people who want to preserve the FBI's reputation.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""]
+}",['rhetorical_participants'],False,"{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'They' refers to a group of people, indicating the presence of a human subject.""
+}",['humans'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'they' refers to the writer or reader themselves, indicating a rhetorical participant.""
+}",['rhetorical_participants'],"{
+  ""Properties"": [""rhetorical participants""],
+  ""Explanation"": ""The subject 'they' refers to the writer or reader themselves, indicating a rhetorical participant.""
+}",['rhetorical_participants'],0,['rhetorical_participants'],0.0,1.0,GPT classification and explanation is correct,['rhetorical_participants'],"[{'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject They does not specify any human individuals or groups. It is a pronoun that could refer to any number of people but does not identify them as humans in a specific context. The FBI is an organization, not a human subject. Therefore, there are no subjects in the sentence that qualify as humans.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject They does not refer to the writer or reader themselves. Instead, it is a third-person plural pronoun that does not include the speaker or the audience, thus not qualifying as a rhetorical participant.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject is They, which refers to people and does not represent a physical object or thing. The phrase the FBI’s reputation is the object of the verb preserve, but it is not the subject. Therefore, there are no subjects in this sentence that are classified as things with physical existence.', 'Property': 'things'}, {'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject is They, which refers to a specific group of people. The phrase the FBI’s reputation is the object of the verb preserve, not the subject. Therefore, there are no subjects in this sentence that fall under the category of abstractions as defined.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject is They, which refers to a specific group of people. The phrase the FBI’s reputation is the object of the verb preserve. Neither the subject nor the object in this sentence represents vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in this sentence that are considered concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the sentence They want to preserve the FBI’s reputation, the subject is They. This is not a dummy subject or a slot filler; it refers to a specific group of people. Slot fillers, like it in it was raining, do not refer to a specific entity and are used to fulfill grammatical requirements without conveying specific meaning. Therefore, there are no slot fillers in this sentence.', 'Property': 'slot fillers'}]",[]
+4375,[ 9 15],"Under an obscure set of US regulations known as the International Trade in Arms Regulations (ITAR), Wilson was accused of exporting weapons without a license, just as if he’d shipped his plastic gun to Mexico rather than put a digital version of it on the internet.",Subject_choices,['humans'],['humans'],['humans'],True,"['things', 'humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' with the subject 'Wilson' and 'abstractions' with the reference to 'International Trade in Arms Regulations (ITAR)'""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans""],
+  ""Explanation"": ""The subject 'Wilson' is a human individual, making use of the 'humans' property.""
+}",['humans'],"{
+  ""Properties"": [""humans"", ""things""],
+  ""Explanation"": ""The subject choices in the text include the human 'Wilson' and the thing 'weapons'.""
+}","['humans', 'things']",False,"{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The text contains the property 'humans' with the proper name 'Wilson' and the property 'abstractions' with 'International Trade in Arms Regulations' and 'exporting weapons without a license'.""
+}","['humans', 'abstractions']","{
+  ""Properties"": [""humans"", ""things""],
+  ""Explanation"": ""The subject 'Wilson' refers to a single individual, and the subject 'weapons' refers to physical objects, meeting the criteria for 'humans' and 'things' properties.""
+}","['humans', 'things']","{
+  ""Properties"": [""humans"", ""abstractions""],
+  ""Explanation"": ""The subject 'Wilson' refers to a single individual, and the abstractions 'International Trade in Arms Regulations' and 'exporting weapons without a license' are also present.""
+}","['humans', 'abstractions']",0,"['humans', 'abstractions']",1.0,0.0,GPT did not adhere to definitions,['humans'],"[{'Answer': 'yes', 'Explanation': 'The subject of the sentence is Wilson, which refers to a human individual. Therefore, there is at least one subject in the sentence that qualifies as a human.', 'Property': 'humans'}, {'Answer': 'no', 'Explanation': 'In the given sentence, the subjects are Wilson and he (referring to Wilson). There are no rhetorical participants such as I, you, or we present in the sentence. The subjects mentioned do not involve the writer or reader directly, thus they do not qualify as rhetorical participants.', 'Property': 'rhetorical participants'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are Wilson and weapons. Wilson is a person, and weapons refers to items but does not represent a physical object in the same way as the car or the computer in the examples given. Therefore, none of the subjects in the sentence are classified as things in the context described.', 'Property': 'things'}, {'Answer': 'yes', 'Explanation': 'The subject of the sentence is Wilson, but the phrase International Trade in Arms Regulations (ITAR) refers to a regulatory framework, which is an abstraction. Additionally, exporting weapons can also be considered an abstract concept as it refers to a general action rather than a specific instance. Therefore, there are abstractions present in the sentence.', 'Property': 'abstractions'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subjects are Wilson and he (referring to Wilson). These subjects are specific individuals rather than vague, general concepts like fairness, justice, or oppression. Therefore, there are no subjects in the sentence that fall under the category of concepts.', 'Property': 'concepts'}, {'Answer': 'no', 'Explanation': 'In the provided sentence, the subject is Wilson, who is the one being accused. There are no dummy subjects or slot fillers like it present in this sentence. The sentence is structured around a clear subject performing an action, rather than using a placeholder subject.', 'Property': 'slot fillers'}]","['humans', 'abstractions']"
